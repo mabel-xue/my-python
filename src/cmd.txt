@@ -1,0 +1,5 @@
+已下载文件精确搜索（待完善
+
+find . -type f -name "*现状*" -print -exec cp {} /filter \;
+find . -type f -name "*行业报告*" -print -exec cp {} /filter \;
+find . -type f -name "*发展现状*" -exec cp {} /filter \;

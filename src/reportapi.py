@@ -15,7 +15,7 @@ def filter_empty(d):
 def download_files(list):
     for item in list:
         url = 'https://data.eastmoney.com/report/zw_industry.jshtml?infocode={}'.format(item.get('infoCode'))
-        
+
         # # 发送请求并获取页面内容
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -47,34 +47,70 @@ def gen_json(data):
     with codecs.open('data.json', 'w', encoding="utf-8") as f:
         f.write(json_str)
 
-# 生成01到12的数组
-month = ['%02d' % i for i in range(1, 13)]
-years = [2017,2018,2019,2020,2021,2022]
-year = 2017
-# for year in years:
-for m in month:
-    request_url = 'https://reportapi.eastmoney.com/report/list?cb=datatable1376407&industryCode=420&pageSize=50&industry=*&rating=*&ratingChange=*&beginTime={}-{}-01&endTime={}-{}-31&pageNo=1&fields=&qType=1&orgCode=&rcode=&_=1681172756383'.format(year, m, year, m)
-    response = requests.get(request_url)
+IndustryCode = {
+    # 文化传媒
+    'whcm': 486,
+    # 银行
+    'yh': 475,
+    # 公共事业
+    'ggsy': 427,
+    # 航空机场
+    'hkjc': 420,
+}
+
+def get_report(params):
+    # request_url = 'https://reportapi.eastmoney.com/report/list?cb=datatable1376407&industryCode=486&pageSize=100&industry=*&rating=*&ratingChange=*&beginTime={}-{}-01&endTime={}-{}-31&pageNo=1&fields=&qType=1&orgCode=&rcode=&_=1681172756383'.format(params.year, params.m, params.year, params.m)
+    request_url = 'https://reportapi.eastmoney.com/report/list'
+    response = requests.get(request_url, params={
+        'cb':'datatable1143488',
+        'industryCode':IndustryCode.whcm,
+        'pageSize':100,
+        'industry':'*',
+        'rating':'*',
+        'ratingChange':'*',
+        'beginTime':'{}-{}-01'.format(params.get('year'), params.get('month')),
+        'endTime':'{}-{}-31'.format(params.get('year'), params.get('month')),
+        'pageNo':params.get('pageNo'),
+        'qType':1,
+        '_':'1681972161483'
+    })
 
     content = response.text
     pattern = r'^\w+\((.*)\)$'
     match = re.match(pattern, content)
     if match:
         json_data = match.group(1)
-    data = json.loads(json_data, encoding='utf-8')
-    # print(data.get('TotalPage'))
-    parsed_data = [item for item in data.get('data') if item['attachPages'] <= 7]
-    parsed_data2 = [filter_empty(item) for item in parsed_data]
-    parsed_data3 = [{
-        'attachPages': item['attachPages'], 
-        'title': item['title'], 
-        'publishDate': item['publishDate'][:11], 
-        'researcher': item.get('researcher'), 
-        'orgSName': item.get('orgSName'),
-        'infoCode': item['infoCode']
-        } for item in parsed_data2]
+    return json.loads(json_data, encoding='utf-8')
 
-    download_files(parsed_data3)
+# 生成01到12的数组
+month = ['%02d' % i for i in range(1, 13)]
+years = [2018,2019,2020,2021,2022,2023]
+for year in years:
+    for m in month:
+        data = get_report({
+            'year': year,
+            'month': m,
+            'pageNo': 1
+        })
+        if data.get('TotalPage') > 1:
+            for i in range(1, data.get('TotalPage')):
+                data = get_report({
+                    'year': year,
+                    'month': m,
+                    'pageNo': i
+                })
+                # print(data.get('TotalPage'))
+                parsed_data = [item for item in data.get('data') if item['attachPages'] >= 20]
+                parsed_data2 = [filter_empty(item) for item in parsed_data]
+                parsed_data3 = [{
+                    'attachPages': item['attachPages'],
+                    'title': item['title'],
+                    'publishDate': item['publishDate'][:11],
+                    'researcher': item.get('researcher'),
+                    'orgSName': item.get('orgSName'),
+                    'infoCode': item['infoCode']
+                    } for item in parsed_data2]
 
-    # gen_json(parsed_data3)
+                download_files(parsed_data3)
 
+                # gen_json(parsed_data3)
