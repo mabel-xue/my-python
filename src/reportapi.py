@@ -24,7 +24,6 @@ def download_files(list):
         pdf_link = soup.find('a', {'class': 'pdf-link'})
         pdf_url = pdf_link['href']
 
-        print(pdf_url)
 
         # # 下载PDF文件并保存到指定文件夹
         pdf_response = requests.get(pdf_url)
@@ -36,6 +35,9 @@ def download_files(list):
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
         file_name = item.get('publishDate')+item.get('title').replace('/', '|')+'.pdf'
+
+        print(file_name)
+
         file_path = os.path.join(folder_path, file_name)
         with open(file_path, 'wb') as f:
             f.write(pdf_response.content)
@@ -61,18 +63,25 @@ IndustryCode = {
 def get_report(params):
     # request_url = 'https://reportapi.eastmoney.com/report/list?cb=datatable1376407&industryCode=486&pageSize=100&industry=*&rating=*&ratingChange=*&beginTime={}-{}-01&endTime={}-{}-31&pageNo=1&fields=&qType=1&orgCode=&rcode=&_=1681172756383'.format(params.year, params.m, params.year, params.m)
     request_url = 'https://reportapi.eastmoney.com/report/list'
+
     response = requests.get(request_url, params={
         'cb':'datatable1143488',
-        'industryCode':IndustryCode.whcm,
+        # 个股
+        'code': 600332,
+        # 行业
+        # 'industryCode':IndustryCode.whcm,
         'pageSize':100,
         'industry':'*',
         'rating':'*',
         'ratingChange':'*',
-        'beginTime':'{}-{}-01'.format(params.get('year'), params.get('month')),
-        'endTime':'{}-{}-31'.format(params.get('year'), params.get('month')),
+        # 'beginTime':'{}-{}-01'.format(params.get('year'), params.get('month')),
+        # 'endTime':'{}-{}-31'.format(params.get('year'), params.get('month')),
+        # 指定时间
+        'beginTime':'2006-01-31',
+        'endTime':'2023-04-24',
         'pageNo':params.get('pageNo'),
-        'qType':1,
-        '_':'1681972161483'
+        'qType':0,
+        # '_':'1681972161483'
     })
 
     content = response.text
@@ -82,35 +91,38 @@ def get_report(params):
         json_data = match.group(1)
     return json.loads(json_data, encoding='utf-8')
 
-# 生成01到12的数组
-month = ['%02d' % i for i in range(1, 13)]
-years = [2018,2019,2020,2021,2022,2023]
-for year in years:
-    for m in month:
-        data = get_report({
-            'year': year,
-            'month': m,
+# 全量查询
+# month = ['%02d' % i for i in range(1, 13)]
+# years = [2018,2019,2020,2021,2022,2023]
+# for year in years:
+#     for m in month:
+data = get_report({
+    # 'year': year,
+    # 'month': m,
+    'pageNo': 1,
+})
+print(data.get('data'))
+if data.get('TotalPage') > 1:
+    for i in range(1, data.get('TotalPage')+1):
+        data =   get_report({
+            # 'year': year,
+            # 'month': m,
             'pageNo': 1
         })
-        if data.get('TotalPage') > 1:
-            for i in range(1, data.get('TotalPage')):
-                data = get_report({
-                    'year': year,
-                    'month': m,
-                    'pageNo': i
-                })
-                # print(data.get('TotalPage'))
-                parsed_data = [item for item in data.get('data') if item['attachPages'] >= 20]
-                parsed_data2 = [filter_empty(item) for item in parsed_data]
-                parsed_data3 = [{
-                    'attachPages': item['attachPages'],
-                    'title': item['title'],
-                    'publishDate': item['publishDate'][:11],
-                    'researcher': item.get('researcher'),
-                    'orgSName': item.get('orgSName'),
-                    'infoCode': item['infoCode']
-                    } for item in parsed_data2]
+        # print(data.get('TotalPage'))
+        parsed_data = [item for item in data.get('data') if item['attachPages'] > 15]
+        # parsed_data = data.get('data')
+        # print(parsed_data)
+        parsed_data2 = [filter_empty(item) for item in parsed_data]
+        parsed_data3 = [{
+            'attachPages': item['attachPages'],
+            'title': item['title'],
+            'publishDate': item['publishDate'][:11],
+            'researcher': item.get('researcher'),
+            'orgSName': item.get('orgSName'),
+            'infoCode': item['infoCode']
+            } for item in parsed_data2]
 
-                download_files(parsed_data3)
+        download_files(parsed_data3)
 
-                # gen_json(parsed_data3)
+        # gen_json(parsed_data3)
