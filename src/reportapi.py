@@ -58,6 +58,8 @@ IndustryCode = {
     'ggsy': 427,
     # 航空机场
     'hkjc': 420,
+    # 房地产开发
+    'fdckf': 451,
 }
 
 def get_report(params):
@@ -67,20 +69,21 @@ def get_report(params):
     response = requests.get(request_url, params={
         'cb':'datatable1143488',
         # 个股
-        'code': 600332,
+        # 'code': 600332,
         # 行业
-        # 'industryCode':IndustryCode.whcm,
+        'industryCode':IndustryCode['fdckf'],
         'pageSize':100,
-        'industry':'*',
-        'rating':'*',
-        'ratingChange':'*',
+        # 'industry':'*',
+        # 'rating':'*',
+        # 'ratingChange':'*',
         # 'beginTime':'{}-{}-01'.format(params.get('year'), params.get('month')),
         # 'endTime':'{}-{}-31'.format(params.get('year'), params.get('month')),
         # 指定时间
-        'beginTime':'2006-01-31',
-        'endTime':'2023-04-24',
+        'beginTime':'2023-01-01',
+        'endTime':'2023-04-30',
         'pageNo':params.get('pageNo'),
-        'qType':0,
+        # 1 行业分析 0 个股分析
+        'qType':1,
         # '_':'1681972161483'
     })
 
@@ -101,16 +104,17 @@ data = get_report({
     # 'month': m,
     'pageNo': 1,
 })
-print(data.get('data'))
-if data.get('TotalPage') > 1:
+# print(data.get('TotalPage'))
+l=0
+if data.get('TotalPage') >= 1:
     for i in range(1, data.get('TotalPage')+1):
         data =   get_report({
             # 'year': year,
             # 'month': m,
-            'pageNo': 1
+            'pageNo': i
         })
         # print(data.get('TotalPage'))
-        parsed_data = [item for item in data.get('data') if item['attachPages'] > 15]
+        parsed_data = [item for item in data.get('data') if item['attachPages'] > 12]
         # parsed_data = data.get('data')
         # print(parsed_data)
         parsed_data2 = [filter_empty(item) for item in parsed_data]
@@ -122,7 +126,13 @@ if data.get('TotalPage') > 1:
             'orgSName': item.get('orgSName'),
             'infoCode': item['infoCode']
             } for item in parsed_data2]
+        l=l+len(parsed_data3)
 
-        download_files(parsed_data3)
+        # 打印
+        for i in parsed_data3:
+            print('页数:'+str(i['attachPages'])+' '+i['title'].encode('utf-8'))
+print(l)
+        # 下载
+        # download_files(parsed_data3)
 
         # gen_json(parsed_data3)

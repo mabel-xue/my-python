@@ -23,7 +23,7 @@ def get_and_download_pdf_flie(code):
     data={
         'stock':code+','+top_info[0]['orgId'],
         'pageNum':pageNum,
-        'pageSize':30,
+        'pageSize':999,
         # 'column':'szse',
         'tabName':'fulltext',
         # 'plate':'sz', 
@@ -72,8 +72,15 @@ def get_and_download_pdf_flie(code):
         with open(file_path,'wb') as f:
             f.write(pdf_response.content)
 
+
+# 某一行业下的股票列表
+# np: 1 (jsonArray格式)
+# pn: 1 (offset)
+# pz: 965 (limit)
+# fs: 股票/行业代码 如股票 b:BK0477 (b:是固定值) 如行业 m:90+t:2 (固定值)
+# fields: f12,f14 (代码,名称)
 # url='https://push2.eastmoney.com/api/qt/clist/get'
-url='https://push2.eastmoney.com/api/qt/clist/get?fid=f62&po=1&pz=50&pn=1&np=1&fltt=2&invt=2&ut=b2884a393a59ad64002292a3e90d46a5&fs=b%3ABK0473&fields=f12%2Cf14%2Cf2%2Cf3%2Cf62%2Cf184%2Cf66%2Cf69%2Cf72%2Cf75%2Cf78%2Cf81%2Cf84%2Cf87%2Cf204%2Cf205%2Cf124%2Cf1%2Cf13'
+url='https://push2.eastmoney.com/api/qt/clist/get?fid=f62&po=1&pz=50&pn=1&np=1&fltt=2&invt=2&ut=b2884a393a59ad64002292a3e90d46a5&fs=b%3ABK0473&fields=f12,f14'
 res=requests.get(url)
 result=res.json()
 # print(result['data']['diff'])

@@ -19,6 +19,95 @@ def get_list(request_url):
     result = res.json()['data']['list']
     # print(result)
     return result
+dict_map_for_bank={
+   "balance": {},
+   "income": {
+      "total_revenue": "营业总收入",
+      "interest_net_income": "利息净收入",
+      "interest_income": "其中，利息收入",
+      "interest_payout": "利息支出",
+      "commi_net_income": "手续费及佣金净收入",
+      "fee_and_commi_income": "其中：手续费及佣金收入",
+      "charge_and_commi_expenses": "手续费及佣金支出",
+      "invest_incomes_from_rr": "投资收益",
+      "invest_income": "其中：对联营企业和合营企业的投资收益",
+      "income_from_chg_in_fv": "公允价值变动收益",
+      "exchg_gain": "汇兑收益",
+      "othr_income": "其他业务收入",
+      "operating_payout": "营业总成本",
+      "operating_taxes_and_surcharge": "营业税金及附加",
+      "business_and_manage_fee": "业务及管理费",
+      "asset_impairment_loss": "资产减值损失",
+      "credit_impairment_loss": "信用减值损失",
+      "othr_business_costs": "其他业务成本",
+      "op": "营业利润",
+      "non_operating_income": "加：营业外收入",
+      "non_operating_payout": "减：营业外支出",
+      "profit_total_amt": "利润总额",
+      "income_tax_expenses": "减：所得税费用",
+      "net_profit": "净利润",
+      "net_profit_atsopc": "归属于母公司股东的净利润",
+      "minority_gal": "少数股东损益",
+      "net_profit_after_nrgal_atsolc": "扣除非经常性损益后的净利润",
+      "basic_eps": "基本每股收益",
+      "dlt_earnings_per_share": "稀释每股收益",
+      "othr_compre_income": "其他综合收益",
+      "othr_compre_income_atoopc": "归属母公司所有者的其他综合收益",
+      "othr_compre_income_atms": "归属于少数股东的其他综合收益）",
+      "total_compre_income": "综合收益总额",
+      "total_compre_income_atsopc": "归属于母公司股东的综合收益总额",
+      "total_compre_income_atms": "归属于少数股东的综合收益总额",
+   },
+   "cash_flow": {
+      # "title_1": "经营活动产生的现金流量",
+      "deposit_and_interbank_net_add": "客户存款和同业存放款项净增加额",
+      # "borrowing_net_add_central_bank": "向中央银行借款净增加额",
+      # "lending_net_add_other_org": "向其他金融机构拆入资金净增加额",
+      # "sub_total_of_ci_from_oa": "经营活动现金流入小计",
+      # "cash_paid_to_employee_etc": "支付给职工以及为职工支付的现金",
+      # "sub_total_of_cos_from_oa": "经营活动现金流出小计",
+
+      
+      "ncf_from_oa": "经营活动产生的现金流量",
+
+
+      "ncf_from_ia": "投资活动产生的现金流量净额",
+      "ncf_from_fa": "筹资活动产生的现金流量净额",
+      "cash_received_of_othr_oa": "其他经营活动产生的现金流入额",
+      "payments_of_all_taxes": "缴纳的各项税费",
+      "othrcash_paid_relating_to_oa": "其他经营活动支付的现金",
+      "cash_received_of_dspsl_invest": "处置固定资产、无形资产和其他长期资产所收回的现金净额",
+      "invest_income_cash_received": "取得投资收益所收到的现金",
+      "net_cash_of_disposal_assets": "处置固定资产、无形资产和其他长期资产所收到的现金净额",
+      "net_cash_of_disposal_branch": "处置子公司及其他营业单位收到的现金净额",
+      "cash_received_of_othr_ia": "其他投资活动产生的现金流入额",
+      "sub_total_of_ci_from_ia": "投资活动现金流入小计",
+      "invest_paid_cash": "购建固定资产、无形资产和其他长期资产所支付的现金",
+      "cash_paid_for_assets": "购买固定资产、无形资产和其他长期资产所支付的现金",
+      "othrcash_paid_relating_to_ia": "其他投资活动支付的现金",
+      "sub_total_of_cos_from_ia": "投资活动现金流出小计",
+      "cash_received_of_absorb_invest": "吸收投资所收到的现金",
+      "cash_received_from_investor": "其中：子公司吸收少数股东投资收到的现金",
+      "cash_received_from_bond_issue": "发行债券收到的现金",
+      "cash_received_of_borrowing": "取得借款所收到的现金",
+      "cash_received_of_othr_fa": "其他筹资活动产生的现金流入额",
+      "sub_total_of_ci_from_fa": "筹资活动现金流入小计",
+      "cash_pay_for_debt": "偿还债务所支付的现金",
+      "cash_paid_of_distribution": "分配股利、利润或偿付利息所支付的现金",
+      "branch_paid_to_minority_holder": "支付给少数股东的股利、利润或偿付利息所支付的现金",
+      "othrcash_paid_relating_to_fa": "其他筹资活动支付的现金",
+      "sub_total_of_cos_from_fa": "筹资活动现金流出小计",
+      "effect_of_exchange_chg_on_cce": "汇率变动对现金及现金等价",
+      "net_increase_in_cce": "经营活动产生的现金流量净额",
+      "initial_balance_of_cce": "经营活动现金流量净额期初余额",
+      "final_balance_of_cce": "经营活动现金流量净额期末余额",
+      "cash_received_of_interest_etc": "利息收到的现金",
+      "loan_and_advance_net_add": "放款及垫款净增加额",
+      "naa_of_cb_and_interbank": "向中央银行和同业拆出资金净增加额",
+      "cash_paid_for_interests_etc": "利息等费用支付的现金",
+      "net_cash_amt_from_branch": "拆入资金净减少额"
+   }
+}
 
 
 dict_map={
@@ -155,12 +244,50 @@ dict_map={
       "total_compre_income_atms": "归属于少数股东的综合收益总额",
    },
    "cash_flow": {
-
+ "ncf_from_oa": "经营活动产生的现金流量净额",
+    "ncf_from_ia": "投资活动产生的现金流量净额",
+    "ncf_from_fa": "筹资活动产生的现金流量净额",
+    "cash_received_of_othr_oa": "经营活动中收到的其他与现金有关的项目",
+    "sub_total_of_ci_from_oa": "经营活动现金流入小计",
+    "cash_paid_to_employee_etc": "支付给职工以及为职工支付的现金",
+    "payments_of_all_taxes": "缴纳的各种税费",
+    "othrcash_paid_relating_to_oa": "经营活动中支付的其他与现金有关的项目",
+    "sub_total_of_cos_from_oa": "经营活动现金流出小计",
+    "cash_received_of_dspsl_invest": "处置投资收回的现金",
+    "invest_income_cash_received": "投资收益中收到的现金",
+    "net_cash_of_disposal_assets": "处置固定资产、无形资产和其他长期资产所收回的现金净额",
+    "net_cash_of_disposal_branch": "处置子公司及其他营业单位收到的现金净额",
+    "cash_received_of_othr_ia": "投资活动中收到的其他与现金有关的项目",
+    "sub_total_of_ci_from_ia": "投资活动现金流入小计",
+    "invest_paid_cash": "购建固定资产、无形资产和其他长期资产所支付的现金",
+    "cash_paid_for_assets": "购建固定资产、无形资产和其他长期资产所支付的现金",
+    "othrcash_paid_relating_to_ia": "投资活动中支付的其他与现金有关的项目",
+    "sub_total_of_cos_from_ia": "投资活动现金流出小计",
+    "cash_received_of_absorb_invest": "吸收投资所收到的现金",
+    "cash_received_from_investor": "从股东那里吸收投资所收到的现金",
+    "cash_received_from_bond_issue": "发行债券所收到的现金",
+    "cash_received_of_borrowing": "取得借款所收到的现金",
+    "cash_received_of_othr_fa": "筹资活动中收到的其他与现金有关的项目",
+    "sub_total_of_ci_from_fa": "筹资活动现金流入小计",
+    "cash_pay_for_debt": "偿还债务支付的现金",
+    "cash_paid_of_distribution": "分配股利、利润或偿付利息所支付的现金",
+    "branch_paid_to_minority_holder": "支付给少数股东的股利、利润",
+    "othrcash_paid_relating_to_fa": "筹资活动中支付的其他与现金有关的项目",
+    "sub_total_of_cos_from_fa": "筹资活动现金流出",
+    'sub_total_of_cos_from_fa': '固定资产处置净收益',
+    'effect_of_exchange_chg_on_cce': '现金及现金等价物的汇率变动金额',
+    'net_increase_in_cce': '现金及现金等价物净增加额',
+    'initial_balance_of_cce': '期初现金及现金等价物余额',
+    'final_balance_of_cce': '期末现金及现金等价物余额',
+    'cash_received_of_sales_service': '销售商品、提供劳务收到的现金',
+    'refund_of_tax_and_levies': '支付的各项税费返还',
+    'goods_buy_and_service_cash_pay': '购买商品、接受劳务支付的现金',
+    'net_cash_amt_from_branch': '由经营活动产生的其他现金流量金额'
    }
 }
 
 def get_excel(name):
-  # 遍历d ata,取数
+  # 遍历data,取数
   df_obj={}
   columns_order=[]
   request_url = 'https://stock.xueqiu.com/v5/stock/finance/cn/{}.json'.format(name)

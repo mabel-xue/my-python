@@ -40,7 +40,7 @@ def download_files(list):
         url = 'https://api.djyanbao.com/api/report/{}/download/info?action=view'.format(item.get('id'))
         # print(item.get('id'))
         response = requests.get(url, headers=headers)
-        print(response.json())
+        # print(response.json())
         # # 查找具有类名“pdf-link”的<a>标签，并获取其href属性
         pdf_url = response.json()['data']['fileUrl']
 
@@ -71,12 +71,12 @@ def get_list(params):
         'page':params.get('page',1),
         'limit':50,
         'q':params.get('q'),
-        # 'pageMoreThan': 20,
+        'pageMoreThan': 20,
         'labelIds':LabelIds["deep"],
-        'typeIds': TypeIds['gs'],
+        'typeIds': TypeIds['industry'],
         # 'title'
-        # 'publishAtBegin': '1980-01-01',
-        # 'publishAtEnd': '2000-01-01'
+        'publishAtBegin': '2023-01-01',
+        'publishAtEnd': '2023-03-31'
     },headers=headers)
     result = response.json()['data']
     return result
@@ -86,17 +86,20 @@ def get_list(params):
 # years = [2018,2019,2020,2021,2022,2023]
 # for year in years:
 #     for m in month:
-q='白云山'
+q='银行'
 data = get_list({
     'q': q,
 })
-total=data['meta']['itemCount']
-page_number=int(math.ceil(total/50.0))
-print('total page:'+str(page_number)+','+'total count:'+str(total))
-for i in range(1, page_number+1):
-    print('cur page:'+str(i))
-    data = get_list({
-        'q': q,
-        'page': i
-    })
-    download_files(data['data'])
+# 
+for i in data['data']:
+    print('页数:'+str(i['pageTotal'])+' '+i['title'].encode('utf-8'))
+# total=data['meta']['itemCount']
+# page_number=int(math.ceil(total/50.0))
+# print('total page:'+str(page_number)+','+'total count:'+str(total))
+# for i in range(1, page_number+1):
+#     print('cur page:'+str(i))
+#     data = get_list({
+#         'q': q,
+#         'page': i
+#     })
+    # download_files(data['data'])
