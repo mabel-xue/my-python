@@ -129,9 +129,10 @@ if data.get('TotalPage') >= 1:
         l=l+len(parsed_data3)
 
         # 打印
-        for i in parsed_data3:
-            print('页数:'+str(i['attachPages'])+' '+i['title'].encode('utf-8'))
-print(l)
+#         parsed_data_deep = [item for item in parsed_data3 if item['attachPages'] > 25]
+#         for i in parsed_data_deep:
+#             print('页数:'+str(i['attachPages'])+' '+i['title'].encode('utf-8'))
+# print(l)
         # 下载
         # download_files(parsed_data3)
 
