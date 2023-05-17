@@ -17,3 +17,12 @@ def get_soup(url):
     html = rsp.text
     soup = BeautifulSoup(html, 'html.parser')
     return soup
+
+# 类似可选链
+def get_nested_value(obj, keys):
+    try:
+        for key in keys:
+            obj = obj[key]
+        return obj
+    except (TypeError, KeyError, IndexError):
+        return None
