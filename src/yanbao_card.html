@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .card {
+        /* box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2); */
+        border: 1px solid #ccc;
+        /* border-radius: 5px; */
+        padding: 10px;
+        margin-bottom: 10px;
+        font-size: 14px;
+      }
+      .card-title {
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+      .card-content {
+        margin-bottom: 10px;
+        margin-top: 10px;
+        background: #f5f7f9;
+        color: #394551;
+        line-height: 22px;
+        border-radius: 4px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        padding: 0 12px;
+      }
+      .card-content p {
+        margin: 0;
+        display: inline-block;
+      }
+      em {
+        color: red;
+        font-style: normal;
+      }
+      .card-attr {
+        color: #a8b4bf;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="data-container"></div>
+
+    <script>
+      // 发起接口请求获取数据
+      fetch("http://localhost:3021/")
+        .then((response) => response.json())
+        .then((data) => {
+          // 将数据展示为卡片
+          var container = document.getElementById("data-container");
+          data.forEach((item) => {
+            var card = document.createElement("div");
+            card.className = "card";
+
+            // 序号
+            var title = document.createElement("div");
+            title.className = "card-title";
+            title.textContent = "序号: " + item["序号"];
+            card.appendChild(title);
+
+            // 摘要
+            var summary = document.createElement("div");
+            summary.className = "card-content";
+            var paragraph = document.createElement("p");
+            item["摘要"].forEach((content) => {
+              paragraph.innerHTML += content + "...";
+              summary.appendChild(paragraph);
+            });
+            card.appendChild(summary);
+
+            // 时间
+            var time = document.createElement("div");
+            time.className = "card-attr";
+            time.textContent = item["时间"];
+            card.appendChild(time);
+
+            // 页数
+            // var pages = document.createElement("div");
+            // pages.className = "card-attr";
+            time.textContent += ' | ' + item["页数"] + '页';
+            card.appendChild(time);
+
+            container.appendChild(card);
+          });
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+        });
+    </script>
+  </body>
+</html>

@@ -327,5 +327,4 @@ data = ['balance']
 # 创建Excel写入器
 writer = pd.ExcelWriter(filename, engine='openpyxl')
 
-for item in data:
    get_excel(item)
