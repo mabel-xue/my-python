@@ -1,0 +1,1506 @@
+{
+  "data": {
+      "data": [
+          {
+              "id": 3550609,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2463534,
+              "pageTotal": 33,
+              "title": "2023年纺服中期策略报告",
+              "authors": "郭彬",
+              "orgName": "太平洋证券",
+              "orgIds": [
+                  9587
+              ],
+              "publishAt": "2023-05-15T02:31:01.000Z",
+              "uploaderName": "安琪儿",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e21642fa0adde656e6d7fea9d675323a3b018176.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年纺服<em>中期</em><em>策略</em>报告"
+                  ]
+              },
+              "score": 43.412975
+          },
+          {
+              "id": 3565687,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  24,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3920921,
+              "pageTotal": 50,
+              "title": "2023中期策略：漫长的再平衡",
+              "authors": "陈慎,刘璐,林正衡",
+              "orgName": "华泰证券",
+              "orgIds": [
+                  9471
+              ],
+              "publishAt": "2023-06-01T01:16:57.000Z",
+              "uploaderName": "温柔的笑",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/ef7ac8c09a708fdaab28a0ea957c3a79c84752e7.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023<em>中期</em><em>策略</em>：漫长的再平衡"
+                  ]
+              },
+              "score": 40.01233
+          },
+          {
+              "id": 3537997,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 2726322,
+              "pageTotal": 28,
+              "title": "2023年A股中期策略：拾级而上",
+              "authors": "易斌",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-05T08:40:44.000Z",
+              "uploaderName": "比其尔",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/0548cd247d23e544db0eda0908d220b213fa9992.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年A股<em>中期</em><em>策略</em>：拾级而上"
+                  ]
+              },
+              "score": 37.23105
+          },
+          {
+              "id": 3429264,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 639474,
+              "pageTotal": 12,
+              "title": "策略周报：宏观数据略超预期，继续利好中期市场",
+              "authors": "薛俊,张志鹏,张书铭",
+              "orgName": "东方证券",
+              "orgIds": [
+                  9134
+              ],
+              "publishAt": "2023-02-12T01:39:54.000Z",
+              "uploaderName": "追逐明天。",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/1c888b9f772cdbe0aef699f5d4b5ea161c4f632e.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "<em>策略</em>周报：宏观数据略超预期，继续利好<em>中期</em>市场"
+                  ]
+              },
+              "score": 36.853973
+          },
+          {
+              "id": 3557583,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 689857,
+              "pageTotal": 9,
+              "title": "投资策略报告：人民币汇率中期有望回暖",
+              "authors": "李美岑,张日升",
+              "orgName": "财通证券",
+              "orgIds": [
+                  10114
+              ],
+              "publishAt": "2023-05-21T16:00:00.000Z",
+              "uploaderName": "迪尔德丽",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/960854095853463c06a4af5679506f14d9346866.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "投资<em>策略</em>报告：人民币汇率<em>中期</em>有望回暖"
+                  ]
+              },
+              "score": 36.12492
+          },
+          {
+              "id": 3406149,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 2581653,
+              "pageTotal": 16,
+              "title": "周度策略：经济或春暖花开，市场将中期向好",
+              "authors": "周建华",
+              "orgName": "中原证券",
+              "orgIds": [
+                  9165
+              ],
+              "publishAt": "2023-01-08T16:00:00.000Z",
+              "uploaderName": "乳齿动人",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e67294ed44dab1eaafd756e57a7caba81e5a2c4e.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "周度<em>策略</em>：经济或春暖花开，市场将<em>中期</em>向好"
+                  ]
+              },
+              "score": 35.61481
+          },
+          {
+              "id": 3572068,
+              "typeId": 14,
+              "businessId": 7,
+              "labelIds": [
+                  24
+              ],
+              "targetIds": null,
+              "fileSize": 2233057,
+              "pageTotal": 21,
+              "title": "金融工程2023年中期策略：乘胜而上",
+              "authors": "郭策,李腾",
+              "orgName": "中银国际",
+              "orgIds": [
+                  9320
+              ],
+              "publishAt": "2023-06-08T07:35:27.000Z",
+              "uploaderName": "努力啊大幻丝",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/ec832bdea51917209cf00c1731fb2e8409e6b642.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "金融工程2023年<em>中期</em><em>策略</em>：乘胜而上"
+                  ]
+              },
+              "score": 35.61481
+          },
+          {
+              "id": 3559006,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11
+              ],
+              "targetIds": null,
+              "fileSize": 11575399,
+              "pageTotal": 46,
+              "title": "2023利率债中期策略：复苏斜率和债市供需的“双簧戏”",
+              "authors": "颜子琦,杨佩霖",
+              "orgName": "华安证券",
+              "orgIds": [
+                  9465
+              ],
+              "publishAt": "2023-05-22T07:22:37.000Z",
+              "uploaderName": "请在乎我１秒",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/a1193625e22513ada8497a718b7c871fe480bcf9.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023利率债<em>中期</em><em>策略</em>：复苏斜率和债市供需的“双簧戏”"
+                  ]
+              },
+              "score": 34.95141
+          },
+          {
+              "id": 3539263,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 4670848,
+              "pageTotal": 44,
+              "title": "2023年中期投资策略：风浪越大，鱼越贵",
+              "authors": "张冬冬",
+              "orgName": "太平洋证券",
+              "orgIds": [
+                  9587
+              ],
+              "publishAt": "2023-05-05T16:00:00.000Z",
+              "uploaderName": "梁丘兴贤",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/8af6f9b98cd5cc0c0f7b5619c78aa7cf048b2e6c.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年<em>中期</em>投资<em>策略</em>：风浪越大，鱼越贵"
+                  ]
+              },
+              "score": 34.811295
+          },
+          {
+              "id": 3557626,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 8506766,
+              "pageTotal": 31,
+              "title": "2023年城投债中期策略：论城投择券的尺度",
+              "authors": "颜子琦,杨佩霖",
+              "orgName": "华安证券",
+              "orgIds": [
+                  9465
+              ],
+              "publishAt": "2023-05-21T08:00:06.000Z",
+              "uploaderName": "亨利",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/17e03f196b1ebcafb484b14f3747ce6fbb94bbd7.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年城投债<em>中期</em><em>策略</em>：论城投择券的尺度"
+                  ]
+              },
+              "score": 33.71566
+          },
+          {
+              "id": 3429059,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 2668720,
+              "pageTotal": 17,
+              "title": "周度策略：M2维持高增，市场中期向好",
+              "authors": "周建华",
+              "orgName": "中原证券",
+              "orgIds": [
+                  9165
+              ],
+              "publishAt": "2023-02-12T16:00:00.000Z",
+              "uploaderName": "如来笑丝",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/00f8e4673d0e51d364fdb95197e0592b792d3700.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "周度<em>策略</em>：M2维持高增，市场<em>中期</em>向好"
+                  ]
+              },
+              "score": 32.81916
+          },
+          {
+              "id": 3553178,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1285215,
+              "pageTotal": 20,
+              "title": "化工策略日报：短期化工企稳稍反弹，但中期压力仍存",
+              "authors": "胡佳鹏,黄谦,杨家明",
+              "orgName": "中信期货",
+              "orgIds": [
+                  9150
+              ],
+              "publishAt": "2023-05-16T16:00:00.000Z",
+              "uploaderName": "记忆的天空",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/f8827191145e259925b1ad558aa930ad81ba04a7.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "化工<em>策略</em>日报：短期化工企稳稍反弹，但<em>中期</em>压力仍存"
+                  ]
+              },
+              "score": 32.81916
+          },
+          {
+              "id": 3552729,
+              "typeId": 14,
+              "businessId": 6,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 5992462,
+              "pageTotal": 101,
+              "title": "2023年医药行业中期投资策略：守正创新，行稳致远",
+              "authors": "谭紫媚",
+              "orgName": "太平洋证券",
+              "orgIds": [
+                  9587
+              ],
+              "publishAt": "2023-05-16T15:55:49.000Z",
+              "uploaderName": "炽热",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/b63b82ac564286801fcb729f13ff95371c52e1c1.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年医药行业<em>中期</em>投资<em>策略</em>：守正创新，行稳致远"
+                  ]
+              },
+              "score": 32.686882
+          },
+          {
+              "id": 3570683,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  24
+              ],
+              "targetIds": null,
+              "fileSize": 1050880,
+              "pageTotal": 20,
+              "title": "保险行业2023年中期策略报告：不畏浮云遮望眼",
+              "authors": "曾广荣,刘雨辰",
+              "orgName": "国联证券",
+              "orgIds": [
+                  9545
+              ],
+              "publishAt": "2023-06-06T15:13:29.000Z",
+              "uploaderName": "红色蝴蝶结╮",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/0412fbf7c5c5f6bb267223be8b8ad657b2e412ba.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "保险行业2023年<em>中期</em><em>策略</em>报告：不畏浮云遮望眼"
+                  ]
+              },
+              "score": 32.686882
+          },
+          {
+              "id": 3538427,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 4578538,
+              "pageTotal": 37,
+              "title": "2023年计算机中期策略：坚守AI、拥抱数据、看好信创",
+              "authors": "邢开允,赵宇阳",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-05T13:59:47.000Z",
+              "uploaderName": "我在人间贩卖黄昏",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/f54db79fe995195789d591a9280f5a8af02366f8.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年计算机<em>中期</em><em>策略</em>：坚守AI、拥抱数据、看好信创"
+                  ]
+              },
+              "score": 31.847712
+          },
+          {
+              "id": 3556315,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  374
+              ],
+              "targetIds": null,
+              "fileSize": 3078058,
+              "pageTotal": 15,
+              "title": "2023年A股中期策略：风起于青萍之末，浪成于微澜之间",
+              "authors": "吴起涤,刘丽影,王慧然",
+              "orgName": "源达信息",
+              "orgIds": [
+                  14248
+              ],
+              "publishAt": "2023-05-18T16:00:00.000Z",
+              "uploaderName": "太史良骥",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/3ac01d4a049bd43204db3d6bafc51f68113b4bd1.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年A股<em>中期</em><em>策略</em>：风起于青萍之末，浪成于微澜之间"
+                  ]
+              },
+              "score": 31.847712
+          },
+          {
+              "id": 3566662,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 1576878,
+              "pageTotal": 30,
+              "title": "2023年中期快递行业投资策略：选龙头，重反转",
+              "authors": "许可,周延宇,钟文海",
+              "orgName": "国海证券",
+              "orgIds": [
+                  9542
+              ],
+              "publishAt": "2023-06-01T15:28:17.000Z",
+              "uploaderName": "东焕殿下",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/81b04021dd87cbdcf0a6db343ef390d36ac94223.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年<em>中期</em>快递行业投资<em>策略</em>：选龙头，重反转"
+                  ]
+              },
+              "score": 31.847712
+          },
+          {
+              "id": 3553730,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 5087348,
+              "pageTotal": 62,
+              "title": "食品饮料行业23年中期策略：复苏在途，积极布局",
+              "authors": "李鑫鑫,李梦鹇",
+              "orgName": "太平洋证券",
+              "orgIds": [
+                  9587
+              ],
+              "publishAt": "2023-05-17T01:08:41.000Z",
+              "uploaderName": "你干嘛凶宝宝",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/b9598ba0d0871bb56d1a75bbd2b8588b4cd4bfcf.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "食品饮料行业23年<em>中期</em><em>策略</em>：复苏在途，积极布局"
+                  ]
+              },
+              "score": 31.39267
+          },
+          {
+              "id": 3570624,
+              "typeId": 14,
+              "businessId": 4,
+              "labelIds": [
+                  24
+              ],
+              "targetIds": null,
+              "fileSize": 2231236,
+              "pageTotal": 28,
+              "title": "传媒行业深度报告：2023中期策略：传媒如何走向智媒？",
+              "authors": "朱珠",
+              "orgName": "华鑫证券",
+              "orgIds": [
+                  9483
+              ],
+              "publishAt": "2023-06-06T13:30:46.000Z",
+              "uploaderName": "终小雨",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/b51e012362abb6fa33d3e60d57bfb717f97be979.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "传媒行业深度报告：2023<em>中期</em><em>策略</em>：传媒如何走向智媒？"
+                  ]
+              },
+              "score": 31.39267
+          },
+          {
+              "id": 3556182,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 919333,
+              "pageTotal": 10,
+              "title": "有色金属周度策略：沪铜：压力未改变，铜价中期或仍偏空",
+              "authors": "鲍峰,曾真",
+              "orgName": "华安期货",
+              "orgIds": [
+                  9464
+              ],
+              "publishAt": "2023-05-18T16:00:00.000Z",
+              "uploaderName": "冷清秋",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/6a54382a534946056cb2b25fd2463ef68ec939dd.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "有色金属周度<em>策略</em>：沪铜：压力未改变，铜价<em>中期</em>或仍偏空"
+                  ]
+              },
+              "score": 30.806845
+          },
+          {
+              "id": 3411081,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1862376,
+              "pageTotal": 22,
+              "title": "策略周专题（2023年1月第2期）：库存会是A股中期的阻碍吗？",
+              "authors": "张宇生,刘芳",
+              "orgName": "光大证券",
+              "orgIds": [
+                  9391
+              ],
+              "publishAt": "2023-01-15T01:57:27.000Z",
+              "uploaderName": "笑看世间百态",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/4d7949be60cb9dc69913faab042bca2f7905daa6.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "<em>策略</em>周专题（2023年1月第2期）：库存会是A股<em>中期</em>的阻碍吗？"
+                  ]
+              },
+              "score": 30.48905
+          },
+          {
+              "id": 3544574,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 5273646,
+              "pageTotal": 28,
+              "title": "2023年债市中期策略：“抢短债”到“买长债”，债市合意资产还有哪些？",
+              "authors": "樊信江",
+              "orgName": "国金证券",
+              "orgIds": [
+                  9551
+              ],
+              "publishAt": "2023-05-10T11:57:25.000Z",
+              "uploaderName": "晓蓝君",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/37eb1bf9ff5cb89bd242ac3b33c4c28d87cc939c.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年债市<em>中期</em><em>策略</em>：“抢短债”到“买长债”，债市合意资产还有哪些？"
+                  ]
+              },
+              "score": 30.48905
+          },
+          {
+              "id": 3521874,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 2078417,
+              "pageTotal": 21,
+              "title": "证券行业2023年中期策略报告：把握业绩复苏契机，迎接估值向上拐点",
+              "authors": "罗钻辉",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-04-26T02:47:51.000Z",
+              "uploaderName": "沧古烟",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/63122504989762012e0a5e093fd3d9926f72aa68.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "证券行业2023年<em>中期</em><em>策略</em>报告：把握业绩复苏契机，迎接估值向上拐点"
+                  ]
+              },
+              "score": 30.067698
+          },
+          {
+              "id": 3553133,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 3661973,
+              "pageTotal": 29,
+              "title": "2023年社会服务行业中期策略：韶华不负春光美聚焦景气新周期",
+              "authors": "王湛",
+              "orgName": "太平洋证券",
+              "orgIds": [
+                  9587
+              ],
+              "publishAt": "2023-05-17T05:33:49.000Z",
+              "uploaderName": "哈成双",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d2bbe4724d38ab269351413275a8e2d908784a72.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年社会服务行业<em>中期</em><em>策略</em>：韶华不负春光美聚焦景气新周期"
+                  ]
+              },
+              "score": 30.067698
+          },
+          {
+              "id": 3541132,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11
+              ],
+              "targetIds": null,
+              "fileSize": 3610167,
+              "pageTotal": 36,
+              "title": "中小盘2023年中期投资策略：GPT大模型驱动智能汽车加速发展",
+              "authors": "任浪",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-08T11:11:52.000Z",
+              "uploaderName": "杨家淑静",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/3b31471796b2cdfc8bbd6a8a8c55232bb4db8ad5.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "中小盘2023年<em>中期</em>投资<em>策略</em>：GPT大模型驱动智能汽车加速发展"
+                  ]
+              },
+              "score": 29.945658
+          },
+          {
+              "id": 3560487,
+              "typeId": 14,
+              "businessId": 7,
+              "labelIds": [
+                  11
+              ],
+              "targetIds": null,
+              "fileSize": 2283455,
+              "pageTotal": 36,
+              "title": "2023年金融债中期策略：行业轮动下的金融债择券",
+              "authors": "颜子琦,杨佩霖",
+              "orgName": "华安证券",
+              "orgIds": [
+                  9465
+              ],
+              "publishAt": "2023-05-25T01:08:11.000Z",
+              "uploaderName": "长孙知慧",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/81a3a9e64980b502f68463e6ccf9685df290cefd.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年金融债<em>中期</em><em>策略</em>：行业轮动下的金融债择券"
+                  ]
+              },
+              "score": 29.635996
+          },
+          {
+              "id": 3537018,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 9585227,
+              "pageTotal": 91,
+              "title": "汽车行业2023年中期策略报告：中国汽车的三大时刻",
+              "authors": "刘虹辰",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-04T01:26:03.000Z",
+              "uploaderName": "阿尔西斯",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7c7034b375b6bacd4706ef0b6a1c364f9864584a.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "汽车行业2023年<em>中期</em><em>策略</em>报告：中国汽车的三大时刻"
+                  ]
+              },
+              "score": 29.131311
+          },
+          {
+              "id": 3542875,
+              "typeId": 14,
+              "businessId": 4,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2439792,
+              "pageTotal": 34,
+              "title": "电子行业2023中期投资策略：寻求高质量发展硬科技投资方向",
+              "authors": "刘翔,傅盛盛,林承瑜,盛晓君",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-09T12:56:50.000Z",
+              "uploaderName": "卡特",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9440f39380a0ef77ac65d4dd2b8035abdd245311.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "电子行业2023<em>中期</em>投资<em>策略</em>：寻求高质量发展硬科技投资方向"
+                  ]
+              },
+              "score": 28.829376
+          },
+          {
+              "id": 3540352,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 4662532,
+              "pageTotal": 46,
+              "title": "2023年银行中期投资策略：稳复苏中新平衡与分化，关注银行价值重估",
+              "authors": "张晓辉",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-07T14:54:30.000Z",
+              "uploaderName": "若水凝月",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/5f3b7eafc639a3c1400dbb1c7612a1aab293f539.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年银行<em>中期</em>投资<em>策略</em>：稳复苏中新平衡与分化，关注银行价值重估"
+                  ]
+              },
+              "score": 28.829376
+          },
+          {
+              "id": 3544894,
+              "typeId": 14,
+              "businessId": 22,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1745253,
+              "pageTotal": 17,
+              "title": "固定收益2023年中期投资策略：政策好于预期，债市不宜追高",
+              "authors": "陈曦",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-11T01:52:38.000Z",
+              "uploaderName": "牵不住时光",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d4defdc4177f90d141eb9ca596cba8314ad7f4c4.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "固定收益2023年<em>中期</em>投资<em>策略</em>：政策好于预期，债市不宜追高"
+                  ]
+              },
+              "score": 28.829376
+          },
+          {
+              "id": 3542880,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1503755,
+              "pageTotal": 26,
+              "title": "风电行业中期投资策略：装机量有望强势回升，寻找盈利能力超预期修复环节",
+              "authors": "殷晟路",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-09T12:59:42.000Z",
+              "uploaderName": "第99次流星划过",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/057d29fb8b0fe6902df8e01c94643058e0841630.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "风电行业<em>中期</em>投资<em>策略</em>：装机量有望强势回升，寻找盈利能力超预期修复环节"
+                  ]
+              },
+              "score": 28.829376
+          },
+          {
+              "id": 3539925,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3291480,
+              "pageTotal": 38,
+              "title": "家电行业2023年中期投资策略：回暖已至，拾级而上",
+              "authors": "吴东炬",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-07T01:24:33.000Z",
+              "uploaderName": "Declan",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/aa96bd79ec53ccc80617b43517fbbc907b3cfd75.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "家电行业2023年<em>中期</em>投资<em>策略</em>：回暖已至，拾级而上"
+                  ]
+              },
+              "score": 28.476124
+          },
+          {
+              "id": 3539700,
+              "typeId": 14,
+              "businessId": 4,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 4231393,
+              "pageTotal": 32,
+              "title": "海外市场2023年中期投资策略：低位布局港股科技，拥抱AI新时代",
+              "authors": "吴柳燕",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-06T12:52:52.000Z",
+              "uploaderName": "松风书萱",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/98172e13dbf6ae39d9d5379fafce35efc752133f.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "海外市场2023年<em>中期</em>投资<em>策略</em>：低位布局港股科技，拥抱AI新时代"
+                  ]
+              },
+              "score": 28.476124
+          },
+          {
+              "id": 3541597,
+              "typeId": 14,
+              "businessId": 6,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 6078594,
+              "pageTotal": 55,
+              "title": "2023年医药行业中期策略报告：产品为核心，创新驱动的反转行情进行时",
+              "authors": "李梦园",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-09T01:10:57.000Z",
+              "uploaderName": "酱雪梨汤",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7f07326646069ea5893f9461bbf4aaf32b4f0092.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年医药行业<em>中期</em><em>策略</em>报告：产品为核心，创新驱动的反转行情进行时"
+                  ]
+              },
+              "score": 28.476124
+          },
+          {
+              "id": 3543353,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1557748,
+              "pageTotal": 19,
+              "title": "光伏行业2023年中期投资策略：经济性持续凸显，需求有望快速增长",
+              "authors": "殷晟路",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-10T03:20:27.000Z",
+              "uploaderName": "巧雁子",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e586c30f29ad17073adfe40ad24f475a87f02502.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "光伏行业2023年<em>中期</em>投资<em>策略</em>：经济性持续凸显，需求有望快速增长"
+                  ]
+              },
+              "score": 28.476124
+          },
+          {
+              "id": 3572037,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [
+                  11,
+                  24
+              ],
+              "targetIds": null,
+              "fileSize": 3123026,
+              "pageTotal": 34,
+              "title": "纺织服饰行业2023年中期策略：博弈预期差，看好下半年消费复苏潜力",
+              "authors": "郝帅,丁凡",
+              "orgName": "中银国际",
+              "orgIds": [
+                  9320
+              ],
+              "publishAt": "2023-06-08T06:43:04.000Z",
+              "uploaderName": "阿里斯戴尔",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/4904dfc0fb451e4340e7c456c03f86cc26293c3f.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "纺织服饰行业2023年<em>中期</em><em>策略</em>：博弈预期差，看好下半年消费复苏潜力"
+                  ]
+              },
+              "score": 28.476124
+          },
+          {
+              "id": 3538415,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 5872553,
+              "pageTotal": 48,
+              "title": "2023年电动车中期策略报告：需求恢复锂电有望反转，看好充电桩景气度持续向上",
+              "authors": "杨敬梅",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-05T13:56:31.000Z",
+              "uploaderName": "凌波如之",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/6aff037ad8d6bfb3b092ce657012b65c0ba0ac83.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年电动车<em>中期</em><em>策略</em>报告：需求恢复锂电有望反转，看好充电桩景气度持续向上"
+                  ]
+              },
+              "score": 28.0655
+          },
+          {
+              "id": 3542919,
+              "typeId": 14,
+              "businessId": 9,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 6028854,
+              "pageTotal": 98,
+              "title": "化工行业2023年中期投资策略：景气复苏初现，新材料大有可为",
+              "authors": "王强峰",
+              "orgName": "华安证券",
+              "orgIds": [
+                  9465
+              ],
+              "publishAt": "2023-05-09T13:40:36.000Z",
+              "uploaderName": "久碍你",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/504de75b511bc275c524f2218650918648b93017.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "化工行业2023年<em>中期</em>投资<em>策略</em>：景气复苏初现，新材料大有可为"
+                  ]
+              },
+              "score": 28.0655
+          },
+          {
+              "id": 3552563,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 2309281,
+              "pageTotal": 26,
+              "title": "证券行业2023年中期策略报告：从ROE看PB中枢，改革红利驱动估值提升",
+              "authors": "徐康",
+              "orgName": "华创证券",
+              "orgIds": [
+                  9458
+              ],
+              "publishAt": "2023-05-16T11:13:16.000Z",
+              "uploaderName": "青竹丶未落",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/1a2ff5df6a5b5162d4536164d429cc4a86655628.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "证券行业2023年<em>中期</em><em>策略</em>报告：从ROE看PB中枢，改革红利驱动估值提升"
+                  ]
+              },
+              "score": 28.0655
+          },
+          {
+              "id": 3541821,
+              "typeId": 14,
+              "businessId": 8,
+              "labelIds": [
+                  11
+              ],
+              "targetIds": null,
+              "fileSize": 4153400,
+              "pageTotal": 39,
+              "title": "煤炭行业2023年中期投资策略：黎明破晓，高胜率与安全性兼备",
+              "authors": "张绪成",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-09T03:26:07.000Z",
+              "uploaderName": "拿着苹果砸校长",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/1843d25af79b6b0f173f60f0382980a56807f7bf.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "煤炭行业2023年<em>中期</em>投资<em>策略</em>：黎明破晓，高胜率与安全性兼备"
+                  ]
+              },
+              "score": 27.741894
+          },
+          {
+              "id": 3537770,
+              "typeId": 14,
+              "businessId": 9,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 5588666,
+              "pageTotal": 40,
+              "title": "电子行业23年中期策略报告：拨云见日，周期复苏+国产替代+终端创新三重共振",
+              "authors": "单慧伟",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-05T05:19:24.000Z",
+              "uploaderName": "嘉誉桑",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/962b0397fcf2c20a7e52c023b50d61f75c92c14d.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "电子行业23年<em>中期</em><em>策略</em>报告：拨云见日，周期复苏+国产替代+终端创新三重共振"
+                  ]
+              },
+              "score": 27.628633
+          },
+          {
+              "id": 3541738,
+              "typeId": 14,
+              "businessId": 8,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2558367,
+              "pageTotal": 32,
+              "title": "电力行业2023电力中期策略报告：煤电周期上行在途，电改引领价值重估",
+              "authors": "左前明,李春驰",
+              "orgName": "信达证券",
+              "orgIds": [
+                  9382
+              ],
+              "publishAt": "2023-05-09T02:25:04.000Z",
+              "uploaderName": "努力啊大安兴",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/fa506f2eae8d4eddcee579e260878085f40f99ea.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "电力行业2023电力<em>中期</em><em>策略</em>报告：煤电周期上行在途，电改引领价值重估"
+                  ]
+              },
+              "score": 27.628633
+          },
+          {
+              "id": 3540329,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2492728,
+              "pageTotal": 36,
+              "title": "储能行业中期投资策略：全球需求持续向好，聚焦产业链瓶颈与结构性领域",
+              "authors": "殷晟路",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-07T14:34:44.000Z",
+              "uploaderName": "深渊惠丽",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/52ddc62337374783bf2ae39cf947c50243019306.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "储能行业<em>中期</em>投资<em>策略</em>：全球需求持续向好，聚焦产业链瓶颈与结构性领域"
+                  ]
+              },
+              "score": 27.628633
+          },
+          {
+              "id": 3542198,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 5078127,
+              "pageTotal": 46,
+              "title": "2023年石化行业中期投资策略报告：全球乙烯产业发展特征及未来趋势展望",
+              "authors": "左前明,胡晓艺",
+              "orgName": "信达证券",
+              "orgIds": [
+                  9382
+              ],
+              "publishAt": "2023-05-09T05:27:04.000Z",
+              "uploaderName": "阿蕊莎",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d6772db6ec37814430adbbd488dccab7935a2fc7.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年石化行业<em>中期</em>投资<em>策略</em>报告：全球乙烯产业发展特征及未来趋势展望"
+                  ]
+              },
+              "score": 27.341064
+          },
+          {
+              "id": 3540287,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1254753,
+              "pageTotal": 20,
+              "title": "食品饮料行业2023年中期投资策略：消费复苏贯穿全年，结构分化择机布局",
+              "authors": "张宇光",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-07T13:51:05.000Z",
+              "uploaderName": "静晨殿下",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d818c35e0dc95337f4e18876808498931fc0a321.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "食品饮料行业2023年<em>中期</em>投资<em>策略</em>：消费复苏贯穿全年，结构分化择机布局"
+                  ]
+              },
+              "score": 27.044573
+          },
+          {
+              "id": 3549454,
+              "typeId": 14,
+              "businessId": 4,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3130248,
+              "pageTotal": 40,
+              "title": "传媒互联网行业2023年中期投资策略：供给释放、AI赋能，业绩与估值共振",
+              "authors": "方光照",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-15T06:11:40.000Z",
+              "uploaderName": "Aqsa",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/2c11f22e69a5462294ca6860a24d6c509b07cd21.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "传媒互联网行业2023年<em>中期</em>投资<em>策略</em>：供给释放、AI赋能，业绩与估值共振"
+                  ]
+              },
+              "score": 27.044573
+          },
+          {
+              "id": 3522408,
+              "typeId": 14,
+              "businessId": 4,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3834207,
+              "pageTotal": 31,
+              "title": "半导体行业2023年中期策略报告：AI变革掀起科技革命，服务器领航复苏征程",
+              "authors": "贺茂飞",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-04-26T07:16:57.000Z",
+              "uploaderName": "无冬名轩",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/550168bb50651c0f14f1aa455dd1ba15d8bf489d.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "半导体行业2023年<em>中期</em><em>策略</em>报告：AI变革掀起科技革命，服务器领航复苏征程"
+                  ]
+              },
+              "score": 26.93397
+          },
+          {
+              "id": 3549854,
+              "typeId": 14,
+              "businessId": 6,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 5829246,
+              "pageTotal": 115,
+              "title": "医药行业2023年中期投资策略报告：行业复苏势头显著，创新打开未来空间",
+              "authors": "崔文亮",
+              "orgName": "华西证券",
+              "orgIds": [
+                  9479
+              ],
+              "publishAt": "2023-05-15T12:37:49.000Z",
+              "uploaderName": "雾都听露",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/1ac88feb78f8f0dbec7eb03dfaa5bc59228a77d3.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "医药行业2023年<em>中期</em>投资<em>策略</em>报告：行业复苏势头显著，创新打开未来空间"
+                  ]
+              },
+              "score": 26.93397
+          },
+          {
+              "id": 3544664,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3293532,
+              "pageTotal": 33,
+              "title": "汽车行业2023年中期投资策略：出口加速，汽车产业焕发二次成长",
+              "authors": "邓健全,赵悦媛",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-10T14:47:15.000Z",
+              "uploaderName": "侵略领地",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/03e140b83702e4371b19a80b5303a5ffb822e20b.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "汽车行业2023年<em>中期</em>投资<em>策略</em>：出口加速，汽车产业焕发二次成长"
+                  ]
+              },
+              "score": 26.93397
+          },
+          {
+              "id": 3537116,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3438225,
+              "pageTotal": 31,
+              "title": "国防军工行业2023年度中期策略报告：下游需求持续释放，板块估值有望抬升",
+              "authors": "雒雅梅",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-04T02:07:27.000Z",
+              "uploaderName": "若爱至死不渝",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/a91e62a60476c1ddb5307b2dc9d0244511efbdc2.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "国防军工行业2023年度<em>中期</em><em>策略</em>报告：下游需求持续释放，板块估值有望抬升"
+                  ]
+              },
+              "score": 26.93397
+          }
+      ],
+      "meta": {
+          "itemCount": 2266
+      }
+  },
+  "code": 0,
+  "message": "ok"
+}
