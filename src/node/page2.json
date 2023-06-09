@@ -1,0 +1,1462 @@
+{
+  "data": {
+      "data": [
+          {
+              "id": 3544664,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3293532,
+              "pageTotal": 33,
+              "title": "汽车行业2023年中期投资策略：出口加速，汽车产业焕发二次成长",
+              "authors": "邓健全,赵悦媛",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-10T14:47:15.000Z",
+              "uploaderName": "侵略领地",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/03e140b83702e4371b19a80b5303a5ffb822e20b.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "汽车行业2023年<em>中期</em>投资<em>策略</em>：出口加速，汽车产业焕发二次成长"
+                  ]
+              },
+              "score": 26.934881
+          },
+          {
+              "id": 3537116,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3438225,
+              "pageTotal": 31,
+              "title": "国防军工行业2023年度中期策略报告：下游需求持续释放，板块估值有望抬升",
+              "authors": "雒雅梅",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-04T02:07:27.000Z",
+              "uploaderName": "若爱至死不渝",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/a91e62a60476c1ddb5307b2dc9d0244511efbdc2.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "国防军工行业2023年度<em>中期</em><em>策略</em>报告：下游需求持续释放，板块估值有望抬升"
+                  ]
+              },
+              "score": 26.934881
+          },
+          {
+              "id": 3546116,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 4432482,
+              "pageTotal": 28,
+              "title": "商社行业2023年中期投资策略：乐观看待消费韧性，聚焦新趋势与场景类消费",
+              "authors": "陈腾曦",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-11T11:50:19.000Z",
+              "uploaderName": "呆蠢萌",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/088272e5058e71dc2450612f45f21d3cace5afbc.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "商社行业2023年<em>中期</em>投资<em>策略</em>：乐观看待消费韧性，聚焦新趋势与场景类消费"
+                  ]
+              },
+              "score": 26.934881
+          },
+          {
+              "id": 3542883,
+              "typeId": 14,
+              "businessId": 23,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2281119,
+              "pageTotal": 96,
+              "title": "农林牧渔行业2023年中期投资策略：聚焦养殖周期配置，布局动保扩容机遇",
+              "authors": "陈雪丽",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-09T12:59:22.000Z",
+              "uploaderName": "尉迟秀华",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/2d8593ef7e32227eb5867234e10dc3e7dc851be8.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "农林牧渔行业2023年<em>中期</em>投资<em>策略</em>：聚焦养殖周期配置，布局动保扩容机遇"
+                  ]
+              },
+              "score": 26.384468
+          },
+          {
+              "id": 3543372,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3437445,
+              "pageTotal": 36,
+              "title": "中药行业2023年中期策略报告：“中特估”体系下，OTC和中药创新迎价值回归",
+              "authors": "吴天昊",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-09T01:22:10.000Z",
+              "uploaderName": "张简欣美",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/cff7ec2a9cbe9420f7d27f0ae33d922ad88a7c06.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "中药行业2023年<em>中期</em><em>策略</em>报告：“中特估”体系下，OTC和中药创新迎价值回归"
+                  ]
+              },
+              "score": 26.274263
+          },
+          {
+              "id": 3533119,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 2960664,
+              "pageTotal": 21,
+              "title": "快递行业2023年中期策略报告：产业升级是驱动力，差异化竞争是关键",
+              "authors": "姜楠",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-04-29T01:37:43.000Z",
+              "uploaderName": "Elroy",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/bf3f39c237838006a738d528780f422e2cb197c0.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "快递行业2023年<em>中期</em><em>策略</em>报告：产业升级是驱动力，差异化竞争是关键"
+                  ]
+              },
+              "score": 25.997822
+          },
+          {
+              "id": 3535665,
+              "typeId": 14,
+              "businessId": 9,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 4704690,
+              "pageTotal": 46,
+              "title": "基础化工行业2023年度中期策略报告：景气下行时，新材料“进击”、低估值周期“防御”",
+              "authors": "黄侃",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-04T05:23:21.000Z",
+              "uploaderName": "第五凝海",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9781554138600533fa89562679052f5638b5deae.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "基础化工行业2023年度<em>中期</em><em>策略</em>报告：景气下行时，新材料“进击”、低估值周期“防御”"
+                  ]
+              },
+              "score": 25.75304
+          },
+          {
+              "id": 3553552,
+              "typeId": 14,
+              "businessId": 9,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2906635,
+              "pageTotal": 41,
+              "title": "储能与电力设备行业2023年中期投资策略：把握高景气赛道，布局下一轮周期",
+              "authors": "刘强,刘淞",
+              "orgName": "太平洋证券",
+              "orgIds": [
+                  9587
+              ],
+              "publishAt": "2023-05-17T12:09:22.000Z",
+              "uploaderName": "绿竹猗猗",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e5c838e70e2395d4056691fd0946da0882b99286.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "储能与电力设备行业2023年<em>中期</em>投资<em>策略</em>：把握高景气赛道，布局下一轮周期"
+                  ]
+              },
+              "score": 25.645275
+          },
+          {
+              "id": 3543215,
+              "typeId": 14,
+              "businessId": 22,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 4889332,
+              "pageTotal": 52,
+              "title": "宏观经济2023年中期投资策略：国企改革成效与中特估值下的投资思路",
+              "authors": "何宁",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-10T01:40:24.000Z",
+              "uploaderName": "眺望苹果之夏丶",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7c29a829d6120f3fe350065c12ef58d411b22ed1.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "宏观经济2023年<em>中期</em>投资<em>策略</em>：国企改革成效与中特估值下的投资思路"
+                  ]
+              },
+              "score": 25.645275
+          },
+          {
+              "id": 3544111,
+              "typeId": 14,
+              "businessId": 22,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 616867,
+              "pageTotal": 29,
+              "title": "建筑行业2023年中期投资策略：国企改革考核优化，一带一路订单可期",
+              "authors": "齐东",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-10T06:11:44.000Z",
+              "uploaderName": "柘枝引",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9d24c74ef0de8b4ceba623b6e8389066f6f0aa11.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "建筑行业2023年<em>中期</em>投资<em>策略</em>：国企改革考核优化，一带一路订单可期"
+                  ]
+              },
+              "score": 25.645275
+          },
+          {
+              "id": 3544721,
+              "typeId": 14,
+              "businessId": 7,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2565834,
+              "pageTotal": 31,
+              "title": "非银金融行业2023年中期投资策略：基本面景气度延续，关注中特估主线",
+              "authors": "高超,吕晨雨",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-10T15:18:50.000Z",
+              "uploaderName": "奥德里克",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7572863bf6b736c41ee40519169c7b2f786247cd.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "非银金融行业2023年<em>中期</em>投资<em>策略</em>：基本面景气度延续，关注中特估主线"
+                  ]
+              },
+              "score": 25.645275
+          },
+          {
+              "id": 3540943,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 5055052,
+              "pageTotal": 51,
+              "title": "商贸零售行业2023年中期投资策略：复苏正当时，顺应消费趋势、把握优质品牌",
+              "authors": "黄泽鹏",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-08T08:52:26.000Z",
+              "uploaderName": "晨风小玲",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/2a972365e5df6c6ff2a5dc1c9f35f251fed6a5ea.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "商贸零售行业2023年<em>中期</em>投资<em>策略</em>：复苏正当时，顺应消费趋势、把握优质品牌"
+                  ]
+              },
+              "score": 25.645275
+          },
+          {
+              "id": 3572109,
+              "typeId": 14,
+              "businessId": 8,
+              "labelIds": [
+                  11,
+                  24
+              ],
+              "targetIds": null,
+              "fileSize": 4748482,
+              "pageTotal": 44,
+              "title": "汽车行业2023年中期投资策略：行业回暖，重点关注新能源出海及智能化",
+              "authors": "朱朋",
+              "orgName": "中银国际",
+              "orgIds": [
+                  9320
+              ],
+              "publishAt": "2023-06-08T09:04:10.000Z",
+              "uploaderName": "柯蒂斯",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/df7d55d484f0c7f023ccc3def559da176f340652.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "汽车行业2023年<em>中期</em>投资<em>策略</em>：行业回暖，重点关注新能源出海及智能化"
+                  ]
+              },
+              "score": 25.645275
+          },
+          {
+              "id": 3543994,
+              "typeId": 14,
+              "businessId": 7,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 3479205,
+              "pageTotal": 31,
+              "title": "建材行业2023年中期投资策略：地产竣工有望加速回暖，看好后周期建材配置价值",
+              "authors": "张绪成",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-10T05:20:42.000Z",
+              "uploaderName": "Alita",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/1d597683592873181d345d15f2b124cff1d70223.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "建材行业2023年<em>中期</em>投资<em>策略</em>：地产竣工有望加速回暖，看好后周期建材配置价值"
+                  ]
+              },
+              "score": 25.375
+          },
+          {
+              "id": 3541425,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2340580,
+              "pageTotal": 128,
+              "title": "半导体行业2023年度中期投资策略：下半年有望景气复苏，AI带来新增量，自主可控逻辑强化",
+              "authors": "罗通",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-08T15:08:04.000Z",
+              "uploaderName": "戚白山",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/3812483337eeb9ae956e7a43a0d7da57db9790e6.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "半导体行业2023年度<em>中期</em>投资<em>策略</em>：下半年有望景气复苏，AI带来新增量，自主可控逻辑强化"
+                  ]
+              },
+              "score": 25.045698
+          },
+          {
+              "id": 3493185,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 695921,
+              "pageTotal": 5,
+              "title": "每日投资策略：宏观策略及个股点评",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-04-04T02:45:59.000Z",
+              "uploaderName": "纳喇语风",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9d975c95a9ebb2b893042cd3b384f4f2ed8925ba.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>：宏观<em>策略</em>及个股点评"
+                  ]
+              },
+              "score": 24.60323
+          },
+          {
+              "id": 3535162,
+              "typeId": 14,
+              "businessId": 8,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 8414070,
+              "pageTotal": 96,
+              "title": "电力设备与新能源行业2023年度中期策略报告：年内有望触底，四线索寻找机会",
+              "authors": "杨敬梅,胡琎心,章启耀",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-04T02:42:20.000Z",
+              "uploaderName": "查德威克",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/c7d9658c7e6b12ad546e2a89a28a74c45accd76b.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "电力设备与新能源行业2023年度<em>中期</em><em>策略</em>报告：年内有望触底，四线索寻找机会"
+                  ]
+              },
+              "score": 24.47352
+          },
+          {
+              "id": 3571266,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [
+                  11,
+                  24,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 1842863,
+              "pageTotal": 34,
+              "title": "社会服务行业2023年中期策略：场景消费有望延续恢复态势，关注高景气度行业龙头",
+              "authors": "李小民",
+              "orgName": "中银国际",
+              "orgIds": [
+                  9320
+              ],
+              "publishAt": "2023-06-07T07:05:58.000Z",
+              "uploaderName": "奶盖",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d8ea275107c22e8764ab581d09d7adaca57ac462.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "社会服务行业2023年<em>中期</em><em>策略</em>：场景消费有望延续恢复态势，关注高景气度行业龙头"
+                  ]
+              },
+              "score": 24.47352
+          },
+          {
+              "id": 3540196,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 794827,
+              "pageTotal": 9,
+              "title": "策略周报：“哑铃型”策略是当下首选",
+              "authors": "张峻晓,李浩齐",
+              "orgName": "国盛证券",
+              "orgIds": [
+                  9543
+              ],
+              "publishAt": "2023-05-07T11:13:11.000Z",
+              "uploaderName": "菲利普",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/14c8e6ed53bcb95b7265f20082619422fdeda838.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "<em>策略</em>周报：“哑铃型”<em>策略</em>是当下首选"
+                  ]
+              },
+              "score": 24.279184
+          },
+          {
+              "id": 3546106,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1348641,
+              "pageTotal": 12,
+              "title": "策略周聚焦：休整期的高股息策略",
+              "authors": "姚佩",
+              "orgName": "华创证券",
+              "orgIds": [
+                  9458
+              ],
+              "publishAt": "2023-05-11T11:08:13.000Z",
+              "uploaderName": "雪曼郎",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/75b4b3103e88a8f2ba7433bf7b7bf2d76c57a5c9.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "<em>策略</em>周聚焦：休整期的高股息<em>策略</em>"
+                  ]
+              },
+              "score": 24.279184
+          },
+          {
+              "id": 3542358,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 4027847,
+              "pageTotal": 48,
+              "title": "社服行业2023年中期投资策略：服务型消费复苏强劲，布局新商业模式下的投资机会",
+              "authors": "初敏",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-09T07:03:57.000Z",
+              "uploaderName": "懒海豚",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/2076e4e8c337793de9372de1356a0bc6e8d6b554.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "社服行业2023年<em>中期</em>投资<em>策略</em>：服务型消费复苏强劲，布局新商业模式下的投资机会"
+                  ]
+              },
+              "score": 24.214785
+          },
+          {
+              "id": 3541121,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 3801701,
+              "pageTotal": 29,
+              "title": "2023年非金属建材行业消费建材板块中期策略报告：地产新起点，龙头加快模式迭代谋求新发展",
+              "authors": "李华丰",
+              "orgName": "西部证券",
+              "orgIds": [
+                  10085
+              ],
+              "publishAt": "2023-05-08T11:04:53.000Z",
+              "uploaderName": "海豚有海",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/0ac2a59c55011852476881d90dec96ade928aee2.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "2023年非金属建材行业消费建材板块<em>中期</em><em>策略</em>报告：地产新起点，龙头加快模式迭代谋求新发展"
+                  ]
+              },
+              "score": 24.027945
+          },
+          {
+              "id": 3417171,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1186997,
+              "pageTotal": 21,
+              "title": "策略周报：中银策略兔年十大猜想",
+              "authors": "中银国际研究所",
+              "orgName": "中银国际",
+              "orgIds": [
+                  9320
+              ],
+              "publishAt": "2023-01-29T09:32:14.000Z",
+              "uploaderName": "琛瑞Sama",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9353af88063bc5bfa231999e521e3fae40e67e79.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "<em>策略</em>周报：中银<em>策略</em>兔年十大猜想"
+                  ]
+              },
+              "score": 23.99408
+          },
+          {
+              "id": 3545847,
+              "typeId": 14,
+              "businessId": 9,
+              "labelIds": [
+                  11,
+                  31
+              ],
+              "targetIds": null,
+              "fileSize": 2914200,
+              "pageTotal": 90,
+              "title": "机械行业2023年中期投资策略：自主可控，AI赋能制造，一带一路和中特估",
+              "authors": "孟鹏飞,熊亚威",
+              "orgName": "开源证券",
+              "orgIds": [
+                  9684
+              ],
+              "publishAt": "2023-05-11T09:15:21.000Z",
+              "uploaderName": "龟酱",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d0ad43bba1cf4fb2e9730221808d11b77506c3ed.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "机械行业2023年<em>中期</em>投资<em>策略</em>：自主可控，AI赋能制造，一带一路和中特估"
+                  ]
+              },
+              "score": 23.673573
+          },
+          {
+              "id": 3552959,
+              "typeId": 14,
+              "businessId": 5,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 2680346,
+              "pageTotal": 28,
+              "title": "社服零售行业2023年中期投资策略：服务类消费恢复弹性大，聚焦细分行业小龙头",
+              "authors": "许光辉,王璐",
+              "orgName": "华西证券",
+              "orgIds": [
+                  9479
+              ],
+              "publishAt": "2023-05-17T02:38:23.000Z",
+              "uploaderName": "资映天",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e0bce73233e86d08fb0c72f9c1ce2902ebed8336.png",
+              "stockName": null,
+              "isHorizontal": true,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "社服零售行业2023年<em>中期</em>投资<em>策略</em>：服务类消费恢复弹性大，聚焦细分行业小龙头"
+                  ]
+              },
+              "score": 23.673573
+          },
+          {
+              "id": 3421812,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 826811,
+              "pageTotal": 5,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-02-02T11:18:24.000Z",
+              "uploaderName": "布伦农",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/b2596e607c881d033780dd9d5cf481f7adc890bf.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3418952,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 843460,
+              "pageTotal": 6,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-01-31T08:53:00.000Z",
+              "uploaderName": "虎鹤弘深",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e6523447e840a6a7562a4fb229b94bc1ed9f3c34.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3438475,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 803314,
+              "pageTotal": 4,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-02-23T05:12:45.000Z",
+              "uploaderName": "司徒文翰",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/723c2c91e00a0c02610e4236be17f21bf3315427.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3393514,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 673172,
+              "pageTotal": 4,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2022-12-19T13:07:40.000Z",
+              "uploaderName": "阿诺德",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/4c860a93190abdedf4bca6e06a362166875c6e5c.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3396235,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 632151,
+              "pageTotal": 3,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2022-12-23T06:30:10.000Z",
+              "uploaderName": "长安又易",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/3c3e29b965faa69a33767c194783cd16a97803d2.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3399712,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 616424,
+              "pageTotal": 3,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2022-12-29T08:25:20.000Z",
+              "uploaderName": "凤梦菡",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/06ab5f4d36536f05b558c06b99f25672dbdff8a0.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3402604,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 714674,
+              "pageTotal": 3,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-01-04T06:27:01.000Z",
+              "uploaderName": "千城墨白",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/b112f2cb27313412260104b7422b3e26a48a9b26.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3432101,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 926422,
+              "pageTotal": 4,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-02-15T06:16:38.000Z",
+              "uploaderName": "经武小仙女",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/088988312c952c331e1f2c6682554d69de1e20ad.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3433754,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 852395,
+              "pageTotal": 6,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-02-17T06:26:10.000Z",
+              "uploaderName": "",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/c152d0f9be38ad19e33fdde149edf3a62243ce53.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3411616,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 732796,
+              "pageTotal": 6,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-01-16T08:33:05.000Z",
+              "uploaderName": "凉城故人",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9881a16b578d66d8c16944275ab842b75d53790d.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3396470,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 647824,
+              "pageTotal": 3,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2022-12-23T09:26:31.000Z",
+              "uploaderName": "珉林流婉",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/60629fb0681662ab908b5072e2351762629e77dc.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3451633,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 833649,
+              "pageTotal": 5,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-03-08T06:38:58.000Z",
+              "uploaderName": "丟了少年失了心",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/6ae624f7ebe13e0254b3ffa68c6fe11b79336d50.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3451020,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 1918008,
+              "pageTotal": 13,
+              "title": "宏观策略周报",
+              "authors": "寇宁,张晨,车美超",
+              "orgName": "一德期货",
+              "orgIds": [
+                  9086
+              ],
+              "publishAt": "2023-03-06T16:00:00.000Z",
+              "uploaderName": "兔椰可丽饼",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/06d9e1f4ce6c75505b016829b9cd5c37fc33c63f.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "宏观<em>策略</em>周报"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3489621,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 851180,
+              "pageTotal": 8,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-03-31T13:52:23.000Z",
+              "uploaderName": "飞莲殿下",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/5efe7b5aa291b7d8bb7514c9c23657de41b0500c.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3502000,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 743788,
+              "pageTotal": 6,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-04-12T06:51:02.000Z",
+              "uploaderName": "寂寞~心空",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7a44b7cd595c6a6757945cb7ae8ef7d844dea696.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3460681,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 777809,
+              "pageTotal": 7,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-03-17T11:07:02.000Z",
+              "uploaderName": "东门子实",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/af8b62d33cb9068ab382ff1236937690b4fda151.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3504208,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 901368,
+              "pageTotal": 8,
+              "title": "棉纺策略日报",
+              "authors": "洪润霞,黄尚海",
+              "orgName": "长江期货",
+              "orgIds": [
+                  10152
+              ],
+              "publishAt": "2023-04-13T16:00:00.000Z",
+              "uploaderName": "不经风雨怎见彩虹",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/2d4e7596885ab94ee6055656da1bc6ecf88c9c2e.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "棉纺<em>策略</em>日报"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3483465,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 759168,
+              "pageTotal": 6,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-03-27T08:36:03.000Z",
+              "uploaderName": "背对向日葵ら",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/a042a35c1b92c15c8ec8bb8e28ce07f8a083ed79.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3516906,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 673229,
+              "pageTotal": 3,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-04-24T03:01:44.000Z",
+              "uploaderName": "明月本无心",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/6fe01ed2ef1c053ac3f6c4be6577024f2f419546.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3526268,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 689986,
+              "pageTotal": 5,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-04-27T09:28:25.000Z",
+              "uploaderName": "时间秒杀一切",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/04131cd48d5ce46c5bf4912d33de47226e59675b.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3528621,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 735817,
+              "pageTotal": 5,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-04-28T03:41:53.000Z",
+              "uploaderName": "坠入浮云间",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/5bfa1bb7dc3ef2167aeafb3daf96188bd10b5fb8.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3553550,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 876264,
+              "pageTotal": 5,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-05-17T12:06:53.000Z",
+              "uploaderName": "树红树绿",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/36252022bbcdb0153ab6407172f52adae2f601e0.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3545631,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 801215,
+              "pageTotal": 4,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-05-11T05:36:31.000Z",
+              "uploaderName": "一条小永伟",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7cb272da8a07ff21d37ec291ad6ef44fb163aadd.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3560851,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [],
+              "targetIds": null,
+              "fileSize": 752399,
+              "pageTotal": 4,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-05-25T08:07:00.000Z",
+              "uploaderName": "碧鲁君之",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d8fa9f24262688510275f0ba9812a24029f55076.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          },
+          {
+              "id": 3570275,
+              "typeId": 14,
+              "businessId": 13,
+              "labelIds": [
+                  24
+              ],
+              "targetIds": null,
+              "fileSize": 896546,
+              "pageTotal": 6,
+              "title": "每日投资策略",
+              "authors": "招银国际研究所",
+              "orgName": "招银国际",
+              "orgIds": [
+                  9749
+              ],
+              "publishAt": "2023-06-06T07:36:00.000Z",
+              "uploaderName": "拓跋琛瑞",
+              "indexImageUrl": "https://storage.djyanbao.com/dj-docs/3a4e700fc49d4cf3187cc5268843706fb3e8149d.png",
+              "stockName": null,
+              "isHorizontal": false,
+              "canConvert": true,
+              "hasDownloaded": false,
+              "highlight": {
+                  "title": [
+                      "每日投资<em>策略</em>"
+                  ]
+              },
+              "score": 23.66718
+          }
+      ],
+      "meta": {
+          "itemCount": 2272
+      }
+  },
+  "code": 0,
+  "message": "ok"
+}

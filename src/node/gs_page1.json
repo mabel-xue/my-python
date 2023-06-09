@@ -1,0 +1,1135 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 3388729,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 799316,
+        "pageTotal": 3,
+        "title": "格力电器（000651）：中期分红彰显投资价值",
+        "authors": "邓欣",
+        "orgName": "中泰证券",
+        "orgIds": [9301],
+        "publishAt": "2022-12-12T09:07:45.000Z",
+        "uploaderName": "芒果你个爱菠萝",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/f02a547fd7031e87da6c7ee0007ed53f376f68de.png",
+        "stockName": "格力电器",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["格力电器（000651）：<em>中期</em>分红彰显投资价值"]
+        },
+        "score": 21.024574
+      },
+      {
+        "id": 3531781,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 861069,
+        "pageTotal": 4,
+        "title": "仙鹤股份（603733）：吨盈利已现修复，中期成长可期",
+        "authors": "尹新悦,张扬桓",
+        "orgName": "国金证券",
+        "orgIds": [9551],
+        "publishAt": "2023-04-29T01:36:17.000Z",
+        "uploaderName": "震雷曼萍",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/0e9f69d2fbb62543fbecb06d080105b6b54603be.png",
+        "stockName": "仙鹤股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["仙鹤股份（603733）：吨盈利已现修复，<em>中期</em>成长可期"]
+        },
+        "score": 19.491516
+      },
+      {
+        "id": 3493402,
+        "typeId": 16,
+        "businessId": 5,
+        "labelIds": [11, 31],
+        "targetIds": null,
+        "fileSize": 2155706,
+        "pageTotal": 34,
+        "title": "短期复苏叠加中期成本下行，产能释放助力长期份额提升",
+        "authors": "蔡雪昱,华夏霖",
+        "orgName": "中邮证券",
+        "orgIds": [9316],
+        "publishAt": "2023-04-03T16:00:00.000Z",
+        "uploaderName": "不青曼",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/93ae47c412b14768d0c997158215f8df8d87c970.png",
+        "stockName": "桃李面包",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "短期复苏叠加<em>中期</em>成本下行，产能释放助力长期份额提升"
+          ]
+        },
+        "score": 19.322134
+      },
+      {
+        "id": 3410151,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 187402,
+        "pageTotal": 3,
+        "title": "江瀚新材新股网下询价策略",
+        "authors": "陈祥宇",
+        "orgName": "国元证券",
+        "orgIds": [9524],
+        "publishAt": "2023-01-12T16:00:00.000Z",
+        "uploaderName": "植物搜藏者",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/c3c697b907b0ae6650ed43d101a31bc2addc4dcb.png",
+        "stockName": null,
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["江瀚新材新股网下询价<em>策略</em>"]
+        },
+        "score": 18.36529
+      },
+      {
+        "id": 3525034,
+        "typeId": 16,
+        "businessId": 7,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 504839,
+        "pageTotal": 3,
+        "title": "2023年一季报点评：盈利底部已经确立，中期景气有望回升",
+        "authors": "黄诗涛,房大磊,石峰源,杨晓曦",
+        "orgName": "东吴证券",
+        "orgIds": [9129],
+        "publishAt": "2023-04-26T16:00:00.000Z",
+        "uploaderName": "是小玲吖",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/c0892056fc8c9b7408891b96342b14e3b240795c.png",
+        "stockName": "天山股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "2023年一季报点评：盈利底部已经确立，<em>中期</em>景气有望回升"
+          ]
+        },
+        "score": 18.26456
+      },
+      {
+        "id": 3440895,
+        "typeId": 16,
+        "businessId": 9,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 363464,
+        "pageTotal": 3,
+        "title": "多元化发展策略，业绩大幅增长",
+        "authors": "熊军",
+        "orgName": "国联证券",
+        "orgIds": [9545],
+        "publishAt": "2023-02-26T16:00:00.000Z",
+        "uploaderName": "贝叶书",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/88c5e043b55ce5b5f31dc252a68fc4b28c4b2b0f.png",
+        "stockName": "盛美上海",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["多元化发展<em>策略</em>，业绩大幅增长"]
+        },
+        "score": 18.119265
+      },
+      {
+        "id": 3478811,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1004041,
+        "pageTotal": 6,
+        "title": "中国铝业（601600）：成本减值拖累业绩，但行业中期向好",
+        "authors": "王帅",
+        "orgName": "华泰证券",
+        "orgIds": [9471],
+        "publishAt": "2023-03-23T08:14:20.000Z",
+        "uploaderName": "江﹫秋晚吟",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/b4e161eb85234b17a4f4790c54b6fa92f650d6a9.png",
+        "stockName": "中国铝业",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "中国铝业（601600）：成本减值拖累业绩，但行业<em>中期</em>向好"
+          ]
+        },
+        "score": 18.10467
+      },
+      {
+        "id": 3388230,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 939281,
+        "pageTotal": 4,
+        "title": "格力电器（000651）：中期分红回报股东，高股息率彰显投资价值",
+        "authors": "罗岸阳,尹圣迪",
+        "orgName": "信达证券",
+        "orgIds": [9382],
+        "publishAt": "2022-12-13T01:34:58.000Z",
+        "uploaderName": "是你的慧丽呀",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/91bc3e5cb6de80f2b6b877de6765be55bcf9a061.png",
+        "stockName": "格力电器",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "格力电器（000651）：<em>中期</em>分红回报股东，高股息率彰显投资价值"
+          ]
+        },
+        "score": 17.818176
+      },
+      {
+        "id": 3486950,
+        "typeId": 16,
+        "businessId": 6,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 355721,
+        "pageTotal": 3,
+        "title": "美丽田园医疗健康（02373）：2023Q1开局积极，中期成长路径清晰",
+        "authors": "邓文慧,李英",
+        "orgName": "国联证券",
+        "orgIds": [9545],
+        "publishAt": "2023-03-30T09:26:26.000Z",
+        "uploaderName": "乌孙甜恬",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9120a7c65463a7410b1c10fce56386dea93846c2.png",
+        "stockName": "美麗田園醫療健康",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "美丽田园医疗健康（02373）：2023Q1开局积极，<em>中期</em>成长路径清晰"
+          ]
+        },
+        "score": 17.818176
+      },
+      {
+        "id": 3487469,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 627466,
+        "pageTotal": 4,
+        "title": "仙鹤股份（603733）：盈利短期承压、逐季修复确定，中期成长突出",
+        "authors": "姜春波,姜文镪",
+        "orgName": "国盛证券",
+        "orgIds": [9543],
+        "publishAt": "2023-03-30T15:17:00.000Z",
+        "uploaderName": "摘下星星给你",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/220f12129e1ebff244affbb7f170daa131a2c2c7.png",
+        "stockName": "仙鹤股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "仙鹤股份（603733）：盈利短期承压、逐季修复确定，<em>中期</em>成长突出"
+          ]
+        },
+        "score": 17.818176
+      },
+      {
+        "id": 3412759,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 367992,
+        "pageTotal": 5,
+        "title": "美凯龙（601828）：股权结构有望优化，中期修复与长期协同均可期待",
+        "authors": "谢宁铃,项雯倩,崔凡平",
+        "orgName": "东方证券",
+        "orgIds": [9134],
+        "publishAt": "2023-01-17T13:36:20.000Z",
+        "uploaderName": "Batman",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/1d8eb11469b796ef02d241f76ca7f9a0c6f0ef4f.png",
+        "stockName": "美凯龙",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "美凯龙（601828）：股权结构有望优化，<em>中期</em>修复与长期协同均可期待"
+          ]
+        },
+        "score": 17.70724
+      },
+      {
+        "id": 3531963,
+        "typeId": 16,
+        "businessId": 7,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 507313,
+        "pageTotal": 3,
+        "title": "2023年一季报点评：收入增长彰显龙头实力，中期景气有望回升",
+        "authors": "黄诗涛,房大磊,石峰源,杨晓曦",
+        "orgName": "东吴证券",
+        "orgIds": [9129],
+        "publishAt": "2023-04-28T16:00:00.000Z",
+        "uploaderName": "公西春英",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e3b7c44fb0c434aecb4a78412a9677d2e1aec84a.png",
+        "stockName": "海螺水泥",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "2023年一季报点评：收入增长彰显龙头实力，<em>中期</em>景气有望回升"
+          ]
+        },
+        "score": 17.551714
+      },
+      {
+        "id": 3454508,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 2271112,
+        "pageTotal": 23,
+        "title": "谱尼测试（300887）首次覆盖报告：细分行业景气上行，短中期看点共存",
+        "authors": "皇甫晓晗,王旭晖",
+        "orgName": "中泰证券",
+        "orgIds": [9301],
+        "publishAt": "2023-03-11T06:50:48.000Z",
+        "uploaderName": "尉迟海逸",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/8a3fa647c36a1ebe9b005d90331e6f3d7544fc5a.png",
+        "stockName": "谱尼测试",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "谱尼测试（300887）首次覆盖报告：细分行业景气上行，短<em>中期</em>看点共存"
+          ]
+        },
+        "score": 17.031534
+      },
+      {
+        "id": 3432849,
+        "typeId": 16,
+        "businessId": 6,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1220677,
+        "pageTotal": 7,
+        "title": "药明生物（02269）：2022年核心盈利逊预期，主营业务中期前景良好",
+        "authors": "施佳丽",
+        "orgName": "中泰国际证券",
+        "orgIds": [9300],
+        "publishAt": "2023-02-15T02:45:45.000Z",
+        "uploaderName": "Martinho",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7d9093aee9a268d66ec365442dab72e4ffe87f59.png",
+        "stockName": null,
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "药明生物（02269）：2022年核心盈利逊预期，主营业务<em>中期</em>前景良好"
+          ]
+        },
+        "score": 16.688766
+      },
+      {
+        "id": 3484497,
+        "typeId": 16,
+        "businessId": 7,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 595873,
+        "pageTotal": 8,
+        "title": "2022年年报点评：下行期彰显龙头竞争力，中期景气有望回升",
+        "authors": "黄诗涛,房大磊,石峰源,杨晓曦",
+        "orgName": "东吴证券",
+        "orgIds": [9129],
+        "publishAt": "2023-03-28T16:00:00.000Z",
+        "uploaderName": "苗千风",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e0bcef8f918fa44ea279284e984285a4a4a5af5d.png",
+        "stockName": "海螺水泥",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "2022年年报点评：下行期彰显龙头竞争力，<em>中期</em>景气有望回升"
+          ]
+        },
+        "score": 16.324425
+      },
+      {
+        "id": 3431502,
+        "typeId": 16,
+        "businessId": 8,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1357480,
+        "pageTotal": 23,
+        "title": "公司深度研究：专注于低成本策略，进击的铝行业专",
+        "authors": "陈晨",
+        "orgName": "国海证券",
+        "orgIds": [9542],
+        "publishAt": "2023-02-13T16:00:00.000Z",
+        "uploaderName": "Sutton",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/6b56cf50a5c0b37a10e2650c685ceca5fa5e7aaf.png",
+        "stockName": "神火股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["公司深度研究：专注于低成本<em>策略</em>，进击的铝行业专"]
+        },
+        "score": 15.9790535
+      },
+      {
+        "id": 3499064,
+        "typeId": 16,
+        "businessId": 4,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 946578,
+        "pageTotal": 5,
+        "title": "年报点评：出海策略初见成效，AI赋能游戏研发",
+        "authors": "乔琪",
+        "orgName": "中原证券",
+        "orgIds": [9165],
+        "publishAt": "2023-04-09T16:00:00.000Z",
+        "uploaderName": "葵花印枝",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/250e4e7921eb001aa073613de181bae1a9dd7c20.png",
+        "stockName": "完美世界",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["年报点评：出海<em>策略</em>初见成效，AI赋能游戏研发"]
+        },
+        "score": 15.9790535
+      },
+      {
+        "id": 3516334,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 439464,
+        "pageTotal": 5,
+        "title": "大单品策略持续发力，多品牌共同推动收入增长",
+        "authors": "张晓霖,王冯",
+        "orgName": "山西证券",
+        "orgIds": [9630],
+        "publishAt": "2023-04-23T16:00:00.000Z",
+        "uploaderName": "飞龙翠梅",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/49d2f04c4d5d125f2d76387529cc1e765ee3e7c8.png",
+        "stockName": "珀莱雅",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["大单品<em>策略</em>持续发力，多品牌共同推动收入增长"]
+        },
+        "score": 15.954651
+      },
+      {
+        "id": 3502681,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 470969,
+        "pageTotal": 4,
+        "title": "大单品策略驱动业绩高增，国货龙头强者恒强",
+        "authors": "王盼",
+        "orgName": "上海证券",
+        "orgIds": [9107],
+        "publishAt": "2023-04-12T16:00:00.000Z",
+        "uploaderName": "Shanice",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/3d4bbd599f95d2590f797c78b1aca310b2673560.png",
+        "stockName": "珀莱雅",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["大单品<em>策略</em>驱动业绩高增，国货龙头强者恒强"]
+        },
+        "score": 15.761646
+      },
+      {
+        "id": 3482685,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1423874,
+        "pageTotal": 12,
+        "title": "润丰股份（301035）：中期战略规划稳步推进，2022年扣非业绩同比增长77.65%",
+        "authors": "刘威,庄怀超",
+        "orgName": "海通国际",
+        "orgIds": [9858],
+        "publishAt": "2023-03-28T01:52:25.000Z",
+        "uploaderName": "勇高邈",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/9c37954bb8fc3d4527292dfc4ec61388b80773c8.png",
+        "stockName": "C润丰",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "润丰股份（301035）：<em>中期</em>战略规划稳步推进，2022年扣非业绩同比增长77.65%"
+          ]
+        },
+        "score": 15.640888
+      },
+      {
+        "id": 3412622,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1237115,
+        "pageTotal": 5,
+        "title": "银轮股份（002126）2022年业绩预告点评：利润率拐点二次确认，中期增长趋势乐观",
+        "authors": "",
+        "orgName": "华创证券",
+        "orgIds": [9458],
+        "publishAt": "2023-01-16T16:00:00.000Z",
+        "uploaderName": "栋祺祥",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/41905a56108e487616dcc81f3fbbcb6c3f5321da.png",
+        "stockName": "银轮股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "银轮股份（002126）2022年业绩预告点评：利润率拐点二次确认，<em>中期</em>增长趋势乐观"
+          ]
+        },
+        "score": 15.460365
+      },
+      {
+        "id": 3514900,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 868886,
+        "pageTotal": 8,
+        "title": "大单品策略加速放量，全年业绩表现超市场预期",
+        "authors": "刘田田,魏宇萌,刘雪晴",
+        "orgName": "东兴证券",
+        "orgIds": [9125],
+        "publishAt": "2023-04-22T16:00:00.000Z",
+        "uploaderName": "Chantelle",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/8c581a9687746a5bdb6c8446267de127e9625e70.png",
+        "stockName": "珀莱雅",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["大单品<em>策略</em>加速放量，全年业绩表现超市场预期"]
+        },
+        "score": 15.452494
+      },
+      {
+        "id": 3535888,
+        "typeId": 16,
+        "businessId": 5,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 760123,
+        "pageTotal": 4,
+        "title": "伟星股份点评报告：韧性凸显，积极销售策略下全年增长可期",
+        "authors": "马莉,詹陆雨",
+        "orgName": "浙商证券",
+        "orgIds": [9850],
+        "publishAt": "2023-05-03T16:00:00.000Z",
+        "uploaderName": "委波涛",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/6f10ef1d47011f7beb46dba32fbfa106d9383339.png",
+        "stockName": "伟星股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "伟星股份点评报告：韧性凸显，积极销售<em>策略</em>下全年增长可期"
+          ]
+        },
+        "score": 15.452494
+      },
+      {
+        "id": 3497184,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 942792,
+        "pageTotal": 8,
+        "title": "小熊电器（002959）：业绩逆势高增，精品化策略成效显著",
+        "authors": "吴东炬",
+        "orgName": "西部证券",
+        "orgIds": [10085],
+        "publishAt": "2023-04-07T15:14:59.000Z",
+        "uploaderName": "一只之卉呀",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/faa1dd8c07e5dd46474b7377a05aa42476b4b333.png",
+        "stockName": "小熊电器",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "小熊电器（002959）：业绩逆势高增，精品化<em>策略</em>成效显著"
+          ]
+        },
+        "score": 14.980978
+      },
+      {
+        "id": 3531774,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1102435,
+        "pageTotal": 5,
+        "title": "招商蛇口（001979）2023年一季报点评：短期利润仍承压，中期看扩表加深耕",
+        "authors": "单戈",
+        "orgName": "华创证券",
+        "orgIds": [9458],
+        "publishAt": "2023-04-28T01:12:58.000Z",
+        "uploaderName": "林下默宛",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/8fab4702792151804cf69130d05fae4a2ded8b32.png",
+        "stockName": "招商蛇口",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "招商蛇口（001979）2023年一季报点评：短期利润仍承压，<em>中期</em>看扩表加深耕"
+          ]
+        },
+        "score": 14.967041
+      },
+      {
+        "id": 3504376,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [11, 31],
+        "targetIds": null,
+        "fileSize": 2300557,
+        "pageTotal": 69,
+        "title": "深度报告：立足差异化策略，深耕有机硅细分领域",
+        "authors": "李永磊,董伯骏,贾冰",
+        "orgName": "国海证券",
+        "orgIds": [9542],
+        "publishAt": "2023-04-13T16:00:00.000Z",
+        "uploaderName": "六阳又蓝",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/7307553fbbfb8566f4b8f6a69cc8b9a7b1e5cd06.png",
+        "stockName": "新亚强",
+        "isHorizontal": true,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": ["深度报告：立足差异化<em>策略</em>，深耕有机硅细分领域"]
+        },
+        "score": 14.798857
+      },
+      {
+        "id": 3485909,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 827589,
+        "pageTotal": 4,
+        "title": "依依股份（001206）公司点评：4Q毛利率环比修复，积极拓海外客户驱动中期成长",
+        "authors": "尹新悦,张扬桓",
+        "orgName": "国金证券",
+        "orgIds": [9551],
+        "publishAt": "2023-03-29T02:08:26.000Z",
+        "uploaderName": "苹果不懂柠檬的酸",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/c4a8f78bc7d2fae4bb17512db0dd32cd351c1cf0.png",
+        "stockName": null,
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "依依股份（001206）公司点评：4Q毛利率环比修复，积极拓海外客户驱动<em>中期</em>成长"
+          ]
+        },
+        "score": 14.683176
+      },
+      {
+        "id": 3498471,
+        "typeId": 16,
+        "businessId": 5,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 642431,
+        "pageTotal": 10,
+        "title": "坚持“商品+服务”的差异化经营策略，主营业务稳健增长",
+        "authors": "甄唯萱",
+        "orgName": "中国银河证券",
+        "orgIds": [9272],
+        "publishAt": "2023-04-09T16:00:00.000Z",
+        "uploaderName": "光丹丹",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/a05797db6ec80a6a68a97188fced4f08a7f20a24.png",
+        "stockName": "红旗连锁",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "坚持“商品+服务”的差异化经营<em>策略</em>，主营业务稳健增长"
+          ]
+        },
+        "score": 14.560183
+      },
+      {
+        "id": 3426919,
+        "typeId": 16,
+        "businessId": 5,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 328587,
+        "pageTotal": 4,
+        "title": "公司动态研究报告：费用改革加快动销，挺价策略持续推进",
+        "authors": "孙山山",
+        "orgName": "华鑫证券",
+        "orgIds": [9483],
+        "publishAt": "2023-02-08T16:00:00.000Z",
+        "uploaderName": "抄慕诗",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/855ab0d3166dd633cee1ec7003e5858b9f76a5bb.png",
+        "stockName": "酒鬼酒",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "公司动态研究报告：费用改革加快动销，挺价<em>策略</em>持续推进"
+          ]
+        },
+        "score": 14.53739
+      },
+      {
+        "id": 3481323,
+        "typeId": 16,
+        "businessId": 5,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 776183,
+        "pageTotal": 11,
+        "title": "中高端产品驱动盈利能力提升，线上多平台策略销售成效显著",
+        "authors": "甄唯萱",
+        "orgName": "中国银河证券",
+        "orgIds": [9272],
+        "publishAt": "2023-03-26T16:00:00.000Z",
+        "uploaderName": "呆萌迷糊▔＾▔",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/547d22ca9747827754428d3ec8ab3998e72c7b82.png",
+        "stockName": "百亚股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "中高端产品驱动盈利能力提升，线上多平台<em>策略</em>销售成效显著"
+          ]
+        },
+        "score": 14.53739
+      },
+      {
+        "id": 3509815,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 2054099,
+        "pageTotal": 15,
+        "title": "小商品城（600415）：市场主业步入新一轮扩张周期，新业务夯实中期成长势能",
+        "authors": "汪立亭,李宏科,高瑜",
+        "orgName": "海通国际",
+        "orgIds": [9858],
+        "publishAt": "2023-04-19T01:32:38.000Z",
+        "uploaderName": "小娇妻",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/21356d51e6f72ca47e241296ddd76f8fc463cc87.png",
+        "stockName": "小商品城",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "小商品城（600415）：市场主业步入新一轮扩张周期，新业务夯实<em>中期</em>成长势能"
+          ]
+        },
+        "score": 13.980387
+      },
+      {
+        "id": 3515664,
+        "typeId": 16,
+        "businessId": 6,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 3709827,
+        "pageTotal": 27,
+        "title": "朗姿股份（002612）深度研究报告：契合新时代医美需求，具备远见经营策略",
+        "authors": "胡琼方,王薇娜",
+        "orgName": "华创证券",
+        "orgIds": [9458],
+        "publishAt": "2023-04-23T11:18:30.000Z",
+        "uploaderName": "初巟",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/449bfae5711a72bad137c6e00b290a1a292c3021.png",
+        "stockName": "朗姿股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "朗姿股份（002612）深度研究报告：契合新时代医美需求，具备远见经营<em>策略</em>"
+          ]
+        },
+        "score": 13.94692
+      },
+      {
+        "id": 3419353,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 739931,
+        "pageTotal": 3,
+        "title": "韵达股份（002120）2022年业绩预告点评：深入实施“产品分层”策略，盈利能力逐步改善",
+        "authors": "程新星",
+        "orgName": "光大证券",
+        "orgIds": [9391],
+        "publishAt": "2023-02-01T01:27:25.000Z",
+        "uploaderName": "季箐",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/bd6a6c54b5c2c4f43195c057e96f429406bfa812.png",
+        "stockName": "韵达股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "韵达股份（002120）2022年业绩预告点评：深入实施“产品分层”<em>策略</em>，盈利能力逐步改善"
+          ]
+        },
+        "score": 13.746429
+      },
+      {
+        "id": 3513533,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 584919,
+        "pageTotal": 4,
+        "title": "2022年年报点评：2022年业绩超预期，大单品策略持续深化",
+        "authors": "陈雯,李滢",
+        "orgName": "万联证券",
+        "orgIds": [9091],
+        "publishAt": "2023-04-20T16:00:00.000Z",
+        "uploaderName": "纷飞蝶舞",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/6a81ea532ac876ece77b5dc88e0346bad8309b9d.png",
+        "stockName": "珀莱雅",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "2022年年报点评：2022年业绩超预期，大单品<em>策略</em>持续深化"
+          ]
+        },
+        "score": 13.746429
+      },
+      {
+        "id": 3529186,
+        "typeId": 16,
+        "businessId": 23,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1005142,
+        "pageTotal": 3,
+        "title": "公司业绩点评：聚焦重大动物疫病，“大单品”营销策略成效显著",
+        "authors": "孟维肖",
+        "orgName": "浙商证券",
+        "orgIds": [9850],
+        "publishAt": "2023-04-27T16:00:00.000Z",
+        "uploaderName": "昌勋子",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/e42143d9e19d65ccb9bcfb2409578a4dd1423641.png",
+        "stockName": "普莱柯",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "公司业绩点评：聚焦重大动物疫病，“大单品”营销<em>策略</em>成效显著"
+          ]
+        },
+        "score": 13.724613
+      },
+      {
+        "id": 3489629,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1242933,
+        "pageTotal": 8,
+        "title": "诺诚健华（9969.HK）：奥布替尼MS II期中期数据优异，商业化布局持续向好",
+        "authors": "",
+        "orgName": "浦银国际",
+        "orgIds": [9854],
+        "publishAt": "2023-03-30T16:00:00.000Z",
+        "uploaderName": "输不起感情德小女人、",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/bf93cf9622df14b4b53a0d14c4a5aad57db68a64.png",
+        "stockName": null,
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "诺诚健华（9969.HK）：奥布替尼MS II期<em>中期</em>数据优异，商业化布局持续向好"
+          ]
+        },
+        "score": 13.567339
+      },
+      {
+        "id": 3401394,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [11, 25],
+        "targetIds": null,
+        "fileSize": 1738679,
+        "pageTotal": 37,
+        "title": "国恩股份（002768）：宏观2023：货币与通胀，能否“和解”？; 策略23年展望：成长望带领价值向上",
+        "authors": "Amber Zhou,Yuxin Huang",
+        "orgName": "海通国际",
+        "orgIds": [9858],
+        "publishAt": "2023-01-03T02:50:39.000Z",
+        "uploaderName": "Sarai",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/a4242967b8a4e6dbf0dcc75c8fe196b491144177.png",
+        "stockName": "国恩股份",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "国恩股份（002768）：宏观2023：货币与通胀，能否“和解”？; <em>策略</em>23年展望：成长望带领价值向上"
+          ]
+        },
+        "score": 13.372738
+      },
+      {
+        "id": 3460766,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 954395,
+        "pageTotal": 7,
+        "title": "阅文集团（00772）2022年业绩点评：精品策略助力长期发展，版权运营领先地位稳固",
+        "authors": "李艳丽",
+        "orgName": "西部证券",
+        "orgIds": [10085],
+        "publishAt": "2023-03-17T13:09:36.000Z",
+        "uploaderName": "悲伤如何逃离",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/bafd3305cfddacd312f5dea563cd26bdc0db2110.png",
+        "stockName": "閱文集團",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "阅文集团（00772）2022年业绩点评：精品<em>策略</em>助力长期发展，版权运营领先地位稳固"
+          ]
+        },
+        "score": 13.3513775
+      },
+      {
+        "id": 3495587,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 719745,
+        "pageTotal": 9,
+        "title": "2022年年报点评：自营探索中性策略，国际业务实现差异化竞争",
+        "authors": "张洋",
+        "orgName": "中原证券",
+        "orgIds": [9165],
+        "publishAt": "2023-04-05T16:00:00.000Z",
+        "uploaderName": "布兰特雷",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/d244f069d9ce46567e1b24feb8b4c3bd4e72c2a7.png",
+        "stockName": "中国银河",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "2022年年报点评：自营探索中性<em>策略</em>，国际业务实现差异化竞争"
+          ]
+        },
+        "score": 13.187731
+      },
+      {
+        "id": 3548457,
+        "typeId": 16,
+        "businessId": 6,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 1294434,
+        "pageTotal": 6,
+        "title": "顺丰控股（002352）重大事项点评：拟出售丰网股权，战略更为聚焦，持续践行健康稳健经营策略",
+        "authors": "吴一凡,吴莹莹,周儒飞",
+        "orgName": "华创证券",
+        "orgIds": [9458],
+        "publishAt": "2023-05-13T08:49:13.000Z",
+        "uploaderName": "云波超级甜",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/f71906b336ec7dfd104284d67de4e60f50f9138d.png",
+        "stockName": "顺丰控股",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "顺丰控股（002352）重大事项点评：拟出售丰网股权，战略更为聚焦，持续践行健康稳健经营<em>策略</em>"
+          ]
+        },
+        "score": 12.364372
+      },
+      {
+        "id": 3419342,
+        "typeId": 16,
+        "businessId": 5,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 741258,
+        "pageTotal": 3,
+        "title": "劲仔食品（003000）：22Q4归母净利预计同增57%-97%，大包装策略推进效果显著",
+        "authors": "刘章明",
+        "orgName": "天风证券",
+        "orgIds": [9584],
+        "publishAt": "2023-02-01T01:20:34.000Z",
+        "uploaderName": "厄尔",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/14e35778daee900162bf99416002efd04d6ce8ba.png",
+        "stockName": "华文食品",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "劲仔食品（003000）：22Q4归母净利预计同增57%-97%，大包装<em>策略</em>推进效果显著"
+          ]
+        },
+        "score": 12.041525
+      },
+      {
+        "id": 3513821,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 914774,
+        "pageTotal": 14,
+        "title": "规模业绩表现持续实现双高增，“大单品策略”与精细化运营不断提振盈利能力",
+        "authors": "甄唯萱",
+        "orgName": "中国银河证券",
+        "orgIds": [9272],
+        "publishAt": "2023-04-20T16:00:00.000Z",
+        "uploaderName": "阿布利特",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/68814fdfe24b92acf66b818274630d0c078e72e3.png",
+        "stockName": "珀莱雅",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "规模业绩表现持续实现双高增，“大单品<em>策略</em>”与精细化运营不断提振盈利能力"
+          ]
+        },
+        "score": 12.041525
+      },
+      {
+        "id": 3541724,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 963280,
+        "pageTotal": 3,
+        "title": "2022年报及2023年一季报点评：多因素扰动22Q4盈利承压，积极扩张策略助力份额提升",
+        "authors": "徐皓亮",
+        "orgName": "民生证券",
+        "orgIds": [9833],
+        "publishAt": "2023-05-08T16:00:00.000Z",
+        "uploaderName": "平原莉霞",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/863ba67236c4bc9e26d3e801342fa4f675626916.png",
+        "stockName": "喜临门",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "2022年报及2023年一季报点评：多因素扰动22Q4盈利承压，积极扩张<em>策略</em>助力份额提升"
+          ]
+        },
+        "score": 10.829708
+      },
+      {
+        "id": 3445197,
+        "typeId": 16,
+        "businessId": 13,
+        "labelIds": [],
+        "targetIds": null,
+        "fileSize": 532904,
+        "pageTotal": 10,
+        "title": "阿里巴巴-SW（09988）FY3Q2023业绩点评：本季度经营稳健，未来国内看聚焦用户体验策略落地进展，海外看业务扩张效率",
+        "authors": "项雯倩,吴丛露,崔凡平",
+        "orgName": "东方证券",
+        "orgIds": [9134],
+        "publishAt": "2023-03-01T11:09:27.000Z",
+        "uploaderName": "钟情几人",
+        "indexImageUrl": "https://storage.djyanbao.com/dj-docs/cad1083ab3069c091607623e755fd0fd7f00044d.png",
+        "stockName": "阿里巴巴－ＳＷ",
+        "isHorizontal": false,
+        "canConvert": true,
+        "hasDownloaded": false,
+        "highlight": {
+          "title": [
+            "阿里巴巴-SW（09988）FY3Q2023业绩点评：本季度经营稳健，未来国内看聚焦用户体验<em>策略</em>落地进展，海外看业务扩张效率"
+          ]
+        },
+        "score": 9.940964
+      }
+    ],
+    "meta": {
+      "itemCount": 44
+    }
+  },
+  "code": 0,
+  "message": "ok"
+}

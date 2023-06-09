@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const http = require("http");
 
-const filePath = path.join(__dirname, "data.json");
+const filePath = path.join(__dirname, "gs_page1.json");
 const server = http.createServer((req, res) => {
   if (req.url === "/api/data") {
     // 读取 JSON 文件内容
