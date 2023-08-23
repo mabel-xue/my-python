@@ -7,6 +7,7 @@ import codecs
 import os
 import datetime
 from bs4 import BeautifulSoup
+import math
 # from src.api import get_data
 
 
@@ -39,20 +40,22 @@ HotelStyle = {
     'ht': 4,
     # 全季
     'qj': 2,
-    # 公共事业
+    # 桔子
     'jz': 16,
-    # 航空机场
+    # 桔子水晶
     'jzsj': 14,
-    # 房地产开发
+    # 汉庭优佳
     'htyj': 18,
+    # 海友
     'hy': 5,
 }
 
 param = {
     'checkInDate': '2023-09-02',
     'checkOutDate': '2023-09-04',
-    'cityName': '北京',
-    'hotelStyle': HotelStyle['qj'],
+    'cityName': '西宁',
+    # 'hotelStyle': '2',
+    'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0
     'pageSize': 20,
     'pageIndex': 1
@@ -62,9 +65,11 @@ hotelList = get_data(request_url, param)
 
 allH = []
 
-print(hotelList['content']['totalCount'])
+totalPage = int(math.ceil((float(hotelList['content']['totalCount'])+1)/20.0))
 
-for item in range(1, int(hotelList['content']['totalCount'])+1):
+print(totalPage)
+
+for item in range(1, totalPage):
     print(item)
     param['pageIndex'] = item
     list = get_data(request_url, param)
@@ -76,7 +81,7 @@ for item in range(1, int(hotelList['content']['totalCount'])+1):
         # 'lowestMaretPrice': item['lowestMaretPrice'],
         # 'price': item['lowestMaretPrice']*0.85
     } for item in list['content']['hotelList']]
+    print(json.dumps(data, ensure_ascii=False, indent=2))
     allH.extend(data)
 
 gen_json(allH)
-# print(json.dumps(data, ensure_ascii=False, indent=2))
