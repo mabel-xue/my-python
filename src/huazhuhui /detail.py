@@ -31,9 +31,9 @@ headers = {
 }
 
 hotelList = get_data(request_url, {
-    'checkInDate': '2023-08-29',
-    'checkOutDate': '2023-08-31',
-    'hotelId': '8100061',
+    'checkInDate': '2023-08-27',
+    'checkOutDate': '2023-08-28',
+    'hotelId': '1022993',
 }, headers)
 
 data = [{

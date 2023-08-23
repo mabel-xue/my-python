@@ -53,7 +53,7 @@ HotelStyle = {
 param = {
     'checkInDate': '2023-09-02',
     'checkOutDate': '2023-09-04',
-    'cityName': '西宁',
+    'cityName': '北京',
     # 'hotelStyle': '2',
     'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0
@@ -81,7 +81,7 @@ for item in range(1, totalPage):
         # 'lowestMaretPrice': item['lowestMaretPrice'],
         # 'price': item['lowestMaretPrice']*0.85
     } for item in list['content']['hotelList']]
-    print(json.dumps(data, ensure_ascii=False, indent=2))
+    # print(json.dumps(data, ensure_ascii=False, indent=2))
     allH.extend(data)
 
 gen_json(allH)
