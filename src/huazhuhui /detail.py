@@ -27,24 +27,33 @@ def get_data(url, params=None, headers=None):
 request_url = 'https://hweb-hotel.huazhu.com/hotels/hotel/detail'
 
 headers = {
-    'Cookie': '_hudVID=7f4a8834-3a59-2b1f-18a2-3de44b2f818c; _ga=GA1.2.1882665499.1690974883; gr_user_id=7c5b5775-4d31-466b-80b9-e036ff7e719b; ec=LT4tUfS4-1690974884269-b2d367a88e0871833201250; c=LT4tUfS4-1690974884269-b2d367a88e0871833201250; _exid=Bp7viK6oGNi2FdtCZ6i125cCUsi6kzsg0dQ8VWIwztuOzzBwAMKRzgj7pNrnQXC%2F3fu18gEW7NY3QhGHKUpGQA%3D%3D; _xid=wtLHL8m1c1Mfg95jphs8YDG1yXb7iASAuSRReYBm4Jk%3D; _efmdata=fFfZK2aAZedzVnPmugUrqT%2Btq0KrZJ2Y1uI7tYMnzN30MSC7qaqUeh6Dy8q2%2BTJls5PZ93BvQOfmCa9lZ6Hhr5wwAYteAE6gARCrvxojaL0%3D; _fmdata=yXy0DbbAfWcFvaOvBSdB5lbciyA5oGZw94EDh0RtmMOO5jQxfH0wUT08ex%2BuikmFGHSkJXnS9QBXVfUYrsfGCw%3D%3D; _hudSource=; _HZ_I_SessionId=a91ee4ba-d150-4cf1-b100-f43828def873; userToken=36dac08c96c746b3b5c8a77eb2d79877262571721; _hudSID=1692805042067_6; hud_refer=hrewards.huazhu.com/hotel/detail|10007,hrewards.huazhu.com/hotel|10006; _hudPVID=24; _hudSID_TS=1692807322575'
+    'Cookie': '_hudVID=51280303-8e08-01ae-3d12-667a260427f4; _hudSource=; _hudSID=1692839072641_4; _HZ_I_SessionId=5581db4d-da60-4f9f-bbed-2d3ba9f2fafd; userToken=487644794fd0448d87b440f0861b3671262571721; hud_refer=hrewards.huazhu.com/|10001,hpassport.huazhu.com/|10018,hrewards.huazhu.com/hotel|10013; _hudPVID=31; _hudSID_TS=1692839094344'
 }
 
-hotelList = get_data(request_url, {
-    'checkInDate': '2023-08-27',
-    'checkOutDate': '2023-08-28',
-    'hotelId': '1022993',
-}, headers)
+params = {
+    'checkInDate': '2023-08-25',
+    'checkOutDate': '2023-08-26',
+    'hotelId': '9021686',
+}
 
-data = [{
-    'typeRoomName': item['typeRoomName'],
-    'roomArea': item['roomArea'],
-    'amount': item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount'],
-    'marketPrice': item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['marketPrice'],
-    # 'price': item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']*0.85,
-    'hasWindow': item['hasWindow'],
-    'bedSize': item['bedSize']
-} for item in hotelList['content']['roomPriceList']['roomList']]
+hotelList = get_data(request_url, params, headers)
 
+data = [
+    {'a': item['typeRoomName']+':'+str(item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']),
+     #  'isRoomOpenResv': item['isRoomOpenResv'],
+     }
+    for item in hotelList['content']['roomPriceList']['roomList']
+]
 
-print(json.dumps(data, ensure_ascii=False, indent=4))
+# data = [{
+#     'typeRoomName': item['typeRoomName'],
+#     # 'roomArea': item['roomArea'],
+#     'amount': item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount'],
+#     # 'marketPrice': item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['marketPrice'],
+#     # 'isRoomOpenResv': item['isRoomOpenResv'],
+#     # 'price': item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']*0.85,
+#     # 'hasWindow': item['hasWindow'],
+#     # 'bedSize': item['bedSize']
+# } for item in hotelList['content']['roomPriceList']['roomList']]
+
+print(json.dumps(data, ensure_ascii=False, indent=4).encode('utf-8'))

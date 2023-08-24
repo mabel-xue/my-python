@@ -1,0 +1,902 @@
+[
+  {
+    "hotelId": "9014928", 
+    "hotelName": "成都青城宋品酒店", 
+    "hotelAddressShort": "中国四川省成都市都江堰市至臻路6号"
+  }, 
+  {
+    "hotelId": "6100112", 
+    "hotelName": "成都太古里春熙美居酒店", 
+    "hotelAddressShort": "暑袜北三街20号"
+  }, 
+  {
+    "hotelId": "9011925", 
+    "hotelName": "成都青羊宫花间府·三生邸院", 
+    "hotelAddressShort": "四川省成都市一环路西二段9号附24号"
+  }, 
+  {
+    "hotelId": "9014930", 
+    "hotelName": "成都融创施柏阁酒店", 
+    "hotelAddressShort": "中国四川省成都市都江堰市茅草碾路81号"
+  }, 
+  {
+    "hotelId": "9007738", 
+    "hotelName": "成都宽窄巷子漫心酒店", 
+    "hotelAddressShort": "琴台路207号(通惠门地铁口A口，中医大省医院旁，距离宽窄巷子800米。）"
+  }, 
+  {
+    "hotelId": "9001574", 
+    "hotelName": "成都金牛美居酒店", 
+    "hotelAddressShort": "四川省成都市金牛区北站西二路17号(毗邻金牛万达、龙湖天街）"
+  }, 
+  {
+    "hotelId": "9012254", 
+    "hotelName": "成都春熙太古里漫心酒店", 
+    "hotelAddressShort": "走马街53号（春熙路地铁站E1口，距离春熙路20米，太古里500米）"
+  }, 
+  {
+    "hotelId": "9010811", 
+    "hotelName": "成都宽窄巷子西美居酒店", 
+    "hotelAddressShort": "上同仁路1号（近宽窄巷子、奎星楼美食街）"
+  }, 
+  {
+    "hotelId": "6100216", 
+    "hotelName": "成都太古里IFS禧玥酒店", 
+    "hotelAddressShort": "成都市锦江区下东大街169号"
+  }, 
+  {
+    "hotelId": "9001265", 
+    "hotelName": "成都高新漫心酒店", 
+    "hotelAddressShort": "天久北巷121号(距成都南站1.6km;距成都双子塔1.5km)"
+  }, 
+  {
+    "hotelId": "9021292", 
+    "hotelName": "成都理工大学美居酒店", 
+    "hotelAddressShort": "成华区二仙桥东路158号霆彪中环广场A座"
+  }, 
+  {
+    "hotelId": "9020447", 
+    "hotelName": "成都诗里花间堂·稻香", 
+    "hotelAddressShort": "成都市郫都区三道堰镇青杠树村9组220号3栋2层1号"
+  }, 
+  {
+    "hotelId": "9001101", 
+    "hotelName": "成都杜甫草堂漫心酒店", 
+    "hotelAddressShort": "青华路29号"
+  }, 
+  {
+    "hotelId": "9000666", 
+    "hotelName": "桔子成都金牛万达酒店", 
+    "hotelAddressShort": "金牛区玉居庵东路116号1幢1层33号（赛云台地铁站C口）"
+  }, 
+  {
+    "hotelId": "9010224", 
+    "hotelName": "成都双流美居酒店", 
+    "hotelAddressShort": "双流区航空路西段11号"
+  }, 
+  {
+    "hotelId": "9008960", 
+    "hotelName": "星程成都西华大学同森锦熙酒店", 
+    "hotelAddressShort": "广场路北三段19号"
+  }, 
+  {
+    "hotelId": "9012503", 
+    "hotelName": "成都青城山花间堂·山澄清", 
+    "hotelAddressShort": "四川省成都市都江堰市青城山镇东软大道1号"
+  }, 
+  {
+    "hotelId": "6100317", 
+    "hotelName": "成都景澜美居酒店", 
+    "hotelAddressShort": "花牌坊街168号（近宽窄巷子、花牌坊地铁站）"
+  }, 
+  {
+    "hotelId": "9005992", 
+    "hotelName": "成都新都美居酒店", 
+    "hotelAddressShort": "新都区蜀龙大道中段969号（苏宁购物广场，石油大学旁）"
+  }, 
+  {
+    "hotelId": "9011010", 
+    "hotelName": "全季成都宽窄巷子酒店", 
+    "hotelAddressShort": "上同仁路1号1栋"
+  }, 
+  {
+    "hotelId": "9005379", 
+    "hotelName": "桔子成都华西人民南路酒店", 
+    "hotelAddressShort": "国学巷6号"
+  }, 
+  {
+    "hotelId": "9010930", 
+    "hotelName": "桔子成都蜀汉路东地铁站酒店", 
+    "hotelAddressShort": "羊西线蜀汉路189号"
+  }, 
+  {
+    "hotelId": "9001359", 
+    "hotelName": "桔子水晶成都宽窄巷子酒店", 
+    "hotelAddressShort": "八宝街100号"
+  }, 
+  {
+    "hotelId": "6118304", 
+    "hotelName": "宜必思都江堰酒店", 
+    "hotelAddressShort": "四川省成都市都江堰市都江堰大道乐佳广场3号楼23F-26F"
+  }, 
+  {
+    "hotelId": "9019466", 
+    "hotelName": "星程成都高新保税区龙湖蜀新天街酒店", 
+    "hotelAddressShort": "创智南一路88号1栋15层大堂"
+  }, 
+  {
+    "hotelId": "6100178", 
+    "hotelName": "桔子成都春熙路顺城酒店", 
+    "hotelAddressShort": "成都市青羊区白丝街56号"
+  }, 
+  {
+    "hotelId": "6100009", 
+    "hotelName": "桔子成都天府广场宽窄巷子酒店", 
+    "hotelAddressShort": "成都市青羊区东胜街1号"
+  }, 
+  {
+    "hotelId": "9014847", 
+    "hotelName": "海友成都欢乐谷金府地铁站酒店", 
+    "hotelAddressShort": "金府路668号1栋1单元9楼（距金府地铁站A3口500米）"
+  }, 
+  {
+    "hotelId": "9009156", 
+    "hotelName": "桔子成都宽窄巷子酒店", 
+    "hotelAddressShort": "一环路西三段5号附1-20号"
+  }, 
+  {
+    "hotelId": "9012706", 
+    "hotelName": "成都武侯花间邸·在城汐", 
+    "hotelAddressShort": "丽都路6号附6号"
+  }, 
+  {
+    "hotelId": "6100653", 
+    "hotelName": "全季成都双流机场酒店", 
+    "hotelAddressShort": "白衣上街177号"
+  }, 
+  {
+    "hotelId": "6100201", 
+    "hotelName": "汉庭成都春熙路美食广场酒店", 
+    "hotelAddressShort": "锦江区大业路55号"
+  }, 
+  {
+    "hotelId": "6100141", 
+    "hotelName": "汉庭成都宽窄巷子中心酒店", 
+    "hotelAddressShort": "西月城街16号"
+  }, 
+  {
+    "hotelId": "9019722", 
+    "hotelName": "星程成都彭州市政府酒店", 
+    "hotelAddressShort": "东湖南街48号"
+  }, 
+  {
+    "hotelId": "9016770", 
+    "hotelName": "成都锦里武侯祠美居酒店", 
+    "hotelAddressShort": "武侯区一环路西一段4号（距离地铁高升桥站3号线/5号线400米，步行仅需5分钟）"
+  }, 
+  {
+    "hotelId": "9014158", 
+    "hotelName": "全季成都武侯祠高升桥路酒店", 
+    "hotelAddressShort": "一环路西一段4号附44号1栋"
+  }, 
+  {
+    "hotelId": "9000643", 
+    "hotelName": "全季成都太古里中心酒店", 
+    "hotelAddressShort": "下东大街169号(东门大桥地铁站D2口直行300米)"
+  }, 
+  {
+    "hotelId": "6118003", 
+    "hotelName": "桔子都江堰酒店", 
+    "hotelAddressShort": "都江堰市灌温路23号"
+  }, 
+  {
+    "hotelId": "9001195", 
+    "hotelName": "全季成都华西人民南路酒店", 
+    "hotelAddressShort": "中学路17号5号楼"
+  }, 
+  {
+    "hotelId": "9011033", 
+    "hotelName": "星程都江堰景区南桥酒店（质量整改）", 
+    "hotelAddressShort": "幸福路85号"
+  }, 
+  {
+    "hotelId": "6112301", 
+    "hotelName": "汉庭崇州世纪大道酒店", 
+    "hotelAddressShort": "崇州世纪大道320号"
+  }, 
+  {
+    "hotelId": "6100321", 
+    "hotelName": "汉庭成都宽窄巷子新店（原宽窄巷子西店）", 
+    "hotelAddressShort": "永陵路68号（近抚琴夜市、近永陵公园）"
+  }, 
+  {
+    "hotelId": "6100322", 
+    "hotelName": "汉庭成都宽窄巷子酒店", 
+    "hotelAddressShort": "金牛区槐树街84号—5号"
+  }, 
+  {
+    "hotelId": "6100316", 
+    "hotelName": "成都宽窄巷子美居酒店", 
+    "hotelAddressShort": "四川成都市青羊区通惠门路3号"
+  }, 
+  {
+    "hotelId": "9004445", 
+    "hotelName": "全季成都武侯祠大石东路酒店", 
+    "hotelAddressShort": "大石东路186号"
+  }, 
+  {
+    "hotelId": "6100162", 
+    "hotelName": "全季成都春熙路IFS国金中心酒店", 
+    "hotelAddressShort": "总府路8号1栋18层"
+  }, 
+  {
+    "hotelId": "6100363", 
+    "hotelName": "汉庭成都欢乐谷酒店", 
+    "hotelAddressShort": "四川省成都市金牛区金府路833号"
+  }, 
+  {
+    "hotelId": "9005040", 
+    "hotelName": "宜必思成都宽窄巷子中心酒店", 
+    "hotelAddressShort": "成都市青羊区东城根下街28号国信广场8楼-12楼"
+  }, 
+  {
+    "hotelId": "6100144", 
+    "hotelName": "桔子成都文殊院地铁站酒店", 
+    "hotelAddressShort": "成都市人民中路三段3号"
+  }, 
+  {
+    "hotelId": "9000739", 
+    "hotelName": "全季成都金楠天街酒店", 
+    "hotelAddressShort": "武晋路1488号17栋1单元5-9层"
+  }, 
+  {
+    "hotelId": "6100451", 
+    "hotelName": "汉庭成都五大花园金雁路酒店", 
+    "hotelAddressShort": "武侯区金雁路沙堰街40号亿通新天地1楼"
+  }, 
+  {
+    "hotelId": "9008979", 
+    "hotelName": "全季成都春熙路步行街酒店", 
+    "hotelAddressShort": "青年路23号（九龙广场斜对面、太平洋电影城）"
+  }, 
+  {
+    "hotelId": "9000293", 
+    "hotelName": "桔子成都春熙路中心酒店", 
+    "hotelAddressShort": "锦江区东大街城守东大街段6号（春熙路地铁站E1口200米,春熙路步行街10米，太古里600米）"
+  }, 
+  {
+    "hotelId": "9020062", 
+    "hotelName": "海友新都国际商贸城酒店", 
+    "hotelAddressShort": "新都区旃柏路东段699号1栋1单元"
+  }, 
+  {
+    "hotelId": "9017925", 
+    "hotelName": "全季成都宽窄巷子中心酒店", 
+    "hotelAddressShort": "成都市金牛区十二桥路七号(地铁2号线通惠门地铁站E口100米，地铁4号线宽窄巷子D口400米)"
+  }, 
+  {
+    "hotelId": "9001635", 
+    "hotelName": "全季成都金牛万达酒店", 
+    "hotelAddressShort": "北站西二路17号"
+  }, 
+  {
+    "hotelId": "9009195", 
+    "hotelName": "全季成都天府机场迎宾大道酒店", 
+    "hotelAddressShort": "简阳市简城镇街道大井村8组万汇中心"
+  }, 
+  {
+    "hotelId": "8000236", 
+    "hotelName": "桔子成都武侯祠锦里中心酒店", 
+    "hotelAddressShort": "成都市武侯区武侯祠横街新2号"
+  }, 
+  {
+    "hotelId": "6100473", 
+    "hotelName": "桔子成都武侯红牌楼酒店", 
+    "hotelAddressShort": "成都市武侯区二环路西一段2号"
+  }, 
+  {
+    "hotelId": "9005666", 
+    "hotelName": "汉庭成都淮州新城酒店", 
+    "hotelAddressShort": "兴淮大道223号"
+  }, 
+  {
+    "hotelId": "6118303", 
+    "hotelName": "全季都江堰酒店", 
+    "hotelAddressShort": "外北街1号"
+  }, 
+  {
+    "hotelId": "6100214", 
+    "hotelName": "桔子成都春熙太古里酒店", 
+    "hotelAddressShort": "大慈寺路22号"
+  }, 
+  {
+    "hotelId": "6100414", 
+    "hotelName": "全季成都武侯祠酒店", 
+    "hotelAddressShort": "一环路西一段35号"
+  }, 
+  {
+    "hotelId": "8916186", 
+    "hotelName": "成都九眼桥美居酒店", 
+    "hotelAddressShort": "一环路东五段87号阳光新业2号楼"
+  }, 
+  {
+    "hotelId": "6100155", 
+    "hotelName": "成都太古里春熙CitiGO欢阁酒店（质量整改）", 
+    "hotelAddressShort": "成都市锦江区年丰巷51号(牛王庙站E出口向南150米)"
+  }, 
+  {
+    "hotelId": "9014342", 
+    "hotelName": "你好成都青白江万达广场酒店", 
+    "hotelAddressShort": "红阳华金大道二段406号"
+  }, 
+  {
+    "hotelId": "6100311", 
+    "hotelName": "汉庭优佳成都一品天下蜀汉路酒店", 
+    "hotelAddressShort": "成都市蜀汉路216号"
+  }, 
+  {
+    "hotelId": "6117302", 
+    "hotelName": "成都高新禧玥酒店", 
+    "hotelAddressShort": "成都市高新区天府大道中段萃华路89号"
+  }, 
+  {
+    "hotelId": "9014772", 
+    "hotelName": "桔子成都金沙遗址博物馆酒店", 
+    "hotelAddressShort": " 同盛路59号1层部分"
+  }, 
+  {
+    "hotelId": "9008349", 
+    "hotelName": "汉庭温江光华公园地铁站酒店", 
+    "hotelAddressShort": "成都市温江区柳城街办致远路2号海天腾逸广场1栋15层"
+  }, 
+  {
+    "hotelId": "9008135", 
+    "hotelName": "全季成都339电视塔中心酒店", 
+    "hotelAddressShort": "三槐树路3号"
+  }, 
+  {
+    "hotelId": "9019429", 
+    "hotelName": "桔子成都欢乐谷西南交大酒店", 
+    "hotelAddressShort": "成都市金牛区交大路101号"
+  }, 
+  {
+    "hotelId": "9010728", 
+    "hotelName": "汉庭成都天府广场酒店", 
+    "hotelAddressShort": "青羊区陕西街106号"
+  }, 
+  {
+    "hotelId": "8000353", 
+    "hotelName": "宜必思尚品成都神仙树美洲中心酒店", 
+    "hotelAddressShort": "成都市高新区火车南站西路1266号"
+  }, 
+  {
+    "hotelId": "9013510", 
+    "hotelName": "汉庭成都春熙路太古里中心酒店", 
+    "hotelAddressShort": "锦江区暑袜北三街20号西楼(美居酒店旁100米）"
+  }, 
+  {
+    "hotelId": "9004398", 
+    "hotelName": "星程成都西华大学华西上锦医院酒店", 
+    "hotelAddressShort": "红光镇高店路西段226号(百维广场内)"
+  }, 
+  {
+    "hotelId": "9005488", 
+    "hotelName": "全季成都宽窄巷子琴台路酒店", 
+    "hotelAddressShort": "青羊正街12号"
+  }, 
+  {
+    "hotelId": "6100204", 
+    "hotelName": "全季成都天府广场酒店", 
+    "hotelAddressShort": "东御街55号海发商厦第8层"
+  }, 
+  {
+    "hotelId": "9014089", 
+    "hotelName": "桔子成都新都酒店", 
+    "hotelAddressShort": "四川省成都市新都区桂湖街道北街2号"
+  }, 
+  {
+    "hotelId": "8000113", 
+    "hotelName": "宜必思成都美洲中心庆安地铁站酒店", 
+    "hotelAddressShort": "成都市高新区新悦路85号"
+  }, 
+  {
+    "hotelId": "9008859", 
+    "hotelName": "全季成都新都工业区大港路酒店", 
+    "hotelAddressShort": "青白大道99号"
+  }, 
+  {
+    "hotelId": "9001247", 
+    "hotelName": "全季成都春熙路食界美食广场酒店", 
+    "hotelAddressShort": "大业路16号"
+  }, 
+  {
+    "hotelId": "6100206", 
+    "hotelName": "宜必思成都太古里春熙新店", 
+    "hotelAddressShort": "成都市锦江区暑袜北三街20号 距太升南路（4号线）645m"
+  }, 
+  {
+    "hotelId": "6100931", 
+    "hotelName": "全季成都武侯祠永丰路酒店", 
+    "hotelAddressShort": "永丰路14号"
+  }, 
+  {
+    "hotelId": "6100151", 
+    "hotelName": "汉庭成都春熙路西店", 
+    "hotelAddressShort": "东华正街28号"
+  }, 
+  {
+    "hotelId": "6117311", 
+    "hotelName": "汉庭成都高新西区龙湖酒店", 
+    "hotelAddressShort": "成都市高新西区合作路89号龙湖时代天街五栋"
+  }, 
+  {
+    "hotelId": "9001916", 
+    "hotelName": "全季成都欢乐谷酒店", 
+    "hotelAddressShort": "金府路555号"
+  }, 
+  {
+    "hotelId": "9006740", 
+    "hotelName": "怡莱成都青白江酒店", 
+    "hotelAddressShort": "华金大道522号"
+  }, 
+  {
+    "hotelId": "6100652", 
+    "hotelName": "全季成都九眼桥酒店", 
+    "hotelAddressShort": "一环路东五段87号"
+  }, 
+  {
+    "hotelId": "6100471", 
+    "hotelName": "汉庭成都红牌楼地铁站酒店", 
+    "hotelAddressShort": "成都市武侯区二环路南四段46号"
+  }, 
+  {
+    "hotelId": "9011705", 
+    "hotelName": "你好成都华西武侯祠酒店", 
+    "hotelAddressShort": "武侯祠大街232-238号1栋"
+  }, 
+  {
+    "hotelId": "9012557", 
+    "hotelName": "全季成都青羊工业园区光华大道酒店", 
+    "hotelAddressShort": "光华北六路1号13栋附115号"
+  }, 
+  {
+    "hotelId": "9016721", 
+    "hotelName": "全季成都未来中心玉双路酒店", 
+    "hotelAddressShort": "一环路东三段11号(成都饭店旁)"
+  }, 
+  {
+    "hotelId": "8000056", 
+    "hotelName": "宜必思成都高新科园地铁站酒店", 
+    "hotelAddressShort": "二环路南四段一号"
+  }, 
+  {
+    "hotelId": "9003006", 
+    "hotelName": "汉庭成都武侯祠永丰酒店", 
+    "hotelAddressShort": "二环路南四段一号"
+  }, 
+  {
+    "hotelId": "6118302", 
+    "hotelName": "汉庭都江堰酒店", 
+    "hotelAddressShort": "都江堰市光明街40号"
+  }, 
+  {
+    "hotelId": "9004788", 
+    "hotelName": "全季成都四川师范大学酒店", 
+    "hotelAddressShort": "静渝路48号索尔龙舟大厦34F"
+  }, 
+  {
+    "hotelId": "9008493", 
+    "hotelName": "海友成都高新电子科大酒店", 
+    "hotelAddressShort": "四川省成都市高新西区合作路89号龙湖时代天街28栋"
+  }, 
+  {
+    "hotelId": "6100512", 
+    "hotelName": "宜必思成都建设路SM广场酒店", 
+    "hotelAddressShort": "成都市成华区建兴路76号汇富大厦"
+  }, 
+  {
+    "hotelId": "6100411", 
+    "hotelName": "汉庭成都武侯祠锦里酒店", 
+    "hotelAddressShort": "一环路西一段3号附2号"
+  }, 
+  {
+    "hotelId": "9010981", 
+    "hotelName": "怡莱成都金堂酒店", 
+    "hotelAddressShort": "成都市金堂县赵镇十里大道一段99号(近金堂万达广场）"
+  }, 
+  {
+    "hotelId": "9013811", 
+    "hotelName": "星程成都犀浦百草路酒店", 
+    "hotelAddressShort": "百草路777号金辉悦府优悦1-6-1号楼"
+  }, 
+  {
+    "hotelId": "6100371", 
+    "hotelName": "全季成都盛大国际酒店", 
+    "hotelAddressShort": "蜀西路46号"
+  }, 
+  {
+    "hotelId": "6100621", 
+    "hotelName": "汉庭成都春熙路太古里酒店", 
+    "hotelAddressShort": "成都锦江区大慈寺路20号"
+  }, 
+  {
+    "hotelId": "9011105", 
+    "hotelName": "汉庭成都武侯祠永丰地铁站酒店", 
+    "hotelAddressShort": "成都市高新区肖家河沿街1号"
+  }, 
+  {
+    "hotelId": "9008848", 
+    "hotelName": "你好成都熊猫基地酒店", 
+    "hotelAddressShort": "四川省成都市新都区三河街道浣沙路74号1栋(地铁3号线金华寺东地铁站D口出)"
+  }, 
+  {
+    "hotelId": "8000162", 
+    "hotelName": "宜必思成都武侯祠锦里酒店", 
+    "hotelAddressShort": "四川省成都市武侯区一环路西一段13号附1号"
+  }, 
+  {
+    "hotelId": "6100723", 
+    "hotelName": "全季成都宽窄巷子西酒店", 
+    "hotelAddressShort": "清江东路186号"
+  }, 
+  {
+    "hotelId": "9001783", 
+    "hotelName": "全季成都省体育馆玉林路酒店", 
+    "hotelAddressShort": "玉林中路30号"
+  }, 
+  {
+    "hotelId": "6100814", 
+    "hotelName": "全季成都昭觉寺地铁站酒店", 
+    "hotelAddressShort": "昭觉寺南路50号2栋"
+  }, 
+  {
+    "hotelId": "6100156", 
+    "hotelName": "全季成都西南石油大学酒店", 
+    "hotelAddressShort": "同仁路64号友盛上都一楼"
+  }, 
+  {
+    "hotelId": "9009947", 
+    "hotelName": "汉庭成都春熙路新店", 
+    "hotelAddressShort": "青石桥北街44号"
+  }, 
+  {
+    "hotelId": "6100361", 
+    "hotelName": "汉庭成都一品天下地铁站酒店", 
+    "hotelAddressShort": "成都市金牛区蜀汉路289号（2号线一品天下站D口）"
+  }, 
+  {
+    "hotelId": "6102121", 
+    "hotelName": "宜必思成都高新天府软件园酒店", 
+    "hotelAddressShort": "四川省成都市双流区观东一街666号"
+  }, 
+  {
+    "hotelId": "8916260", 
+    "hotelName": "全季成都牛市口酒店", 
+    "hotelAddressShort": "大田坎街15-8号"
+  }, 
+  {
+    "hotelId": "9014969", 
+    "hotelName": "桔子成都双流国际机场酒店", 
+    "hotelAddressShort": "成都市双流区棠湖西路一段187号"
+  }, 
+  {
+    "hotelId": "9013383", 
+    "hotelName": "海友成都武侯祠华西医院酒店", 
+    "hotelAddressShort": "黉门街34号"
+  }, 
+  {
+    "hotelId": "9002950", 
+    "hotelName": "全季成都火车东站奥园广场酒店", 
+    "hotelAddressShort": "跳蹬河南路18号"
+  }, 
+  {
+    "hotelId": "6100421", 
+    "hotelName": "汉庭成都科华北路四川大学酒店", 
+    "hotelAddressShort": "成都市武侯区科华北路143号"
+  }, 
+  {
+    "hotelId": "9000645", 
+    "hotelName": "汉庭优佳成都宽窄巷子酒店", 
+    "hotelAddressShort": "西安北路90号附1号"
+  }, 
+  {
+    "hotelId": "6100213", 
+    "hotelName": "全季成都太古里滨江路酒店", 
+    "hotelAddressShort": "滨江东路162号"
+  }, 
+  {
+    "hotelId": "9000946", 
+    "hotelName": "海友成都大学青龙湖酒店", 
+    "hotelAddressShort": "四川省成都市龙泉驿区十陵镇灵龙路88号"
+  }, 
+  {
+    "hotelId": "6100207", 
+    "hotelName": "宜必思尚品成都春熙路步行街酒店", 
+    "hotelAddressShort": "四川省成都市锦江区大业路39号宜必思尚品酒店"
+  }, 
+  {
+    "hotelId": "9007947", 
+    "hotelName": "你好成都高新交子金融城酒店", 
+    "hotelAddressShort": "成都市高新区天久北巷8号"
+  }, 
+  {
+    "hotelId": "6100423", 
+    "hotelName": "宜必思成都火车南站科华中路酒店", 
+    "hotelAddressShort": "成都市武侯区航空路10号"
+  }, 
+  {
+    "hotelId": "6100008", 
+    "hotelName": "桔子成都高新环球中心酒店", 
+    "hotelAddressShort": "锦城大道859号"
+  }, 
+  {
+    "hotelId": "6102071", 
+    "hotelName": "汉庭成都双流机场酒店", 
+    "hotelAddressShort": "成都市双流区西航港机场路近都段144号-146号"
+  }, 
+  {
+    "hotelId": "6100654", 
+    "hotelName": "全季成都东大街太古里酒店", 
+    "hotelAddressShort": "东大街紫东楼段138号"
+  }, 
+  {
+    "hotelId": "9006617", 
+    "hotelName": "全季成都339电视塔新鸿路酒店", 
+    "hotelAddressShort": "成华大道新鸿路398号"
+  }, 
+  {
+    "hotelId": "6100661", 
+    "hotelName": "汉庭优佳成都玉双路地铁站酒店", 
+    "hotelAddressShort": "成都市成华区一环路东三段31号"
+  }, 
+  {
+    "hotelId": "6100315", 
+    "hotelName": "海友成都青羊宫中医大省医院地铁站酒店", 
+    "hotelAddressShort": "成都市青羊区一环路二段13号附36号青羊肆大楼海友酒店"
+  }, 
+  {
+    "hotelId": "6100472", 
+    "hotelName": "桔子成都浣花溪酒店", 
+    "hotelAddressShort": "龙华北路7号"
+  }, 
+  {
+    "hotelId": "9010415", 
+    "hotelName": "全季成都青白江凤凰湖酒店", 
+    "hotelAddressShort": "凤凰东一路33号"
+  }, 
+  {
+    "hotelId": "9009425", 
+    "hotelName": "你好成都科华北路四川大学酒店", 
+    "hotelAddressShort": "成都市武侯区科华北路24号（四川大学望江校区西门斜对面100米）"
+  }, 
+  {
+    "hotelId": "9000851", 
+    "hotelName": "宜必思成都彭州望蜀里酒店", 
+    "hotelAddressShort": "彭州市东南市街43号"
+  }, 
+  {
+    "hotelId": "6117314", 
+    "hotelName": "宜必思成都高新电子科大酒店", 
+    "hotelAddressShort": "四川省成都市高新西区合作路89号龙湖时代天街28栋"
+  }, 
+  {
+    "hotelId": "9009466", 
+    "hotelName": "汉庭成都西部智谷双凤桥地铁站酒店", 
+    "hotelAddressShort": "武侯区草金南路南段299号2栋2单元7楼1号"
+  }, 
+  {
+    "hotelId": "6100583", 
+    "hotelName": "全季成都火车东站酒店", 
+    "hotelAddressShort": "成都市成华区建材路66号"
+  }, 
+  {
+    "hotelId": "6117301", 
+    "hotelName": "全季成都高新酒店", 
+    "hotelAddressShort": "天府大道中段萃华路89号"
+  }, 
+  {
+    "hotelId": "9009004", 
+    "hotelName": "你好成都理工大学地铁站酒店", 
+    "hotelAddressShort": "二仙桥东路158号，理工大学地铁口B1口（麦当劳院内)"
+  }, 
+  {
+    "hotelId": "9022117", 
+    "hotelName": "星程成都天府国际机场简阳酒店", 
+    "hotelAddressShort": "简城街道-万汇中心-1期7E栋1单元"
+  }, 
+  {
+    "hotelId": "9009691", 
+    "hotelName": "全季成都双流机场航站楼酒店", 
+    "hotelAddressShort": "成都市双流区机场路常乐一段17号6栋"
+  }, 
+  {
+    "hotelId": "6100573", 
+    "hotelName": "宜必思成都动物园地铁站酒店", 
+    "hotelAddressShort": "成都市成华区荆翠西路2号（金科中心9栋）"
+  }, 
+  {
+    "hotelId": "6100145", 
+    "hotelName": "全季成都天府广场人民中路酒店（原骡马市店）", 
+    "hotelAddressShort": "人民中路二段39号"
+  }, 
+  {
+    "hotelId": "9018727", 
+    "hotelName": "你好成都九眼桥牛王庙酒店", 
+    "hotelAddressShort": "成都市锦江区一环路东五段11号"
+  }, 
+  {
+    "hotelId": "9013380", 
+    "hotelName": "全季成都新津工业园酒店", 
+    "hotelAddressShort": "西新大道3101号 天府创智汇 一期5号楼"
+  }, 
+  {
+    "hotelId": "6120001", 
+    "hotelName": "全季成都武侯新城酒店", 
+    "hotelAddressShort": "武兴四路11号"
+  }, 
+  {
+    "hotelId": "6100111", 
+    "hotelName": "全季成都春熙路太古里酒店", 
+    "hotelAddressShort": "下东大街段21号香槟广场4层（春熙路地铁站E1口30米，距太古里100米。熊猫基地专线直通车）"
+  }, 
+  {
+    "hotelId": "9018935", 
+    "hotelName": "星程成都淮州新城酒店", 
+    "hotelAddressShort": "四川省成都市金堂县淮口镇金乐路26号"
+  }, 
+  {
+    "hotelId": "6100413", 
+    "hotelName": "汉庭成都玉林生活广场酒店(原紫荆店)", 
+    "hotelAddressShort": "成都市高新区紫荆北路12号"
+  }, 
+  {
+    "hotelId": "9020540", 
+    "hotelName": "海友成都西站羊犀立交酒店", 
+    "hotelAddressShort": "金牛区黄金东一路502号5层"
+  }, 
+  {
+    "hotelId": "6117313", 
+    "hotelName": "全季成都高新电子科大酒店", 
+    "hotelAddressShort": "合作路89号龙湖时代天街8栋"
+  }, 
+  {
+    "hotelId": "8916262", 
+    "hotelName": "全季成都火车东站绿地468酒店", 
+    "hotelAddressShort": "樱花街1338号"
+  }, 
+  {
+    "hotelId": "9020353", 
+    "hotelName": "你好成都龙泉东方华大广场酒店", 
+    "hotelAddressShort": "北泉路177号东方华大广场3栋2单元"
+  }, 
+  {
+    "hotelId": "6100211", 
+    "hotelName": "汉庭成都春熙路地铁站酒店", 
+    "hotelAddressShort": "成都市锦江区东大街城守东大街段6号蓝光大厦18楼（春熙路地铁口E1出口西200米）"
+  }, 
+  {
+    "hotelId": "8916334", 
+    "hotelName": "全季成都华西武侯祠大街酒店", 
+    "hotelAddressShort": "凉水井街23号"
+  }, 
+  {
+    "hotelId": "6100441", 
+    "hotelName": "全季成都四川大学酒店", 
+    "hotelAddressShort": "新南路118号百脑汇资讯广场七层至十一层整层"
+  }, 
+  {
+    "hotelId": "9010628", 
+    "hotelName": "怡莱成都三河场地铁站酒店", 
+    "hotelAddressShort": "成都市新都区蓉香路160号万科缇香荟3栋（三河场地铁站B口出，近熊猫基地和漫花庄园）"
+  }, 
+  {
+    "hotelId": "6100584", 
+    "hotelName": "宜必思成都火车东站酒店", 
+    "hotelAddressShort": "四川省成都市成华区建材路18号"
+  }, 
+  {
+    "hotelId": "8916411", 
+    "hotelName": "汉庭优佳成都春熙路太古里新店", 
+    "hotelAddressShort": "成都市锦江区春熙路西段19号4层"
+  }, 
+  {
+    "hotelId": "9007434", 
+    "hotelName": "全季成都龙泉经开区汽车城酒店", 
+    "hotelAddressShort": "车城东四路333号"
+  }, 
+  {
+    "hotelId": "8000010", 
+    "hotelName": "全季成都环球中心酒店", 
+    "hotelAddressShort": "益州大道北段777号3栋"
+  }, 
+  {
+    "hotelId": "9004262", 
+    "hotelName": "全季成都九眼桥城市音乐厅酒店", 
+    "hotelAddressShort": "九眼桥南老马路15号"
+  }, 
+  {
+    "hotelId": "6102131", 
+    "hotelName": "汉庭成都华阳酒店", 
+    "hotelAddressShort": "成都市天府新区华阳街道华新上街77号"
+  }, 
+  {
+    "hotelId": "6100724", 
+    "hotelName": "宜必思成都宽窄巷子西店", 
+    "hotelAddressShort": "四川省成都市青羊区石人南路30号"
+  }, 
+  {
+    "hotelId": "6101991", 
+    "hotelName": "汉庭成都龙泉驿酒店", 
+    "hotelAddressShort": "龙泉驿区龙都南路199号"
+  }, 
+  {
+    "hotelId": "9008994", 
+    "hotelName": "全季成都西博城科学城中路酒店", 
+    "hotelAddressShort": "天府新区创意路1975号"
+  }, 
+  {
+    "hotelId": "8000394", 
+    "hotelName": "汉庭优佳成都武侯簇桥地铁站酒店", 
+    "hotelAddressShort": "武侯区金履二路452号1栋"
+  }, 
+  {
+    "hotelId": "6105041", 
+    "hotelName": "全季成都大丰石犀公园酒店", 
+    "hotelAddressShort": "大丰街道蓉北路二段168号圣迈德广场"
+  }, 
+  {
+    "hotelId": "9004103", 
+    "hotelName": "怡莱精品成都锦华万达川师大酒店", 
+    "hotelAddressShort": "成都市锦江区经天西路17号"
+  }, 
+  {
+    "hotelId": "9010583", 
+    "hotelName": "你好成都犀浦百草路地铁站酒店", 
+    "hotelAddressShort": "犀浦镇粮河路519号11栋1单元1楼"
+  }, 
+  {
+    "hotelId": "9021065", 
+    "hotelName": "桔子成都天府国际机场简阳酒店", 
+    "hotelAddressShort": "简城街道万汇中心7#楼A座106"
+  }, 
+  {
+    "hotelId": "9009684", 
+    "hotelName": "全季成都红星桥酒店", 
+    "hotelAddressShort": "建设北路一段99号"
+  }, 
+  {
+    "hotelId": "9004067", 
+    "hotelName": "怡莱成都郫县竹韵府酒店", 
+    "hotelAddressShort": "四川成都市郫都区德源镇滨清路180号"
+  }, 
+  {
+    "hotelId": "9018129", 
+    "hotelName": "汉庭成都高新天府三街酒店", 
+    "hotelAddressShort": "天府三街1166号(大源地铁站C口步行290米)"
+  }, 
+  {
+    "hotelId": "6100422", 
+    "hotelName": "汉庭成都领馆区人民南路酒店", 
+    "hotelAddressShort": "四川省成都市武侯区盛隆街5号"
+  }, 
+  {
+    "hotelId": "9003984", 
+    "hotelName": "全季成都火车南站西路酒店", 
+    "hotelAddressShort": "新盛路16号1栋1号1层"
+  }, 
+  {
+    "hotelId": "6100418", 
+    "hotelName": "全季成都新会展中心酒店（质量整改）", 
+    "hotelAddressShort": "世纪城路166号西蜀廊桥11栋"
+  }, 
+  {
+    "hotelId": "9001937", 
+    "hotelName": "星程成都建设路sm广场酒店", 
+    "hotelAddressShort": "建兴路76号(二环高架路与建兴路向东50米交叉口汇富大厦）"
+  }, 
+  {
+    "hotelId": "9022336", 
+    "hotelName": "你好成都双流国际机场酒店", 
+    "hotelAddressShort": "成都市双流区长江路2段14号"
+  }
+]

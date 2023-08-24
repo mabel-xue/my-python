@@ -1,0 +1,3902 @@
+[
+  {
+    "hotelId": "9000090",
+    "hotelName": "上海万源诺富特酒店",
+    "hotelAddressShort": "上海市闵行区万源路599号1号楼"
+  },
+  {
+    "hotelId": "9000742",
+    "hotelName": "上海临港美爵酒店",
+    "hotelAddressShort": "上海市奉贤区云樱路288号"
+  },
+  {
+    "hotelId": "9003239",
+    "hotelName": "上海新国际博览中心城际酒店",
+    "hotelAddressShort": "浦东新区兰花路308号云汇天地A座5楼"
+  },
+  {
+    "hotelId": "8000195",
+    "hotelName": "上海外滩豫园美居酒店",
+    "hotelAddressShort": "复兴东路 789号"
+  },
+  {
+    "hotelId": "9011076",
+    "hotelName": "上海金桥佳友美居酒店",
+    "hotelAddressShort": "新金桥路159号B栋"
+  },
+  {
+    "hotelId": "9016428",
+    "hotelName": "上海长兴宋品酒店",
+    "hotelAddressShort": "上海市崇明区长兴镇兴鹊路66号"
+  },
+  {
+    "hotelId": "9016588",
+    "hotelName": "你好上海朱家角古镇酒店",
+    "hotelAddressShort": "朱家角镇新风路258弄2号1-2层（12）室、258弄2号1-2层（14）室、258弄2号1-3层（08）室、258弄2号109室、258弄2号111室、258弄2号113室"
+  },
+  {
+    "hotelId": "9008266",
+    "hotelName": "上海国际旅游度假区美仑酒店",
+    "hotelAddressShort": "浦东新区南六公路371.373号（迪士尼免费班车接送：17701658813）"
+  },
+  {
+    "hotelId": "9001864",
+    "hotelName": "桔子水晶上海外滩豫园酒店",
+    "hotelAddressShort": "人民路399号"
+  },
+  {
+    "hotelId": "9000994",
+    "hotelName": "上海淮海公馆漫心府",
+    "hotelAddressShort": "上海市茂名南路133弄22号"
+  },
+  {
+    "hotelId": "9001710",
+    "hotelName": "桔子水晶上海虹桥枢纽火车站酒店",
+    "hotelAddressShort": "上海市闵行区申长路568号"
+  },
+  {
+    "hotelId": "8000149",
+    "hotelName": "上海证大美爵酒店",
+    "hotelAddressShort": "上海浦东新区迎春路1199号"
+  },
+  {
+    "hotelId": "2017032",
+    "hotelName": "上海虹桥夏都小镇漫心府",
+    "hotelAddressShort": "青浦区徐泾镇谢卫路1289号夏都小镇D区"
+  },
+  {
+    "hotelId": "8000288",
+    "hotelName": "全季上海外滩宁波路酒店",
+    "hotelAddressShort": "宁波路50号（地铁10号，2号线南京东路地铁站6号口出来右拐直走200米浦发银行旁）"
+  },
+  {
+    "hotelId": "2017011",
+    "hotelName": "上海虹桥诺富特全套房酒店",
+    "hotelAddressShort": "上海市青浦区沪青平公路1583号"
+  },
+  {
+    "hotelId": "2000026",
+    "hotelName": "全季上海外滩金陵东路酒店",
+    "hotelAddressShort": "河南南路33号豫园地铁站(10/14号线:1号口/5号口对面步行1分钟）"
+  },
+  {
+    "hotelId": "9007516",
+    "hotelName": "上海松江云间粮仓漫心府",
+    "hotelAddressShort": "松金公路10053号东17号"
+  },
+  {
+    "hotelId": "9000461",
+    "hotelName": "上海外滩花间堂·愉园",
+    "hotelAddressShort": "上海市黄浦区人民路386号"
+  },
+  {
+    "hotelId": "9016713",
+    "hotelName": "上海陆家嘴美居酒店",
+    "hotelAddressShort": "浦东大道1535号中石化大厦"
+  },
+  {
+    "hotelId": "9001257",
+    "hotelName": "上海虹桥美仑美奂酒店",
+    "hotelAddressShort": "上海市闵行区上坤路77弄9号"
+  },
+  {
+    "hotelId": "8916645",
+    "hotelName": "桔子水晶上海外滩四川北路酒店",
+    "hotelAddressShort": "四川北路888号"
+  },
+  {
+    "hotelId": "2000023",
+    "hotelName": "全季上海外滩南京东路步行街酒店",
+    "hotelAddressShort": "南京东路720号近广西北路（距地铁2号线8号线人民广场站14号口400米，步行6分钟）"
+  },
+  {
+    "hotelId": "8916139",
+    "hotelName": "上海世博前滩美居酒店",
+    "hotelAddressShort": "泳耀路480号"
+  },
+  {
+    "hotelId": "9002088",
+    "hotelName": "全季上海人民广场北京西路酒店",
+    "hotelAddressShort": "成都北路611号（距13号线自然博物馆1号口687米，步行10分钟）"
+  },
+  {
+    "hotelId": "2000032",
+    "hotelName": "全季上海外滩九江路酒店",
+    "hotelAddressShort": "九江路230号（距2、10号线南京东路2号口150米，步行4分钟）"
+  },
+  {
+    "hotelId": "2000315",
+    "hotelName": "上海张江CitiGO欢阁酒店X",
+    "hotelAddressShort": "上海市浦东新区申江路5800号"
+  },
+  {
+    "hotelId": "9000294",
+    "hotelName": "桔子水晶上海外滩金陵东路酒店",
+    "hotelAddressShort": "黄浦区金陵东路511号大世界地铁站"
+  },
+  {
+    "hotelId": "9011362",
+    "hotelName": "桔子上海外滩中山南路酒店",
+    "hotelAddressShort": "南仓街118号"
+  },
+  {
+    "hotelId": "9000673",
+    "hotelName": "上海外滩老码头CitiGO欢阁酒店",
+    "hotelAddressShort": "中山南路891号(地铁4号线南浦大桥1号口800米，步行10分钟）"
+  },
+  {
+    "hotelId": "2001274",
+    "hotelName": "上海陆家嘴滨江禧玥酒店",
+    "hotelAddressShort": "上海市浦东新区浦明路868弄"
+  },
+  {
+    "hotelId": "9000653",
+    "hotelName": "全季上海外滩四川中路酒店",
+    "hotelAddressShort": "四川中路607号（距2.10号线南京东路6号口540米.12号线天潼路3号口600米）"
+  },
+  {
+    "hotelId": "2000006",
+    "hotelName": "上海外高桥自贸区美居酒店",
+    "hotelAddressShort": "基隆路99号二号楼"
+  },
+  {
+    "hotelId": "9013222",
+    "hotelName": "桔子水晶上海安亭酒店",
+    "hotelAddressShort": "曹安公路5676号"
+  },
+  {
+    "hotelId": "9003676",
+    "hotelName": "汉庭上海陆家嘴福山路酒店",
+    "hotelAddressShort": "乳山路235弄26号"
+  },
+  {
+    "hotelId": "8000295",
+    "hotelName": "上海环球港湾美居酒店",
+    "hotelAddressShort": "凯旋北路1305号"
+  },
+  {
+    "hotelId": "9015216",
+    "hotelName": "海友上海徐家汇宜山路酒店",
+    "hotelAddressShort": "上海市徐汇区宜山路675号（距离第六人民医院50米，过马路即到。9号线桂林路站1号口出左拐直行600米即到）"
+  },
+  {
+    "hotelId": "2000829",
+    "hotelName": "桔子上海公平路北外滩酒店",
+    "hotelAddressShort": "公平路369号（地铁12号线提篮桥4号口出右转直行150米，步行3分钟即可到达）"
+  },
+  {
+    "hotelId": "9000579",
+    "hotelName": "桔子水晶上海大学大场酒店",
+    "hotelAddressShort": "上海市宝山区大场镇场中路4098弄37号"
+  },
+  {
+    "hotelId": "9005308",
+    "hotelName": "桔子水晶上海长风商务区酒店",
+    "hotelAddressShort": "泸定路46弄2号"
+  },
+  {
+    "hotelId": "9001405",
+    "hotelName": "全季上海青浦朱家角酒店",
+    "hotelAddressShort": "青浦区漕平路26号（距离17号朱家角地铁站650米，步行10分钟左右。距离朱家角古镇900米，步行15分钟左右。）"
+  },
+  {
+    "hotelId": "9011408",
+    "hotelName": "全季上海国际旅游度假区崇溪路酒店",
+    "hotelAddressShort": "上海市浦东新区六灶镇崇溪路111弄91号"
+  },
+  {
+    "hotelId": "9004066",
+    "hotelName": "全季上海斜土东路酒店",
+    "hotelAddressShort": "斜土东路197号（距8号线9号线陆家浜路站2号口500米，步行5分钟）"
+  },
+  {
+    "hotelId": "9011077",
+    "hotelName": "上海金桥佳友CitiGO欢阁酒店",
+    "hotelAddressShort": "浦东新区新金桥路159号"
+  },
+  {
+    "hotelId": "2001201",
+    "hotelName": "汉庭上海八佰伴浦电路地铁站酒店",
+    "hotelAddressShort": "浦东新区崂山路708号（地铁6号线4号口出，左转直走300米即可到达）"
+  },
+  {
+    "hotelId": "8000179",
+    "hotelName": "海友上海南京东路地铁站酒店",
+    "hotelAddressShort": "上海市黄浦区宁波路201号（距南京东路10/2号线6号口出163m，步行1分钟）"
+  },
+  {
+    "hotelId": "2012993",
+    "hotelName": "上海浦东机场川沙CitiGO欢阁酒店",
+    "hotelAddressShort": "川沙镇车站路98号（距离川沙古镇300米左右）"
+  },
+  {
+    "hotelId": "9001222",
+    "hotelName": "上海古北禧玥酒店",
+    "hotelAddressShort": "上海长宁区红宝石路188号古北SOHO B幢(近伊犁路10号线地铁站)"
+  },
+  {
+    "hotelId": "9011638",
+    "hotelName": "桔子水晶上海陆家嘴金融中心酒店",
+    "hotelAddressShort": "上海市浦东新区潍坊路328号"
+  },
+  {
+    "hotelId": "9001100",
+    "hotelName": "全季上海徐家汇酒店",
+    "hotelAddressShort": "肇嘉浜路1065号（距地铁1号线、9号线、11号线徐家汇站10号口367米，步行5分钟）"
+  },
+  {
+    "hotelId": "2011051",
+    "hotelName": "汉庭上海虹桥机场酒店",
+    "hotelAddressShort": "长宁区沪青平公路58号近延安西路立交桥下（距虹桥1号航站楼10号线1.3km）"
+  },
+  {
+    "hotelId": "9004002",
+    "hotelName": "全季上海陆家嘴张杨路酒店",
+    "hotelAddressShort": "浦东南路1271-1289号"
+  },
+  {
+    "hotelId": "8000488",
+    "hotelName": "全季上海人民广场福州路酒店",
+    "hotelAddressShort": "浙江中路142号（距地铁2号线、8号线人民广场站14号口500米，步行7分钟）"
+  },
+  {
+    "hotelId": "8000461",
+    "hotelName": "全季上海人民广场酒店",
+    "hotelAddressShort": "西藏中路500号思源商厦9楼/近凤阳路(距1,2,8号线人民广场5,6,7,19号口,步行3min)"
+  },
+  {
+    "hotelId": "2012021",
+    "hotelName": "汉庭上海国际旅游度假区酒店",
+    "hotelAddressShort": "周祝公路2445号（近南六公路十字口，距离迪士尼5公里，公交浦东99路、浦东93路，南新专线、628、浦东51路、川沙5路到六灶下车往东100米，到达酒店）"
+  },
+  {
+    "hotelId": "2000827",
+    "hotelName": "桔子水晶上海北外滩酒店",
+    "hotelAddressShort": "虹口区东大名路1191号"
+  },
+  {
+    "hotelId": "9000583",
+    "hotelName": "桔子水晶上海五角场酒店",
+    "hotelAddressShort": "宝山区三门路497号6幢"
+  },
+  {
+    "hotelId": "9003384",
+    "hotelName": "桔子水晶上海五角场大柏树酒店",
+    "hotelAddressShort": "上海虹口区曲阳路721号"
+  },
+  {
+    "hotelId": "8000242",
+    "hotelName": "上海虹桥中心美居酒店",
+    "hotelAddressShort": "虹许路368号（距离9号线漕河泾开发区站1号口1300米，步行15分钟）"
+  },
+  {
+    "hotelId": "2013006",
+    "hotelName": "桔子水晶上海临港海洋公园酒店",
+    "hotelAddressShort": "夏栎路330弄48号"
+  },
+  {
+    "hotelId": "8000212",
+    "hotelName": "桔子水晶上海国际旅游度假区康桥酒店",
+    "hotelAddressShort": "浦东新区康桥路1789号"
+  },
+  {
+    "hotelId": "2012992",
+    "hotelName": "桔子水晶上海国际旅游度假区川沙酒店",
+    "hotelAddressShort": "妙境路1328号"
+  },
+  {
+    "hotelId": "8000340",
+    "hotelName": "上海徐家汇CitiGO欢阁酒店",
+    "hotelAddressShort": "肇嘉浜路1029弄88号（距地铁1号线、9号线、11号线徐家汇站10号口530米，步行8分钟）"
+  },
+  {
+    "hotelId": "2021502",
+    "hotelName": "星程上海崇明南门酒店",
+    "hotelAddressShort": "城桥镇南门路178号（南门路和八一路步行交叉口）"
+  },
+  {
+    "hotelId": "9006693",
+    "hotelName": "全季上海人民广场南京路酒店",
+    "hotelAddressShort": "重庆北路212号靠近威海路(距2号线人民广场11号口700米，步行10分钟）"
+  },
+  {
+    "hotelId": "9003551",
+    "hotelName": "桔子水晶上海国际旅游度假区野生动物园酒店",
+    "hotelAddressShort": "上海市浦东新区惠南镇听潮南路1号"
+  },
+  {
+    "hotelId": "4500523",
+    "hotelName": "汉庭上海大宁音乐广场新店",
+    "hotelAddressShort": "延长西路25号国药大学斜对面（距地铁1号线延长路站1号口1.3km，步行10-15分钟）"
+  },
+  {
+    "hotelId": "2011088",
+    "hotelName": "上海光大会展中心美居酒店",
+    "hotelAddressShort": "沪闵路9505号"
+  },
+  {
+    "hotelId": "8916345",
+    "hotelName": "全季上海浦东机场自贸区酒店",
+    "hotelAddressShort": "施湾六路566号2幢"
+  },
+  {
+    "hotelId": "8000652",
+    "hotelName": "全季上海体育场酒店",
+    "hotelAddressShort": "中山南二路龙山新村54号（距4号线上海体育场3号口370米，步行5分钟）"
+  },
+  {
+    "hotelId": "8916703",
+    "hotelName": "桔子上海虹桥枢纽火车站酒店",
+    "hotelAddressShort": "上海市闵行区申长路568号"
+  },
+  {
+    "hotelId": "9003114",
+    "hotelName": "桔子水晶上海陆家嘴世博中心酒店",
+    "hotelAddressShort": "上海浦东新区浦建路15号"
+  },
+  {
+    "hotelId": "8000271",
+    "hotelName": "上海虹桥国展美居酒店",
+    "hotelAddressShort": "青浦区蟠龙路666号"
+  },
+  {
+    "hotelId": "8915662",
+    "hotelName": "全季上海陆家浜路地铁站酒店",
+    "hotelAddressShort": "陆家浜路1088号（距9号线陆家浜路6号口70米，步行1分钟））"
+  },
+  {
+    "hotelId": "9005384",
+    "hotelName": "星程上海国际旅游度假区秀浦路酒店",
+    "hotelAddressShort": "康桥镇秀浦路3999弄聚诚创业园22号楼【提供迪士尼免费早晚班车接送和停车场】"
+  },
+  {
+    "hotelId": "8000201",
+    "hotelName": "桔子水晶上海漕河泾宜山路酒店",
+    "hotelAddressShort": "徐汇区宜山路829号"
+  },
+  {
+    "hotelId": "9006025",
+    "hotelName": "汉庭上海徐家汇宜山路酒店",
+    "hotelAddressShort": "钦州北路68号（距9号线宜山路站9号口400米，步行5分钟）"
+  },
+  {
+    "hotelId": "9004609",
+    "hotelName": "海友上海外滩延安东路酒店",
+    "hotelAddressShort": "江西南路29号(距离10号线和14号线豫园6号口100米，步行1分钟）"
+  },
+  {
+    "hotelId": "8915833",
+    "hotelName": "桔子水晶上海虹桥枢纽国展中心酒店",
+    "hotelAddressShort": "繁兴路99号"
+  },
+  {
+    "hotelId": "9014800",
+    "hotelName": "汉庭上海静安寺酒店",
+    "hotelAddressShort": "上海市静安区武定路1058号（地铁2号线静安寺站2号口出步行10分钟；地铁7号线昌平路站3号出口步行6分钟；距离华山医院、儿童医院打车起步价）"
+  },
+  {
+    "hotelId": "9009775",
+    "hotelName": "汉庭上海同济大学四平路酒店",
+    "hotelAddressShort": "四平路777号（距地铁8/10号线四平路站1号口300米，步行3分钟）"
+  },
+  {
+    "hotelId": "2000809",
+    "hotelName": "桔子上海虹口足球场酒店",
+    "hotelAddressShort": "广中街道花园路30号（地铁8号线虹口足球场站7号出口，面朝龙之梦左转20米，步行2分钟）"
+  },
+  {
+    "hotelId": "2000312",
+    "hotelName": "海友上海淮海中路酒店(升级中)",
+    "hotelAddressShort": "徐汇区乌鲁木齐中路247号2楼（地铁1/7号线常熟路站8号出口步行300米）"
+  },
+  {
+    "hotelId": "2016156",
+    "hotelName": "上海虹桥九亭天地美居酒店",
+    "hotelAddressShort": "上海市松江区九亭镇蒲汇路178弄5号楼"
+  },
+  {
+    "hotelId": "9008647",
+    "hotelName": "汉庭上海红宝石路地铁站酒店",
+    "hotelAddressShort": "古北路1000号, 伦敦广场院内右转至酒店 （距15号线红宝石路站2号口191米，步行3分钟）"
+  },
+  {
+    "hotelId": "9009605",
+    "hotelName": "宜必思上海国际旅游度假区秀浦路酒店",
+    "hotelAddressShort": "上海市浦东新区秀浦路3188弄25号"
+  },
+  {
+    "hotelId": "2000811",
+    "hotelName": "汉庭上海四川北路东宝兴路地铁站酒店",
+    "hotelAddressShort": "上海虹口区四川北路1800号汉庭酒店4楼（地铁3号线东宝兴路站1号出口，往右步行5分钟至四川北路左转即到"
+  },
+  {
+    "hotelId": "2000519",
+    "hotelName": "汉庭上海虹桥路地铁站酒店",
+    "hotelAddressShort": "长宁区中山西路1257号（距地铁3/4/10号线虹桥路站6号口574米，步行7-10分钟）"
+  },
+  {
+    "hotelId": "9014457",
+    "hotelName": "汉庭上海祁连山南路地铁站酒店",
+    "hotelAddressShort": "上海市普陀区金沙江路2123号"
+  },
+  {
+    "hotelId": "2000861",
+    "hotelName": "汉庭优佳上海北外滩海伦路地铁站酒店",
+    "hotelAddressShort": "天水路90号(地铁4/10号线海伦路站1号口100米，步行2分钟)"
+  },
+  {
+    "hotelId": "9014506",
+    "hotelName": "汉庭上海静安寺中心酒店(原静安寺新店)",
+    "hotelAddressShort": "上海市静安区万航渡路529号(14号线武定路站2号出口60米，距离华山医院1.3公里）"
+  },
+  {
+    "hotelId": "2000016",
+    "hotelName": "海友上海外滩南京路步行街酒店（质量整改）",
+    "hotelAddressShort": "黄浦区福建中路225号五楼(距南京东路10/2线4号口529m）"
+  },
+  {
+    "hotelId": "9003335",
+    "hotelName": "汉庭上海五角场长海医院酒店",
+    "hotelAddressShort": "杨浦区嫩江路2512号（8号线嫩江路站4号出口右转沿嫩江路直走700米，步行10分钟）"
+  },
+  {
+    "hotelId": "2000406",
+    "hotelName": "全季上海静安寺康定路酒店",
+    "hotelAddressShort": "康定路1018号（距14号线武定路地铁站3号口800米，步行10分钟）"
+  },
+  {
+    "hotelId": "9007449",
+    "hotelName": "全季上海陆家嘴民生路酒店",
+    "hotelAddressShort": "商城路2142号(6号线民生路地铁站1号口步行420米）"
+  },
+  {
+    "hotelId": "9000930",
+    "hotelName": "全季上海人民广场福建中路酒店",
+    "hotelAddressShort": "福建中路225号（地铁2、10号线南京东路站4号口出，步行300米约5分钟）"
+  },
+  {
+    "hotelId": "2004424",
+    "hotelName": "海友上海李子园酒店",
+    "hotelAddressShort": "上海市普陀区武威东路788弄53号（距地铁15号线武威东路站3号口460米，步行7分钟）"
+  },
+  {
+    "hotelId": "2018007",
+    "hotelName": "桔子上海江桥曹安公路酒店",
+    "hotelAddressShort": "曹安路1980号（距离14号线定边路站3号口450米，步行8分钟）"
+  },
+  {
+    "hotelId": "2003358",
+    "hotelName": "上海虹桥高铁瑞衡美居酒店",
+    "hotelAddressShort": "申虹路683弄协信中心5号楼"
+  },
+  {
+    "hotelId": "2000014",
+    "hotelName": "汉庭上海人民广场酒店",
+    "hotelAddressShort": "黄浦区延安东路343号（8号线大世界站1号口出后沿西藏南路往北走至延安高架路右转直走350米）"
+  },
+  {
+    "hotelId": "8000524",
+    "hotelName": "桔子水晶上海陆家嘴东方明珠酒店",
+    "hotelAddressShort": "东方路8号"
+  },
+  {
+    "hotelId": "9000097",
+    "hotelName": "全季上海人民广场成都北路酒店",
+    "hotelAddressShort": "成都北路600号靠近凤阳路（距长征医院100米、距地铁1、2、8号线人民广场站700米）"
+  },
+  {
+    "hotelId": "9000520",
+    "hotelName": "全季上海外滩山东中路酒店",
+    "hotelAddressShort": "山东中路300号（近九江路口，地铁2号线，10号线南京东路3号出口左拐50米即到）"
+  },
+  {
+    "hotelId": "2000305",
+    "hotelName": "汉庭上海徐家汇中心酒店(原徐家汇南丹东路店)",
+    "hotelAddressShort": "南丹东路111号(距11、1、9号线地铁徐家汇站700m，步行5分钟）"
+  },
+  {
+    "hotelId": "9000571",
+    "hotelName": "汉庭上海豫园小南门酒店",
+    "hotelAddressShort": "黄浦区金坛路30号(距9号线小南门站3号口284米。步行3分钟）"
+  },
+  {
+    "hotelId": "9003525",
+    "hotelName": "汉庭上海陆家嘴东方明珠新店",
+    "hotelAddressShort": "浦东新区崂山路147号 （距二号线东昌路2号口红绿灯南泉北路方向约700米步行8分钟）"
+  },
+  {
+    "hotelId": "9010509",
+    "hotelName": "全季上海陆家嘴北洋泾路地铁站酒店",
+    "hotelAddressShort": "崮山路500号"
+  },
+  {
+    "hotelId": "2018993",
+    "hotelName": "上海嘉定禧玥酒店",
+    "hotelAddressShort": "上海市嘉定区博乐路100号"
+  },
+  {
+    "hotelId": "2004441",
+    "hotelName": "汉庭优佳上海大学地铁站酒店",
+    "hotelAddressShort": "宝山区锦秋路839号(距地铁7号线3号口200米，步行1分钟)"
+  },
+  {
+    "hotelId": "9001412",
+    "hotelName": "全季上海新天地西藏南路酒店",
+    "hotelAddressShort": "西藏南路889号（距8/9号线陆家浜地铁站1号口153米步行1分钟、靠近大林路）"
+  },
+  {
+    "hotelId": "9012071",
+    "hotelName": "上海浦江联航路CitiGO欢阁酒店",
+    "hotelAddressShort": "浦江镇三鲁公路2999号"
+  },
+  {
+    "hotelId": "9000035",
+    "hotelName": "汉庭上海世纪大道地铁站酒店",
+    "hotelAddressShort": "福山路289号（距世纪大道地铁站2号口、5号口50米）"
+  },
+  {
+    "hotelId": "8000167",
+    "hotelName": "上海徐家汇禧玥酒店",
+    "hotelAddressShort": "上海市徐汇区蒲汇塘路118号"
+  },
+  {
+    "hotelId": "8000520",
+    "hotelName": "上海陆家嘴东方明珠CitiGO欢阁酒店",
+    "hotelAddressShort": "上海浦东新区商城路357号"
+  },
+  {
+    "hotelId": "2002336",
+    "hotelName": "汉庭上海桂林路地铁站酒店",
+    "hotelAddressShort": "桂林路656号近钦州北路（15号线桂林路站3号口步行200米，9号线4号口步行约6分钟）"
+  },
+  {
+    "hotelId": "2000119",
+    "hotelName": "全季上海外滩城隍庙酒店",
+    "hotelAddressShort": "复兴东路673号（8号线老西门7号口/10号线豫园站3号口直行800米左右）"
+  },
+  {
+    "hotelId": "2000726",
+    "hotelName": "汉庭上海大宁灵石公园酒店",
+    "hotelAddressShort": "静安区运城路623号-1号（距离大宁音乐广场1.2公里，步行约15分钟；距离大宁郁金香公园300米，约5分钟）"
+  },
+  {
+    "hotelId": "2000523",
+    "hotelName": "海友上海徐汇交大酒店",
+    "hotelAddressShort": "上海市长宁区安顺路8号（距3.4.10号线虹桥路站500米，4号口出来左转直走至安顺路即可到达）"
+  },
+  {
+    "hotelId": "9012343",
+    "hotelName": "汉庭上海黄兴路地铁站酒店",
+    "hotelAddressShort": " 靖宇南路3号(距离8号线黄兴路站4号口50米，步行不到1分钟）"
+  },
+  {
+    "hotelId": "9013194",
+    "hotelName": "汉庭上海青浦朱家角古镇酒店",
+    "hotelAddressShort": " 青浦区朱家角镇祥凝浜路15弄10号（距离朱家角古镇入口942米，步行9分钟）"
+  },
+  {
+    "hotelId": "8000504",
+    "hotelName": "上海虹桥漕河泾美居酒店",
+    "hotelAddressShort": "上海市闵行区虹莘路3065号"
+  },
+  {
+    "hotelId": "2000031",
+    "hotelName": "汉庭上海人民广场大沽路酒店",
+    "hotelAddressShort": "重庆北路178号(距离人民广场地铁站11号口1000米左右）"
+  },
+  {
+    "hotelId": "8000588",
+    "hotelName": "汉庭上海延安西路地铁站酒店（原天山路店）",
+    "hotelAddressShort": "中山西路743号（近3/4号线延安西路地铁站2号口390米，步行6分钟）"
+  },
+  {
+    "hotelId": "2000306",
+    "hotelName": "海友上海徐家汇宛平南路酒店",
+    "hotelAddressShort": "徐汇区宛平南路968弄32号3楼（地铁7/12号线龙华中路站6号出口左转直行10分钟即到）"
+  },
+  {
+    "hotelId": "9001246",
+    "hotelName": "全季上海虹桥古北财富中心酒店",
+    "hotelAddressShort": "上海市红宝石路188号古北sohoB座(距地铁10号线伊犁路3号口200米，步行5分钟）"
+  },
+  {
+    "hotelId": "9009011",
+    "hotelName": "汉庭上海松江大学城酒店",
+    "hotelAddressShort": "新松江路1292弄126号（在东明广场内，轻轨电车2号线到达江学路）"
+  },
+  {
+    "hotelId": "2001226",
+    "hotelName": "汉庭上海陆家嘴民生路地铁站酒店",
+    "hotelAddressShort": "张杨路1685号(6号线民生路站1号口出步行50米；18号线民生路站4号口出步行300米)"
+  },
+  {
+    "hotelId": "2018213",
+    "hotelName": "汉庭上海嘉定新城白银路地铁站酒店",
+    "hotelAddressShort": "嘉定区崇信路1501号(距地铁11号线白银路站2号口500米，步行6分钟）"
+  },
+  {
+    "hotelId": "2019066",
+    "hotelName": "桔子水晶上海大华沪太路酒店",
+    "hotelAddressShort": "沪太路1777号"
+  },
+  {
+    "hotelId": "8000283",
+    "hotelName": "海友上海徐家汇酒店",
+    "hotelAddressShort": "上海市徐汇区斜土路2422号（距4号线2号口上海体育场站714米，步行6分钟）"
+  },
+  {
+    "hotelId": "9016120",
+    "hotelName": "汉庭上海徐家汇交大宜山路酒店",
+    "hotelAddressShort": "宜山路250弄12号(距地铁宜山路站4号线3号口、3号线2号口、9号线7号口300米)"
+  },
+  {
+    "hotelId": "9005417",
+    "hotelName": "汉庭上海罗店古镇酒店",
+    "hotelAddressShort": "市一路188号（罗溪路市一路交叉口紧邻宝山寺、震旦学院、宝山罗店医院）"
+  },
+  {
+    "hotelId": "9011400",
+    "hotelName": "汉庭上海友谊路地铁站酒店",
+    "hotelAddressShort": "宝山区盘古路727号7号楼、8号楼（3号线友谊路地铁站1号口出站，向北至盘古路后向西700米即可到达酒店）"
+  },
+  {
+    "hotelId": "9000923",
+    "hotelName": "全季上海江湾镇地铁站酒店",
+    "hotelAddressShort": "逸仙路661号（距离地铁3号线江湾镇站5号出口437米，步行7分钟）"
+  },
+  {
+    "hotelId": "9020124",
+    "hotelName": "汉庭上海宜山路中心酒店",
+    "hotelAddressShort": "上海市徐汇区钦州北路68号A幢"
+  },
+  {
+    "hotelId": "9000697",
+    "hotelName": "宜必思尚品上海虹桥古北酒店",
+    "hotelAddressShort": "闵行区虹许路486号(地铁10号线水城路站1号口，15号线姚虹路3号口站步行15分钟）"
+  },
+  {
+    "hotelId": "8000368",
+    "hotelName": "上海虹桥万象城CitiGO欢阁酒店",
+    "hotelAddressShort": "金汇路465号（距10号线龙柏新村站2号口300米，步行3分钟)"
+  },
+  {
+    "hotelId": "8000386",
+    "hotelName": "全季上海北新泾地铁站酒店",
+    "hotelAddressShort": "哈密路388号(近新渔路，距地铁2号线北新泾地铁站2号口400米，步行5分钟）"
+  },
+  {
+    "hotelId": "2018031",
+    "hotelName": "汉庭上海江桥嘉怡路地铁站酒店",
+    "hotelAddressShort": "嘉定区嘉怡路333弄37号（近海川路，地铁14号线嘉怡路站1号口步行至酒店约6分钟，嘉尚坊停车场入口“星巴克和优客超市”门口进入，地库出口旁的通道往上通酒店后门）"
+  },
+  {
+    "hotelId": "9009408",
+    "hotelName": "全季上海滴水湖云鹃路酒店",
+    "hotelAddressShort": "上海市浦东新区云鹃路795号"
+  },
+  {
+    "hotelId": "9001460",
+    "hotelName": "汉庭优佳上海世纪大道地铁站酒店",
+    "hotelAddressShort": "张杨路998号（距世纪大道地铁站2、4、6、9号线A厅2号口出步行仅需2分钟）"
+  },
+  {
+    "hotelId": "9010545",
+    "hotelName": "桔子上海淮海中路十号名邸酒店",
+    "hotelAddressShort": "宝庆路10号7号楼(距离1号线7号线常熟站4号口200米，步行3分钟;10号线上海图书馆站2号口800米，步行10分钟）"
+  },
+  {
+    "hotelId": "9021432",
+    "hotelName": "桔子上海崇明长兴岛酒店",
+    "hotelAddressShort": "崇明区长兴镇渔翔路896号1-6层（渔翔路和圆芳路交叉口）"
+  },
+  {
+    "hotelId": "9009792",
+    "hotelName": "你好上海江宁路地铁站酒店",
+    "hotelAddressShort": "普陀区昌化路926号（地铁13号线江宁路地铁站1号口出即达,距上海火车站仅1站路）"
+  },
+  {
+    "hotelId": "2002325",
+    "hotelName": "海友良品上海徐家汇宛平南路酒店(升级中)",
+    "hotelAddressShort": "上海市徐汇区宛平南路737号（4号、7号线东安路站2号口出直行至第一个红绿灯左拐直行300米即到）"
+  },
+  {
+    "hotelId": "8916253",
+    "hotelName": "桔子水晶上海虹桥金汇路酒店",
+    "hotelAddressShort": "金汇路469号"
+  },
+  {
+    "hotelId": "2012026",
+    "hotelName": "桔子上海浦东机场酒店",
+    "hotelAddressShort": "施湾六路566号(浦东机场接送机电话13701616386）"
+  },
+  {
+    "hotelId": "2012994",
+    "hotelName": "桔子上海川沙酒店",
+    "hotelAddressShort": "新川路351号"
+  },
+  {
+    "hotelId": "2001353",
+    "hotelName": "汉庭上海新金桥酒店",
+    "hotelAddressShort": "新金桥路230号"
+  },
+  {
+    "hotelId": "8000297",
+    "hotelName": "上海徐家汇漫心酒店",
+    "hotelAddressShort": "裕德路45号"
+  },
+  {
+    "hotelId": "2003357",
+    "hotelName": "上海携程美居酒店",
+    "hotelAddressShort": "福泉路99号"
+  },
+  {
+    "hotelId": "9004663",
+    "hotelName": "全季上海通河新村地铁站酒店",
+    "hotelAddressShort": "纪蕰路38号(距1号线通河新村4号口100米，步行2分钟）"
+  },
+  {
+    "hotelId": "9001060",
+    "hotelName": "全季上海丰庄祁连山南路酒店",
+    "hotelAddressShort": "祁连山南路1888号（距13号线祁连山南路站1号口1400米,步行22分钟）"
+  },
+  {
+    "hotelId": "9001048",
+    "hotelName": "汉庭优佳上海娄山关路地铁站酒店",
+    "hotelAddressShort": "长宁区娄山关路470弄2号（娄山关路地铁2号口左转200米）"
+  },
+  {
+    "hotelId": "9001113",
+    "hotelName": "全季上海梅陇万辉国际广场酒店",
+    "hotelAddressShort": "罗锦路118号（紧邻万辉国际广场）"
+  },
+  {
+    "hotelId": "9015205",
+    "hotelName": "全季上海徐家汇南丹路酒店",
+    "hotelAddressShort": "徐虹中路20号1幢(距地铁4号线宜山路站5号口50米，步行2分钟）"
+  },
+  {
+    "hotelId": "2000022",
+    "hotelName": "汉庭上海豫园地铁站酒店（原延安东路酒店）",
+    "hotelAddressShort": "四川南路5号（距离豫园地铁站14号线7号口，步行350米，步行3分钟；10号线1号口655米，步行9分钟）"
+  },
+  {
+    "hotelId": "9011222",
+    "hotelName": "桔子水晶上海江桥万达酒店",
+    "hotelAddressShort": "上海市嘉定区鹤旋东路188弄"
+  },
+  {
+    "hotelId": "2000409",
+    "hotelName": "桔子上海静安寺余姚路酒店",
+    "hotelAddressShort": "静安区余姚路417号（距7号线昌平路站5号口684米，步行8分钟；距14号线武宁路站4号口720米，步行10分钟；距13号线武宁路站990米，步行12分钟）"
+  },
+  {
+    "hotelId": "8000370",
+    "hotelName": "桔子上海徐家汇漕宝路地铁站酒店",
+    "hotelAddressShort": "上海市徐汇区钦州路518号(距离1号线/12号线漕宝路站8号地铁口358米，步行约3分钟；距离上海第八人民医院约400米)"
+  },
+  {
+    "hotelId": "9009074",
+    "hotelName": "全季上海中兴路酒店",
+    "hotelAddressShort": "宝昌路517号（地铁8号线西藏北路站2号出口，沿宝昌路步行10分钟至酒店）"
+  },
+  {
+    "hotelId": "2000852",
+    "hotelName": "全季上海外滩天潼路酒店",
+    "hotelAddressShort": "天潼路567号（距12/10号线天潼路3号口5米，步行0.1分钟）"
+  },
+  {
+    "hotelId": "2000603",
+    "hotelName": "全季上海火车站天目西路酒店",
+    "hotelAddressShort": "长安路1001号长安大厦（距1号线上海火车站2号口800米，步行10分钟））"
+  },
+  {
+    "hotelId": "2000118",
+    "hotelName": "海友上海陆家浜路地铁站酒店",
+    "hotelAddressShort": "上海市西藏南路1130号"
+  },
+  {
+    "hotelId": "9000416",
+    "hotelName": "汉庭优佳上海体育场地铁站酒店",
+    "hotelAddressShort": "徐汇区天钥桥路458号4楼（地铁4号线上海体育场站4号口右转至天钥桥路直行200米,步行3分钟））"
+  },
+  {
+    "hotelId": "8000540",
+    "hotelName": "宜必思尚品上海青浦新城地铁站酒店",
+    "hotelAddressShort": "青浦区沙埭浜路35号（地铁17号线青浦新城站3号出口往西南方向步行900米，近浦仓路）"
+  },
+  {
+    "hotelId": "2018221",
+    "hotelName": "汉庭上海嘉定叶城路酒店",
+    "hotelAddressShort": "嘉定区叶城路485号（地铁11号线直达嘉定白银路地铁站1号出口，乘坐嘉定6路在叶城路博乐南路下车即到，沪嘉高速出口左侧300米。）"
+  },
+  {
+    "hotelId": "8916235",
+    "hotelName": "汉庭上海新国际博览中心芳华路酒店",
+    "hotelAddressShort": "浦东新区芳华路苗桐路13号(芳华路苗桐路交叉口；地铁2号、7号、16号到达龙阳站11号出口右转进入白杨路左转直走500米到芳华路左转直走500米即可到达酒店)"
+  },
+  {
+    "hotelId": "9015817",
+    "hotelName": "桔子上海徐家汇体育场酒店",
+    "hotelAddressShort": "上海市徐汇区天钥桥路873号（美晶佳园内）距离地铁4号线上海体育场站3号出口向前直行300米"
+  },
+  {
+    "hotelId": "9009241",
+    "hotelName": "汉庭上海长海医院国和路酒店",
+    "hotelAddressShort": "国和路627号(地铁8号线嫩江路4号口1.1公里)"
+  },
+  {
+    "hotelId": "9023640",
+    "hotelName": "上海浦东张江紫薇路美居酒店(升级中)",
+    "hotelAddressShort": "紫薇路178号、1F-6F"
+  },
+  {
+    "hotelId": "2000702",
+    "hotelName": "汉庭上海火车站酒店",
+    "hotelAddressShort": "静安区秣陵路83号(距1、3、4号线上海火车站站2号口300米，步行5分钟）"
+  },
+  {
+    "hotelId": "9000767",
+    "hotelName": "全季上海南站酒店",
+    "hotelAddressShort": "石龙路839号"
+  },
+  {
+    "hotelId": "9009656",
+    "hotelName": "汉庭上海北外滩控江路酒店",
+    "hotelAddressShort": "打虎山路100号，距离8号线鞍山新村站4号口100米。"
+  },
+  {
+    "hotelId": "2000804",
+    "hotelName": "汉庭上海外滩外白渡桥酒店",
+    "hotelAddressShort": "虹口区乍浦路307号(地铁10号线2号口出直行372米）"
+  },
+  {
+    "hotelId": "8916574",
+    "hotelName": "全季上海陆家嘴商城路酒店",
+    "hotelAddressShort": "商城路738号（9号线商城路站2号口直行200米）"
+  },
+  {
+    "hotelId": "9001153",
+    "hotelName": "桔子水晶上海虹桥古北路酒店",
+    "hotelAddressShort": "古北路1881号"
+  },
+  {
+    "hotelId": "8916620",
+    "hotelName": "汉庭优佳上海莘庄商务中心酒店",
+    "hotelAddressShort": "闵行区七莘路1318号强劲大厦3幢（距地铁12号线七莘路站750米，步行5分钟）"
+  },
+  {
+    "hotelId": "8000395",
+    "hotelName": "全季上海商城路地铁站酒店",
+    "hotelAddressShort": "浦东南路1078号1088广场9楼（9号线商城路站3号出口马路对面200米）"
+  },
+  {
+    "hotelId": "8915995",
+    "hotelName": "全季上海五角场翔殷路酒店",
+    "hotelAddressShort": "营口路857号（距离8号线翔殷路站3号口288米，步行4分钟）"
+  },
+  {
+    "hotelId": "9020044",
+    "hotelName": "汉庭上海龙阳路地铁站酒店",
+    "hotelAddressShort": "白杨路260号（距离龙阳路地铁站8号口500米）"
+  },
+  {
+    "hotelId": "8915870",
+    "hotelName": "汉庭优佳上海七宝九亭酒店",
+    "hotelAddressShort": "松江区九亭涞亭南路888弄660号(九号线九亭站打车约10分钟）"
+  },
+  {
+    "hotelId": "9001896",
+    "hotelName": "全季上海海伦路地铁站酒店",
+    "hotelAddressShort": "四平路285号（距地铁10号线海伦路地铁站7号口483米，步行8分钟）"
+  },
+  {
+    "hotelId": "2000425",
+    "hotelName": "全季上海长寿路酒店",
+    "hotelAddressShort": "长寿路798号 （距13、14号线武宁路站2号口240米，步行3分钟）"
+  },
+  {
+    "hotelId": "8000600",
+    "hotelName": "全季上海陆家嘴昌邑路地铁站酒店",
+    "hotelAddressShort": "巨野路245号（原巨野路酒店，14号线昌邑路地铁站2号口步行约744米）"
+  },
+  {
+    "hotelId": "2000112",
+    "hotelName": "汉庭优佳上海西藏南路酒店",
+    "hotelAddressShort": "黄浦区西藏南路916号（距8/9号线陆家浜路站4号口左转20米，步行1分钟）"
+  },
+  {
+    "hotelId": "8000214",
+    "hotelName": "桔子上海徐家汇瑞金南路酒店",
+    "hotelAddressShort": "斜土路1227号(距嘉善路12/9号线447米，步行6分钟）"
+  },
+  {
+    "hotelId": "9001202",
+    "hotelName": "桔子上海八佰伴浦电路地铁站酒店",
+    "hotelAddressShort": "崂山路689号"
+  },
+  {
+    "hotelId": "2000637",
+    "hotelName": "汉庭上海真光路地铁站店（原铜川路地铁站店）",
+    "hotelAddressShort": "铜川路1653弄1号（14号线真光站1号和2号口步行3分钟，铜川路站15号线3号4号口步行6到8分钟）"
+  },
+  {
+    "hotelId": "9007525",
+    "hotelName": "汉庭上海徐家汇宛平南路酒店",
+    "hotelAddressShort": "宛平南路200号(距11、1、9号线地铁徐家汇站700m，步行7分钟）"
+  },
+  {
+    "hotelId": "2016021",
+    "hotelName": "汉庭上海松江佘山酒店",
+    "hotelAddressShort": "松江区外青松公路8928号（距佘山地铁站直线3.1公里，打车约10分钟）"
+  },
+  {
+    "hotelId": "8000474",
+    "hotelName": "上海静安寺南京西路CitiGO欢阁酒店",
+    "hotelAddressShort": "上海市静安区武定西路1189号（距14号线武定路站2号口60米，步行1分钟。距静安寺900米，步行12分钟）"
+  },
+  {
+    "hotelId": "2000903",
+    "hotelName": "汉庭上海北外滩平凉路酒店",
+    "hotelAddressShort": "波阳路16号（距离12号线隆昌路站3号口686米，步行10分钟）"
+  },
+  {
+    "hotelId": "2004423",
+    "hotelName": "汉庭上海真金路酒店",
+    "hotelAddressShort": "真金路1106号（地铁7号线行知路站下，2号口或者3号口出沿行知路直走1.5公里）"
+  },
+  {
+    "hotelId": "2001272",
+    "hotelName": "汉庭上海世博塘桥地铁站酒店",
+    "hotelAddressShort": "浦东南路2162号(地铁4号线塘桥站3号口出，左转上天桥上尚商厦天桥口下，沿浦东南路向左直走200米即可到达)"
+  },
+  {
+    "hotelId": "2001359",
+    "hotelName": "宜必思上海新国际博览中心联洋店",
+    "hotelAddressShort": "芳甸路200号（地铁9号线芳甸路2号口出站直行，十字路口左转500米即可到达）"
+  },
+  {
+    "hotelId": "2011034",
+    "hotelName": "汉庭上海漕河泾古北酒店",
+    "hotelAddressShort": "闵行区吴中路638号（地铁9号线漕河泾开发区步行约15分钟，近虹许路天禧嘉福旁）"
+  },
+  {
+    "hotelId": "9012554",
+    "hotelName": "海友上海大盈新桥路酒店",
+    "hotelAddressShort": "香花桥街道新桥路1203弄1号（地铁17号线漕盈路3号口出，转青浦24路至新桥路站下车100米即可到达酒店，近漕盈路/新胜路口）"
+  },
+  {
+    "hotelId": "8915948",
+    "hotelName": "宜必思上海漕河泾虹漕路酒店",
+    "hotelAddressShort": "上海市徐汇区虹漕路24号(地铁12号线虹漕路1号口出左转20米至虹漕路，左转200米即可到达）"
+  },
+  {
+    "hotelId": "1000275",
+    "hotelName": "桔子上海大渡河路地铁站酒店",
+    "hotelAddressShort": "大渡河路658号（距地铁大渡河路站13/15号线1/9号出口277米步行5分钟）"
+  },
+  {
+    "hotelId": "9010403",
+    "hotelName": "上海虹桥机场国展中心漫心酒店",
+    "hotelAddressShort": "上海市闵行区淮虹路151弄7号T13"
+  },
+  {
+    "hotelId": "8000006",
+    "hotelName": "汉庭上海漕河泾宜山路酒店",
+    "hotelAddressShort": "宜山路1728号（距地铁9号线合川路站1号口536米，步行6分钟）"
+  },
+  {
+    "hotelId": "2017999",
+    "hotelName": "汉庭上海虹桥火车站酒店",
+    "hotelAddressShort": "闵行区沪青平公路1209号1幢(距2、10号线虹桥火车站2.2公里；距离国家会展中心3.5公里）"
+  },
+  {
+    "hotelId": "9011515",
+    "hotelName": "桔子水晶上海崇明南门酒店",
+    "hotelAddressShort": "城桥镇东门路509号"
+  },
+  {
+    "hotelId": "8000336",
+    "hotelName": "全季上海虹桥机场酒店",
+    "hotelAddressShort": "绥宁路628号丙"
+  },
+  {
+    "hotelId": "8916581",
+    "hotelName": "全季上海黄兴路地铁站酒店",
+    "hotelAddressShort": "控江路1211号(距离8号线黄兴路地铁站3号口239米，步行2分钟）"
+  },
+  {
+    "hotelId": "9009854",
+    "hotelName": "全季上海镇坪路地铁站酒店",
+    "hotelAddressShort": "中山北路2336号与岚皋路交叉口（距3.4.7号线镇坪路地铁站3号口350米）"
+  },
+  {
+    "hotelId": "9020210",
+    "hotelName": "海友上海徐家汇东安路地铁站酒店",
+    "hotelAddressShort": "零陵路342号"
+  },
+  {
+    "hotelId": "2000521",
+    "hotelName": "全季上海延安路酒店",
+    "hotelAddressShort": "延安西路1066号（ 近地铁江苏路站2号线４号出口和11号线７号出口）"
+  },
+  {
+    "hotelId": "8000426",
+    "hotelName": "宜必思尚品上海漕河泾虹梅路酒店",
+    "hotelAddressShort": "上海市闵行区东兰路208号"
+  },
+  {
+    "hotelId": "9001311",
+    "hotelName": "海友良品上海外滩南京东路步行街酒店(质量整改)",
+    "hotelAddressShort": "上海黄浦区北京东路310号"
+  },
+  {
+    "hotelId": "9022291",
+    "hotelName": "全季上海隆昌路地铁站酒店",
+    "hotelAddressShort": "上海市杨浦区长阳路2669号"
+  },
+  {
+    "hotelId": "2021551",
+    "hotelName": "汉庭上海崇明八一路酒店",
+    "hotelAddressShort": "崇明区城桥镇八一路602号(临近南门码头约1.5公里，步行15分钟左右）"
+  },
+  {
+    "hotelId": "8916565",
+    "hotelName": "全季上海新国际博览中心高科西路酒店",
+    "hotelAddressShort": "高科西路1644号 距7号线杨高南路地铁站（2号口）30米"
+  },
+  {
+    "hotelId": "9015448",
+    "hotelName": "全季上海宝杨路地铁站酒店",
+    "hotelAddressShort": "同济路669号T9楼3-8层"
+  },
+  {
+    "hotelId": "8000124",
+    "hotelName": "全季上海陆家嘴浦东大道酒店",
+    "hotelAddressShort": "浦东大道1139弄3号（14号线/18号线昌邑路站6号口直行500米）"
+  },
+  {
+    "hotelId": "9011374",
+    "hotelName": "汉庭上海虹桥伊犁路酒店",
+    "hotelAddressShort": "上海市长宁区伊犁路152号"
+  },
+  {
+    "hotelId": "2000504",
+    "hotelName": "汉庭上海中山公园地铁站酒店（原中山公园二店）",
+    "hotelAddressShort": "长宁区愚园路1333号(中山公园地铁站8号口步行300米）"
+  },
+  {
+    "hotelId": "9001181",
+    "hotelName": "全季上海武宁路地铁站酒店（原长寿路亚新广场店）",
+    "hotelAddressShort": "长寿路651号（7号线长寿路站7号出口，步行5分钟）"
+  },
+  {
+    "hotelId": "9013327",
+    "hotelName": "汉庭上海松江南站酒店",
+    "hotelAddressShort": "梅园埭路6号（近地铁9号线醉白池站2号口出来左转直走1公里到底穿过地道左前方到酒店）"
+  },
+  {
+    "hotelId": "8000383",
+    "hotelName": "汉庭优佳上海莘庄北广场酒店",
+    "hotelAddressShort": "闵行区水清路594号-616号(距地铁1号、5号线莘庄站北出口1.2km)"
+  },
+  {
+    "hotelId": "8000561",
+    "hotelName": "桔子上海徐家汇斜土路酒店",
+    "hotelAddressShort": "斜土路1579号靠近小木桥路(距4.12线大木桥站4号口606m,步行10分钟）"
+  },
+  {
+    "hotelId": "2014005",
+    "hotelName": "汉庭上海奉贤新城南奉公路酒店",
+    "hotelAddressShort": "奉贤区贤瑞路111号（距5号线奉贤新城站1号口2.3公里，驾车8分钟，骑行13分钟）"
+  },
+  {
+    "hotelId": "2017997",
+    "hotelName": "全季上海青浦吾悦广场酒店",
+    "hotelAddressShort": "青浦区淀山湖大道202号（青浦吾悦广场综合体内）"
+  },
+  {
+    "hotelId": "9008534",
+    "hotelName": "汉庭上海石洞口码头酒店",
+    "hotelAddressShort": "上海市宝山区蕴川路5569号"
+  },
+  {
+    "hotelId": "9008175",
+    "hotelName": "汉庭上海淮海中路地铁站酒店",
+    "hotelAddressShort": "淮海中路701号9F（距离淮海中路地铁站1号口100米左右，步行1分钟）"
+  },
+  {
+    "hotelId": "9003523",
+    "hotelName": "汉庭上海外滩九江路酒店",
+    "hotelAddressShort": "黄浦区江西中路246号12楼(距2/10号线南京东路站2号口360米，步行5分钟)"
+  },
+  {
+    "hotelId": "9010378",
+    "hotelName": "全季上海东靖路地铁站酒店",
+    "hotelAddressShort": "张杨北路1933弄1号                                                                                                           距东靖路（6号线）20米"
+  },
+  {
+    "hotelId": "9005044",
+    "hotelName": "汉庭上海世博高科西路酒店",
+    "hotelAddressShort": "上海浦东新区浦三路739号，(距地铁7号线杨高南路站4号口800米，步行8分钟。)"
+  },
+  {
+    "hotelId": "9010608",
+    "hotelName": "汉庭上海漕河泾开发区莘松路酒店",
+    "hotelAddressShort": "上海市松江区新桥镇莘松路1498号（地铁1号线莘庄地铁站北1口至莘庄地铁北广场153路至酒店）"
+  },
+  {
+    "hotelId": "9011824",
+    "hotelName": "全季上海崇明长兴岛酒店",
+    "hotelAddressShort": "长兴岛仁建路299弄2号"
+  },
+  {
+    "hotelId": "2000415",
+    "hotelName": "上海静安CitiGO欢阁酒店",
+    "hotelAddressShort": "新闸路1093号（距离2号线南京西路站1号口出600米，步行8分钟））"
+  },
+  {
+    "hotelId": "9006809",
+    "hotelName": "汉庭上海徐家汇体育馆地铁站酒店",
+    "hotelAddressShort": "中山西路2368号华鼎大厦南楼1-2层(距地铁1号、4号线上海体育馆站7号口500米,步行7分钟)"
+  },
+  {
+    "hotelId": "2000601",
+    "hotelName": "汉庭上海江宁路地铁站酒店（原澳门路店）",
+    "hotelAddressShort": "澳门路503号靠近陕西北路（地铁13号线江宁路站4号口出步行600米，距上海火车站公交837仅1站）"
+  },
+  {
+    "hotelId": "8000048",
+    "hotelName": "汉庭上海南京路步行街中心酒店",
+    "hotelAddressShort": "浙江中路400号(距离10号线南京东路地铁站1号口，1、2、8号线人民广场地铁站7号.19号出口步行5分钟)"
+  },
+  {
+    "hotelId": "2000631",
+    "hotelName": "汉庭上海镇坪路地铁站酒店",
+    "hotelAddressShort": "普陀区中山北路2216号近镇坪路(距3、4、7号线镇坪路地铁站3号口100米)"
+  },
+  {
+    "hotelId": "9001332",
+    "hotelName": "全季上海陆家嘴世界广场酒店",
+    "hotelAddressShort": "浦东南路855号（2号线东昌路站3号口地下通道直达酒店）"
+  },
+  {
+    "hotelId": "8000330",
+    "hotelName": "海友上海北外滩平凉路酒店",
+    "hotelAddressShort": "上海市杨浦区平凉路1295号（距地铁12号线宁国路站600米，4号口出，右转沿宁国路直行500米至平凉路右转直行100米即可到达。二，距地铁18号线平凉路地铁站700米，3号口出马路对面乘坐公交车25路，868路，853路至平凉路宁国路下车，过红绿灯对面即达）"
+  },
+  {
+    "hotelId": "8000476",
+    "hotelName": "海友上海徐家汇万体馆酒店",
+    "hotelAddressShort": "上海市徐家汇天钥桥路888号(地铁11号线上海游泳馆2号口出步行3分钟至十字路口，右转即酒店，地铁4号线上海体育场站3号出口步行5分钟可到达)"
+  },
+  {
+    "hotelId": "2000307",
+    "hotelName": "汉庭上海徐家汇地铁站酒店(原天钥桥路店)",
+    "hotelAddressShort": "天钥桥路380弄31号（地铁1、9、11号线徐家汇2号口出步行到酒店4分钟）"
+  },
+  {
+    "hotelId": "9016067",
+    "hotelName": "全季上海真北路地铁站酒店",
+    "hotelAddressShort": "上海市普陀区金沙江路1628弄3号楼（绿洲中环中心）"
+  },
+  {
+    "hotelId": "9000738",
+    "hotelName": "全季上海美兰湖陆翔路酒店",
+    "hotelAddressShort": "陆翔路3483号（距美兰湖地铁站7号线2号口1km 步行约15分钟）"
+  },
+  {
+    "hotelId": "9003678",
+    "hotelName": "汉庭上海五角场黄兴路酒店",
+    "hotelAddressShort": "黄兴路1675号3楼（地铁10号线国权路站4号出口左转穿过四平路沿国权路步行900米即到"
+  },
+  {
+    "hotelId": "8000518",
+    "hotelName": "全季上海淮海中路酒店",
+    "hotelAddressShort": "襄阳北路27号，距陕西南路（1/2/10号线）637m，步行10分钟"
+  },
+  {
+    "hotelId": "9020534",
+    "hotelName": "全季上海前滩永泰路酒店",
+    "hotelAddressShort": "永泰路160号"
+  },
+  {
+    "hotelId": "2000712",
+    "hotelName": "汉庭上海四川北路地铁站酒店",
+    "hotelAddressShort": "静安区河南北路461号（10号线3号口出直行424米，3.4号线1号口出直行424米）"
+  },
+  {
+    "hotelId": "9013587",
+    "hotelName": "全季上海唐镇地铁站酒店",
+    "hotelAddressShort": "唐龙路730号（近齐爱路路口）"
+  },
+  {
+    "hotelId": "2011068",
+    "hotelName": "汉庭上海虹桥火车站北翟路酒店",
+    "hotelAddressShort": "闵行区北翟路2910-10号（七莘路口西侧300米,靠近南华街）"
+  },
+  {
+    "hotelId": "2000727",
+    "hotelName": "海友上海大宁音乐广场酒店",
+    "hotelAddressShort": "静安区万荣路959号（近永和路）"
+  },
+  {
+    "hotelId": "2002333",
+    "hotelName": "全季上海徐家汇宜山路酒店",
+    "hotelAddressShort": "宜山路670号 (距9号线桂林路站1号口10米，步行约一分钟）"
+  },
+  {
+    "hotelId": "8000581",
+    "hotelName": "上海五角场国航路CitiGO欢阁酒店",
+    "hotelAddressShort": "国航路89号(距离地铁10号线三门路站6号口190米，步行3分钟）"
+  },
+  {
+    "hotelId": "8000020",
+    "hotelName": "全季上海虹桥古北路酒店",
+    "hotelAddressShort": "闵行区古北路1799号（距离姚虹路15号线3号口597m，出站左转步行8分钟）"
+  },
+  {
+    "hotelId": "2011021",
+    "hotelName": "汉庭上海漕河泾虹梅路酒店",
+    "hotelAddressShort": "闵行区东兰路228号(12号线虹梅路站2号出口，向左500米)"
+  },
+  {
+    "hotelId": "2012031",
+    "hotelName": "汉庭上海张江酒店",
+    "hotelAddressShort": "浦东新区蔡伦路333号(2号线金科路地铁站3号口、13号线学林路站3号口打车起步价)"
+  },
+  {
+    "hotelId": "2002324",
+    "hotelName": "全季上海徐家汇天钥桥路酒店",
+    "hotelAddressShort": "天钥桥路1881号（距地铁11号龙华站2号口600米，步行8分钟）"
+  },
+  {
+    "hotelId": "2019001",
+    "hotelName": "汉庭上海宝钢月罗公路酒店",
+    "hotelAddressShort": "月罗路249弄28号（月罗路蕰川路交叉口，万尚生活广场）"
+  },
+  {
+    "hotelId": "9000290",
+    "hotelName": "汉庭优佳上海莘庄场东路酒店",
+    "hotelAddressShort": "松江区新桥镇场东路608号(近莘松路，距离地铁一号线上海莘庄地铁站北二出口2.8公里，打车至酒店约10分钟到达）"
+  },
+  {
+    "hotelId": "9001098",
+    "hotelName": "全季上海莘庄沪闵路酒店",
+    "hotelAddressShort": "上海市闵行区沪闵路6666弄25号"
+  },
+  {
+    "hotelId": "9012399",
+    "hotelName": "汉庭上海安亭地铁站酒店",
+    "hotelAddressShort": "嘉定区曹安公路5676号（11号线安亭站4号口出向西步行412m预计8分钟）"
+  },
+  {
+    "hotelId": "2002341",
+    "hotelName": "海友良品上海徐家汇田林路酒店",
+    "hotelAddressShort": "田林路89弄35号(距地铁12、15号桂林公园站4号口400米,步行5分钟)"
+  },
+  {
+    "hotelId": "8915914",
+    "hotelName": "全季上海中山公园江苏路酒店（原江苏路地铁站店）",
+    "hotelAddressShort": "长宁路350号（距11/2号线江苏路站5号口512米，步行约7分钟）"
+  },
+  {
+    "hotelId": "9011429",
+    "hotelName": "全季上海张江孙耀路商业广场酒店",
+    "hotelAddressShort": "孙建路480弄68号"
+  },
+  {
+    "hotelId": "9011422",
+    "hotelName": "海友上海奉贤南桥人民中路酒店",
+    "hotelAddressShort": "南桥镇人民中路200号(人民中路200号，奉贤2号线人民中路站步行1分钟到店)"
+  },
+  {
+    "hotelId": "2003366",
+    "hotelName": "桔子上海吴中路地铁站酒店",
+    "hotelAddressShort": "上海市徐汇区宋园路191号"
+  },
+  {
+    "hotelId": "9006996",
+    "hotelName": "海友上海长风公园酒店",
+    "hotelAddressShort": "上海市普陀区枣阳路279号(距地铁15号线大渡河路站约700米，9号口出左转沿金沙江路直行518米，左转进入枣阳路直行181米即可到达）"
+  },
+  {
+    "hotelId": "2011032",
+    "hotelName": "汉庭上海新虹桥酒店",
+    "hotelAddressShort": "万源路2739号（距9号线合川路站1号口1.4公里，步行18分钟）"
+  },
+  {
+    "hotelId": "9000924",
+    "hotelName": "海友上海静安寺新店",
+    "hotelAddressShort": "上静安区昌平路1009号6楼（近泰州路）"
+  },
+  {
+    "hotelId": "2000236",
+    "hotelName": "全季上海局门路酒店",
+    "hotelAddressShort": "局门路541-3(距离4、8号线西藏南路4号口800米；距离13号线世博会博物馆3号口500米）"
+  },
+  {
+    "hotelId": "2000326",
+    "hotelName": "全季上海徐家汇肇嘉浜路酒店",
+    "hotelAddressShort": "肇嘉浜路221号"
+  },
+  {
+    "hotelId": "2000701",
+    "hotelName": "汉庭上海西藏北路地铁站酒店",
+    "hotelAddressShort": "静安区西藏北路1318号(地铁8号线西藏北路站4号口出步行3分钟）"
+  },
+  {
+    "hotelId": "2018211",
+    "hotelName": "汉庭上海嘉定新城酒店",
+    "hotelAddressShort": "嘉定区永盛路1218号（距11号线白银路站一号口步行约13分钟，距瑞金北院步行1.6公里）"
+  },
+  {
+    "hotelId": "9002526",
+    "hotelName": "全季上海长寿路陕西北路酒店",
+    "hotelAddressShort": "上海市陕西北路1612-1622号（距离地铁13号线江宁路站4号出口300米，步行5分钟）"
+  },
+  {
+    "hotelId": "2000328",
+    "hotelName": "海友良品上海东安路地铁站酒店",
+    "hotelAddressShort": "上海徐汇区东安路271弄1号"
+  },
+  {
+    "hotelId": "9003951",
+    "hotelName": "汉庭上海虹桥虹梅路酒店",
+    "hotelAddressShort": "虹梅路3219-3223号（距龙溪路站2号口1公里，步行12分钟）"
+  },
+  {
+    "hotelId": "9007863",
+    "hotelName": "全季上海大宁宜川路酒店",
+    "hotelAddressShort": "宜川路310号(距4号线中潭路站4号口1.5公里，步行约18分钟）"
+  },
+  {
+    "hotelId": "9007827",
+    "hotelName": "汉庭优佳上海殷高西路地铁站酒店",
+    "hotelAddressShort": "上海市宝山区殷高西路506号(距离3号线殷高西路站1号口左转900米）"
+  },
+  {
+    "hotelId": "8000134",
+    "hotelName": "全季上海虹桥枢纽机场酒店",
+    "hotelAddressShort": "北翟路1444弄165号(距离13号线金沙江西路地铁站2号口1300米，步行需15分钟）"
+  },
+  {
+    "hotelId": "9003394",
+    "hotelName": "全季上海北外滩长阳路酒店",
+    "hotelAddressShort": "龙口路165号（距离地铁12号线宁国路站3号口400米，步行5分钟，位于大润发超市旁）"
+  },
+  {
+    "hotelId": "2000426",
+    "hotelName": "汉庭上海环球港酒店(原汉庭上海武宁路酒店)",
+    "hotelAddressShort": "上海市普陀区武宁路492弄30号，距14号线中宁路站1号口372米，14号线曹杨路站13号口出步行5分钟。距3、4、11号线7号口700米，步行10分钟。"
+  },
+  {
+    "hotelId": "2000308",
+    "hotelName": "海友上海东安路新店",
+    "hotelAddressShort": "上海市徐汇区斜土路1969号（距4号、7号线东安路地铁站4号口475米，步行5分钟）"
+  },
+  {
+    "hotelId": "2013158",
+    "hotelName": "上海客莱福诺富特酒店（原康桥诺富特酒店）",
+    "hotelAddressShort": "浦东新区秀浦路3188弄1号楼"
+  },
+  {
+    "hotelId": "2000808",
+    "hotelName": "桔子上海外滩四川北路酒店",
+    "hotelAddressShort": "海宁路339号（距10号线四川北路地铁站2号口500米，步行5分钟）"
+  },
+  {
+    "hotelId": "2016154",
+    "hotelName": "全季上海九亭中心酒店",
+    "hotelAddressShort": "虬泾路122号(距离地铁站9号线九亭站1.2公里，近九亭大街九亭文化广场)"
+  },
+  {
+    "hotelId": "9008118",
+    "hotelName": "上海共康美仑酒店",
+    "hotelAddressShort": "共康路555号"
+  },
+  {
+    "hotelId": "2011014",
+    "hotelName": "汉庭上海虹桥枢纽七宝沪星路酒店（原七宝二店）",
+    "hotelAddressShort": "闵行区沪星路288号(地铁9号线七宝站6号口出直走约15分钟左转直行即可到达)"
+  },
+  {
+    "hotelId": "8000369",
+    "hotelName": "桔子上海虹桥火车站北翟路酒店",
+    "hotelAddressShort": "北翟路1550号（距2号线淞虹路站5号口1.9公里，距江桥万达2.3公里，打车10分钟）"
+  },
+  {
+    "hotelId": "2000418",
+    "hotelName": "海友上海火车站南广场酒店",
+    "hotelAddressShort": "静安区恒丰路781号（距上海火车站地铁站-1号口步行600米）"
+  },
+  {
+    "hotelId": "2002356",
+    "hotelName": "全季上海光大柳州路酒店",
+    "hotelAddressShort": "康健路138号(距地铁1号线漕宝路站1号口850米，步行15分钟，距地铁12号线桂林公园站1号口530米，步行10分钟，）"
+  },
+  {
+    "hotelId": "9006860",
+    "hotelName": "全季上海新国际博览中心龙阳路酒店",
+    "hotelAddressShort": "龙阳路1629号"
+  },
+  {
+    "hotelId": "2000935",
+    "hotelName": "海友上海北外滩双阳路酒店",
+    "hotelAddressShort": "上海市杨浦区双阳路301号（距地铁8号线黄兴路站750米，1号口过马路沿辽源东路直走左拐到源泉路直走右手斜对面即可到达；距地铁12号线隆昌路站1600米，4号口出沿隆昌路左转到周家嘴辅路右转即可抵达）"
+  },
+  {
+    "hotelId": "9010393",
+    "hotelName": "桔子上海陆家嘴东方路酒店",
+    "hotelAddressShort": "东方路1298号"
+  },
+  {
+    "hotelId": "2018055",
+    "hotelName": "汉庭上海安亭汽车城酒店",
+    "hotelAddressShort": "嘉定区昌吉路156弄26号靠近洛浦路距大众厂区200米（距离11号线安亭站步行15分钟）"
+  },
+  {
+    "hotelId": "2000904",
+    "hotelName": "宜必思上海黄兴路地铁站酒店",
+    "hotelAddressShort": "上海市杨浦区周家嘴路3057号（距离黄兴路地铁站1号口766米，出站后沿源泉路步行约6分钟，右转直走2分钟抵达）"
+  },
+  {
+    "hotelId": "2001358",
+    "hotelName": "汉庭上海陆家嘴张杨路酒店",
+    "hotelAddressShort": "崮山路560号(距6号线北洋泾路2号口600米，步行7分钟）"
+  },
+  {
+    "hotelId": "2000309",
+    "hotelName": "宜必思上海徐家汇酒店",
+    "hotelAddressShort": "上海市徐汇区番禺路858号"
+  },
+  {
+    "hotelId": "2002312",
+    "hotelName": "汉庭上海南站罗秀路地铁站酒店",
+    "hotelAddressShort": "徐汇区罗香路174号（距15号线罗秀路地铁站1口步行497米）"
+  },
+  {
+    "hotelId": "2017051",
+    "hotelName": "全季上海虹桥国展中心华翔路酒店",
+    "hotelAddressShort": "闵行区华翔路3333号（华翔路与北青公路十字西北角，距复旦附属华山西院2.9公里，酒店门口华漕5路公交直达）"
+  },
+  {
+    "hotelId": "8916214",
+    "hotelName": "汉庭上海浦江沈杜公路酒店",
+    "hotelAddressShort": "昌林路68弄浦江星街口6号楼（距离沈杜公路地铁站1.7公里，1号口出，步行20分钟）"
+  },
+  {
+    "hotelId": "9000269",
+    "hotelName": "全季上海凯旋路酒店",
+    "hotelAddressShort": "上海长宁区凯旋路1278号（距3，4，10号线虹桥路站583米，步行6分钟左右）"
+  },
+  {
+    "hotelId": "9004163",
+    "hotelName": "全季上海大学沪太路酒店",
+    "hotelAddressShort": "沪太路3100号（距地铁7号线上大路站4号口218m，步行4分钟）"
+  },
+  {
+    "hotelId": "9021628",
+    "hotelName": "汉庭上海嘉定马陆东方慧谷酒店",
+    "hotelAddressShort": "上海市嘉定区马陆镇宝安公路2968号"
+  },
+  {
+    "hotelId": "2019002",
+    "hotelName": "全季上海宝山友谊路酒店",
+    "hotelAddressShort": "同济路999号1号楼(距地铁3号线友谊路站1号口300米，步行3分钟)"
+  },
+  {
+    "hotelId": "2018241",
+    "hotelName": "汉庭上海梅川路酒店",
+    "hotelAddressShort": "普陀区梅川路1275号(距地铁13号线真北路站1.2公里）"
+  },
+  {
+    "hotelId": "2002335",
+    "hotelName": "汉庭上海徐家汇漕宝路地铁站酒店",
+    "hotelAddressShort": "龙漕路2号(距1号线漕宝路地铁站4号口步行150米，约2分钟)"
+  },
+  {
+    "hotelId": "9007524",
+    "hotelName": "汉庭上海大学塔城路酒店",
+    "hotelAddressShort": "嘉定区张马路16号。（靠近张马路和嘉定老街距11号线嘉定北站1.5KM，打车十分钟）"
+  },
+  {
+    "hotelId": "2002337",
+    "hotelName": "汉庭上海第六医院柳州路酒店",
+    "hotelAddressShort": "徐汇区柳州路588号（距第六人民医院地铁9号线桂林路站1号口400m，步行3分钟）"
+  },
+  {
+    "hotelId": "2001223",
+    "hotelName": "汉庭上海陆家嘴东方路酒店",
+    "hotelAddressShort": "东方路985号(距地铁6号线浦电路站1号口150米，步行1分钟；距地铁4号线浦电路站3号口300米，步行3分钟）"
+  },
+  {
+    "hotelId": "9009126",
+    "hotelName": "全季上海崇明行政中心酒店",
+    "hotelAddressShort": "城桥镇翠竹路1588弄2号"
+  },
+  {
+    "hotelId": "9008933",
+    "hotelName": "桔子上海世博中心酒店",
+    "hotelAddressShort": "浦东新区浦东南路3470号1幢"
+  },
+  {
+    "hotelId": "8915054",
+    "hotelName": "全季上海北外滩四川北路酒店",
+    "hotelAddressShort": "四川北路850号(地铁10号线四川北路站2号口出站向南300米)"
+  },
+  {
+    "hotelId": "2000633",
+    "hotelName": "汉庭上海镇坪路地铁站新店",
+    "hotelAddressShort": "普陀区中山北路2250号近岚皋路（距3、4、7号线镇坪路地铁站3号口200米，步行3分钟）"
+  },
+  {
+    "hotelId": "2011035",
+    "hotelName": "汉庭上海龙柏新村地铁站酒店（原吴中路新店）",
+    "hotelAddressShort": "闵行区老虹井路218号（距地铁10号线龙柏新村站3号口20米，步行1分钟）"
+  },
+  {
+    "hotelId": "2012012",
+    "hotelName": "汉庭上海张江金融信息园酒店",
+    "hotelAddressShort": "浦东新区华东路4111号（距2号线创新中路站2号口2km）"
+  },
+  {
+    "hotelId": "9003522",
+    "hotelName": "汉庭上海火车站北广场酒店",
+    "hotelAddressShort": "静安区芷江西路796号（距地铁1号线中山北路站2号口左转直行800米、3、4号线上海火车站7、8号900米步行10分钟）"
+  },
+  {
+    "hotelId": "8000110",
+    "hotelName": "上海静安漫心酒店",
+    "hotelAddressShort": "天目西路111号"
+  },
+  {
+    "hotelId": "2011054",
+    "hotelName": "汉庭上海虹桥机场新店",
+    "hotelAddressShort": "闵行区沪青平公路395号（距航中路10号线1.5km)"
+  },
+  {
+    "hotelId": "8000175",
+    "hotelName": "海友上海芳甸路地铁站酒店",
+    "hotelAddressShort": "上海浦东新区崮山路951号"
+  },
+  {
+    "hotelId": "9002691",
+    "hotelName": "全季上海浦东机场祝桥酒店",
+    "hotelAddressShort": "秋亭路136弄127号"
+  },
+  {
+    "hotelId": "2000623",
+    "hotelName": "全季上海长风公园酒店",
+    "hotelAddressShort": "丹巴路28弄26号(距2号线威宁路站4号口1.4公里，步行约18分钟）"
+  },
+  {
+    "hotelId": "9005566",
+    "hotelName": "全季上海漕河泾漕宝路酒店",
+    "hotelAddressShort": "闵行区漕宝路1687号（9号线星中路站1号出口直行400米）"
+  },
+  {
+    "hotelId": "2017998",
+    "hotelName": "全季上海虹桥国展中心徐泾酒店",
+    "hotelAddressShort": "青浦区沪青平公路1929号(距食尚天地600米，奥特莱斯4公里开车约10分钟）"
+  },
+  {
+    "hotelId": "9001338",
+    "hotelName": "全季上海五角场长海医院酒店",
+    "hotelAddressShort": "上海市杨浦区民星路415号(紧邻长海医院/东方肝胆医院，近地铁8号线嫩江路站2号口)"
+  },
+  {
+    "hotelId": "2018035",
+    "hotelName": "汉庭上海嘉定临洮路地铁站酒店",
+    "hotelAddressShort": "嘉定区曹安公路2793号（距离地铁站14号线临洮路3号口约600米步行约8分钟）"
+  },
+  {
+    "hotelId": "9008503",
+    "hotelName": "海友上海宝山城市工业园酒店",
+    "hotelAddressShort": "真陈路1216号5楼（地铁7号线祁华路3号口出乘19路公交市台路下向东步行35米即到）"
+  },
+  {
+    "hotelId": "9001797",
+    "hotelName": "全季上海徐家汇漕宝路地铁站酒店",
+    "hotelAddressShort": "上海市徐汇区龙漕路1弄8号，距离上海第八人民医院300米，距离1号线漕宝路地铁站50米、12号线漕宝路地铁站100米"
+  },
+  {
+    "hotelId": "9001066",
+    "hotelName": "全季上海虹桥火车站北翟路酒店",
+    "hotelAddressShort": "北翟路3158号2幢 （距虹桥火车站、虹桥商务区开车约10分钟）"
+  },
+  {
+    "hotelId": "9010729",
+    "hotelName": "汉庭上海复旦大学纪念路酒店",
+    "hotelAddressShort": "上海市杨浦区纪念路258号（距3号线江湾镇站2号出口沿逸仙路800米到纪念路左转200米即可到达酒店）"
+  },
+  {
+    "hotelId": "9016105",
+    "hotelName": "汉庭上海吴淞国际邮轮码头酒店",
+    "hotelAddressShort": "上海市宝山区友谊路48号"
+  },
+  {
+    "hotelId": "8000436",
+    "hotelName": "桔子上海虹桥国展中心七莘路酒店",
+    "hotelAddressShort": "吴宝路779号（地铁10号线航中路4号口出，步行15分钟）"
+  },
+  {
+    "hotelId": "2018242",
+    "hotelName": "汉庭上海丰庄酒店",
+    "hotelAddressShort": "上海市嘉定区丰庄北路431号（距离地铁13号线，祁连山南路站1号口，骑行约8分钟）"
+  },
+  {
+    "hotelId": "9007026",
+    "hotelName": "汉庭上海南站华东理工大学酒店",
+    "hotelAddressShort": "徐汇区龙州路470号（距15号线罗秀路2号口998米，步行12分钟）"
+  },
+  {
+    "hotelId": "9017259",
+    "hotelName": "海友上海大学城中路酒店",
+    "hotelAddressShort": "上海市嘉定区沙霞路100号（位于城中路于沙霞路交汇处，地铁11号线嘉定北站2号口出，乘坐公交13路/9路到城中路塔城路下车步行5分钟即可到达。）"
+  },
+  {
+    "hotelId": "9000059",
+    "hotelName": "全季上海杨浦体育馆酒店",
+    "hotelAddressShort": "周家嘴路3815号（距12号线隆昌路4号口1公里，步行10分钟）"
+  },
+  {
+    "hotelId": "9009533",
+    "hotelName": "全季上海淀山湖大道地铁站酒店",
+    "hotelAddressShort": "青浦区大盈浦路1533号（距17号线淀山湖大道站4号口258米）"
+  },
+  {
+    "hotelId": "2011061",
+    "hotelName": "汉庭上海虹桥机场北翟路酒店",
+    "hotelAddressShort": "闵行区北翟路1552号距(地铁2号线淞虹路站2KM左右）"
+  },
+  {
+    "hotelId": "2002401",
+    "hotelName": "汉庭上海交大江川路地铁站二店",
+    "hotelAddressShort": "江川东路1050号（距5号线江川路地铁站1号口57米）"
+  },
+  {
+    "hotelId": "9014970",
+    "hotelName": "桔子上海北外滩紫荆广场酒店",
+    "hotelAddressShort": " 江浦路1517号"
+  },
+  {
+    "hotelId": "2000516",
+    "hotelName": "全季上海虹桥中山西路酒店",
+    "hotelAddressShort": "上海市长宁区中山西路908号(距10号线宋园路1号口1.1公里，步行约15分钟。）"
+  },
+  {
+    "hotelId": "8915984",
+    "hotelName": "汉庭优佳上海龙吴路酒店",
+    "hotelAddressShort": "上海市徐汇区罗秀路1-3号，与龙吴路交叉口（距15号线罗秀路地铁站3口仅2公里）"
+  },
+  {
+    "hotelId": "9000635",
+    "hotelName": "上海江桥万达漫心酒店",
+    "hotelAddressShort": "华江公路190号"
+  },
+  {
+    "hotelId": "9001992",
+    "hotelName": "海友上海国展中心纪翟路酒店",
+    "hotelAddressShort": "上海市闵行区华漕镇繁兴路99号2号楼（距国家会展中心1.5公里公交直达，华山西院2公里公交直达，虹桥火车站机场公交直达）"
+  },
+  {
+    "hotelId": "8000592",
+    "hotelName": "汉庭优佳上海青浦城中西路酒店",
+    "hotelAddressShort": "青浦区城中西路1-5号(距离17号地铁曹盈路地铁站2公里，青浦1路公交车城中东路站10米）"
+  },
+  {
+    "hotelId": "2001221",
+    "hotelName": "汉庭上海陆家嘴浦东南路酒店",
+    "hotelAddressShort": "浦东南路1466弄30号（距地铁9号线商城路站3号口，左转900米，步行15分钟）"
+  },
+  {
+    "hotelId": "2000834",
+    "hotelName": "汉庭上海大宁国际广中路酒店",
+    "hotelAddressShort": "广中路517号(广中路凉城路路口）"
+  },
+  {
+    "hotelId": "2011073",
+    "hotelName": "汉庭上海虹桥枢纽七宝中心酒店",
+    "hotelAddressShort": "闵行区沪松公路577号靠近中春路（地铁9号线中春路站2号口直行3分钟即可到达酒店）"
+  },
+  {
+    "hotelId": "9009903",
+    "hotelName": "汉庭上海金沙江路地铁站酒店",
+    "hotelAddressShort": "中山北路3500号（距3/4/13号线金沙江路站5号口左转100米即到）"
+  },
+  {
+    "hotelId": "9000836",
+    "hotelName": "海友上海嘉定黄渡新黄路酒店",
+    "hotelAddressShort": "新黄路35号（地铁11号线昌吉东路站出口乘嘉定132路至绿苑路新黄路下车直行100米132）"
+  },
+  {
+    "hotelId": "9009224",
+    "hotelName": "桔子上海新国际博览中心酒店",
+    "hotelAddressShort": "高科西路2991号10号楼（地铁18号线芳芯路站2号口步行2分钟）"
+  },
+  {
+    "hotelId": "2016005",
+    "hotelName": "海友上海虹桥枢纽九亭酒店",
+    "hotelAddressShort": " 九亭镇沪亭北路598号（距地铁9号线九亭站1号口1.2km，步行12分钟）"
+  },
+  {
+    "hotelId": "3102301",
+    "hotelName": "汉庭上海长兴岛凤凰镇酒店",
+    "hotelAddressShort": "崇明区长兴镇凤卫路318弄61号（临近凤滨路）"
+  },
+  {
+    "hotelId": "9010288",
+    "hotelName": "全季上海打浦桥日月光中心酒店",
+    "hotelAddressShort": "黄浦区打浦路58-68号（打浦桥地铁站2号口出步行266米）"
+  },
+  {
+    "hotelId": "9014948",
+    "hotelName": "全季上海漕河泾虹漕路酒店",
+    "hotelAddressShort": "漕宝路400号（距地铁12号线虹漕路站1号口50米，步行2分钟）"
+  },
+  {
+    "hotelId": "9010993",
+    "hotelName": "汉庭上海交大都市路酒店",
+    "hotelAddressShort": "都市路467号（距5号线北桥地铁站1.8公里骑行8分钟）"
+  },
+  {
+    "hotelId": "2002355",
+    "hotelName": "海友上海南站上师大酒店",
+    "hotelAddressShort": "上海市徐汇区桂林东街101弄-8-2（距地铁上海南站1/3/15号线8号口412m，步行10分钟）"
+  },
+  {
+    "hotelId": "9014494",
+    "hotelName": "汉庭上海华泾酒店",
+    "hotelAddressShort": "龙吟路67号"
+  },
+  {
+    "hotelId": "2004442",
+    "hotelName": "全季上海宝山城市工业园区酒店",
+    "hotelAddressShort": "市台路400号（近真陈路，距7号线祁华路站2.8公里、距15号线锦秋路站3公里、距南翔印象城4.8公里）"
+  },
+  {
+    "hotelId": "9000604",
+    "hotelName": "全季上海中山公园武夷路酒店",
+    "hotelAddressShort": "武夷路418弄3号（距离3/4号线延安西路1号口700米，步行7分钟，2号线中山公园站11号口出，步行12分钟）"
+  },
+  {
+    "hotelId": "2014003",
+    "hotelName": "汉庭上海奉贤南桥汽车站酒店",
+    "hotelAddressShort": "奉贤区南桥镇望园南路1588弄37号绿地未来中心(距5号线奉贤新城4号口500米 步行5分钟)"
+  },
+  {
+    "hotelId": "2018039",
+    "hotelName": "全季上海丰庄酒店",
+    "hotelAddressShort": "丰庄路550弄-88号（距离14号线真新新村站800米，步行大约10分钟）"
+  },
+  {
+    "hotelId": "2002373",
+    "hotelName": "海友上海梅陇莲花南路酒店（升级中）",
+    "hotelAddressShort": "上海市闵行区莲花南路1500弄16号楼（距地铁15号线景西路站2号口600米，步行8分钟）"
+  },
+  {
+    "hotelId": "9001102",
+    "hotelName": "全季上海莘庄南广场酒店",
+    "hotelAddressShort": "宝城路452号"
+  },
+  {
+    "hotelId": "8916379",
+    "hotelName": "全季上海大学塔城路酒店",
+    "hotelAddressShort": "塔城路297号-19（地铁11号线嘉定北站1号口出乘坐嘉定12路公交车到博乐广场下车，步行3分钟）"
+  },
+  {
+    "hotelId": "2017991",
+    "hotelName": "汉庭上海青浦东方商厦酒店(原青浦三元路店)",
+    "hotelAddressShort": "青浦区三元路246号(距17号线地铁青浦新城站10分钟车程;距东方商厦20米，步行1分钟）"
+  },
+  {
+    "hotelId": "9012270",
+    "hotelName": "桔子上海莘庄都市路酒店",
+    "hotelAddressShort": "颛桥镇都市路4258号"
+  },
+  {
+    "hotelId": "2004422",
+    "hotelName": "汉庭上海大华虎城酒店（原真华路店）",
+    "hotelAddressShort": "真华路1108号 靠近大华三路路口（地铁7号线大华三路站3号口出，沿大华三路步行15分钟到真华路右转100米到达）"
+  },
+  {
+    "hotelId": "2014011",
+    "hotelName": "汉庭上海奉贤南桥工业园酒店",
+    "hotelAddressShort": "奉贤南桥环城东路323号（地铁5号线奉浦大道站下步行1.1公里可达或环城东路站下乘坐公交奉贤42路、奉贤15路、莘南专线等多班公交至环城东路公谊路站下即达）"
+  },
+  {
+    "hotelId": "9014097",
+    "hotelName": "全季上海张江科学城酒店",
+    "hotelAddressShort": "龙东大道1288号（距长泰国际商业广场约1100米）"
+  },
+  {
+    "hotelId": "2003336",
+    "hotelName": "桔子上海曹杨路酒店",
+    "hotelAddressShort": "曹杨路2088号（距离11/14号线真如地铁站1号口600米，步行10分钟左右）"
+  },
+  {
+    "hotelId": "2011996",
+    "hotelName": "全季上海莘庄酒店",
+    "hotelAddressShort": "莘北路505号"
+  },
+  {
+    "hotelId": "2000216",
+    "hotelName": "全季上海黄浦滨江西藏南路酒店",
+    "hotelAddressShort": "西藏南路1743号(距4号线8号线西藏南路站2号口400米，步行3分钟）"
+  },
+  {
+    "hotelId": "8000644",
+    "hotelName": "桔子上海虹桥延安西路酒店",
+    "hotelAddressShort": "闵行区虹中路388弄16号（距地铁10号线龙溪路站2号口1.7km，步行25分钟）"
+  },
+  {
+    "hotelId": "8000365",
+    "hotelName": "宜必思尚品上海张江酒店",
+    "hotelAddressShort": "上海浦东新区张江路1206号（地铁13号线张江路站1号口出，延张江路直行至蔡伦路）"
+  },
+  {
+    "hotelId": "9001796",
+    "hotelName": "全季上海长城大厦酒店",
+    "hotelAddressShort": "中山北路3018号（距离11号，3号，4号线长城大厦口80米，1分钟）"
+  },
+  {
+    "hotelId": "2004392",
+    "hotelName": "汉庭上海长江南路地铁站酒店",
+    "hotelAddressShort": "长江南路475号（地铁3号线长江南路2出口至马路，向右步行800米左右至酒店）"
+  },
+  {
+    "hotelId": "2000604",
+    "hotelName": "全季上海长寿路地铁站酒店（质量整改）",
+    "hotelAddressShort": "新会路139号（距7/13号线长寿路地铁站5号口350米，步行约5分钟）"
+  },
+  {
+    "hotelId": "2018015",
+    "hotelName": "全季上海嘉定百联购物中心酒店",
+    "hotelAddressShort": "澄浏中路2539号(地铁11号线嘉定西站下，乘坐公交嘉定11路至澄浏中路嘉戬公路站，步行50米）到达（距嘉定西（11号线）4.2km）"
+  },
+  {
+    "hotelId": "9000716",
+    "hotelName": "全季上海大学沪宜公路酒店",
+    "hotelAddressShort": "沪宜公路3188-16号"
+  },
+  {
+    "hotelId": "2004332",
+    "hotelName": "海友上海长海医院酒店(升级中)",
+    "hotelAddressShort": "上海市长海路580号（距地铁10号线1000米，1号口左转沿国和路左转到政通路直走到长海路右转即可抵达）"
+  },
+  {
+    "hotelId": "9007220",
+    "hotelName": "全季上海莘庄七莘路酒店",
+    "hotelAddressShort": "莘东路521号"
+  },
+  {
+    "hotelId": "2000654",
+    "hotelName": "桔子上海中山公园华师大酒店",
+    "hotelAddressShort": "中山北路3856弄3号(距3/4/13号线金沙江路地铁站3号口589米，步行6分钟）"
+  },
+  {
+    "hotelId": "2000102",
+    "hotelName": "海友上海城隍庙酒店",
+    "hotelAddressShort": "上海市黄浦区学前街77号(近蓬莱路、中华路，距地铁8/10号线7号口700米，步行10分钟）"
+  },
+  {
+    "hotelId": "9004245",
+    "hotelName": "汉庭上海陆家嘴塘桥地铁站酒店",
+    "hotelAddressShort": "浦建路15号A座1楼（地铁4号线塘桥站4号口出来，步行120米）"
+  },
+  {
+    "hotelId": "2018051",
+    "hotelName": "全季上海安亭地铁站酒店",
+    "hotelAddressShort": "安亭镇曹安公路5598号（距离地铁11号线安亭站1号口100米正对面财富广场内）"
+  },
+  {
+    "hotelId": "2001246",
+    "hotelName": "全季上海康桥沪南路酒店",
+    "hotelAddressShort": "沪南公路2568号（距11/18号线御桥地铁站7号出口1100米，步行15分钟）"
+  },
+  {
+    "hotelId": "2003353",
+    "hotelName": "全季上海虹桥枢纽临空园区酒店",
+    "hotelAddressShort": "广顺路8号"
+  },
+  {
+    "hotelId": "2018222",
+    "hotelName": "全季上海嘉定新城远香湖酒店",
+    "hotelAddressShort": "塔秀路88号(地铁11号线嘉定新城站下，乘坐公交15路至嘉定图书馆站下，步行1分钟）到达"
+  },
+  {
+    "hotelId": "9008064",
+    "hotelName": "你好上海徐家汇第六医院酒店",
+    "hotelAddressShort": "钦州路777号6幢B-(距3号，4号，9号线宜山路地铁站2号出口，步行十五分钟)"
+  },
+  {
+    "hotelId": "2001363",
+    "hotelName": "海友良品上海金桥国际广场酒店",
+    "hotelAddressShort": "上海市浦东新区金杨路776号"
+  },
+  {
+    "hotelId": "9020186",
+    "hotelName": "汉庭上海陆家嘴金融中心民生路酒店",
+    "hotelAddressShort": "民生路499号（地铁6/18号线1号口，步行约300米）"
+  },
+  {
+    "hotelId": "2002327",
+    "hotelName": "全季上海徐汇滨江酒店",
+    "hotelAddressShort": "龙水南路330号（距11号线龙耀路3号口900米，步行15分钟）"
+  },
+  {
+    "hotelId": "2000217",
+    "hotelName": "海友上海老西门地铁站酒店",
+    "hotelAddressShort": "上海市黄浦区西藏南路775号"
+  },
+  {
+    "hotelId": "2005405",
+    "hotelName": "全季上海金山万达酒店",
+    "hotelAddressShort": "上海市金山区山阳镇蒙山北路520号（距离金山万达广场800米"
+  },
+  {
+    "hotelId": "8000065",
+    "hotelName": "宜必思上海新虹桥酒店",
+    "hotelAddressShort": "万源路2739号（距9号线合川路站1号口1.4公里，步行18分钟）"
+  },
+  {
+    "hotelId": "9000114",
+    "hotelName": "全季上海大宁国际酒店",
+    "hotelAddressShort": "洛川中路840号 （距1号线延长路3号口746米，步行13分钟） "
+  },
+  {
+    "hotelId": "9002942",
+    "hotelName": "汉庭上海青浦汇金路地铁站酒店",
+    "hotelAddressShort": "青浦区华科东路172号（距17号线汇金路地铁站3号口650米，步行6分钟）"
+  },
+  {
+    "hotelId": "8000305",
+    "hotelName": "全季上海虹桥中心酒店",
+    "hotelAddressShort": "闵行区延安西路3162号（10号线龙溪路站2号口出，距离770m,步行10分钟）"
+  },
+  {
+    "hotelId": "8000234",
+    "hotelName": "桔子上海外滩外白渡桥酒店（原桔子上海外滩天潼路店）",
+    "hotelAddressShort": "吴淞路205号（距外滩300米，步行5分钟）"
+  },
+  {
+    "hotelId": "9001110",
+    "hotelName": "海友上海五角场黄兴路酒店",
+    "hotelAddressShort": "上海市杨浦区黄兴路2001号（距地铁10号线五角场站900米，4号口出来左转弯经过四平路右转到黄兴路一直走，过2个红绿灯即可抵达）"
+  },
+  {
+    "hotelId": "2000606",
+    "hotelName": "全季上海江宁路地铁站酒店",
+    "hotelAddressShort": "上海市普陀区江宁路1286号（13号地铁线江宁路站4号口向右步行100米左右，江宁路普陀路路口，酒店门口设有停车位）"
+  },
+  {
+    "hotelId": "2000832",
+    "hotelName": "汉庭上海虹口足球场地铁站酒店",
+    "hotelAddressShort": "西江湾路420号（虹口足球场站地铁3号线4号口，地铁8号线5号口）"
+  },
+  {
+    "hotelId": "2003334",
+    "hotelName": "汉庭上海祁连山路地铁站酒店",
+    "hotelAddressShort": "普陀区真南路1101号（距地铁11号线祁连山路2号口100米）"
+  },
+  {
+    "hotelId": "8000583",
+    "hotelName": "怡莱上海虹桥机场北翟路酒店",
+    "hotelAddressShort": "闵行区北沈路1888号，距离虹桥火车站、国家会展中心直线4公里"
+  },
+  {
+    "hotelId": "2004373",
+    "hotelName": "汉庭上海大柏树酒店",
+    "hotelAddressShort": "虹口区曲阳路789号（距离3号线大柏树站1号口689米，步行10分钟）"
+  },
+  {
+    "hotelId": "9001006",
+    "hotelName": "全季上海顾村公园地铁站酒店",
+    "hotelAddressShort": "陆翔路111弄11号4楼"
+  },
+  {
+    "hotelId": "8916077",
+    "hotelName": "全季上海东明路地铁站酒店",
+    "hotelAddressShort": "东明路1108号"
+  },
+  {
+    "hotelId": "8916697",
+    "hotelName": "汉庭上海徐家汇宜山路地铁站酒店",
+    "hotelAddressShort": "徐汇区宜山路520号(距9号线宜山路3号口196米,步行3分钟)"
+  },
+  {
+    "hotelId": "9010001",
+    "hotelName": "全季上海宝安公路地铁站酒店",
+    "hotelAddressShort": "宝杨路3360号（距宝安公路地铁站5号口500米，步行6分钟））"
+  },
+  {
+    "hotelId": "2002354",
+    "hotelName": "全季上海漕宝路日月光中心酒店",
+    "hotelAddressShort": "漕溪路222号"
+  },
+  {
+    "hotelId": "9011901",
+    "hotelName": "桔子上海浦江联航路酒店",
+    "hotelAddressShort": "浦江镇三鲁公路2999号（近联航路地铁、浦江郊野公园）"
+  },
+  {
+    "hotelId": "2018058",
+    "hotelName": "汉庭上海安亭新源路酒店",
+    "hotelAddressShort": "安亭镇新源路1317号 靠近民丰路，（距离地铁站11号线，安亭站2号口2.6公里。乘坐公交69路、嘉定114路区间、嘉定116路、嘉定55路、嘉定102路沁富佳苑站下车，步行2分钟到酒店）"
+  },
+  {
+    "hotelId": "9012019",
+    "hotelName": "汉庭上海金桥酒店",
+    "hotelAddressShort": "佳林路175号（金高路佳林路十字路口，地铁9号线金桥站1号口出步行15分钟）"
+  },
+  {
+    "hotelId": "2000622",
+    "hotelName": "汉庭上海中江路酒店",
+    "hotelAddressShort": "普陀区中江路1279号（距15号线梅岭北路站4号口200米，步行3分钟）"
+  },
+  {
+    "hotelId": "2004371",
+    "hotelName": "汉庭上海五角场复旦大学酒店",
+    "hotelAddressShort": "虹口区松花江路2628号（距离地铁10号线国权路站4号口1.1km，打车5分钟））"
+  },
+  {
+    "hotelId": "9002895",
+    "hotelName": "汉庭上海嘉定新城马陆酒店",
+    "hotelAddressShort": "嘉定区宝安公路3705弄1号东门（距地铁11号线4号口1.4公里，步行18分钟）"
+  },
+  {
+    "hotelId": "2018025",
+    "hotelName": "汉庭优佳上海虹桥火车站北翟路酒店",
+    "hotelAddressShort": "闵行区北翟路3158号近南华街(距离2号线虹桥火车站3.1km)"
+  },
+  {
+    "hotelId": "2000632",
+    "hotelName": "汉庭上海华师大酒店",
+    "hotelAddressShort": "上海市普陀区宁夏路268号（距3/4/11/14号线曹杨路站2号口400米，步行五分钟即到）"
+  },
+  {
+    "hotelId": "8916098",
+    "hotelName": "全季上海召稼楼古镇酒店",
+    "hotelAddressShort": "江文路121弄37号"
+  },
+  {
+    "hotelId": "2004341",
+    "hotelName": "汉庭上海大宁国际广粤路酒店",
+    "hotelAddressShort": "广粤路281号(距1号线马戏城站1号口1.5公里骑行6分钟)"
+  },
+  {
+    "hotelId": "9002742",
+    "hotelName": "海友上海徐家汇漕宝路酒店",
+    "hotelAddressShort": "漕宝路111-1号7层（12号线桂林公园站1号口出直行500米即到）"
+  },
+  {
+    "hotelId": "8000078",
+    "hotelName": "全季上海虹桥延安西路酒店",
+    "hotelAddressShort": "闵行区虹中路535号（距地铁10号线龙溪路站3号口步行10分钟）"
+  },
+  {
+    "hotelId": "8000417",
+    "hotelName": "汉庭优佳上海西藏南路二店",
+    "hotelAddressShort": "大林路338号(距8/9号线陆家浜路站4号口右转100米，步行2分钟)"
+  },
+  {
+    "hotelId": "9007704",
+    "hotelName": "全季上海锦江乐园地铁站酒店",
+    "hotelAddressShort": "闵行区虹梅路241号（锦江乐园往北200米）"
+  },
+  {
+    "hotelId": "9000323",
+    "hotelName": "汉庭上海青浦新城地铁站酒店",
+    "hotelAddressShort": "青浦区华科路109号（距地铁17号线青浦新城站3号出口700米，步行5分钟）"
+  },
+  {
+    "hotelId": "2014993",
+    "hotelName": "汉庭优佳上海奉贤体育中心酒店",
+    "hotelAddressShort": "奉贤区古华路100号D座-2（位于上海市奉贤区体育中心内，距离各场馆步行约3-5分钟）"
+  },
+  {
+    "hotelId": "2004393",
+    "hotelName": "全季上海殷高西路酒店",
+    "hotelAddressShort": "殷高西路711号（距3号线殷高西路地铁站1.7公里，步行25分钟）"
+  },
+  {
+    "hotelId": "9008982",
+    "hotelName": "全季上海青浦新城地铁站酒店",
+    "hotelAddressShort": "夏阳街道浦仓路888号、盈港路129号"
+  },
+  {
+    "hotelId": "8000392",
+    "hotelName": "全季上海虹桥水城路酒店",
+    "hotelAddressShort": "水城路378号（距2号线威宁路站2号口，10号线水城路站1号口900米，步行10至15分钟）"
+  },
+  {
+    "hotelId": "2004338",
+    "hotelName": "全季上海五角场黄兴路酒店",
+    "hotelAddressShort": "黄兴路1845号（地铁10号线五角场站5号出口至五角场转盘，从悠迈广场出来直行10分钟）"
+  },
+  {
+    "hotelId": "2001293",
+    "hotelName": "海友上海新金桥酒店",
+    "hotelAddressShort": "上海市浦东新区平度路370号"
+  },
+  {
+    "hotelId": "2000327",
+    "hotelName": "全季上海斜土路酒店",
+    "hotelAddressShort": "斜土路1646号（距离4号线，7号线东安路站1号口800米，步行8分钟）"
+  },
+  {
+    "hotelId": "8000462",
+    "hotelName": "汉庭优佳上海虹桥中山西路酒店",
+    "hotelAddressShort": "中山西路750号(距地铁3号线4号线延安西路站2号口591米，步行8分钟）"
+  },
+  {
+    "hotelId": "2001203",
+    "hotelName": "全季上海东方明珠酒店",
+    "hotelAddressShort": "东方路121号"
+  },
+  {
+    "hotelId": "2009403",
+    "hotelName": "全季上海宝山吴淞国际邮轮码头酒店",
+    "hotelAddressShort": "长江路180号(距3号线 张华浜1号口990米，步行13分钟"
+  },
+  {
+    "hotelId": "9001255",
+    "hotelName": "海友上海世博临沂路酒店",
+    "hotelAddressShort": "上海市浦东新区临沂路217号"
+  },
+  {
+    "hotelId": "2012091",
+    "hotelName": "汉庭上海曹路地铁站酒店",
+    "hotelAddressShort": "浦东新区龚华路147号（距9号线曹路站3B出口700米，步行8分钟即可到达）"
+  },
+  {
+    "hotelId": "9001044",
+    "hotelName": "汉庭优佳上海曹路金融学院酒店",
+    "hotelAddressShort": "浦东新区金钻路828号恒越荣欣广场6号楼（地铁9号线曹路站6号口沿金钻路一直走到海容路步行10分钟即可到达酒店）"
+  },
+  {
+    "hotelId": "2016158",
+    "hotelName": "桔子上海虹桥枢纽九亭酒店",
+    "hotelAddressShort": "沪松公路1197号（地铁9号线九亭站2号口出，向右直行步行10分钟左右即可到达）"
+  },
+  {
+    "hotelId": "2000403",
+    "hotelName": "汉庭上海西康路酒店",
+    "hotelAddressShort": "静安区西康路899号(距地铁7号线/13号线长寿路站5号口595米，步行约8分钟)"
+  },
+  {
+    "hotelId": "2016137",
+    "hotelName": "汉庭优佳上海松江方塔酒店",
+    "hotelAddressShort": "松江区环城路274号（距离地铁9号线体育中心站打车起步价13元）"
+  },
+  {
+    "hotelId": "2000708",
+    "hotelName": "汉庭上海大宁国际延长路地铁站酒店",
+    "hotelAddressShort": "静安区延长中路576号(距地铁1号线延长路站3号出口582米，步行5-7分钟）"
+  },
+  {
+    "hotelId": "9003214",
+    "hotelName": "汉庭上海崇明万达广场酒店",
+    "hotelAddressShort": "城桥镇一江山路68号（距离崇明万达广场步行300米，距八一步行街、南门汽车站和南门码头约2公里）"
+  },
+  {
+    "hotelId": "8000003",
+    "hotelName": "全季上海静安寺酒店",
+    "hotelAddressShort": "静安区万航渡路105号(距2号7号线静安寺站1、2号口400米，步行3分钟)"
+  },
+  {
+    "hotelId": "2013184",
+    "hotelName": "全季上海周浦万达广场酒店",
+    "hotelAddressShort": "年家浜路329号（18号线周浦站2号出口年家浜路往东直走800米）"
+  },
+  {
+    "hotelId": "8000311",
+    "hotelName": "海友上海漕河泾桂平路酒店",
+    "hotelAddressShort": "上海市徐汇区桂平路286号（距12线虹漕路地铁站3号口621米，步行10分钟）"
+  },
+  {
+    "hotelId": "9002085",
+    "hotelName": "汉庭优佳上海北虹桥酒店",
+    "hotelAddressShort": "嘉定区江桥镇华江支路369号(近曹安公路，地铁14号线嘉怡路站4号口步行至酒店约6分钟）"
+  },
+  {
+    "hotelId": "2002339",
+    "hotelName": "全季上海虹桥合川路酒店",
+    "hotelAddressShort": "合川路3111号"
+  },
+  {
+    "hotelId": "2018038",
+    "hotelName": "海友上海江桥万达酒店",
+    "hotelAddressShort": "上海市嘉定区鹤旋路3号（距13号线金运路站800米，2号口出来左转沿金运路直行至红绿灯路口左转进入鹤旋路直行450米即可到达））"
+  },
+  {
+    "hotelId": "9000028",
+    "hotelName": "全季上海世博耀华路酒店",
+    "hotelAddressShort": "西营路78号（地铁7号线长清路站3号出口，沿耀华路向西行至西营路左转，沿西营路直走350米即达）"
+  },
+  {
+    "hotelId": "2000314",
+    "hotelName": "全季上海徐汇岳阳路酒店",
+    "hotelAddressShort": "岳阳路58号（距地铁1号线衡山路1号口603米，步行8分钟，1、7号线常熟路4号口700米，步行9分钟；10号线上海图书馆2号口700米，步行9分钟）"
+  },
+  {
+    "hotelId": "9002357",
+    "hotelName": "汉庭优佳上海松江仓城影视园酒店",
+    "hotelAddressShort": "上海市松江区松汇西路1581号"
+  },
+  {
+    "hotelId": "2002412",
+    "hotelName": "汉庭上海吴泾华师大酒店",
+    "hotelAddressShort": "闵行区虹梅南路5209号(距华东师范大学车程5分钟，地铁15号线永德路地铁站到达本店车程8分钟，地铁5号线北桥站到达本站车程10分钟）"
+  },
+  {
+    "hotelId": "9009178",
+    "hotelName": "汉庭上海桃浦新村地铁站酒店",
+    "hotelAddressShort": "白丽路366号（距11号线桃浦新村4号口10米，步行1分钟）"
+  },
+  {
+    "hotelId": "2012025",
+    "hotelName": "上海浦东川沙诺富特酒店(升级中)",
+    "hotelAddressShort": "上海浦东新区川沙路5989号"
+  },
+  {
+    "hotelId": "2018034",
+    "hotelName": "全季上海江桥万达广场酒店",
+    "hotelAddressShort": "鹤望路733弄2号，金园一路与鹤望路交叉口（距离13号线金运路700米，步行10分钟）"
+  },
+  {
+    "hotelId": "2013161",
+    "hotelName": "汉庭上海航头地铁站酒店",
+    "hotelAddressShort": "浦东新区航头镇沪南公路5900号（地铁18号线航头站3号出口，步行8分钟即可达到酒店）"
+  },
+  {
+    "hotelId": "2000323",
+    "hotelName": "汉庭上海东安路酒店",
+    "hotelAddressShort": "东安路346号（距4/7号线东安路站5号50米，步行1分钟）"
+  },
+  {
+    "hotelId": "9015464",
+    "hotelName": "汉庭上海莘庄工业园区酒店",
+    "hotelAddressShort": "松江区新桥镇银都西路215号(嘉闵高架银都路出口下高架200米到达酒店）"
+  },
+  {
+    "hotelId": "8000389",
+    "hotelName": "全季上海虹桥国展中心南华街酒店",
+    "hotelAddressShort": "上海市闵行区华漕镇南华街58号(距中骏广场1.5公里，虹桥火车站3,3公里，虹桥商务区3.6公里，国家会展中心4.1公里）"
+  },
+  {
+    "hotelId": "2000034",
+    "hotelName": "海友上海人民广场南京西路酒店（原江阴路店）",
+    "hotelAddressShort": "江阴路152号（距离2号线1号线8号线人民广场11号口500米，步行6分钟）"
+  },
+  {
+    "hotelId": "2012101",
+    "hotelName": "全季上海张江路地铁站酒店",
+    "hotelAddressShort": "孙桥路18号华夏中路口"
+  },
+  {
+    "hotelId": "2011007",
+    "hotelName": "桔子上海虹桥国展中心酒店",
+    "hotelAddressShort": "申长北路166弄5-9号(距中骏广场800米，步行约6分钟)"
+  },
+  {
+    "hotelId": "2004391",
+    "hotelName": "汉庭上海财大吉浦路酒店",
+    "hotelAddressShort": "宝山区吉浦路521号（地铁三号线江湾镇站2号出口向北至政立路，再向东沿吉浦路步行8分钟即可到达）"
+  },
+  {
+    "hotelId": "9003213",
+    "hotelName": "汉庭优佳上海世博上南路酒店",
+    "hotelAddressShort": "浦东新区上南路2954号临-2（距8号线/13号线成山路站348m，步行5分钟）"
+  },
+  {
+    "hotelId": "9015347",
+    "hotelName": "全季上海新金桥路酒店",
+    "hotelAddressShort": " 新金桥路1459号"
+  },
+  {
+    "hotelId": "9005261",
+    "hotelName": "汉庭上海打浦桥地铁站酒店",
+    "hotelAddressShort": "黄浦区瑞金南路1号4楼(距离打浦桥地铁站3号口150米，步行两分钟）"
+  },
+  {
+    "hotelId": "9000667",
+    "hotelName": "全季上海莘庄北广场酒店",
+    "hotelAddressShort": "疏影路386号（近水清路，地铁1号线莘庄站北1号口出来打车起步价即可到达酒店）"
+  },
+  {
+    "hotelId": "8000471",
+    "hotelName": "桔子上海虹桥火车站酒店",
+    "hotelAddressShort": "上海市闵行区华翔路51号"
+  },
+  {
+    "hotelId": "2018001",
+    "hotelName": "全季上海嘉怡路地铁站酒店（原江桥曹安公路店）",
+    "hotelAddressShort": "江佳路35号（距14号线嘉怡路站4号口400米,步行8分钟）"
+  },
+  {
+    "hotelId": "9000206",
+    "hotelName": "桔子上海张江孙桥酒店",
+    "hotelAddressShort": "孙建路826号"
+  },
+  {
+    "hotelId": "2000408",
+    "hotelName": "汉庭上海江宁路新店",
+    "hotelAddressShort": "静安区昌平路317号（距地铁7号线昌平路站4号口744米，步行约10分钟）"
+  },
+  {
+    "hotelId": "2016157",
+    "hotelName": "全季上海九亭大街酒店",
+    "hotelAddressShort": "龙金路281号(距离地铁9号线九亭站3号出口1.7km，打车起步价)"
+  },
+  {
+    "hotelId": "9002208",
+    "hotelName": "全季上海金桥云山路酒店",
+    "hotelAddressShort": "金杨路35号"
+  },
+  {
+    "hotelId": "9000003",
+    "hotelName": "全季上海虹桥茅台路酒店",
+    "hotelAddressShort": "茅台路555号（距2号线威宁路站2号口742米，步行12分钟）"
+  },
+  {
+    "hotelId": "8000596",
+    "hotelName": "全季上海市北高新园区酒店",
+    "hotelAddressShort": "汶水路273号（距1号线汶水路站4号口1100米，步行15分钟）"
+  },
+  {
+    "hotelId": "2016207",
+    "hotelName": "全季上海松江大学城酒店",
+    "hotelAddressShort": "新松江路1290号（东明广场内，轻轨电车2号线到江学路站下车步行1分钟到达）"
+  },
+  {
+    "hotelId": "2013181",
+    "hotelName": "汉庭上海周浦万达地铁站酒店",
+    "hotelAddressShort": "上南路7768号（地铁18号线周浦站1号出口，步行7分钟即可到达）"
+  },
+  {
+    "hotelId": "9015039",
+    "hotelName": "汉庭上海金山城市沙滩酒店",
+    "hotelAddressShort": "上海市金山区石化街道卫清西路526-528号"
+  },
+  {
+    "hotelId": "8000348",
+    "hotelName": "全季上海虹桥机场空港酒店",
+    "hotelAddressShort": "闵行区空港六路45号（沪青平公路口；虹桥机场、虹桥站、国展约5km出租车14分钟）"
+  },
+  {
+    "hotelId": "8000181",
+    "hotelName": "汉庭上海徐家汇虹桥路酒店",
+    "hotelAddressShort": "徐汇区虹桥路772弄3号(地铁10号线4号口出右转直行300米，过马路左转直行800米即可到达)"
+  },
+  {
+    "hotelId": "2018212",
+    "hotelName": "海友上海嘉定新城白银路地铁站酒店",
+    "hotelAddressShort": "上海市嘉定区白银路796号（距离11号线白银路站1号口400米，步行5分钟）"
+  },
+  {
+    "hotelId": "2019082",
+    "hotelName": "全季上海美兰湖美安路酒店",
+    "hotelAddressShort": "美安路363号（距地铁7号线罗南新村站2号口1.5千米，步行15分钟;乘1607路公交向张别墅村年喜路方向至美安路陆翔路站下车，步行150米3分钟）"
+  },
+  {
+    "hotelId": "9004800",
+    "hotelName": "海友上海外滩人民路酒店",
+    "hotelAddressShort": "上海市人民路851号（地铁10号/14号豫园站4号口出步行5分钟）"
+  },
+  {
+    "hotelId": "2000635",
+    "hotelName": "海友上海曹杨路地铁站酒店",
+    "hotelAddressShort": "普陀区曹杨路595号（3、4、11、14号线曹杨站站4号口向前30米即可到达，步行2分钟）"
+  },
+  {
+    "hotelId": "9012180",
+    "hotelName": "全季上海新国际博览中心锦绣路酒店",
+    "hotelAddressShort": " 北艾路801号"
+  },
+  {
+    "hotelId": "9002712",
+    "hotelName": "全季上海虹桥国展中心申虹路酒店",
+    "hotelAddressShort": "闵行区兴虹路50号（兴虹路与申贵路十字西北角，距虹桥火车站1.1公里，步行19分钟）"
+  },
+  {
+    "hotelId": "9001159",
+    "hotelName": "汉庭上海浦江五官科医院酒店",
+    "hotelAddressShort": "浦雪路269号(距8号线联航路2号口1.5公里，打车起步价 ）"
+  },
+  {
+    "hotelId": "9008084",
+    "hotelName": "汉庭上海陕西南路地铁站酒店",
+    "hotelAddressShort": "淮海中路774号(地铁1、10、12号线陕西南路地铁站3号口出过马路直行200米即到，13号线淮海中路地铁站1号口右转100米过路口即到）"
+  },
+  {
+    "hotelId": "2011042",
+    "hotelName": "全季上海春申路酒店",
+    "hotelAddressShort": "闵行区梅陇镇春申路1475号 (地铁15号线华泾西站1、4号口向正北沿景洪路直行280m,路口左转进入华泾路直行320m到达老沪闵路与春申路交叉口，直行30m到达酒店，距免费核酸检测点400m，华泾天街商业广场2000m)"
+  },
+  {
+    "hotelId": "9019961",
+    "hotelName": "海友上海松江大学城江学路酒店",
+    "hotelAddressShort": "江学路923号（东明广场内，轻轨电车2号线达江学路）"
+  },
+  {
+    "hotelId": "2013185",
+    "hotelName": "汉庭上海周浦医谷酒店",
+    "hotelAddressShort": "周祝公路268弄1号楼（距16号线周浦东站直线距离800米，步行12分钟）"
+  },
+  {
+    "hotelId": "2011038",
+    "hotelName": "全季上海虹桥虹许路酒店",
+    "hotelAddressShort": "吴中路729号（距离9号线漕河泾开发区站5号口1km,步行10分钟）"
+  },
+  {
+    "hotelId": "2016003",
+    "hotelName": "全季上海松江体育中心酒店",
+    "hotelAddressShort": "乐都路301号（距松江体育中心地铁站2号口360米，步行约5分钟）"
+  },
+  {
+    "hotelId": "2011076",
+    "hotelName": "汉庭上海虹桥枢纽国展中心酒店",
+    "hotelAddressShort": "闵行区纪翟路2762号(酒店离国家会展中心8公里，虹桥机场、虹桥火车站和国家会展中心20分钟车程，0纪王镇品尚生活广场内)"
+  },
+  {
+    "hotelId": "8000384",
+    "hotelName": "汉庭优佳上海东方明珠酒店",
+    "hotelAddressShort": "浦东大道842号（14号线源深路1号口向西150米，步行2分钟可达）"
+  },
+  {
+    "hotelId": "8000586",
+    "hotelName": "全季上海张江金科路酒店",
+    "hotelAddressShort": "盛荣路188弄5号"
+  },
+  {
+    "hotelId": "2012048",
+    "hotelName": "全季上海新国际博览中心陈春路酒店",
+    "hotelAddressShort": "陈春路299号"
+  },
+  {
+    "hotelId": "2000707",
+    "hotelName": "海友上海火车站酒店",
+    "hotelAddressShort": "上海市静安区共和新路638号3楼"
+  },
+  {
+    "hotelId": "9021106",
+    "hotelName": "全季上海张江金融信息园酒店(升级中)",
+    "hotelAddressShort": "卡园二路108号9幢3-10层及1楼部分"
+  },
+  {
+    "hotelId": "2004335",
+    "hotelName": "全季上海五角场万达广场酒店",
+    "hotelAddressShort": "国庠路28号（地铁10号线江湾体育场站2号口550米，步行6分钟）"
+  },
+  {
+    "hotelId": "8915410",
+    "hotelName": "汉庭上海陆家嘴八佰伴酒店",
+    "hotelAddressShort": "张杨路628弄5-6号（地铁2、4、6、9号线至世纪大道站下车12号口出站，沿张杨路向西步行约700米）"
+  },
+  {
+    "hotelId": "8915511",
+    "hotelName": "全季上海四川北路地铁站酒店",
+    "hotelAddressShort": "武进路255号（10号线四川北路站2号口出向左100米，距第一人民医院300米，距外滩景点、南京路步行街1.8公里，酒店周边购物、娱乐、餐饮一应俱全）"
+  },
+  {
+    "hotelId": "8000045",
+    "hotelName": "汉庭上海步行街福建中路酒店",
+    "hotelAddressShort": "福建中路205号（距2,10号线南京东路站4号口500米，步行5分钟）"
+  },
+  {
+    "hotelId": "2017071",
+    "hotelName": "汉庭上海青浦漕盈路地铁站酒店",
+    "hotelAddressShort": "青浦区盈港路1750弄1号((距17号线漕盈路站3号口200米，步行2分钟)"
+  },
+  {
+    "hotelId": "9010864",
+    "hotelName": "汉庭上海江宁路玉佛寺酒店",
+    "hotelAddressShort": "江宁路777号(近海防路路口,距江宁路地铁站4号口700米)"
+  },
+  {
+    "hotelId": "2016206",
+    "hotelName": "宜必思上海松江大学城文诚路酒店",
+    "hotelAddressShort": "上海市松江区文诚路500弄5号"
+  },
+  {
+    "hotelId": "2011141",
+    "hotelName": "汉庭上海浦江高科技园区酒店",
+    "hotelAddressShort": "浦江镇立跃路2897号(距8号线江月路站2号口757米，步行10分钟)"
+  },
+  {
+    "hotelId": "9009657",
+    "hotelName": "汉庭上海浦江三鲁公路酒店",
+    "hotelAddressShort": "闵行区浦江镇三鲁公路2646弄29号(距8号线联航路地铁站2号口1.2公里步行约20分钟左右）"
+  },
+  {
+    "hotelId": "2013153",
+    "hotelName": "全季上海康桥秀浦路酒店",
+    "hotelAddressShort": "秀浦路886号"
+  },
+  {
+    "hotelId": "9000057",
+    "hotelName": "全季上海交大沧源路酒店",
+    "hotelAddressShort": "沧源路595号（酒店入口沧源路、德宏路都可进入）"
+  },
+  {
+    "hotelId": "2012039",
+    "hotelName": "海友上海张江园区酒店",
+    "hotelAddressShort": "上海市浦东新区盛夏路914号1层、2层、3层"
+  },
+  {
+    "hotelId": "2011066",
+    "hotelName": "汉庭上海虹桥机场北翟路新店",
+    "hotelAddressShort": "闵行区北翟路3386号(距74路公交车陈思桥站200米，步行2分钟)"
+  },
+  {
+    "hotelId": "2000107",
+    "hotelName": "海友上海小南门地铁站酒店",
+    "hotelAddressShort": "上海市黄浦区中华路567号中检大厦三楼"
+  },
+  {
+    "hotelId": "2016004",
+    "hotelName": "汉庭上海松江醉白池地铁站酒店",
+    "hotelAddressShort": "松江区人民南路阔街58号（9号线醉白池站3号口出直走470米右转30米即到酒店）"
+  },
+  {
+    "hotelId": "2013071",
+    "hotelName": "全季上海临港新城酒店",
+    "hotelAddressShort": "港辉路499号"
+  },
+  {
+    "hotelId": "2016152",
+    "hotelName": "全季上海虹桥枢纽九亭酒店",
+    "hotelAddressShort": "松江区九亭镇涞坊路1000号（地铁9号线九亭站1.8公里，骑行约10分钟即到）"
+  },
+  {
+    "hotelId": "2016151",
+    "hotelName": "汉庭上海九亭大街酒店",
+    "hotelAddressShort": "松江区九亭大街1218号（地铁9号线九亭站4号口出来打车起步价即可到达酒店）"
+  },
+  {
+    "hotelId": "8000507",
+    "hotelName": "海友上海杨浦红房子医院酒店",
+    "hotelAddressShort": "原海友上海杨浦大桥平凉路酒店，上海市杨浦区平凉路1365弄3号（距地铁12号线宁国路站500米，4号口出，右转沿宁国路直行500米至平凉路右转直行20米右手边即可到达。二，距地铁18号线平凉路地铁站700米，3号口出马路对面乘坐公交车25路，868路，853路至平凉路宁国路下车，向前直行50米过红绿灯对面即达）"
+  },
+  {
+    "hotelId": "2000419",
+    "hotelName": "汉庭优佳上海南京西路地铁站酒店（原恒隆广场店）",
+    "hotelAddressShort": "新闸路1051号（距离2号线南京西路站1号口800米，步行8分钟）"
+  },
+  {
+    "hotelId": "2011019",
+    "hotelName": "全季上海虹桥机场七莘路酒店",
+    "hotelAddressShort": "七莘路3599弄1号楼(近七宝凯德广场）"
+  },
+  {
+    "hotelId": "8000096",
+    "hotelName": "宜必思上海虹桥古北酒店",
+    "hotelAddressShort": "上海市吴中路453号"
+  },
+  {
+    "hotelId": "2000324",
+    "hotelName": "海友上海大木桥地铁站酒店",
+    "hotelAddressShort": "徐汇区零陵路88号（4、12号线大木桥地铁站1号口出即到）"
+  },
+  {
+    "hotelId": "2003362",
+    "hotelName": "全季上海虹桥吴中路酒店",
+    "hotelAddressShort": "吴中路699号（距离9号线漕河泾开发区站1号口1100米，步行15分钟）"
+  },
+  {
+    "hotelId": "8913248",
+    "hotelName": "汉庭优佳上海莘庄南广场酒店",
+    "hotelAddressShort": "都市路4690号近春申路，（距离地铁1号莘庄站1.2km步行15分钟、5号线春申路站800米步行10分钟即可抵达酒店，公交5分钟即可抵达）"
+  },
+  {
+    "hotelId": "9021686",
+    "hotelName": "桔子上海南翔古猗园酒店",
+    "hotelAddressShort": "沪宜公路435号、451号、471号1层部分、2层部分、3层整层"
+  },
+  {
+    "hotelId": "9018700",
+    "hotelName": "海友上海莘庄地铁站酒店",
+    "hotelAddressShort": "上海市闵行区莘庄镇都市路5052号"
+  },
+  {
+    "hotelId": "2013995",
+    "hotelName": "全季上海龙阳路磁悬浮酒店",
+    "hotelAddressShort": "梅花路999弄44号"
+  },
+  {
+    "hotelId": "8916416",
+    "hotelName": "全季上海塘桥世茂滨江酒店",
+    "hotelAddressShort": "上海市浦东新区张家浜路37弄3-5号一至三层（4号线塘桥站4号口步行约10分钟）"
+  },
+  {
+    "hotelId": "9000649",
+    "hotelName": "星程上海虹桥国展中心北青公路酒店",
+    "hotelAddressShort": "北青公路6588号意邦建材市场A3栋.(距国家会展中心、人气景点朱家角直线距离10公里)"
+  },
+  {
+    "hotelId": "9014832",
+    "hotelName": "汉庭上海宝安公路地铁站酒店",
+    "hotelAddressShort": "梅林路358号1幢"
+  },
+  {
+    "hotelId": "9001384",
+    "hotelName": "全季上海浦江联航路酒店",
+    "hotelAddressShort": "浦江镇联航路1501号（距地铁8号线联航路站600米，步行10分钟）"
+  },
+  {
+    "hotelId": "2014012",
+    "hotelName": "星程上海奉贤体育中心酒店",
+    "hotelAddressShort": "南桥镇南港路1893号(环城东路与南港路交叉路口工商银行旁边）"
+  },
+  {
+    "hotelId": "2018026",
+    "hotelName": "全季上海南翔古猗园酒店",
+    "hotelAddressShort": "银翔路1065号（地铁11号线南翔站下，乘坐嘉定118路至银翔路扬子路站下，步行5分钟）到达"
+  },
+  {
+    "hotelId": "8914677",
+    "hotelName": "汉庭上海临港滴水湖酒店",
+    "hotelAddressShort": "浦东新区临港新城瑞木路100号（16号线滴水湖站2号口步行13分钟即可到店）"
+  },
+  {
+    "hotelId": "9009063",
+    "hotelName": "海友上海金桥五莲路地铁站酒店",
+    "hotelAddressShort": "寿光路185号"
+  },
+  {
+    "hotelId": "2004334",
+    "hotelName": "全季上海五角场市光路酒店",
+    "hotelAddressShort": "上海市杨浦区市光路635号（紧邻长海医院和肝胆医院距离8号线市光路站3号口725米）"
+  },
+  {
+    "hotelId": "2016001",
+    "hotelName": "汉庭上海松江酒店",
+    "hotelAddressShort": "松江区荣乐东路1599号 (地铁9号线体育中心站3号口下，坐有轨电车1号线和2号线到松卫路站下)"
+  },
+  {
+    "hotelId": "2013005",
+    "hotelName": "全季上海野生动物园酒店",
+    "hotelAddressShort": "上海市浦东新区园中路55号（距离野生动物园3km，距离迪士尼乐园15km）"
+  },
+  {
+    "hotelId": "2001366",
+    "hotelName": "海友上海云山路酒店",
+    "hotelAddressShort": "上海市浦东新区金口路300号"
+  },
+  {
+    "hotelId": "9003719",
+    "hotelName": "海友上海徐家汇永嘉路酒店",
+    "hotelAddressShort": "徐汇区永嘉路158号"
+  },
+  {
+    "hotelId": "2018056",
+    "hotelName": "全季上海安亭汽车城酒店",
+    "hotelAddressShort": "安谐路99弄1号（距地铁11号线上海汽车城站1号口60米，步行1分钟）"
+  },
+  {
+    "hotelId": "9013658",
+    "hotelName": "海友上海车墩影视城酒店",
+    "hotelAddressShort": "上海市松江区车墩镇车峰路300号1楼（松江6路总站小火车站距离800米步行5分钟）"
+  },
+  {
+    "hotelId": "8000533",
+    "hotelName": "星程上海虹桥枢纽七宝酒店",
+    "hotelAddressShort": "中春路7228号【9号线中春路2号出口直行，步行15分钟达到】"
+  },
+  {
+    "hotelId": "8916100",
+    "hotelName": "汉庭优佳上海中山公园延安路酒店",
+    "hotelAddressShort": "长宁区番禺路1号（距10号线/11号线交通大学站6号口800m步行9分钟，近交通大学长宁校区）"
+  },
+  {
+    "hotelId": "8000235",
+    "hotelName": "桔子上海西藏北路地铁站酒店",
+    "hotelAddressShort": "中山北路311号（距地铁8号线西藏北路站4号口10米，步行一分钟）"
+  },
+  {
+    "hotelId": "9012851",
+    "hotelName": "星程上海曹杨梅岭北路地铁站酒店",
+    "hotelAddressShort": "兰溪路185号（距15号线梅岭北路地铁站492米 步行8分钟）"
+  },
+  {
+    "hotelId": "2016011",
+    "hotelName": "汉庭上海松江泗泾酒店",
+    "hotelAddressShort": "松江区泗泾镇沪松公路2511弄16号（距离9号线泗泾地铁站仅3.2公里）"
+  },
+  {
+    "hotelId": "2017081",
+    "hotelName": "汉庭上海国家会展中心华新酒店（原青浦华新店）",
+    "hotelAddressShort": "青浦区华志路559弄C区2号楼"
+  },
+  {
+    "hotelId": "2000233",
+    "hotelName": "海友上海斜土东路酒店（升级中）",
+    "hotelAddressShort": "黄浦区斜土路112号（距离九院700米）"
+  },
+  {
+    "hotelId": "9002884",
+    "hotelName": "全季上海同济大学绿苑南路酒店",
+    "hotelAddressShort": "绿苑南路8号（距离11号线昌吉东路地铁站3.8公里）"
+  },
+  {
+    "hotelId": "2000329",
+    "hotelName": "汉庭上海小木桥路酒店",
+    "hotelAddressShort": "小木桥路604号（地铁4、12号线大木桥路站3号口出直行至路口左转100米即可到达）"
+  },
+  {
+    "hotelId": "2017025",
+    "hotelName": "全季上海虹桥国展中心徐泾北城酒店",
+    "hotelAddressShort": "青浦区徐乐路99弄(距离地铁17号线1000米步行10分钟，奥特莱斯2公里开车5分钟)"
+  },
+  {
+    "hotelId": "2012006",
+    "hotelName": "汉庭上海曹路金融信息园酒店",
+    "hotelAddressShort": "浦东新区曹路镇川沙路1215号（距9号线民雷路地铁站2号800米，步行10分钟）"
+  },
+  {
+    "hotelId": "2000311",
+    "hotelName": "汉庭上海襄阳路酒店",
+    "hotelAddressShort": "襄阳南路578号甲(距嘉善路9/12号线5号口200米，步行3分钟）"
+  },
+  {
+    "hotelId": "2011084",
+    "hotelName": "全季上海虹梅南路地铁站酒店",
+    "hotelAddressShort": "银都路1269号（距15号线地铁口2米，虹梅南路站2号出口）"
+  },
+  {
+    "hotelId": "2019012",
+    "hotelName": "全季上海水产路翼生活广场酒店",
+    "hotelAddressShort": "水产路2499号"
+  },
+  {
+    "hotelId": "8000584",
+    "hotelName": "汉庭上海交大江川路地铁站新店",
+    "hotelAddressShort": "沪闵路213号（距5号线江川路地铁站2号口145米）"
+  },
+  {
+    "hotelId": "2016124",
+    "hotelName": "全季上海九亭临港科技城酒店",
+    "hotelAddressShort": "中心路1446号（距离九亭地铁站4.6公里，近松江临港科技园区）"
+  },
+  {
+    "hotelId": "2000322",
+    "hotelName": "汉庭优佳上海打浦桥地铁站店",
+    "hotelAddressShort": "黄浦区南塘浜路128号（9号线打浦桥站2号口直走200米，步行3分钟）"
+  },
+  {
+    "hotelId": "2018214",
+    "hotelName": "桔子上海嘉定新城远香湖酒店",
+    "hotelAddressShort": "白银路325号（地铁11号线嘉定新城站下，乘坐公交15路至裕民南路塔秀路站下，步行两分钟）到达"
+  },
+  {
+    "hotelId": "8916073",
+    "hotelName": "汉庭优佳上海江桥万达酒店",
+    "hotelAddressShort": "嘉定区金运路690号 （近金沙江西路路口，地铁13号线2号出口出步行200米）"
+  },
+  {
+    "hotelId": "2011055",
+    "hotelName": "汉庭上海虹桥机场沪青平公路酒店",
+    "hotelAddressShort": "闵行区沪青平公路航新路612号(地铁10号线航中路站，距离1.4公里)"
+  },
+  {
+    "hotelId": "2012046",
+    "hotelName": "全季上海世博上南路酒店",
+    "hotelAddressShort": "上南路3030号"
+  },
+  {
+    "hotelId": "2012068",
+    "hotelName": "全季上海金桥酒店",
+    "hotelAddressShort": "浙桥路1号（地铁9号线台儿庄路站3号口出，步行五分钟到达酒店，红星美凯龙对面，浙桥路与金藏路交汇处）"
+  },
+  {
+    "hotelId": "2012069",
+    "hotelName": "海友上海新国际博览中心酒店（原世纪公园店）（升级中）",
+    "hotelAddressShort": "浦东新区杨高中路2128号5幢"
+  },
+  {
+    "hotelId": "2012067",
+    "hotelName": "海友上海金桥杨高中路酒店",
+    "hotelAddressShort": "上海市浦东新区金高路2200号"
+  },
+  {
+    "hotelId": "2000313",
+    "hotelName": "汉庭上海嘉善路酒店",
+    "hotelAddressShort": "嘉善路258弄1号（地铁9号和12号嘉善路站2号口出，距酒店约600米步行至酒店6分钟）"
+  },
+  {
+    "hotelId": "2000605",
+    "hotelName": "桔子上海武宁路地铁站酒店",
+    "hotelAddressShort": "长寿路742号(地铁13号线，14号线武宁路站2号口出右转向前300米)"
+  },
+  {
+    "hotelId": "8915892",
+    "hotelName": "全季上海徐家汇冠生园路酒店",
+    "hotelAddressShort": "上海市徐汇区冠生园路8号，距离上海第八人民医院700米，距离1号线漕宝路地铁站600米"
+  },
+  {
+    "hotelId": "8000203",
+    "hotelName": "汉庭优佳上海虹桥火车站酒店",
+    "hotelAddressShort": "闵行区沪青平公路655号(近七莘路，距离虹桥高铁站和虹桥T2航站楼3公里，距离国家会展中心5公里）"
+  },
+  {
+    "hotelId": "2019071",
+    "hotelName": "全季上海顾村公园菊联路酒店",
+    "hotelAddressShort": "菊联路150号(近7/15号线顾村公园地铁站1公里，近7号线刘行地铁站1公里）"
+  },
+  {
+    "hotelId": "2016153",
+    "hotelName": "海友上海松江虬泾路酒店",
+    "hotelAddressShort": "九亭镇虬泾路549弄1号（距地铁9号线九亭站4号口2.5km，公交松江40路，打车起步价）"
+  },
+  {
+    "hotelId": "9000632",
+    "hotelName": "全季上海龙柏新村地铁站酒店",
+    "hotelAddressShort": "金汇路463弄28号B幢1-4层"
+  },
+  {
+    "hotelId": "8000464",
+    "hotelName": "全季上海虹桥万源路酒店",
+    "hotelAddressShort": "万源路2718号"
+  },
+  {
+    "hotelId": "2018023",
+    "hotelName": "全季上海南翔太茂商业广场酒店",
+    "hotelAddressShort": "丰翔路3133号（距11号线南翔地铁站1号口300米，步行5分钟，南翔太茂商业广场正对面）"
+  },
+  {
+    "hotelId": "2012081",
+    "hotelName": "汉庭上海外高桥自贸区金高路酒店",
+    "hotelAddressShort": "浦东新区金高路453号 （地铁12号线3号口出/步行306米/乘公交浦东72路/金高路东靖路下车即可）"
+  },
+  {
+    "hotelId": "2018002",
+    "hotelName": "星程上海安亭地铁站酒店",
+    "hotelAddressShort": "安亭镇曹安公路5533号三德大楼（距11号线安亭地铁站2号出口200米，步行3分钟）"
+  },
+  {
+    "hotelId": "8000253",
+    "hotelName": "全季上海大宁灵石公园酒店",
+    "hotelAddressShort": "广中西路1099号（距离7号线大华三路1号.2号.3号口1公里，距离1号线4号口1.7公里）"
+  },
+  {
+    "hotelId": "2001291",
+    "hotelName": "汉庭上海巨峰路地铁站酒店",
+    "hotelAddressShort": "浦东新区张杨北路1153号（地铁6号线和12号线2号出口即达）"
+  },
+  {
+    "hotelId": "9000339",
+    "hotelName": "海友上海银都路酒店",
+    "hotelAddressShort": "闵行区银都路668号（距15号线虹梅南路站1号口，587m，步行5分钟）"
+  },
+  {
+    "hotelId": "2001254",
+    "hotelName": "宜必思上海世博东明路地铁站酒店",
+    "hotelAddressShort": "上海市浦东新区成山路800号C座（地铁6号线-13号线东明路5号口出，直行20米即达）"
+  },
+  {
+    "hotelId": "2004337",
+    "hotelName": "汉庭上海五角场中心酒店",
+    "hotelAddressShort": "国定东路273弄3号(地铁10号线五角场站5号口出，穿过合生汇商场右转，步行10分可到达酒店)"
+  },
+  {
+    "hotelId": "9019817",
+    "hotelName": "全季上海松江影视乐园酒店",
+    "hotelAddressShort": "车墩镇南姚路129号（地铁9号线松江体育中心站1号口转坐松卫专线到车墩站步行600米）。"
+  },
+  {
+    "hotelId": "2000831",
+    "hotelName": "汉庭优佳上海虹口足球场二店",
+    "hotelAddressShort": "水电路200号(虹口足球场站地铁3号线4号口，地铁8号线5号口）"
+  },
+  {
+    "hotelId": "9002744",
+    "hotelName": "海友上海新闸路地铁站酒店",
+    "hotelAddressShort": "上海市黄浦区山海关路130号(近新昌路、新闸路，距地铁1号线1号口350米，步行5分钟）"
+  },
+  {
+    "hotelId": "8000606",
+    "hotelName": "汉庭上海江苏路酒店",
+    "hotelAddressShort": "江苏路720号（距离江苏路地铁站3/6号口660米）"
+  },
+  {
+    "hotelId": "2000235",
+    "hotelName": "汉庭上海田子坊酒店",
+    "hotelAddressShort": "黄浦区南塘浜路102号（9号线打浦桥站2号出口直走200米到南塘浜路往里走100米即可）"
+  },
+  {
+    "hotelId": "8000512",
+    "hotelName": "宜必思上海虹桥枢纽七宝酒店",
+    "hotelAddressShort": "上海市闵行区沪星路289弄1号（地铁9号线七宝站5号口出直走约15分钟左转直可到达）"
+  },
+  {
+    "hotelId": "2002413",
+    "hotelName": "汉庭上海吴泾步行街酒店",
+    "hotelAddressShort": "闵行区龙吴路5555号汉庭酒店(距离华东师范大学3.1公里，打车8分钟）"
+  },
+  {
+    "hotelId": "2012047",
+    "hotelName": "全季上海新国际博览中心酒店",
+    "hotelAddressShort": "申波路398号"
+  },
+  {
+    "hotelId": "9009179",
+    "hotelName": "汉庭上海嘉定外冈工商学院酒店",
+    "hotelAddressShort": "上海市嘉定区外冈镇冈峰公路51号（距离公交嘉定55路新侨学院站下车，步行3分钟至酒店）"
+  },
+  {
+    "hotelId": "2011011",
+    "hotelName": "汉庭上海七宝闵行体育公园酒店",
+    "hotelAddressShort": "闵行区宝铭路82号(距地铁12号线七莘路站2号口905米，步行仅需12分钟）"
+  },
+  {
+    "hotelId": "2011992",
+    "hotelName": "海友上海莘庄龙之梦酒店",
+    "hotelAddressShort": "闵行区莘浜路18号，近沪闵路（距地铁1、5号线莘庄站北2出口700米，步行7分钟即可到达酒店）"
+  },
+  {
+    "hotelId": "9016237",
+    "hotelName": "汉庭上海中山医院枫林路酒店",
+    "hotelAddressShort": "枫林路289号"
+  },
+  {
+    "hotelId": "2011026",
+    "hotelName": "全季上海漕河泾古美路酒店",
+    "hotelAddressShort": "古美路1388号（近地铁12号线虹梅路站2号口）"
+  },
+  {
+    "hotelId": "2018991",
+    "hotelName": "全季上海嘉定清河路酒店",
+    "hotelAddressShort": "清河路151号（地铁11号线嘉定北站2号口，乘坐公交车9路至清河路城中路站下车，约15分钟到达，打车约6分钟到达）"
+  },
+  {
+    "hotelId": "2001206",
+    "hotelName": "全季上海浦东机场城南路酒店",
+    "hotelAddressShort": "城南路200号"
+  },
+  {
+    "hotelId": "2001265",
+    "hotelName": "全季上海东方懿德城酒店",
+    "hotelAddressShort": "懿行路603弄3号"
+  },
+  {
+    "hotelId": "2002315",
+    "hotelName": "全季上海交大东川路酒店",
+    "hotelAddressShort": "沪闵路445号（酒店入口在东川路上）"
+  },
+  {
+    "hotelId": "9001418",
+    "hotelName": "全季上海宁国路地铁站酒店",
+    "hotelAddressShort": "黄兴路120号（距离地铁12号线宁国路2号出口280米，步行3分钟）"
+  },
+  {
+    "hotelId": "2018022",
+    "hotelName": "汉庭上海南翔古猗园酒店",
+    "hotelAddressShort": "嘉定区沪宜公路339号（距地铁11号线南翔站1号口1.5公里，步行20分钟）"
+  },
+  {
+    "hotelId": "9008411",
+    "hotelName": "汉庭上海锦江乐园地铁站酒店",
+    "hotelAddressShort": "虹梅路265号2楼(锦江乐园地铁站出站左转直行200米下右地下人行通道直行500米即可到店)"
+  },
+  {
+    "hotelId": "2001292",
+    "hotelName": "汉庭上海德平路酒店（质量整改）",
+    "hotelAddressShort": "浦东大道2516号乙(距地铁6号线德平路站4号出口1.4公里，步行15分钟，距地铁14号线歇浦路站4号口1公里，步行仅需10分钟）"
+  },
+  {
+    "hotelId": "2016992",
+    "hotelName": "汉庭上海松江谷阳南路酒店",
+    "hotelAddressShort": "松江区松汇中路455-4号（地铁9号线醉白池3号口出步行仅800米）"
+  },
+  {
+    "hotelId": "9000518",
+    "hotelName": "全季上海同济大学酒店",
+    "hotelAddressShort": "鞍山路180号(距离8号线鞍山新村站1号口458米，步行8分钟)"
+  },
+  {
+    "hotelId": "8916679",
+    "hotelName": "全季上海大渡河路酒店",
+    "hotelAddressShort": "大渡河路1501号（距大渡河15号线梅岭北路5号口50米，步行三分钟）"
+  },
+  {
+    "hotelId": "9011601",
+    "hotelName": "全季上海前滩海阳路酒店",
+    "hotelAddressShort": " 海阳路623号 距杨思站（8号线）600米"
+  },
+  {
+    "hotelId": "2002451",
+    "hotelName": "汉庭上海交大东川路酒店",
+    "hotelAddressShort": "闵行区东川路2518号（距5号线金平路站2号口400米，步行5分钟）"
+  },
+  {
+    "hotelId": "8000597",
+    "hotelName": "汉庭上海南京东路地铁站酒店",
+    "hotelAddressShort": "南京东路340号华联商厦7楼(距2，10号线南京东路站3号口100米，步行2分钟）"
+  },
+  {
+    "hotelId": "2004342",
+    "hotelName": "海友上海大柏树地铁站酒店",
+    "hotelAddressShort": "虹口区汶水东路363号(距3号线大柏树地铁站1号口165米，步行2分钟)"
+  },
+  {
+    "hotelId": "8000475",
+    "hotelName": "海友上海虹桥宋园路酒店",
+    "hotelAddressShort": "上海市长宁区宋园路128弄18号（地铁10号线宋园路站2号口出右转步行第一个红绿灯沿着宋园路直走到达古羊路左转150米到达酒店或地铁15号线吴中路站1号口直走步行829米途径2个红绿灯右转进入古羊路150米到达酒店）"
+  },
+  {
+    "hotelId": "8000459",
+    "hotelName": "汉庭上海打浦桥斜土路酒店（原瑞金南路店）",
+    "hotelAddressShort": "徐汇区斜土路1118号(距离9号线打浦桥3号口813米，步行8分钟）"
+  },
+  {
+    "hotelId": "2011008",
+    "hotelName": "全季上海莘庄商务区酒店",
+    "hotelAddressShort": "闵行区黎安路1187号1号楼"
+  },
+  {
+    "hotelId": "2002408",
+    "hotelName": "桔子上海交大江川路地铁站酒店",
+    "hotelAddressShort": "沪闵路277号（酒店入口临近5号线江川路地铁站1号出口）"
+  },
+  {
+    "hotelId": "9000821",
+    "hotelName": "全季上海梅川路酒店",
+    "hotelAddressShort": "梅川路1249号（距离13号线真北路3号口1100米，步行15分钟）"
+  },
+  {
+    "hotelId": "9006259",
+    "hotelName": "汉庭上海虹桥枢纽火车站酒店",
+    "hotelAddressShort": "闵行区沪青平公路1209号2幢 （距虹桥火车站、地铁2、10号线约2.2公里）"
+  },
+  {
+    "hotelId": "9007249",
+    "hotelName": "汉庭上海张江路地铁站酒店",
+    "hotelAddressShort": "张江镇孙桥路78号（距离张江路地铁站2号出口400m步行7分钟）"
+  },
+  {
+    "hotelId": "9011672",
+    "hotelName": "海友上海虹桥火车站申长北路酒店",
+    "hotelAddressShort": "闵行区申长北路186号（距离虹桥火车站3.5公里车程10分钟可达）"
+  },
+  {
+    "hotelId": "2002414",
+    "hotelName": "全季上海吴泾华师大酒店",
+    "hotelAddressShort": "宝秀路763号（近永德路，距离剑川路宝秀路公交站约400米，步行5分钟）"
+  },
+  {
+    "hotelId": "2011083",
+    "hotelName": "全季上海金都路酒店",
+    "hotelAddressShort": "都会路3538号（近春都路，距离15号线双柏路站4号口约930米，步行12分钟）"
+  },
+  {
+    "hotelId": "2002376",
+    "hotelName": "汉庭上海梅陇万辉国际广场酒店",
+    "hotelAddressShort": "闵行区虹梅南路939号（紧邻万辉国际广场，距地铁15号线虹梅南路地铁站车程6分钟，距地铁1号线莲花路地铁站车程8分钟）"
+  },
+  {
+    "hotelId": "8916694",
+    "hotelName": "汉庭优佳上海南京东路酒店",
+    "hotelAddressShort": "浙江中路535号(2号线人民广场地铁19号口沿南京东路步行街至浙江中路左转5分钟)"
+  },
+  {
+    "hotelId": "9001468",
+    "hotelName": "全季上海漕河泾莲花路酒店",
+    "hotelAddressShort": "莲花路1328号（地铁12号线东兰路站2号口出，步行10分钟）"
+  },
+  {
+    "hotelId": "9019197",
+    "hotelName": "上海中建瑞贝庭臻选公寓酒店",
+    "hotelAddressShort": "上海市静安区场中路2018号"
+  },
+  {
+    "hotelId": "2002415",
+    "hotelName": "海友上海吴泾永德路步行街酒店",
+    "hotelAddressShort": "龙吴路剑川路路口（距离华东师范大学3.2公里打车9分钟，上海中医药大学龙华附属吴泾分院50米）"
+  },
+  {
+    "hotelId": "2001264",
+    "hotelName": "全季上海陆家嘴浦东南路酒店",
+    "hotelAddressShort": "潍坊西路73号（9号线商城路站3号口左转900米）"
+  },
+  {
+    "hotelId": "9001193",
+    "hotelName": "海友上海共康路地铁站酒店",
+    "hotelAddressShort": "静安区共和新路4685号（近保德路）"
+  },
+  {
+    "hotelId": "2011993",
+    "hotelName": "全季上海莘庄龙之梦酒店",
+    "hotelAddressShort": "上海市闵行区莘建路258-1号"
+  },
+  {
+    "hotelId": "2004395",
+    "hotelName": "汉庭上海江杨南路酒店",
+    "hotelAddressShort": "上海市宝山区通南路476号（江杨南路和通南路路口）"
+  },
+  {
+    "hotelId": "2004383",
+    "hotelName": "汉庭上海五角场市光路酒店",
+    "hotelAddressShort": "闸殷路305号（距8号线市光路4号口1.2公里，步行15分钟）"
+  },
+  {
+    "hotelId": "2003368",
+    "hotelName": "全季上海延安西路地铁站酒店（原天山路店）",
+    "hotelAddressShort": "天山路1900号（近3,4号线延安西路地铁站2号口300米，步行5分钟）"
+  },
+  {
+    "hotelId": "8000595",
+    "hotelName": "全季上海中山公园酒店",
+    "hotelAddressShort": "定西路1115号（距离3，4号线延安西路站1号口700米，步行约7分钟，2号线中山公园站5/11号口960米，步行约10分钟）"
+  },
+  {
+    "hotelId": "2001245",
+    "hotelName": "汉庭上海中环沪南路酒店",
+    "hotelAddressShort": "沪南路2038号（距莲溪路地铁站3号口直线距离900米，步行大约15分钟）"
+  },
+  {
+    "hotelId": "9000155",
+    "hotelName": "全季上海大华虎城酒店",
+    "hotelAddressShort": "大华二路308号（位于大华虎城商圈内，距7号线大华三路地铁站1.0km）"
+  },
+  {
+    "hotelId": "2000008",
+    "hotelName": "全季上海金桥国际商业广场酒店",
+    "hotelAddressShort": "金桥路855弄1-4号"
+  },
+  {
+    "hotelId": "2002407",
+    "hotelName": "汉庭优佳上海交大东川路酒店",
+    "hotelAddressShort": "东川路2314号(位于千代建材广场内,地铁5号线金平路站2号出口往东步行300米即到，）。"
+  },
+  {
+    "hotelId": "2004394",
+    "hotelName": "全季上海殷高路地铁站酒店",
+    "hotelAddressShort": "殷高路65号（距地铁3号线殷高西路站2号口500米，步行6分钟）"
+  },
+  {
+    "hotelId": "2001294",
+    "hotelName": "汉庭上海新国际博览中心芳甸路酒店",
+    "hotelAddressShort": "杨高中路2128号5幢（地铁9号线芳甸路3号口向西300米，正大生活馆院内，步行5分钟。）"
+  },
+  {
+    "hotelId": "2003354",
+    "hotelName": "海友上海虹桥火车站酒店",
+    "hotelAddressShort": "上海市闵行区天山西路4138号（距10号线、2号线虹桥火车站3公里，闵行23路、189区间至天山西路申长路站下车即可）"
+  },
+  {
+    "hotelId": "2001261",
+    "hotelName": "汉庭上海世博杨思酒店",
+    "hotelAddressShort": "上南路2979号(地铁8号线-13号线成山路站2号口出，向左直行500米，过桥即达)"
+  },
+  {
+    "hotelId": "9012514",
+    "hotelName": "海友上海海港商贸城新四平公路酒店",
+    "hotelAddressShort": "平安镇平旺路11号（前堂街左转进入平旺路，步行100米到达酒店）"
+  },
+  {
+    "hotelId": "2011006",
+    "hotelName": "汉庭优佳上海莘庄龙之梦酒店",
+    "hotelAddressShort": "闵行区莘浜路69号（距地铁1、5号线莘庄站北出口817米，步行仅需8分钟即可到达酒店）"
+  },
+  {
+    "hotelId": "2012065",
+    "hotelName": "汉庭上海金桥国际商业广场酒店",
+    "hotelAddressShort": "浦东新区金桥路1258号（距地铁6号线金桥路站2号口450米，步行10分钟）"
+  },
+  {
+    "hotelId": "9006072",
+    "hotelName": "海友上海娄山关路地铁站酒店",
+    "hotelAddressShort": "天山支路154号嘉平商务楼5楼（地铁15号线娄山关路下7号口出左转沿着古北路步行第一个红绿灯左转进入天山支路直走步行240米到达酒店）"
+  },
+  {
+    "hotelId": "2013157",
+    "hotelName": "全季上海康桥秀沿路酒店",
+    "hotelAddressShort": "秀沿路2532号"
+  },
+  {
+    "hotelId": "9001028",
+    "hotelName": "上海馨乐庭虹桥中心公寓酒店",
+    "hotelAddressShort": "上海市闵行区虹泉路1101弄3号"
+  },
+  {
+    "hotelId": "2001131",
+    "hotelName": "全季上海漕河泾酒店",
+    "hotelAddressShort": "闵行区宜山路1888号（地铁9号线合川路站1号口出左转步行5分钟即到）"
+  },
+  {
+    "hotelId": "2011004",
+    "hotelName": "全季上海虹桥金汇路酒店",
+    "hotelAddressShort": "闵行区金汇路461号（距地铁10号线龙柏新村站2号口步行3分钟）"
+  },
+  {
+    "hotelId": "2018021",
+    "hotelName": "汉庭上海嘉定城中路酒店",
+    "hotelAddressShort": "嘉定区人民街60号(距离11号线嘉定北站打车约10分钟）"
+  },
+  {
+    "hotelId": "2011063",
+    "hotelName": "全季上海虹桥国展中心酒店",
+    "hotelAddressShort": "闵行区天山西路4138号(距离虹桥商务区100米)"
+  },
+  {
+    "hotelId": "2014004",
+    "hotelName": "全季上海奉贤南桥汽车站酒店",
+    "hotelAddressShort": "南奉公路7318号(距5号线奉贤新城4号口750米，步行10分钟）"
+  },
+  {
+    "hotelId": "2011994",
+    "hotelName": "怡莱上海莘庄秀文路酒店",
+    "hotelAddressShort": "上海市闵行区秀文路517号(地铁12号线七莘路站2号口步行1.1公里，打车起步价即到）。"
+  },
+  {
+    "hotelId": "2013061",
+    "hotelName": "汉庭上海临港自贸区酒店",
+    "hotelAddressShort": "浦东新区南芦公路1588号(近人民路)"
+  },
+  {
+    "hotelId": "2012064",
+    "hotelName": "汉庭上海金桥杨高中路酒店",
+    "hotelAddressShort": "浦东新区金高路2200号（地铁9号线金桥站1号口900米，步行15分钟）"
+  },
+  {
+    "hotelId": "2012092",
+    "hotelName": "汉庭上海川沙新源路步行街酒店",
+    "hotelAddressShort": "川沙路4682号（地铁2号线川沙站1号口出，步行10分钟）"
+  },
+  {
+    "hotelId": "2000932",
+    "hotelName": "汉庭上海北外滩新华医院酒店",
+    "hotelAddressShort": "控江路1690号（地铁8号线江浦路站3号口出，直行300米）"
+  },
+  {
+    "hotelId": "9020894",
+    "hotelName": "海友上海奉贤南桥古华园酒店",
+    "hotelAddressShort": "南桥镇人民中路218号"
+  },
+  {
+    "hotelId": "2012034",
+    "hotelName": "全季上海张江酒店",
+    "hotelAddressShort": "上海市张衡路1717号"
+  },
+  {
+    "hotelId": "9000966",
+    "hotelName": "海友上海虹桥路地铁站酒店",
+    "hotelAddressShort": "徐汇区虹桥路640号（距离10号线虹桥路站6号口530米，步行7分钟）"
+  },
+  {
+    "hotelId": "2003313",
+    "hotelName": "全季上海武威东路地铁站酒店",
+    "hotelAddressShort": "武威东路811号（距地铁15号线武威东路站3号口250米，步行4分钟）"
+  },
+  {
+    "hotelId": "2000517",
+    "hotelName": "汉庭上海仙霞路酒店",
+    "hotelAddressShort": "长宁区茅台路1006号（距2号线威宁路站3号700米，步行约10分钟）"
+  },
+  {
+    "hotelId": "9022069",
+    "hotelName": "桔子上海国际旅游度假区申江南路酒店（升级中）",
+    "hotelAddressShort": "新场镇申江南路4888号距离新场站（16号线）直线3.5公里"
+  },
+  {
+    "hotelId": "2011056",
+    "hotelName": "全季上海虹桥机场沪青平公路酒店",
+    "hotelAddressShort": "航新路618号（距离虹桥火车站4.9公里）"
+  },
+  {
+    "hotelId": "8000528",
+    "hotelName": "全季上海曹杨路酒店",
+    "hotelAddressShort": "曹杨路777号（距11号线枫桥路站2号口150米，步行2分钟）"
+  },
+  {
+    "hotelId": "2011086",
+    "hotelName": "全季上海颛桥万达酒店",
+    "hotelAddressShort": "闵行区颛桥镇都市路1952号及伟都路交叉口（距离颛桥镇5号线颛桥地铁站1号口跟2号口1.4km步行25分钟，距离万达广场1.1km步行20分钟）"
+  },
+  {
+    "hotelId": "2001204",
+    "hotelName": "全季上海陆家嘴八佰伴酒店",
+    "hotelAddressShort": "张杨路818号"
+  },
+  {
+    "hotelId": "9014449",
+    "hotelName": "汉庭上海七宝地铁站酒店",
+    "hotelAddressShort": "闵行区漕宝路3489号汇宝购物广场5楼（轨道交通9号线七宝站1号口漕宝路出右转前行至盒马店招下入口观光电梯至5楼进酒店大堂和记小菜同层）"
+  },
+  {
+    "hotelId": "2004381",
+    "hotelName": "星程上海五角场长海医院酒店",
+    "hotelAddressShort": "民星路560号（靠近长海医院和肝胆医院，距离地铁8号线嫩江路2号口386米，步行5分钟）"
+  },
+  {
+    "hotelId": "2000019",
+    "hotelName": "汉庭上海外滩江西中路酒店",
+    "hotelAddressShort": "江西中路261号（距2号/10号线南京东路站2号口140米，步行2分钟）"
+  },
+  {
+    "hotelId": "2011087",
+    "hotelName": "全季上海虹梅南路酒店",
+    "hotelAddressShort": "虹梅南路3135弄-51号综合楼"
+  },
+  {
+    "hotelId": "2001241",
+    "hotelName": "汉庭上海上南地铁站酒店",
+    "hotelAddressShort": "上南路3855号(地铁6号线上南路站1号口出，右转步行约2分钟)"
+  },
+  {
+    "hotelId": "9000687",
+    "hotelName": "海友上海松江欢乐谷酒店(升级中)",
+    "hotelAddressShort": "泗泾镇古楼公路1958弄1950号（距9号线佘山站500米，步行7分钟）"
+  },
+  {
+    "hotelId": "9004827",
+    "hotelName": "海友上海光华路创意园酒店",
+    "hotelAddressShort": "闵行区光华路66-1号，近沪闵公路。(地铁五号线颛桥站800米，步行10分钟)"
+  },
+  {
+    "hotelId": "9001127",
+    "hotelName": "上海馨乐庭陆家嘴公寓酒店",
+    "hotelAddressShort": "上海市浦东新区崮山路500号"
+  },
+  {
+    "hotelId": "9022208",
+    "hotelName": "汉庭上海顾村公园沪太路酒店",
+    "hotelAddressShort": "沪太公路4988号1-4层（华山医院宝山院区附近）"
+  },
+  {
+    "hotelId": "8000004",
+    "hotelName": "海友上海静安寺酒店",
+    "hotelAddressShort": "静安区万航渡路105号(距2号7号线静安寺站1、2号口400米，步行3分钟)"
+  },
+  {
+    "hotelId": "2002328",
+    "hotelName": "上海馨乐庭徐家汇公寓酒店",
+    "hotelAddressShort": "上海市徐汇区龙华西路501号"
+  },
+  {
+    "hotelId": "2016191",
+    "hotelName": "汉庭上海洞泾欢乐谷酒店",
+    "hotelAddressShort": "松江区沪松公路3656号（9号线洞泾站下，2号出口，55路或者56路公交车长兴路下车.步行10分钟）"
+  },
+  {
+    "hotelId": "2016006",
+    "hotelName": "汉庭上海车墩影视城酒店",
+    "hotelAddressShort": "松江区庵后路8号(地铁9号线松江体育站1号口转坐松卫专线到车墩站步行600米)"
+  },
+  {
+    "hotelId": "8000640",
+    "hotelName": "上海馨乐庭古北公寓酒店",
+    "hotelAddressShort": "上海市闵行区古北路1881号"
+  },
+  {
+    "hotelId": "2009404",
+    "hotelName": "汉庭优佳上海水产路地铁站酒店",
+    "hotelAddressShort": "宝山区水产路691号(地铁3号线水产路站1号口出站沿水产路向东500米到达酒店)"
+  },
+  {
+    "hotelId": "9008097",
+    "hotelName": "怡莱上海安亭汽车城酒店",
+    "hotelAddressShort": "嘉定区安亭镇昌吉路999号，近永安街（距11号线兆丰路1号口步行600米）"
+  },
+  {
+    "hotelId": "2000507",
+    "hotelName": "海友上海中山公园武夷路酒店",
+    "hotelAddressShort": "长宁区武夷路491弄9号(地铁3/4号线延安西路站1号口出直行到武夷路右拐，300米后即可到达，步行8分钟，2号线中山公园站830米，2号口出顺着凯旋路直行500米到武夷路左拐，顺着武夷路直行300米即可到达）"
+  },
+  {
+    "hotelId": "8000309",
+    "hotelName": "全季上海七宝地铁站酒店",
+    "hotelAddressShort": "闵行区七莘路3011号5楼(地铁9号线七宝站5号口出左转步行3分钟即到)"
+  },
+  {
+    "hotelId": "9000780",
+    "hotelName": "汉庭上海浦东机场南祝路酒店",
+    "hotelAddressShort": "上海市浦东新区南祝路5835号(近下盐路与南祝路路口）"
+  },
+  {
+    "hotelId": "2000933",
+    "hotelName": "海友上海新华医院酒店",
+    "hotelAddressShort": "本溪路149号（近江浦路，地铁8号线江浦路站3号口出，沿江浦路向北至第一个路口本溪路左拐即至，共约400米）"
+  },
+  {
+    "hotelId": "9008809",
+    "hotelName": "上海馨乐庭淞虹路服务公寓",
+    "hotelAddressShort": "上海市长宁区淞虹路377号长宁Art Park大融城F1"
+  },
+  {
+    "hotelId": "2001255",
+    "hotelName": "全季上海世博杨高南路酒店",
+    "hotelAddressShort": "成山路1139号（地铁13号线华鹏路站3号出口向西直行550米）"
+  },
+  {
+    "hotelId": "9003831",
+    "hotelName": "汉庭上海九亭地铁站酒店",
+    "hotelAddressShort": "九亭镇沪亭南路888号（距离9号线九亭站1号口520米，步行约7分钟）"
+  },
+  {
+    "hotelId": "8916319",
+    "hotelName": "汉庭优佳上海九亭广场酒店",
+    "hotelAddressShort": "松江区九亭大街356号（距离地铁9号线九亭站1.8公里。公交松江40路、松江44路、，松江68路等多条线路可直达地铁）"
+  },
+  {
+    "hotelId": "9013123",
+    "hotelName": "怡莱上海奉贤南桥路酒店",
+    "hotelAddressShort": "上海市奉贤区南桥路380号"
+  },
+  {
+    "hotelId": "2016133",
+    "hotelName": "星程上海松江体育中心酒店",
+    "hotelAddressShort": "沪松路13号（近乐都路荣都公寓旁）"
+  },
+  {
+    "hotelId": "2000823",
+    "hotelName": "海友上海北外滩酒店（升级中）",
+    "hotelAddressShort": "上海市杨浦区昆明路666号，地铁4/12号线1号出口右转30米至昆明路，直行300米靠近辽阳路路口"
+  },
+  {
+    "hotelId": "2016135",
+    "hotelName": "海友良品上海松江万达广场酒店（升级中）",
+    "hotelAddressShort": "上海市松江区茸梅路290号"
+  },
+  {
+    "hotelId": "2017003",
+    "hotelName": "全季上海世博三林路酒店",
+    "hotelAddressShort": "杨高南路5139号"
+  },
+  {
+    "hotelId": "2018081",
+    "hotelName": "汉庭上海嘉定永靖路酒店",
+    "hotelAddressShort": "嘉定区永靖路246号（地铁11号线嘉定北站1.5公里，打车10分钟。）"
+  },
+  {
+    "hotelId": "9005304",
+    "hotelName": "上海馨乐庭延安西路公寓酒店",
+    "hotelAddressShort": "上海市长宁区延安西路1066号"
+  },
+  {
+    "hotelId": "8916591",
+    "hotelName": "汉庭优佳上海北外滩大连路酒店",
+    "hotelAddressShort": "周家嘴路1063弄4号（距地铁4号线大连路站4号出口500米，步行5分钟）"
+  },
+  {
+    "hotelId": "2000232",
+    "hotelName": "汉庭上海制造局路酒店",
+    "hotelAddressShort": "制造局路584号（距地铁4/8号线西藏南路站5号口900米，步行10分钟）"
+  },
+  {
+    "hotelId": "8000527",
+    "hotelName": "全季上海七宝七莘路酒店",
+    "hotelAddressShort": "七莘路1860号（地铁12号线七莘路站2号口出，步行15分钟）"
+  },
+  {
+    "hotelId": "8000217",
+    "hotelName": "桔子水晶上海国际旅游度假区周浦万达酒店",
+    "hotelAddressShort": "浦东新区沪南公路3655弄2号"
+  },
+  {
+    "hotelId": "2012045",
+    "hotelName": "汉庭上海野生动物园酒店（质量整改）",
+    "hotelAddressShort": "沪南公路8916号(地铁16号线野生动物园站1号出口打车5分钟即达)"
+  },
+  {
+    "hotelId": "9019196",
+    "hotelName": "上海中建瑞贝庭公寓酒店",
+    "hotelAddressShort": "上海市静安区场中路2016号"
+  },
+  {
+    "hotelId": "2012005",
+    "hotelName": "汉庭上海唐镇高科东路酒店",
+    "hotelAddressShort": "浦东新区高科东路1857号（距2号线创新中路站2号口1.5公里，步行18分钟）"
+  },
+  {
+    "hotelId": "9001029",
+    "hotelName": "上海徐家汇漕河泾CitiGO欢阁酒店",
+    "hotelAddressShort": "上海市徐汇区钦州路777号"
+  },
+  {
+    "hotelId": "2000001",
+    "hotelName": "汉庭上海五角场酒店",
+    "hotelAddressShort": "杨浦区国定东路339号（10号线五角场站2号出口沿四平路350米到国定路左转600米，步行15分钟）"
+  },
+  {
+    "hotelId": "2009402",
+    "hotelName": "海友上海牡丹江路酒店",
+    "hotelAddressShort": "牡丹江路1776号（距地铁3号线友谊路站1号口600米，沿友谊路直行至牡丹江路左转2分钟即达）"
+  },
+  {
+    "hotelId": "9019674",
+    "hotelName": "上海虹桥利嘉瑞贝庭公寓酒店",
+    "hotelAddressShort": "上海市长宁区古北路628号"
+  },
+  {
+    "hotelId": "2018013",
+    "hotelName": "海友上海嘉定新城酒店",
+    "hotelAddressShort": "上海市嘉定区胜辛路551号(11号线嘉定新城站4号口出，沿胜辛路直行260米即可到达）"
+  },
+  {
+    "hotelId": "2011009",
+    "hotelName": "桔子上海浦江沈杜公路地铁站酒店",
+    "hotelAddressShort": "浦江沈杜公路3872号"
+  },
+  {
+    "hotelId": "9006753",
+    "hotelName": "海友上海五角场长海医院酒店",
+    "hotelAddressShort": "国和路1021号(毗邻长海医院、上海体育学院，地铁8号线嫩江路站4号口左转中原路直行300米红绿灯处左转直国和路步行约500米即至。）"
+  },
+  {
+    "hotelId": "0240992",
+    "hotelName": "海友上海嘉定清河路酒店（升级中）",
+    "hotelAddressShort": "上海市嘉定区清河路48号（地铁嘉定北站下，11号线1号出口步行1.7公里20分钟或换乘公交9路、13路到城中路清河路下车步行至清河路左转50米左转即到））"
+  },
+  {
+    "hotelId": "2017024",
+    "hotelName": "怡莱上海虹桥国展中心徐泾北城酒店",
+    "hotelAddressShort": "青浦区徐乐路222号（地铁17号线徐泾北城站1号口出步行4分钟）"
+  },
+  {
+    "hotelId": "4351991",
+    "hotelName": "汉庭上海西藏南路地铁站酒店",
+    "hotelAddressShort": "中山南路1837号（距地铁4/8号线西藏南路站2号口右转200米，步行5分钟）"
+  },
+  {
+    "hotelId": "2012032",
+    "hotelName": "汉庭上海张江园区广兰路地铁站酒店",
+    "hotelAddressShort": "浦东新区张江江东路17号(张江路路口，距离广兰路地铁2号线2号口出800米步行13分钟)"
+  },
+  {
+    "hotelId": "2015151",
+    "hotelName": "全季上海金山城市沙滩酒店",
+    "hotelAddressShort": "上海市金山区卫清东路2866号"
+  },
+  {
+    "hotelId": "8000255",
+    "hotelName": "汉庭上海罗山路地铁站酒店",
+    "hotelAddressShort": "浦东新区康桥路1603号(距11/16号线罗山路站3号口1.1km，步行15分钟即可到达）"
+  },
+  {
+    "hotelId": "2017031",
+    "hotelName": "汉庭上海虹桥火车站沪青平公路酒店（质量整改）",
+    "hotelAddressShort": "闵行区沪青平公路567号（近吴宝路，距离虹桥高铁站和虹桥T2航站楼3公里，距离国家会展中心5公里）"
+  },
+  {
+    "hotelId": "9016614",
+    "hotelName": "汉庭上海漕河泾漕宝路酒店",
+    "hotelAddressShort": "漕宝路1687号（9号线星中路站1号出口直行300米）"
+  },
+  {
+    "hotelId": "9004670",
+    "hotelName": "海友上海陆家嘴张杨路酒店（升级中）",
+    "hotelAddressShort": "上海市浦东新区张杨路2078号"
+  },
+  {
+    "hotelId": "2011081",
+    "hotelName": "全季上海莲花南路酒店",
+    "hotelAddressShort": "闵行区莲花南路1500弄2号楼（酒店入口在莲花南路上）"
+  },
+  {
+    "hotelId": "9001303",
+    "hotelName": "汉庭上海徐家汇田林路酒店",
+    "hotelAddressShort": "田林路89弄35号(距地铁12、15号桂林公园站4号口400米,步行5分钟)"
+  },
+  {
+    "hotelId": "8000123",
+    "hotelName": "汉庭上海浦东机场祝桥酒店",
+    "hotelAddressShort": "浦东新区百熙路336号（百熙路与金亭公路路口）"
+  },
+  {
+    "hotelId": "2003335",
+    "hotelName": "全季上海金沙江路酒店",
+    "hotelAddressShort": "怒江北路558号靠近丹巴路（距13号线真北路4号口900米，步行十分钟左右）"
+  },
+  {
+    "hotelId": "2019063",
+    "hotelName": "海友上海大学沪太路酒店",
+    "hotelAddressShort": "沪太路3633-1号（地铁7号线上大路下1号口出右手边向北步行1km即到距上海大学2公里）"
+  },
+  {
+    "hotelId": "9006324",
+    "hotelName": "汉庭优佳上海浦东机场晨阳路酒店",
+    "hotelAddressShort": "东亭路515号（晨阳路东亭路交叉口，东方现代商业广场）"
+  },
+  {
+    "hotelId": "2018054",
+    "hotelName": "海友上海安亭汽车城酒店",
+    "hotelAddressShort": "安亭镇昌吉路216号（距11号线安亭站1公里，1号口出来沿墨玉路直行至昌吉路路口左转300米即可到达）"
+  },
+  {
+    "hotelId": "9022570",
+    "hotelName": "全季上海浦东机场川沙路酒店",
+    "hotelAddressShort": "川沙路5007号全幢"
+  },
+  {
+    "hotelId": "2001232",
+    "hotelName": "汉庭上海浦三路地铁站酒店（质量整改）",
+    "hotelAddressShort": "御桥路273号(距地铁11号线浦三路站4号口200米，步行2分钟)"
+  },
+  {
+    "hotelId": "9000942",
+    "hotelName": "海友上海行知路地铁站酒店",
+    "hotelAddressShort": "沪太路1507号（距地铁7号线行知路1号口2米，出口即是）"
+  },
+  {
+    "hotelId": "2101051",
+    "hotelName": "桔子上海虹桥国展中心徐泾酒店",
+    "hotelAddressShort": "明珠路980号（地铁17号线徐盈路5号口出，步行15分钟）"
+  },
+  {
+    "hotelId": "2013992",
+    "hotelName": "汉庭上海野生动物园大川公路酒店",
+    "hotelAddressShort": "浦东新区西乐路500弄33号(沪南公路大川公路路口向南100米)"
+  },
+  {
+    "hotelId": "9003910",
+    "hotelName": "海友上海美兰湖月罗公路酒店",
+    "hotelAddressShort": "月罗公路2507号（距7号线美兰湖站731米，1号口出来左转走到罗芬路左转到月罗公路穿过马路右转即到，大约12分钟）"
+  },
+  {
+    "hotelId": "9004042",
+    "hotelName": "海友上海普陀中心医院酒店（升级中）",
+    "hotelAddressShort": "普陀区梅岭北路480号(距11号线枫桥路站786米，3号口出来枫桥路右转梅岭北路直行500即可到达，15号线梅岭北路站4号口出来直行818米））"
+  },
+  {
+    "hotelId": "9001194",
+    "hotelName": "海友上海外滩北京东路酒店",
+    "hotelAddressShort": "黄浦区山东北路33号（距2/10号线6号口270米，步行4分钟）"
+  },
+  {
+    "hotelId": "2000826",
+    "hotelName": "海友上海杨浦大桥酒店",
+    "hotelAddressShort": "上海市杨浦区临青路277号3楼，地铁12号线宁国路站3号出口右转，沿长阳路直行40米右转临青平路直行700米"
+  },
+  {
+    "hotelId": "2002342",
+    "hotelName": "汉庭上海虹漕南路上师大酒店",
+    "hotelAddressShort": "徐汇区虹漕南路183号(地铁12号线虹漕路站1号口496米，步行5分钟)"
+  },
+  {
+    "hotelId": "9014824",
+    "hotelName": "海友上海世博塘桥地铁站新店",
+    "hotelAddressShort": "上海市浦东新区浦东南路2129号"
+  },
+  {
+    "hotelId": "9003024",
+    "hotelName": "海友上海张江孙桥路酒店",
+    "hotelAddressShort": "上海市浦东新区张江镇孙桥路201号"
+  },
+  {
+    "hotelId": "9000593",
+    "hotelName": "汉庭上海世博三林酒店",
+    "hotelAddressShort": "浦东新区东书房路172号（地铁13号线下南路站4号口出，离酒店约两公里左右）"
+  },
+  {
+    "hotelId": "9000837",
+    "hotelName": "海友上海江浦公园地铁站酒店",
+    "hotelAddressShort": "杨浦区齐齐哈尔路872号，地铁12/18号线1号出口直行200米左转至齐齐哈尔路50米到达"
+  },
+  {
+    "hotelId": "2003339",
+    "hotelName": "海友上海真如兰溪路酒店",
+    "hotelAddressShort": "上海市普陀区兰溪路467号（距11.14.15号线真如站7号口400米，步行约5分钟）"
+  },
+  {
+    "hotelId": "2012022",
+    "hotelName": "汉庭上海浦东机场酒店",
+    "hotelAddressShort": "浦东新区华洲路130号( 距离地铁2号线远东大道站1.5公里，步行16分钟左右 )"
+  },
+  {
+    "hotelId": "2016132",
+    "hotelName": "汉庭上海松江新城万达酒店",
+    "hotelAddressShort": "松江区茸梅路518号（距9号线松江新城地铁站1.7公里，打车10分钟左右）"
+  },
+  {
+    "hotelId": "2000634",
+    "hotelName": "海友上海环球港酒店（原华师大店）",
+    "hotelAddressShort": "普陀区中山北路3612号银城大厦（地铁3、4、13号线金沙江路站5号出口左转沿中山北路直行约220米即到）"
+  },
+  {
+    "hotelId": "2011075",
+    "hotelName": "汉庭上海虹桥国展中心纪翟路酒店",
+    "hotelAddressShort": "纪翟路988号(距离金光路958号华山医院（西院）2.4KM)"
+  },
+  {
+    "hotelId": "9229",
+    "hotelName": "上海建滔诺富特酒店",
+    "hotelAddressShort": "协和路1102号 长宁区"
+  },
+  {
+    "hotelId": "2011074",
+    "hotelName": "全季上海虹桥国展中心纪翟路酒店",
+    "hotelAddressShort": "纪翟路988号(距离金光路958号华山医院（西院）2.4KM)"
+  },
+  {
+    "hotelId": "B9C1",
+    "hotelName": "上海虹桥会展诺富特酒店",
+    "hotelAddressShort": "金光路 669 号 闵行区"
+  },
+  {
+    "hotelId": "3019",
+    "hotelName": "上海海神诺富特大酒店",
+    "hotelAddressShort": "浦东大道728号"
+  },
+  {
+    "hotelId": "9004330",
+    "hotelName": "海友上海江桥万达金耀南路酒店",
+    "hotelAddressShort": "上海市嘉定区金耀南路294号（地铁13号线金运路站2号口出，左转至鹤旋路，右转直行至金耀路，左转100米即到，周边公交嘉定117路、嘉定120路金耀南路站下车即到酒店）"
+  },
+  {
+    "hotelId": "9000965",
+    "hotelName": "海友上海松江新城新松江路酒店",
+    "hotelAddressShort": "上海松江区新松江路291号，近通跃路。（九号线松江新城站900米，步行五分钟）"
+  },
+  {
+    "hotelId": "2000522",
+    "hotelName": "海友良品上海虹桥安顺路酒店",
+    "hotelAddressShort": "上海市安顺路245号（3号、4号线虹桥路站3号出口右拐直行至第一个红绿灯后左拐走500米即到）"
+  },
+  {
+    "hotelId": "9000376",
+    "hotelName": "海友上海中山公园延安西路酒店（升级中）",
+    "hotelAddressShort": "长宁区延安西路1428号（距3.4号线延安西路站700米，2号口过天桥沿延安西路向东直行至定西路即可到达）"
+  },
+  {
+    "hotelId": "2016013",
+    "hotelName": "海友上海松江醉白池地铁站酒店(升级中)",
+    "hotelAddressShort": "上海市松江区人民南路47号"
+  },
+  {
+    "hotelId": "C0400010",
+    "hotelName": "上海森兰洲海路地铁站CitiGO HOUSE欢阁服务公寓",
+    "hotelAddressShort": "上海市浦东新区洲海路1088弄2号楼"
+  },
+  {
+    "hotelId": "C0100034",
+    "hotelName": "城家高级公寓上海七宝七莘路地铁站店",
+    "hotelAddressShort": "上海市闵行区华林路146号"
+  },
+  {
+    "hotelId": "6694",
+    "hotelName": "上海虹桥雅高美爵酒店　",
+    "hotelAddressShort": "仙霞路369号"
+  },
+  {
+    "hotelId": "C0100001",
+    "hotelName": "城家公寓上海大宁中山北路地铁站店",
+    "hotelAddressShort": "上海市静安区柳营路719号（距地铁1号线中山北路站1号口口约893米；8号线西藏北路站4号口约1.5公里）"
+  },
+  {
+    "hotelId": "C0100050",
+    "hotelName": "城家高级公寓上海临空经济园区店",
+    "hotelAddressShort": "上海市长宁区福泉路99号"
+  },
+  {
+    "hotelId": "C0100086",
+    "hotelName": "城家公寓上海中潭路地铁站店",
+    "hotelAddressShort": "上海市普陀区宜川路40号（距地铁3/4号线中潭路1号口约851米）"
+  },
+  {
+    "hotelId": "C0100005",
+    "hotelName": "城家公寓上海七宝吴宝路店",
+    "hotelAddressShort": "上海市闵行区吴宝路415号"
+  },
+  {
+    "hotelId": "C0100112",
+    "hotelName": "城家公寓上海长江南路地铁站店",
+    "hotelAddressShort": "上海市淞良路29号1层至4层（距地铁18/3号线长江南路站1号口约300米）"
+  },
+  {
+    "hotelId": "C0100027",
+    "hotelName": "城家公寓上海金沙江路地铁站店",
+    "hotelAddressShort": "上海市普陀区凯旋北路1111号（距地铁3/4/13号线金沙江路站3号口约326米；3/4/11号线曹杨路站4号口约398米）"
+  },
+  {
+    "hotelId": "C0100032",
+    "hotelName": "城家公寓上海漕河泾漕宝路地铁站店",
+    "hotelAddressShort": "上海市徐汇区漕宝路91号（距地铁12号线漕宝路站8号口约534米；15号线桂林公园站1号口约764米）"
+  },
+  {
+    "hotelId": "C0100054",
+    "hotelName": "城家公寓上海新国际博览中心店",
+    "hotelAddressShort": "上海市浦东新区申波路398号（距地铁18号线芳芯路站约286米；7号线芳华路站约1.1公里）"
+  },
+  {
+    "hotelId": "C0100137",
+    "hotelName": "城家公寓上海人广南京东路步行街店",
+    "hotelAddressShort": "上海市黄浦区宁波路232号（距地铁2/10号线南京东路站5号口约300米；12号线天潼路站5号口约789米）"
+  },
+  {
+    "hotelId": "C0100045",
+    "hotelName": "城家公寓上海徐家汇大木桥地铁站店",
+    "hotelAddressShort": "上海市徐汇区小木桥路456号（距地铁4/12号线大木桥站3号口约304米；7号线东安路站4号口约576米）"
+  },
+  {
+    "hotelId": "C0100153",
+    "hotelName": "城家公寓上海陆家嘴世博园店",
+    "hotelAddressShort": "上海市浦东新区浦明路1888号7号、8号楼"
+  },
+  {
+    "hotelId": "C0100024",
+    "hotelName": "城家公寓上海江桥临洮路地铁站店",
+    "hotelAddressShort": "上海市曹安公路2606号"
+  },
+  {
+    "hotelId": "2017002",
+    "hotelName": "海友上海青浦新城盈港路酒店",
+    "hotelAddressShort": "上海市青浦区盈港路572号（距离地铁17号漕盈路站步行15分钟）"
+  },
+  {
+    "hotelId": "2013186",
+    "hotelName": "海友上海周浦小上海酒店（升级中）",
+    "hotelAddressShort": "周浦镇康沈路1870弄15号"
+  },
+  {
+    "hotelId": "2011030",
+    "hotelName": "海友上海新虹桥酒店(升级中)",
+    "hotelAddressShort": "上海市闵行区吴中路1100号炫润国际大厦三楼（距9号线合川路站1号口1.4公里，步行18分钟）"
+  },
+  {
+    "hotelId": "2013062",
+    "hotelName": "海友上海临港新城酒店",
+    "hotelAddressShort": "上海市浦东新区云汉路980号"
+  },
+  {
+    "hotelId": "2004382",
+    "hotelName": "海友上海包头路酒店",
+    "hotelAddressShort": "包头路379号(地铁8号线嫩江路4号口出向正北出发沿嫩江路往包头路方向步行10分钟左手边150米即至 )"
+  },
+  {
+    "hotelId": "2017021",
+    "hotelName": "海友上海虹桥国展中心徐泾北城酒店",
+    "hotelAddressShort": "上海市青浦区盈港东路2781号(距离奥特莱斯打车起步价，距离17号线徐泾北城步行15分钟））"
+  },
+  {
+    "hotelId": "8000565",
+    "hotelName": "海友上海五角场酒店（升级中）",
+    "hotelAddressShort": "关山路179号(地铁10号线五角场站向东北出发步行1200米即至)"
+  },
+  {
+    "hotelId": "2001273",
+    "hotelName": "海友上海儿童医学中心酒店",
+    "hotelAddressShort": "上海市浦东新区浦建路324B"
+  },
+  {
+    "hotelId": "9008045",
+    "hotelName": "海友上海浦建路酒店（升级中）",
+    "hotelAddressShort": "浦建路243号"
+  },
+  {
+    "hotelId": "9013411",
+    "hotelName": "海友上海虹梅南路酒店",
+    "hotelAddressShort": "闵行区梅陇镇虹梅南路3678号（距15号线双柏路4号口1.7km，换乘729路乘四站虹梅南路澄江路下马路对面及到）"
+  },
+  {
+    "hotelId": "C0400001",
+    "hotelName": "上海静安CitiGO欢阁公寓酒店",
+    "hotelAddressShort": "上海市静安区新闸路1093号"
+  },
+  {
+    "hotelId": "C0100114",
+    "hotelName": "城家高级公寓上海五角场市光路地铁站店",
+    "hotelAddressShort": "上海市杨浦区市光路635号世界广场B座5-6楼"
+  }
+]

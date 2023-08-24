@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "9014918", 
+    "hotelName": "昆明滇池宋品酒店", 
+    "hotelAddressShort": "云南省昆明市西山区碧鸡路2999-8号"
+  }, 
+  {
+    "hotelId": "9014919", 
+    "hotelName": "昆明融创施柏阁酒店", 
+    "hotelAddressShort": "中国云南省昆明市西山区碧鸡路2999-9号"
+  }, 
+  {
+    "hotelId": "9020889", 
+    "hotelName": "汉庭昆明北部汽车客运站酒店", 
+    "hotelAddressShort": "沣源路与宝云路交叉口（北部客运站旁）"
+  }, 
+  {
+    "hotelId": "6502282", 
+    "hotelName": "全季昆明呈贡大学城酒店", 
+    "hotelAddressShort": "呈贡区怡香天苑一号商业楼"
+  }, 
+  {
+    "hotelId": "9015660", 
+    "hotelName": "桔子昆明火车站酒店", 
+    "hotelAddressShort": "官渡区北京路南段永胜路59号金茂大厦"
+  }, 
+  {
+    "hotelId": "9010773", 
+    "hotelName": "宜必思昆明南站酒店", 
+    "hotelAddressShort": "呈贡大学城仕林街2幢01号"
+  }, 
+  {
+    "hotelId": "9001354", 
+    "hotelName": "桔子水晶昆明南屏步行街酒店", 
+    "hotelAddressShort": "东风西路11号"
+  }, 
+  {
+    "hotelId": "8000489", 
+    "hotelName": "全季昆明翠湖人民中路酒店", 
+    "hotelAddressShort": "五华区人民中路202号"
+  }, 
+  {
+    "hotelId": "6500319", 
+    "hotelName": "昆明翠湖CitiGO欢阁酒店", 
+    "hotelAddressShort": "昆明市五华区翠湖东路16号 距华山西路（5号线)800m"
+  }, 
+  {
+    "hotelId": "8916061", 
+    "hotelName": "宜必思尚品昆明高新区吾悦广场酒店", 
+    "hotelAddressShort": "王筇路178号吾悦华府卡卡3号楼（高新区吾悦广场旁）"
+  }, 
+  {
+    "hotelId": "9000595", 
+    "hotelName": "桔子水晶昆明东风路恒隆广场酒店", 
+    "hotelAddressShort": "东风东路118号"
+  }, 
+  {
+    "hotelId": "6505991", 
+    "hotelName": "全季昆明呈贡春融街地铁站酒店", 
+    "hotelAddressShort": "呈贡区实力心城24栋111号商铺春融街地铁站D出口右转直行200米"
+  }, 
+  {
+    "hotelId": "6500317", 
+    "hotelName": "桔子昆明翠湖酒店", 
+    "hotelAddressShort": "五华区钱局街186号(近云南大学、翠湖公园）"
+  }, 
+  {
+    "hotelId": "6500002", 
+    "hotelName": "全季昆明珥季路官渡古镇酒店", 
+    "hotelAddressShort": "官渡区珥季路与季宏路交叉口银海金岸广场B栋"
+  }, 
+  {
+    "hotelId": "6505012", 
+    "hotelName": "全季昆明呈贡斗南花市酒店", 
+    "hotelAddressShort": "呈贡区斗南花卉大厦"
+  }, 
+  {
+    "hotelId": "6500114", 
+    "hotelName": "宜必思尚品昆明南屏步行街酒店", 
+    "hotelAddressShort": "五华区青年路418号绿岛商业中心6楼(东风广场H出口300米)"
+  }, 
+  {
+    "hotelId": "9005122", 
+    "hotelName": "汉庭昆明南屏步行街酒店", 
+    "hotelAddressShort": "五华区正义路16-18号昆明南城清真寺大厦B座二楼（地铁3号线五一路站B口）"
+  }, 
+  {
+    "hotelId": "6500221", 
+    "hotelName": "全季昆明正义坊步行街酒店", 
+    "hotelAddressShort": "五华区正义路111号（南屏街、省政府、翠湖、昆明老街、昆明市妇幼保健院、云南省第二人民医院旁）"
+  }, 
+  {
+    "hotelId": "6505001", 
+    "hotelName": "全季昆明南站涌鑫哈佛中心酒店", 
+    "hotelAddressShort": "呈贡区涌鑫哈佛中心7-2栋一楼"
+  }, 
+  {
+    "hotelId": "6500516", 
+    "hotelName": "全季昆明环城北路火车北站酒店", 
+    "hotelAddressShort": "环城北路62号(距离火车北站地铁C出口427米）"
+  }, 
+  {
+    "hotelId": "6500112", 
+    "hotelName": "汉庭昆明火车站酒店", 
+    "hotelAddressShort": "明通路20号环城南路地铁站B出口210米"
+  }, 
+  {
+    "hotelId": "6502243", 
+    "hotelName": "全季昆明联盟路万宏国际酒店", 
+    "hotelAddressShort": "盘龙区联盟路138号"
+  }, 
+  {
+    "hotelId": "9011419", 
+    "hotelName": "全季昆明长水国际机场T1航站楼酒店", 
+    "hotelAddressShort": "长水国际机场候机楼T1航站楼"
+  }, 
+  {
+    "hotelId": "6500314", 
+    "hotelName": "汉庭昆明市体育馆云大医院酒店", 
+    "hotelAddressShort": "昆明市五华区环城西路37号（市体育馆地铁站C出直行600米）"
+  }, 
+  {
+    "hotelId": "9011423", 
+    "hotelName": "汉庭宜良酒店", 
+    "hotelAddressShort": "宜良县文华路金星小区41号"
+  }, 
+  {
+    "hotelId": "9004121", 
+    "hotelName": "汉庭昆明环城南路地铁站酒店", 
+    "hotelAddressShort": "北京路175号（环城南路地铁站E口出10米）"
+  }, 
+  {
+    "hotelId": "6500311", 
+    "hotelName": "汉庭昆明翠湖潘家湾地铁站酒店", 
+    "hotelAddressShort": "东风西路241号"
+  }, 
+  {
+    "hotelId": "9003449", 
+    "hotelName": "全季昆明小康大道酒店", 
+    "hotelAddressShort": "小康大道国福现代城茉莉苑6栋1层41-1号"
+  }, 
+  {
+    "hotelId": "6500118", 
+    "hotelName": "全季昆明火车站大悦城酒店", 
+    "hotelAddressShort": "官渡区永平路51号鑫都韵城2栋"
+  }, 
+  {
+    "hotelId": "6502062", 
+    "hotelName": "宜必思昆明自贸区云大西路酒店", 
+    "hotelAddressShort": "官渡区云大西路10号"
+  }, 
+  {
+    "hotelId": "6505011", 
+    "hotelName": "汉庭昆明呈贡酒店", 
+    "hotelAddressShort": "呈贡区兴呈路4577号"
+  }, 
+  {
+    "hotelId": "6502111", 
+    "hotelName": "全季昆明长水国际机场酒店", 
+    "hotelAddressShort": "官渡区长水航城42号E栋"
+  }, 
+  {
+    "hotelId": "9004386", 
+    "hotelName": "星程昆明滇池爱琴海酒店", 
+    "hotelAddressShort": "西山区广福路351号，爱琴海购物公园斜对面"
+  }, 
+  {
+    "hotelId": "9006251", 
+    "hotelName": "汉庭昆明经开区学院酒店", 
+    "hotelAddressShort": "经济开发区玉缘路世纪浩鸿商业广场2栋1楼101号 近昆明学院"
+  }, 
+  {
+    "hotelId": "6500515", 
+    "hotelName": "全季昆明白龙路理工大学酒店", 
+    "hotelAddressShort": "盘龙区小龙路4号（白龙路地铁A出口直行105米）"
+  }, 
+  {
+    "hotelId": "6500115", 
+    "hotelName": "宜必思昆明火车站酒店", 
+    "hotelAddressShort": "官渡区北京路326号（塘子巷地铁站C口直行330米）"
+  }, 
+  {
+    "hotelId": "9008584", 
+    "hotelName": "汉庭昆明南屏步行街王府井酒店", 
+    "hotelAddressShort": "五华区南屏街55号（五一路地铁站B出口宝善街方向直行300米）"
+  }, 
+  {
+    "hotelId": "6501182", 
+    "hotelName": "汉庭昆明前兴路儿童医院酒店", 
+    "hotelAddressShort": "西山区前兴路289号"
+  }, 
+  {
+    "hotelId": "6500316", 
+    "hotelName": "汉庭昆明圆通山红会医院酒店", 
+    "hotelAddressShort": "五华区圆通街16号（翠湖公园&近穿心鼓楼地铁站A出口&昆明老街&云南大学附属医院（红会医院）&云南大学&圆通禅寺&百盛&金鹰购物广场）"
+  }, 
+  {
+    "hotelId": "6500341", 
+    "hotelName": "汉庭昆明金马坊酒店", 
+    "hotelAddressShort": "西山区东寺街870号"
+  }, 
+  {
+    "hotelId": "6515991", 
+    "hotelName": "汉庭昆明呈贡斗南花市酒店（质量整改）", 
+    "hotelAddressShort": "呈贡区瑞香西街花花世界7栋"
+  }, 
+  {
+    "hotelId": "9015178", 
+    "hotelName": "桔子昆明融创滇池后海酒店", 
+    "hotelAddressShort": " 融创文旅城十七期A24号地块"
+  }, 
+  {
+    "hotelId": "6502241", 
+    "hotelName": "全季昆明北京路恒隆广场酒店", 
+    "hotelAddressShort": "盘龙区拓东路4号（塘子巷地铁站F口直行20米）"
+  }, 
+  {
+    "hotelId": "9006666", 
+    "hotelName": "全季昆明国际会展中心酒店", 
+    "hotelAddressShort": "关平路52号银海温泉花园旁（福德地铁站B出口国贸路方向直行1.5公里）"
+  }, 
+  {
+    "hotelId": "6502281", 
+    "hotelName": "全季昆明前兴路大商汇酒店", 
+    "hotelAddressShort": "西山区前兴路289号2号楼（儿童医院对面）"
+  }, 
+  {
+    "hotelId": "6500342", 
+    "hotelName": "汉庭昆明弥勒寺地铁站酒店", 
+    "hotelAddressShort": "西山区永乐路11号"
+  }, 
+  {
+    "hotelId": "9002092", 
+    "hotelName": "汉庭昆明火车北站地铁站酒店", 
+    "hotelAddressShort": "盘龙区环城北路221号"
+  }, 
+  {
+    "hotelId": "6501061", 
+    "hotelName": "全季昆明高新区酒店", 
+    "hotelAddressShort": "五华区科医路92号"
+  }, 
+  {
+    "hotelId": "6500313", 
+    "hotelName": "汉庭昆明翠湖云南大学酒店", 
+    "hotelAddressShort": "云南省昆明市五华区一二一大街298号"
+  }, 
+  {
+    "hotelId": "9000993", 
+    "hotelName": "汉庭昆明国际会展中心酒店", 
+    "hotelAddressShort": "官渡区关上日新路永香小区二期1幢"
+  }, 
+  {
+    "hotelId": "8916079", 
+    "hotelName": "全季昆明新螺蛳湾酒店", 
+    "hotelAddressShort": "官渡区先锋路官渡区矣六实验学校旁边"
+  }, 
+  {
+    "hotelId": "6500318", 
+    "hotelName": "全季昆明学府路酒店", 
+    "hotelAddressShort": "五华区虹山东路318号距地铁四号线金鼎山北路站500米"
+  }, 
+  {
+    "hotelId": "9008918", 
+    "hotelName": "桔子昆明长水国际机场酒店", 
+    "hotelAddressShort": "云南省昆明市官渡区空港大道12001-1号 距离长水机场3.5公里"
+  }, 
+  {
+    "hotelId": "6500343", 
+    "hotelName": "全季昆明滇池路酒店", 
+    "hotelAddressShort": "西山区环城南路749号索菲特酒店旁"
+  }, 
+  {
+    "hotelId": "6500346", 
+    "hotelName": "桔子昆明南屏步行街酒店", 
+    "hotelAddressShort": "西山区环城南路521号"
+  }, 
+  {
+    "hotelId": "6500312", 
+    "hotelName": "汉庭优佳昆明东华酒店", 
+    "hotelAddressShort": "盘龙区环城东路176号"
+  }, 
+  {
+    "hotelId": "8914042", 
+    "hotelName": "桔子昆明高新区酒店", 
+    "hotelAddressShort": "五华区滇缅大道2408号"
+  }, 
+  {
+    "hotelId": "6502121", 
+    "hotelName": "汉庭昆明长水国际机场酒店", 
+    "hotelAddressShort": "官渡区大板桥镇经济开发区"
+  }, 
+  {
+    "hotelId": "9020261", 
+    "hotelName": "全季昆明翠湖云大医院酒店", 
+    "hotelAddressShort": "东风西路241号（近翠湖公园、潘家湾地铁站、云大医院、云南陆军讲武堂）"
+  }, 
+  {
+    "hotelId": "9013299", 
+    "hotelName": "你好昆明火车站民航路酒店", 
+    "hotelAddressShort": "官渡区长润街长村1号（地铁6号线菊华站C口出，出租车起步价到酒店）"
+  }
+]

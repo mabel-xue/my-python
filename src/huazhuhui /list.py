@@ -41,10 +41,10 @@ HotelStyle = {
 }
 
 hotelList = get_data(request_url, {
-    'checkInDate': '2023-08-26',
-    'checkOutDate': '2023-08-27',
-    'cityName': '如皋',
-    'hotelStyle': HotelStyle['qj'],
+    'checkInDate': '2023-09-26',
+    'checkOutDate': '2023-09-27',
+    'cityName': '大同',
+    'hotelStyle': HotelStyle['ht'],
     # 'sortBy':0
     'pageSize': 20,
     'pageIndex': 1
@@ -59,4 +59,4 @@ data = [{
 } for item in hotelList['content']['hotelList']]
 
 
-print(json.dumps(data, ensure_ascii=False, indent=2))
+print(json.dumps(data, ensure_ascii=False, indent=2).encode('utf-8'))

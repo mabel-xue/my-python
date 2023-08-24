@@ -1,0 +1,402 @@
+[
+  {
+    "hotelId": "3300064", 
+    "hotelName": "南昌滕王阁美居酒店", 
+    "hotelAddressShort": "沿江北大道39号"
+  }, 
+  {
+    "hotelId": "9007997", 
+    "hotelName": "南昌红谷滩漫心酒店", 
+    "hotelAddressShort": "南昌市红谷滩区红谷中路36号"
+  }, 
+  {
+    "hotelId": "3300033", 
+    "hotelName": "桔子水晶南昌八一广场滕王阁酒店", 
+    "hotelAddressShort": "南昌市西湖区八一大道122号"
+  }, 
+  {
+    "hotelId": "9014915", 
+    "hotelName": "南昌融创施柏阁酒店", 
+    "hotelAddressShort": "中国江西省南昌市红谷滩新区南龙蟠街333号"
+  }, 
+  {
+    "hotelId": "3300521", 
+    "hotelName": "汉庭南昌复兴大道东地铁站酒店", 
+    "hotelAddressShort": "南昌县复兴大道东777号（近地铁3号线复兴大道东站2号口）右转383米"
+  }, 
+  {
+    "hotelId": "3301004", 
+    "hotelName": "汉庭南昌西站酒店", 
+    "hotelAddressShort": "红谷滩新区西站大街555号(转地铁2号线下1站至龙岗地铁站3号口即可）"
+  }, 
+  {
+    "hotelId": "9000708", 
+    "hotelName": "汉庭南昌滕王阁酒店", 
+    "hotelAddressShort": "西湖区抚河北路59号（近滕王阁、万寿宫、中山路）"
+  }, 
+  {
+    "hotelId": "3300772", 
+    "hotelName": "全季南昌滕王阁酒店", 
+    "hotelAddressShort": "沿江北大道39号"
+  }, 
+  {
+    "hotelId": "3300034", 
+    "hotelName": "海友南昌八一广场地铁站酒店", 
+    "hotelAddressShort": "西湖区八一大道266号展览中心内院"
+  }, 
+  {
+    "hotelId": "9009473", 
+    "hotelName": "汉庭南昌八一馆万寿宫酒店", 
+    "hotelAddressShort": "东湖区民德路272号（中山路百盛天虹旁、近万寿宫）"
+  }, 
+  {
+    "hotelId": "9011244", 
+    "hotelName": "汉庭南昌起凤路地铁站酒店", 
+    "hotelAddressShort": "江西省南昌市东湖区青山南路538号（地铁4号线2号口）"
+  }, 
+  {
+    "hotelId": "3300092", 
+    "hotelName": "宜必思南昌滕王阁万寿宫酒店", 
+    "hotelAddressShort": "南昌市东湖区中山路217号"
+  }, 
+  {
+    "hotelId": "3300191", 
+    "hotelName": "汉庭南昌八一广场武商Mall酒店", 
+    "hotelAddressShort": "福州路28号省体育馆旁（武商广场旁/二号线福州路1号口/四号线人民公园4号口408米）"
+  }, 
+  {
+    "hotelId": "9007130", 
+    "hotelName": "汉庭南昌八一广场青山湖西地铁站酒店", 
+    "hotelAddressShort": "洪都北大道693号汤家坊旁（地铁三号线青山湖西地铁站2号线往回走300米）"
+  }, 
+  {
+    "hotelId": "9014934", 
+    "hotelName": "南昌融创永乐半山酒店", 
+    "hotelAddressShort": "中国江西省南昌市新建区红谷滩新区南龙蟠街555号"
+  }, 
+  {
+    "hotelId": "9007766", 
+    "hotelName": "桔子南昌西站北广场酒店", 
+    "hotelAddressShort": "平安东二街89号九龙居（西站北广场出站向东600m）"
+  }, 
+  {
+    "hotelId": "3300081", 
+    "hotelName": "汉庭南昌滕王阁万寿宫酒店", 
+    "hotelAddressShort": "东湖区叠山路498号（近胜利路步行街、滕王阁、万寿宫）"
+  }, 
+  {
+    "hotelId": "3301006", 
+    "hotelName": "汉庭优佳南昌西站酒店", 
+    "hotelAddressShort": "西站大街与龙虎山交叉口瑞仕城际"
+  }, 
+  {
+    "hotelId": "3300023", 
+    "hotelName": "汉庭南昌火车站酒店", 
+    "hotelAddressShort": "西湖区二七南路火车站西广场正对面"
+  }, 
+  {
+    "hotelId": "3300022", 
+    "hotelName": "汉庭南昌八一广场酒店", 
+    "hotelAddressShort": "西湖区永叔路8号(近地铁2线永叔路站4号口\\近武商广场、八一广场 )"
+  }, 
+  {
+    "hotelId": "9007726", 
+    "hotelName": "汉庭南昌火车站解放西路酒店", 
+    "hotelAddressShort": "青山湖区解放西路164号（洪都中大道与解放西路交汇处，铁路二小旁）"
+  }, 
+  {
+    "hotelId": "3300084", 
+    "hotelName": "汉庭南昌八一广场中山路酒店", 
+    "hotelAddressShort": "东湖区中山路65号"
+  }, 
+  {
+    "hotelId": "9017939", 
+    "hotelName": "汉庭南昌火车站东广场酒店", 
+    "hotelAddressShort": "青山湖区洪都中大道89号银海大厦（地铁2号线顺外路站1号出口，向洪都中大道左步行300米即到）"
+  }, 
+  {
+    "hotelId": "9007166", 
+    "hotelName": "桔子南昌红谷滩万达广场酒店", 
+    "hotelAddressShort": "888号8a桔子酒店"
+  }, 
+  {
+    "hotelId": "9005414", 
+    "hotelName": "星程南昌青山湖新城吾悦广场酒店", 
+    "hotelAddressShort": "青山湖大道1066号"
+  }, 
+  {
+    "hotelId": "8916647", 
+    "hotelName": "汉庭南昌西站国体中心酒店", 
+    "hotelAddressShort": "红谷滩区赣江南大道1566号恒天时尚中心B3栋"
+  }, 
+  {
+    "hotelId": "9010047", 
+    "hotelName": "汉庭南昌红谷滩万达广场酒店（原雅苑路地铁站酒店）", 
+    "hotelAddressShort": "丰和大道1368号现代正荣大厦A座（雅苑路地铁口，近万达广场）"
+  }, 
+  {
+    "hotelId": "8916654", 
+    "hotelName": "星程南昌红谷中大道秋水广场酒店", 
+    "hotelAddressShort": "红谷中大道348号"
+  }, 
+  {
+    "hotelId": "9002228", 
+    "hotelName": "全季南昌高新火炬广场酒店", 
+    "hotelAddressShort": "火炬大街68号"
+  }, 
+  {
+    "hotelId": "8000366", 
+    "hotelName": "汉庭南昌王府井酒店", 
+    "hotelAddressShort": "青云谱区建设路438号(近江西工程职业学院，16中学、王府井购物中心）"
+  }, 
+  {
+    "hotelId": "9004600", 
+    "hotelName": "星程南昌红谷滩地铁大厦地铁站酒店", 
+    "hotelAddressShort": "世贸路668号（世贸路与金融大街红绿灯十字路口名门世家江西银行斜对面）"
+  }, 
+  {
+    "hotelId": "9017213", 
+    "hotelName": "你好南昌滕王阁万寿宫酒店", 
+    "hotelAddressShort": "江西省南昌市东湖区叠山路478号（近滕王阁、万寿宫、八一起义纪念馆），距离阳明公园地铁站（2号线）850米"
+  }, 
+  {
+    "hotelId": "9007034", 
+    "hotelName": "汉庭南昌湾里梅岭大道酒店", 
+    "hotelAddressShort": "新建区梅岭大道515号"
+  }, 
+  {
+    "hotelId": "3301003", 
+    "hotelName": "宜必思尚品南昌红谷滩大学城酒店", 
+    "hotelAddressShort": "江西省新建区长堎大道1629号(红谷新城旁）"
+  }, 
+  {
+    "hotelId": "9017155", 
+    "hotelName": "汉庭南昌万达广场鼎峰中央酒店", 
+    "hotelAddressShort": "江西省南昌市红谷滩区红谷中大道1368号鼎峰中央C座写字楼1-3层"
+  }, 
+  {
+    "hotelId": "9013799", 
+    "hotelName": "星程南昌新建礼步湖酒店", 
+    "hotelAddressShort": "礼步湖大道288号"
+  }, 
+  {
+    "hotelId": "9000075", 
+    "hotelName": "汉庭南昌佳海产业园酒店", 
+    "hotelAddressShort": "高新区天祥大道2799号佳海产业园一期99栋"
+  }, 
+  {
+    "hotelId": "9000934", 
+    "hotelName": "全季南昌经开区乐盈广场酒店", 
+    "hotelAddressShort": "枫林西大街299号"
+  }, 
+  {
+    "hotelId": "3300384", 
+    "hotelName": "汉庭南昌大学前湖酒店", 
+    "hotelAddressShort": "红谷滩区红角洲前湖大道988号（导航至梦立方广场）"
+  }, 
+  {
+    "hotelId": "3302991", 
+    "hotelName": "汉庭南昌县莲塘酒店", 
+    "hotelAddressShort": "南昌县莲塘中大道518号（县公安局旁）"
+  }, 
+  {
+    "hotelId": "9000084", 
+    "hotelName": "汉庭南昌艾溪湖东地铁站酒店", 
+    "hotelAddressShort": "高新区昌东大道6899号富东广场(近地铁1线艾溪湖东站3号口)"
+  }, 
+  {
+    "hotelId": "3300002", 
+    "hotelName": "汉庭南昌红谷滩翠苑路地铁站二店", 
+    "hotelAddressShort": "红谷滩新区丰和中大道沁园路405号"
+  }, 
+  {
+    "hotelId": "9019861", 
+    "hotelName": "桔子南昌西站国际博览城酒店", 
+    "hotelAddressShort": "上饶大街与运城路交汇处东南角 中奥滨江ONE8号楼（距离国际博览城1千米、南昌西站2千米）"
+  }, 
+  {
+    "hotelId": "3300383", 
+    "hotelName": "汉庭南昌红谷滩铜锣湾广场酒店", 
+    "hotelAddressShort": "红谷滩区丰和中大道1768号丰和大厦"
+  }, 
+  {
+    "hotelId": "9015019", 
+    "hotelName": "海友南昌红谷滩学府大道东地铁站酒店", 
+    "hotelAddressShort": "丰和南大道2111号世茂AMP2-6栋"
+  }, 
+  {
+    "hotelId": "3302001", 
+    "hotelName": "汉庭南昌小蓝工业园江铃汽车大厦酒店", 
+    "hotelAddressShort": "南昌县迎宾大道1751号(近地铁3线沥山地铁站1号口）"
+  }, 
+  {
+    "hotelId": "3300385", 
+    "hotelName": "桔子南昌红谷滩铜锣湾广场酒店", 
+    "hotelAddressShort": "庐山南大道348号（地铁1号线4号出口右转200米农业科学院院内）"
+  }, 
+  {
+    "hotelId": "9002204", 
+    "hotelName": "全季南昌滕王阁青山湖西酒店", 
+    "hotelAddressShort": "洪都北大道728号"
+  }, 
+  {
+    "hotelId": "9013874", 
+    "hotelName": "全季南昌小蓝工业园迎宾中大道酒店", 
+    "hotelAddressShort": "小蓝工业园富山东大道88号迎宾珑湾1栋"
+  }, 
+  {
+    "hotelId": "9016167", 
+    "hotelName": "你好南昌大学前湖酒店", 
+    "hotelAddressShort": "红谷滩区前湖大道988号梦立方广场"
+  }, 
+  {
+    "hotelId": "3300382", 
+    "hotelName": "汉庭南昌红谷滩翠苑路地铁站一店", 
+    "hotelAddressShort": "红谷滩翠苑路820号"
+  }, 
+  {
+    "hotelId": "9005469", 
+    "hotelName": "全季南昌八一广场武商MALL酒店", 
+    "hotelAddressShort": "二七南路669号"
+  }, 
+  {
+    "hotelId": "9000870", 
+    "hotelName": "星程南昌红谷滩学府大道东地铁站酒店", 
+    "hotelAddressShort": "丰和南大道2111号世茂APM2-7B(与印象城商场300米的距离）"
+  }, 
+  {
+    "hotelId": "9001316", 
+    "hotelName": "汉庭南昌京东大道地铁站酒店", 
+    "hotelAddressShort": "高新区火炬三路192号"
+  }, 
+  {
+    "hotelId": "9009964", 
+    "hotelName": "汉庭南昌西站望城新区酒店", 
+    "hotelAddressShort": "武功山大道2069号绿创商务中心3栋（距南昌西站约4公里，距地铁4号线中堡站1.6公里）"
+  }, 
+  {
+    "hotelId": "9009317", 
+    "hotelName": "全季南昌西站国博城酒店", 
+    "hotelAddressShort": "红谷滩新区赣江南大道与寺山街交叉口左岸公馆7号楼（距绿地国博会展中心1公里，距地铁四号线安丰站1.2公里）"
+  }, 
+  {
+    "hotelId": "3300121", 
+    "hotelName": "海友南昌紫阳大道江西现代学院酒店", 
+    "hotelAddressShort": "南昌市高新经济开发区艾溪村创新二路D区3栋一单元"
+  }, 
+  {
+    "hotelId": "9007439", 
+    "hotelName": "星程南昌红谷滩绿地双子塔万达广场酒店", 
+    "hotelAddressShort": "红谷中大道1376号红谷经典大厦(江报路与雅苑路交叉口）"
+  }, 
+  {
+    "hotelId": "9011927", 
+    "hotelName": "汉庭南昌红谷滩铜锣湾万科时代酒店", 
+    "hotelAddressShort": "南昌庐山南大道525号地铁万科时代（地铁1号线庐山南大道站2号口往北走200米）"
+  }, 
+  {
+    "hotelId": "3300962", 
+    "hotelName": "汉庭南昌太子殿地铁站酒店", 
+    "hotelAddressShort": "高新区紫阳大道1199号紫晶国际广场(地铁一号线太子殿站2号口)"
+  }, 
+  {
+    "hotelId": "3300003", 
+    "hotelName": "星程南昌滕王阁万寿宫酒店", 
+    "hotelAddressShort": "建德观路360号"
+  }, 
+  {
+    "hotelId": "9016091", 
+    "hotelName": "星程南昌象湖南大一附院酒店", 
+    "hotelAddressShort": "象湖新城金沙大道2268号"
+  }, 
+  {
+    "hotelId": "9004009", 
+    "hotelName": "星程南昌红谷滩翠苑路地铁站酒店", 
+    "hotelAddressShort": "沁园路154号"
+  }, 
+  {
+    "hotelId": "9012804", 
+    "hotelName": "星程南昌西站沃华广场酒店", 
+    "hotelAddressShort": "西站大街1818号沃华商都b2#楼"
+  }, 
+  {
+    "hotelId": "9005185", 
+    "hotelName": "海友南昌红谷滩翠苑路地铁站酒店", 
+    "hotelAddressShort": "江西省南昌市红谷滩区沁园路412号"
+  }, 
+  {
+    "hotelId": "9000696", 
+    "hotelName": "汉庭南昌火炬广场地铁站酒店", 
+    "hotelAddressShort": "青山湖区青山湖大道148号(近地铁3线火炬广场站4号口)"
+  }, 
+  {
+    "hotelId": "9004567", 
+    "hotelName": "汉庭南昌西站国博地铁站酒店", 
+    "hotelAddressShort": "绿地国际博览城恒锦九龙湖（国博对面）"
+  }, 
+  {
+    "hotelId": "3300386", 
+    "hotelName": "全季南昌西站北广场酒店", 
+    "hotelAddressShort": "红谷滩区圭峰大道618号"
+  }, 
+  {
+    "hotelId": "3300192", 
+    "hotelName": "全季南昌八一广场阳明东路酒店", 
+    "hotelAddressShort": "贤士一路39号"
+  }, 
+  {
+    "hotelId": "9016944", 
+    "hotelName": "汉庭南昌八大山人梅湖景区酒店", 
+    "hotelAddressShort": " 南莲路467号南莲华庭7号商业住宅办公楼"
+  }, 
+  {
+    "hotelId": "3300293", 
+    "hotelName": "汉庭南昌高新大道地铁站酒店", 
+    "hotelAddressShort": "青山湖区京东镇高新大道1755号（近地铁1线高新大道站2号口）"
+  }, 
+  {
+    "hotelId": "9004125", 
+    "hotelName": "汉庭优佳南昌红谷滩万达广场酒店", 
+    "hotelAddressShort": "红谷滩区金融大街969号江铃集团总部南门"
+  }, 
+  {
+    "hotelId": "3301005", 
+    "hotelName": "全季南昌大学前湖酒店", 
+    "hotelAddressShort": "长堎大道1333号香江家居广场"
+  }, 
+  {
+    "hotelId": "9002169", 
+    "hotelName": "星程南昌红谷滩万达广场酒店", 
+    "hotelAddressShort": "碟子湖大道555号（碟子湖大道与银都路交叉口）"
+  }, 
+  {
+    "hotelId": "3300011", 
+    "hotelName": "汉庭南昌井冈山大道酒店", 
+    "hotelAddressShort": "青云谱区井冈山大道218号（十三中斜对面）"
+  }, 
+  {
+    "hotelId": "9006016", 
+    "hotelName": "星程南昌复兴大道东地铁站酒店", 
+    "hotelAddressShort": "莲塘镇迎宾中大道869号(赣昌农商银行旁5米）"
+  }, 
+  {
+    "hotelId": "9017884", 
+    "hotelName": "你好南昌高新京东大道地铁站酒店", 
+    "hotelAddressShort": "高新火炬二路599号（京东大道地铁站3号口386米））"
+  }, 
+  {
+    "hotelId": "3300522", 
+    "hotelName": "汉庭南昌象湖南大一附院酒店", 
+    "hotelAddressShort": "南昌县金沙二路3058号（近象湖沃尔玛）"
+  }, 
+  {
+    "hotelId": "9021727", 
+    "hotelName": "星程南昌新建吾悦广场酒店", 
+    "hotelAddressShort": "长堎大道166号1-9楼"
+  }, 
+  {
+    "hotelId": "9005908", 
+    "hotelName": "星程南昌西湖万达广场酒店", 
+    "hotelAddressShort": "朝阳新城云锦路508号东亚朝阳SOHO"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "hotelId": "9006680", 
+    "hotelName": "青岛西海岸城市阳台美仑酒店", 
+    "hotelAddressShort": "中国山东省青岛市黄岛区朝阳山路169号"
+  }, 
+  {
+    "hotelId": "9011217", 
+    "hotelName": "青岛阿朵花屿花间堂·岚舍", 
+    "hotelAddressShort": "山东省青岛市黄岛区白马路8号阿朵花屿"
+  }, 
+  {
+    "hotelId": "9001867", 
+    "hotelName": "青岛五四广场海景美仑国际酒店", 
+    "hotelAddressShort": "香港中路26号"
+  }, 
+  {
+    "hotelId": "9004222", 
+    "hotelName": "汉庭青岛黄岛王台镇酒店", 
+    "hotelAddressShort": "黄岛区王台街道环台北路1287号"
+  }, 
+  {
+    "hotelId": "9007149", 
+    "hotelName": "星程青岛西海岸世博城酒店", 
+    "hotelAddressShort": "朝阳山路177号2栋办公1401"
+  }, 
+  {
+    "hotelId": "9003432", 
+    "hotelName": "桔子青岛栈桥火车站酒店", 
+    "hotelAddressShort": "中山路44-60号"
+  }, 
+  {
+    "hotelId": "9012513", 
+    "hotelName": "宜必思胶州胶东机场李王路酒店", 
+    "hotelAddressShort": "李王路1号"
+  }, 
+  {
+    "hotelId": "9014967", 
+    "hotelName": "桔子青岛五四广场延安三路酒店", 
+    "hotelAddressShort": "青岛市市北区延安三路95号"
+  }, 
+  {
+    "hotelId": "9016051", 
+    "hotelName": "汉庭青岛北站永年路地铁站酒店", 
+    "hotelAddressShort": "兴华路15号青岛国源通创意产业园"
+  }, 
+  {
+    "hotelId": "9006502", 
+    "hotelName": "汉庭平度海宜家酒店", 
+    "hotelAddressShort": "山东省青岛市平度市常州路50-6号"
+  }, 
+  {
+    "hotelId": "9008397", 
+    "hotelName": "汉庭青岛栈桥火车站西广场酒店", 
+    "hotelAddressShort": "山东省青岛市市南区广州路45号"
+  }, 
+  {
+    "hotelId": "9000692", 
+    "hotelName": "宜必思尚品胶州胶东国际机场酒店", 
+    "hotelAddressShort": "山东省青岛市胶州市北外环路289号"
+  }, 
+  {
+    "hotelId": "9003641", 
+    "hotelName": "汉庭青岛南京路酒店", 
+    "hotelAddressShort": "青岛市市南区南京路99号乙"
+  }, 
+  {
+    "hotelId": "9010306", 
+    "hotelName": "汉庭青岛栈桥中山路酒店", 
+    "hotelAddressShort": "胶州路37号"
+  }, 
+  {
+    "hotelId": "9009621", 
+    "hotelName": "全季青岛莱西万达广场酒店", 
+    "hotelAddressShort": "上海路168号"
+  }, 
+  {
+    "hotelId": "2661004", 
+    "hotelName": "桔子水晶青岛崂山石老人海水浴场酒店", 
+    "hotelAddressShort": "青岛市崂山区苗岭路52号"
+  }, 
+  {
+    "hotelId": "2665201", 
+    "hotelName": "桔子水晶青岛西海岸金沙滩酒店", 
+    "hotelAddressShort": "青岛市黄岛区珠江路517号"
+  }, 
+  {
+    "hotelId": "1011013", 
+    "hotelName": "汉庭青岛即墨服装城酒店", 
+    "hotelAddressShort": "青岛即墨市鹤山路888号"
+  }, 
+  {
+    "hotelId": "2661021", 
+    "hotelName": "青岛新希望诺富特酒店", 
+    "hotelAddressShort": "青岛市崂山区九水东路592-26号"
+  }, 
+  {
+    "hotelId": "9012194", 
+    "hotelName": "汉庭平度青岛路酒店", 
+    "hotelAddressShort": " 青岛路396号"
+  }, 
+  {
+    "hotelId": "2660007", 
+    "hotelName": "青岛新都心漫心酒店", 
+    "hotelAddressShort": "山东省青岛市市北区常宁路13-1号"
+  }, 
+  {
+    "hotelId": "9014302", 
+    "hotelName": "汉庭青岛平度人民路酒店", 
+    "hotelAddressShort": "平度市人民路151号"
+  }, 
+  {
+    "hotelId": "2660112", 
+    "hotelName": "桔子青岛北站万科未来城酒店", 
+    "hotelAddressShort": "青岛市市北区四流南路62号乙"
+  }, 
+  {
+    "hotelId": "9008594", 
+    "hotelName": "汉庭青岛即墨万达广场酒店", 
+    "hotelAddressShort": "即墨区蓝鳌路1433号丁"
+  }, 
+  {
+    "hotelId": "9000590", 
+    "hotelName": "全季平度青岛路酒店", 
+    "hotelAddressShort": "山东省青岛市平度市苏州南路277号(平度贸易城，大润发，北方国贸，恒太城）"
+  }, 
+  {
+    "hotelId": "8000601", 
+    "hotelName": "汉庭青岛五四广场奥帆中心酒店（原香港中路奥帆中心酒店）", 
+    "hotelAddressShort": "山东省青岛市市南区香港中路65号"
+  }, 
+  {
+    "hotelId": "8000209", 
+    "hotelName": "桔子青岛五四广场酒店", 
+    "hotelAddressShort": "青岛市市南区东海西路32号"
+  }, 
+  {
+    "hotelId": "2660021", 
+    "hotelName": "汉庭青岛栈桥酒店", 
+    "hotelAddressShort": "青岛市市南区三门峡路6号"
+  }, 
+  {
+    "hotelId": "9020705", 
+    "hotelName": "汉庭青岛辽阳东路齐鲁医院酒店", 
+    "hotelAddressShort": "山东省青岛市崂山区辽阳东路9号（高科园装饰城1层）"
+  }, 
+  {
+    "hotelId": "2661098", 
+    "hotelName": "桔子青岛城阳泰豪广场酒店", 
+    "hotelAddressShort": "山东省青岛市城阳区文阳路锦城路交叉口717号"
+  }, 
+  {
+    "hotelId": "9014670", 
+    "hotelName": "汉庭青岛黄岛王台京东方酒店", 
+    "hotelAddressShort": "黄岛区王台镇王台南路29号"
+  }, 
+  {
+    "hotelId": "2662002", 
+    "hotelName": "桔子青岛即墨宝龙广场酒店", 
+    "hotelAddressShort": "山东省青岛市即墨区蓝鳌路1159号1号楼宝龙生活广场西首"
+  }, 
+  {
+    "hotelId": "9011381", 
+    "hotelName": "汉庭青岛李村地铁站酒店", 
+    "hotelAddressShort": "青岛市李沧区峰山路117号"
+  }, 
+  {
+    "hotelId": "9016049", 
+    "hotelName": "宜必思青岛新都心凯德广场酒店", 
+    "hotelAddressShort": "青岛市市北区重庆南路176号"
+  }, 
+  {
+    "hotelId": "2663002", 
+    "hotelName": "桔子青岛胶东国际机场酒店", 
+    "hotelAddressShort": "青岛市胶州市胶州东路799号"
+  }, 
+  {
+    "hotelId": "9014923", 
+    "hotelName": "青岛融创施柏阁酒店", 
+    "hotelAddressShort": "中国山东省青岛市黄岛区星海湾路868号"
+  }, 
+  {
+    "hotelId": "9011274", 
+    "hotelName": "桔子平度青岛路酒店", 
+    "hotelAddressShort": "青岛路277号(北方国贸，大润发，平度贸易城，恒太城 茶山  安徒生童话小镇 2020公园   ）"
+  }, 
+  {
+    "hotelId": "2665202", 
+    "hotelName": "桔子青岛西海岸金沙滩酒店", 
+    "hotelAddressShort": "山东省青岛市黄岛区珠江路592号"
+  }, 
+  {
+    "hotelId": "9015069", 
+    "hotelName": "全季胶州胶东机场站前大道酒店", 
+    "hotelAddressShort": "站前大道1170号"
+  }, 
+  {
+    "hotelId": "2660114", 
+    "hotelName": "青岛栈桥火车站漫心酒店", 
+    "hotelAddressShort": "胶州路158号"
+  }, 
+  {
+    "hotelId": "9003119", 
+    "hotelName": "桔子水晶青岛万象城酒店", 
+    "hotelAddressShort": "延吉路81号"
+  }, 
+  {
+    "hotelId": "9000679", 
+    "hotelName": "全季青岛台东啤酒街酒店", 
+    "hotelAddressShort": "登州路56号院内"
+  }, 
+  {
+    "hotelId": "9019898", 
+    "hotelName": "汉庭青岛栈桥金茂湾海滨酒店", 
+    "hotelAddressShort": "市南区四川路31号"
+  }, 
+  {
+    "hotelId": "9000272", 
+    "hotelName": "全季青岛栈桥火车站东广场酒店", 
+    "hotelAddressShort": "新泰安路27号"
+  }, 
+  {
+    "hotelId": "9016825", 
+    "hotelName": "你好青岛城阳宝龙广场酒店", 
+    "hotelAddressShort": "崇阳路510号宝龙城市广场大润发东门"
+  }, 
+  {
+    "hotelId": "2660001", 
+    "hotelName": "汉庭青岛八大关海天中心酒店", 
+    "hotelAddressShort": "青岛市市南区香港西路22号（地铁3号线太平角公园站A口右转150米）"
+  }, 
+  {
+    "hotelId": "9005167", 
+    "hotelName": "青岛栈桥火车站美居酒店", 
+    "hotelAddressShort": "云南路127号"
+  }, 
+  {
+    "hotelId": "9014890", 
+    "hotelName": "全季青岛胶东国际机场胶东政府酒店", 
+    "hotelAddressShort": "胶东街道办事处台湾工业园青力路28号"
+  }, 
+  {
+    "hotelId": "9013638", 
+    "hotelName": "汉庭青岛平度青医附院酒店", 
+    "hotelAddressShort": "平度市上海路518号安徒生童话乐园13号楼（距离青医附院200米，距离安徒生乐园50米） "
+  }, 
+  {
+    "hotelId": "2660722", 
+    "hotelName": "桔子水晶青岛五四广场海景酒店", 
+    "hotelAddressShort": "青岛东海西路25号，近海信大厦"
+  }, 
+  {
+    "hotelId": "9008051", 
+    "hotelName": "汉庭青岛胶州胶东机场阳光大厦酒店", 
+    "hotelAddressShort": "山东省青岛市胶州市胶州西路147号"
+  }, 
+  {
+    "hotelId": "9014290", 
+    "hotelName": "全季平度福州路酒店", 
+    "hotelAddressShort": "平度市东阁街道福州路291号沿街商业楼"
+  }, 
+  {
+    "hotelId": "9011427", 
+    "hotelName": "全季青岛黄岛王台镇酒店", 
+    "hotelAddressShort": "王台街道环台北路179号（原金世佳集团办公楼）"
+  }, 
+  {
+    "hotelId": "2662003", 
+    "hotelName": "桔子水晶青岛即墨古城酒店", 
+    "hotelAddressShort": "鹤山路38号"
+  }, 
+  {
+    "hotelId": "9015255", 
+    "hotelName": "汉庭青岛胶东国际机场站前大道酒店", 
+    "hotelAddressShort": "站前大道1170号"
+  }, 
+  {
+    "hotelId": "2660212", 
+    "hotelName": "汉庭优佳青岛台东地铁站酒店（原台东步行街店）", 
+    "hotelAddressShort": "山东省青岛市市北区桑梓路9号"
+  }, 
+  {
+    "hotelId": "2666991", 
+    "hotelName": "汉庭莱西人民广场酒店", 
+    "hotelAddressShort": "山东省青岛市莱西市天津路长安世家北门"
+  }, 
+  {
+    "hotelId": "2660712", 
+    "hotelName": "汉庭青岛延安三路芝泉路地铁站酒店", 
+    "hotelAddressShort": "青岛市市南区延安三路206号"
+  }, 
+  {
+    "hotelId": "2667012", 
+    "hotelName": "汉庭平度铜牛广场酒店", 
+    "hotelAddressShort": "青岛平度市青岛东路13号"
+  }, 
+  {
+    "hotelId": "9012930", 
+    "hotelName": "全季青岛崂山石老人海水浴场酒店（原全季青岛崂山国际会展中心酒店）", 
+    "hotelAddressShort": "秦岭路18号"
+  }, 
+  {
+    "hotelId": "9013466", 
+    "hotelName": "桔子水晶青岛高新会展中心酒店", 
+    "hotelAddressShort": "山东省青岛市高新区火炬路102号2号楼"
+  }, 
+  {
+    "hotelId": "9013285", 
+    "hotelName": "全季胶州广州北路酒店", 
+    "hotelAddressShort": "胶州市北外环路163号"
+  }, 
+  {
+    "hotelId": "2660617", 
+    "hotelName": "桔子青岛海尔路石老人海水浴场酒店(原桔子海尔路金狮广场店)", 
+    "hotelAddressShort": "海尔路75号"
+  }, 
+  {
+    "hotelId": "8000469", 
+    "hotelName": "星程青岛五四广场奥帆酒店", 
+    "hotelAddressShort": "汕头路1号（与香港中路交汇处，麦凯乐南门对面）"
+  }, 
+  {
+    "hotelId": "9006149", 
+    "hotelName": "汉庭青岛开发区江山南路酒店", 
+    "hotelAddressShort": "山东省青岛市开发区香江路223号"
+  }, 
+  {
+    "hotelId": "2660431", 
+    "hotelName": "汉庭青岛李沧万达酒店", 
+    "hotelAddressShort": "青岛市李沧区黑龙江中路902号"
+  }, 
+  {
+    "hotelId": "9012167", 
+    "hotelName": "汉庭青岛开发区中铁世界博览城酒店", 
+    "hotelAddressShort": "青岛市黄岛区滨海大道8555号辅路(滨海大道与琅玡台南路交汇处西200米)"
+  }, 
+  {
+    "hotelId": "2660003", 
+    "hotelName": "汉庭青岛董家口港酒店", 
+    "hotelAddressShort": "山东省青岛市黄岛区泊里镇藏马路299号"
+  }, 
+  {
+    "hotelId": "2660012", 
+    "hotelName": "汉庭青岛五四广场酒店", 
+    "hotelAddressShort": "青岛市南区香港中路6号世贸中心C栋"
+  }, 
+  {
+    "hotelId": "9014706", 
+    "hotelName": "全季胶州香港东路酒店", 
+    "hotelAddressShort": "九龙街道办事处香港路68号"
+  }, 
+  {
+    "hotelId": "9000225", 
+    "hotelName": "全季青岛西海岸金沙滩酒店", 
+    "hotelAddressShort": "长江东路397号1号楼"
+  }, 
+  {
+    "hotelId": "9013771", 
+    "hotelName": "汉庭青岛高新区蓝湾创业园酒店", 
+    "hotelAddressShort": "青岛市高新区锦汇路27号"
+  }, 
+  {
+    "hotelId": "8000210", 
+    "hotelName": "桔子青岛万象城酒店", 
+    "hotelAddressShort": "山东省青岛市市南区江西路36号甲"
+  }, 
+  {
+    "hotelId": "9002848", 
+    "hotelName": "桔子青岛西海岸城市阳台景区酒店", 
+    "hotelAddressShort": "山东省青岛市黄岛区东岳中路与两河路交叉口西50米"
+  }, 
+  {
+    "hotelId": "2660241", 
+    "hotelName": "汉庭青岛台东万达酒店", 
+    "hotelAddressShort": "青岛市市北区通化路36号"
+  }, 
+  {
+    "hotelId": "2661094", 
+    "hotelName": "汉庭青岛城阳凤岗路地铁站酒店", 
+    "hotelAddressShort": "山东省青岛市城阳区兴阳路332号"
+  }, 
+  {
+    "hotelId": "9010688", 
+    "hotelName": "汉庭青岛莱西烟台路酒店", 
+    "hotelAddressShort": "烟台路1号"
+  }, 
+  {
+    "hotelId": "9000688", 
+    "hotelName": "汉庭优佳青岛北站维客广场酒店", 
+    "hotelAddressShort": "山东省青岛市李沧区振华路157号"
+  }, 
+  {
+    "hotelId": "9008137", 
+    "hotelName": "全季青岛李沧万达广场酒店", 
+    "hotelAddressShort": "黑龙江中路647号"
+  }, 
+  {
+    "hotelId": "9008222", 
+    "hotelName": "桔子青岛城阳万象汇酒店", 
+    "hotelAddressShort": "正阳中路165号"
+  }, 
+  {
+    "hotelId": "9007444", 
+    "hotelName": "汉庭青岛宁夏路酒店", 
+    "hotelAddressShort": "青岛市市北区宁夏路80号"
+  }, 
+  {
+    "hotelId": "2660733", 
+    "hotelName": "汉庭青岛大学麦岛地铁站酒店（原青岛香港东路青岛大学店）", 
+    "hotelAddressShort": "山东省青岛市崂山区香港东路22号"
+  }, 
+  {
+    "hotelId": "2660004", 
+    "hotelName": "汉庭青岛黄岛中泽国货酒店", 
+    "hotelAddressShort": "青岛市黄岛区刘公岛路165号、169号"
+  }, 
+  {
+    "hotelId": "9021058", 
+    "hotelName": "全季青岛李村步行街酒店", 
+    "hotelAddressShort": "京口路85号"
+  }, 
+  {
+    "hotelId": "9000161", 
+    "hotelName": "全季青岛新都心酒店", 
+    "hotelAddressShort": "市北区长沙路29号（长沙路与宁乡路交汇处）"
+  }, 
+  {
+    "hotelId": "9012305", 
+    "hotelName": "全季青岛胶东机场胶州胶东地铁站酒店", 
+    "hotelAddressShort": " 胶州东路1188号"
+  }, 
+  {
+    "hotelId": "9011865", 
+    "hotelName": "汉庭青岛开发区山科大北门酒店", 
+    "hotelAddressShort": " 黄河西路299号C区16号"
+  }, 
+  {
+    "hotelId": "9010180", 
+    "hotelName": "海友青岛嘉定路酒店", 
+    "hotelAddressShort": "青岛市市北区嘉定路68号"
+  }, 
+  {
+    "hotelId": "2663992", 
+    "hotelName": "全季胶州酒店", 
+    "hotelAddressShort": "胶州东路38号"
+  }, 
+  {
+    "hotelId": "9013639", 
+    "hotelName": "汉庭青岛胶州上合示范区酒店", 
+    "hotelAddressShort": "上合示范区滦河路5号"
+  }, 
+  {
+    "hotelId": "2662051", 
+    "hotelName": "汉庭青岛即墨利群鹤山路酒店", 
+    "hotelAddressShort": "青岛即墨鹤山路442号"
+  }, 
+  {
+    "hotelId": "2660341", 
+    "hotelName": "汉庭青岛山东路中央商务区酒店", 
+    "hotelAddressShort": "青岛市市北区山东路117号"
+  }, 
+  {
+    "hotelId": "9006532", 
+    "hotelName": "海友青岛即墨宝龙广场酒店", 
+    "hotelAddressShort": "文峰路328号"
+  }, 
+  {
+    "hotelId": "2661099", 
+    "hotelName": "全季青岛城阳万象汇酒店", 
+    "hotelAddressShort": "和阳路191号"
+  }, 
+  {
+    "hotelId": "9013280", 
+    "hotelName": "汉庭青岛开发区香江路商业街酒店", 
+    "hotelAddressShort": "青岛经济技术开发区香江路79号鲁泽大厦"
+  }, 
+  {
+    "hotelId": "9004003", 
+    "hotelName": "全季青岛黄岛区政府酒店", 
+    "hotelAddressShort": "长江中路178号"
+  }, 
+  {
+    "hotelId": "8916547", 
+    "hotelName": "汉庭优佳青岛城阳万象汇酒店", 
+    "hotelAddressShort": "青岛市城阳区青威路617号上豪广场641号"
+  }, 
+  {
+    "hotelId": "2660211", 
+    "hotelName": "汉庭青岛台东威海路酒店（原台东啤酒街店）", 
+    "hotelAddressShort": "青岛市市北区昌邑路7号"
+  }, 
+  {
+    "hotelId": "2661001", 
+    "hotelName": "汉庭青岛李沧金水路酒店", 
+    "hotelAddressShort": "青岛市李沧区金水路1577-1号"
+  }, 
+  {
+    "hotelId": "9000483", 
+    "hotelName": "怡莱精品青岛农业大学地铁站酒店", 
+    "hotelAddressShort": "青岛市城阳区中城路505号"
+  }, 
+  {
+    "hotelId": "2661031", 
+    "hotelName": "汉庭青岛海尔路国际会展中心酒店", 
+    "hotelAddressShort": "青岛市崂山区海尔路63-6号数码科技中心"
+  }, 
+  {
+    "hotelId": "8000510", 
+    "hotelName": "全季青岛火车西站酒店", 
+    "hotelAddressShort": "铁橛山路1887号"
+  }, 
+  {
+    "hotelId": "2662211", 
+    "hotelName": "汉庭青岛即墨宝龙广场酒店", 
+    "hotelAddressShort": "青岛即墨市烟青路472号"
+  }, 
+  {
+    "hotelId": "8000007", 
+    "hotelName": "汉庭青岛万象城酒店", 
+    "hotelAddressShort": "青岛市市南区镇江路56号"
+  }, 
+  {
+    "hotelId": "2663991", 
+    "hotelName": "汉庭青岛胶州胶东国际机场酒店", 
+    "hotelAddressShort": "青岛市胶州市兰州东路451号（胶州市总工会院内，胶州法院东邻50米）"
+  }, 
+  {
+    "hotelId": "9009531", 
+    "hotelName": "全季胶州胶东机场李王路酒店", 
+    "hotelAddressShort": "李王路1号"
+  }, 
+  {
+    "hotelId": "2661091", 
+    "hotelName": "汉庭青岛城阳正阳路万达酒店", 
+    "hotelAddressShort": "青岛市城阳区正阳路151号"
+  }, 
+  {
+    "hotelId": "9020934", 
+    "hotelName": "汉庭青岛即墨北站万达广场酒店", 
+    "hotelAddressShort": "石林三路85号1层-4层"
+  }, 
+  {
+    "hotelId": "2660111", 
+    "hotelName": "海友青岛栈桥中山路酒店", 
+    "hotelAddressShort": "青岛市市南区中山路49号"
+  }, 
+  {
+    "hotelId": "2661003", 
+    "hotelName": "汉庭青岛中国海洋大学酒店", 
+    "hotelAddressShort": "山东省青岛市崂山区新源路3号"
+  }, 
+  {
+    "hotelId": "9015242", 
+    "hotelName": "汉庭青岛胶东国际机场胶东地铁站酒店", 
+    "hotelAddressShort": "胶州市胶东街道胶州东路1188号（三官庙）"
+  }, 
+  {
+    "hotelId": "2660452", 
+    "hotelName": "汉庭青岛海尔工业园地铁大厦站酒店(原海尔工业园店)", 
+    "hotelAddressShort": "青岛市市北区常宁路8-8号"
+  }, 
+  {
+    "hotelId": "2660718", 
+    "hotelName": "汉庭青岛奥帆中心酒店", 
+    "hotelAddressShort": "青岛市市南区燕儿岛路5号"
+  }, 
+  {
+    "hotelId": "9000072", 
+    "hotelName": "汉庭青岛青山路海尔工业园二店", 
+    "hotelAddressShort": "山东省青岛市李沧区青山路628"
+  }, 
+  {
+    "hotelId": "2660321", 
+    "hotelName": "汉庭青岛重庆南路新都心酒店(原重庆南路店)", 
+    "hotelAddressShort": "青岛市市北区重庆南路118号"
+  }, 
+  {
+    "hotelId": "2664992", 
+    "hotelName": "汉庭青岛胶南西海岸汽车总站酒店(原胶南新汽车站酒店)", 
+    "hotelAddressShort": "青岛胶南市灵山路426号"
+  }, 
+  {
+    "hotelId": "9001082", 
+    "hotelName": "星程青岛中央商务区重庆南路酒店", 
+    "hotelAddressShort": "重庆南路25号甲"
+  }, 
+  {
+    "hotelId": "2666121", 
+    "hotelName": "汉庭青岛栈桥火车站酒店", 
+    "hotelAddressShort": "山东省青岛市市南区广西路60号"
+  }, 
+  {
+    "hotelId": "9000162", 
+    "hotelName": "全季青岛山东路万象城酒店", 
+    "hotelAddressShort": "山东路31号甲"
+  }, 
+  {
+    "hotelId": "2661991", 
+    "hotelName": "汉庭青岛李沧万达国际院士港酒店（原青岛李沧万达二店）", 
+    "hotelAddressShort": "青岛市李沧区九水东路178号"
+  }, 
+  {
+    "hotelId": "2660714", 
+    "hotelName": "全季青岛五四广场香港中路酒店", 
+    "hotelAddressShort": "香港中路43号"
+  }, 
+  {
+    "hotelId": "2660721", 
+    "hotelName": "宜必思青岛大润发宁夏路地铁站酒店", 
+    "hotelAddressShort": "青岛市市南区宁夏路150号"
+  }, 
+  {
+    "hotelId": "9002646", 
+    "hotelName": "汉庭青岛城阳万达广场一店", 
+    "hotelAddressShort": "青岛市城阳区正阳中路117号"
+  }, 
+  {
+    "hotelId": "8915808", 
+    "hotelName": "全季青岛胶东国际机场酒店", 
+    "hotelAddressShort": "李哥庄镇香港大街226号"
+  }, 
+  {
+    "hotelId": "9013337", 
+    "hotelName": "桔子青岛西海岸香江路商业街酒店", 
+    "hotelAddressShort": "青岛西海岸新区沅江路656号（九鼎峰大厦1栋）"
+  }, 
+  {
+    "hotelId": "2661011", 
+    "hotelName": "汉庭优佳青岛中国海洋大学酒店", 
+    "hotelAddressShort": "山东省青岛市崂山区新源路3号"
+  }, 
+  {
+    "hotelId": "9016874", 
+    "hotelName": "汉庭青岛黄岛城市阳台酒店", 
+    "hotelAddressShort": "青岛市黄岛区凰蹲山路588号"
+  }, 
+  {
+    "hotelId": "9015281", 
+    "hotelName": "桔子青岛胶东国际机场胶东地铁站酒店", 
+    "hotelAddressShort": "胶州市胶州东路1188号"
+  }, 
+  {
+    "hotelId": "2661002", 
+    "hotelName": "星程青岛北站振华路地铁站酒店", 
+    "hotelAddressShort": "振华路8号，地铁M3号线振华路站B口对面"
+  }, 
+  {
+    "hotelId": "9014031", 
+    "hotelName": "怡莱平度青岛路酒店", 
+    "hotelAddressShort": "郑州路2-19号"
+  }, 
+  {
+    "hotelId": "8000457", 
+    "hotelName": "汉庭青岛城阳正阳中路地铁站酒店", 
+    "hotelAddressShort": "山东省青岛市城阳区华城路368号"
+  }, 
+  {
+    "hotelId": "2665251", 
+    "hotelName": "汉庭青岛开发区长江中路酒店（原开发区金沙滩店）", 
+    "hotelAddressShort": "青岛市黄岛区长江中路9号"
+  }, 
+  {
+    "hotelId": "2660014", 
+    "hotelName": "汉庭青岛栈桥火车站东广场酒店", 
+    "hotelAddressShort": "青岛市市南区湖北路78号"
+  }, 
+  {
+    "hotelId": "2660006", 
+    "hotelName": "海友青岛泰山路地铁站酒店（原电子信息城店）", 
+    "hotelAddressShort": "市北区青城路23号"
+  }, 
+  {
+    "hotelId": "9005670", 
+    "hotelName": "怡莱青岛台东步行街酒店", 
+    "hotelAddressShort": "山东省青岛市市北区台东八路60号甲"
+  }, 
+  {
+    "hotelId": "9964", 
+    "hotelName": "青岛青航美爵酒店", 
+    "hotelAddressShort": "滨海大道温泉二路46号 Wen Quan Town Ji Mo"
+  }, 
+  {
+    "hotelId": "2665101", 
+    "hotelName": "汉庭青岛开发区山科大酒店", 
+    "hotelAddressShort": "青岛经济技术开发区前湾港路280号"
+  }, 
+  {
+    "hotelId": "9022608", 
+    "hotelName": "汉庭青岛崂山海尔工业园酒店", 
+    "hotelAddressShort": "高昌路6号1层-3层"
+  }, 
+  {
+    "hotelId": "9005703", 
+    "hotelName": "怡莱即墨小商品城酒店", 
+    "hotelAddressShort": "山东省青岛市即墨区文化路495号"
+  }, 
+  {
+    "hotelId": "9009122", 
+    "hotelName": "怡莱青岛开发区黄岛汽车总站酒店", 
+    "hotelAddressShort": "山东省青岛市黄岛区北江路105号"
+  }
+]

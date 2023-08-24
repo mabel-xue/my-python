@@ -1,0 +1,1102 @@
+[
+  {
+    "hotelId": "9001107", 
+    "hotelName": "西安钟楼诺富特酒店", 
+    "hotelAddressShort": "新城区案板街16号(易俗文化街区内/钟楼地铁H口/步行钟鼓楼回民街7分钟)"
+  }, 
+  {
+    "hotelId": "9014756", 
+    "hotelName": "西安小寨历史博物馆美居酒店", 
+    "hotelAddressShort": "雁塔区翠华路371号(步行前往大雁塔/大唐不夜城约10分钟路程；近大雁塔地铁站/小寨地铁站）"
+  }, 
+  {
+    "hotelId": "9000355", 
+    "hotelName": "西安钟鼓楼美居酒店", 
+    "hotelAddressShort": "北大街28号（地铁二号/六号线钟楼站A口向南20米/钟鼓楼、回民街、易俗社出门即到）"
+  }, 
+  {
+    "hotelId": "9018909", 
+    "hotelName": "全季西安省人民医院黄雁村地铁站酒店", 
+    "hotelAddressShort": "含光北路111号盛安广场A座东侧"
+  }, 
+  {
+    "hotelId": "8000456", 
+    "hotelName": "西安钟楼美居酒店", 
+    "hotelAddressShort": "西新街8号（步行省政府2分钟，钟鼓楼回民街7分钟）"
+  }, 
+  {
+    "hotelId": "9006804", 
+    "hotelName": "西安西咸诺富特酒店（机场店）", 
+    "hotelAddressShort": "中国陕西省西咸新区沣泾大道西一路1号"
+  }, 
+  {
+    "hotelId": "9000119", 
+    "hotelName": "西安钟楼回民街美居酒店", 
+    "hotelAddressShort": "莲湖路30号（钟鼓楼近在咫尺、距回民街50米，距北大街地铁站B口150米，距交大二附院220米）"
+  }, 
+  {
+    "hotelId": "9000149", 
+    "hotelName": "桔子水晶西安钟楼酒店", 
+    "hotelAddressShort": "西安市碑林区南大街3号-1楼"
+  }, 
+  {
+    "hotelId": "9011032", 
+    "hotelName": "西安秦岭野生动物园美仑美奂酒店", 
+    "hotelAddressShort": "滦镇秦岭野生动物园原上林宫酒店 A B C三整栋及关中大院"
+  }, 
+  {
+    "hotelId": "7100023", 
+    "hotelName": "汉庭西安钟鼓楼广场酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区竹笆市41号"
+  }, 
+  {
+    "hotelId": "9010185", 
+    "hotelName": "桔子水晶西安高新区酒店", 
+    "hotelAddressShort": "高新科技二路71号竹园天寰大厦"
+  }, 
+  {
+    "hotelId": "9000759", 
+    "hotelName": "星程西安大雁塔南广场酒店", 
+    "hotelAddressShort": "雁南一路9号曼蒂广场G座（中信银行北侧）"
+  }, 
+  {
+    "hotelId": "8000439", 
+    "hotelName": "西安曲江美居酒店", 
+    "hotelAddressShort": "雁翔路与南三环十字东北角(毗邻大唐不夜城、大唐芙蓉园景区）"
+  }, 
+  {
+    "hotelId": "9004369", 
+    "hotelName": "汉庭西安火车站地铁口酒店", 
+    "hotelAddressShort": "陕西省西安市新城区环城北路东段43号中国邮政转运大楼"
+  }, 
+  {
+    "hotelId": "7100046", 
+    "hotelName": "汉庭西安五路口地铁站万达广场酒店", 
+    "hotelAddressShort": "西安解放路85号"
+  }, 
+  {
+    "hotelId": "8000593", 
+    "hotelName": "西安北站行政中心美居酒店", 
+    "hotelAddressShort": "凤城十二路首创禧悦里25号楼B幢"
+  }, 
+  {
+    "hotelId": "8000521", 
+    "hotelName": "宜必思尚品西安钟鼓楼回民街酒店", 
+    "hotelAddressShort": "西安市莲湖区西大街9号钟鼓楼广场1层（地铁站C口9号口、星巴克右楼梯100米）"
+  }, 
+  {
+    "hotelId": "8000492", 
+    "hotelName": "西安诗经里花间堂·与鹿", 
+    "hotelAddressShort": "陕西省西安市西咸新区沣东新城沣河东路818号"
+  }, 
+  {
+    "hotelId": "8000522", 
+    "hotelName": "西安大雁塔美居酒店", 
+    "hotelAddressShort": "雁塔西路6号（距陕西历史博物馆500米、大雁塔及大唐不夜城400米；近大雁塔地铁站/小寨地铁站）"
+  }, 
+  {
+    "hotelId": "7100051", 
+    "hotelName": "汉庭西安明城墙东门永兴坊酒店", 
+    "hotelAddressShort": "西安市新城区东一路23号"
+  }, 
+  {
+    "hotelId": "9001039", 
+    "hotelName": "桔子西安钟鼓楼地铁站酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区骡马市商业步行街兴正元广场B座一层"
+  }, 
+  {
+    "hotelId": "7100041", 
+    "hotelName": "汉庭西安火车站酒店", 
+    "hotelAddressShort": "西安市新城区西八路150号"
+  }, 
+  {
+    "hotelId": "9006774", 
+    "hotelName": "汉庭优佳西安临潼华清池景区酒店", 
+    "hotelAddressShort": "陕西省西安市临潼区健康南路5号"
+  }, 
+  {
+    "hotelId": "9002173", 
+    "hotelName": "汉庭西安周至汽车站酒店", 
+    "hotelAddressShort": "周至县淳风路二曲中学南130米路西（近周至水街、烟火巷子）"
+  }, 
+  {
+    "hotelId": "8000280", 
+    "hotelName": "西安高新CitiGO欢阁酒店", 
+    "hotelAddressShort": "高新一路18号"
+  }, 
+  {
+    "hotelId": "1000355", 
+    "hotelName": "桔子西安钟鼓楼南门酒店", 
+    "hotelAddressShort": "西安市碑林区南大街16号"
+  }, 
+  {
+    "hotelId": "9004989", 
+    "hotelName": "桔子水晶西安大雁塔大唐不夜城酒店", 
+    "hotelAddressShort": "西安市雁塔区翠华路105号(近大雁塔/大唐不夜城步行约5分钟）"
+  }, 
+  {
+    "hotelId": "9015620", 
+    "hotelName": "西安大寨路美居酒店", 
+    "hotelAddressShort": "雁塔区大寨路2号（安琪儿妇产医院西南角，距离3号线延平门地铁口，5号线金光门地铁口步行15分钟）"
+  }, 
+  {
+    "hotelId": "7100025", 
+    "hotelName": "西安钟楼南门CitiGO欢阁酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区湘子庙街18号"
+  }, 
+  {
+    "hotelId": "9000890", 
+    "hotelName": "西安高新创业咖啡街区美居酒店", 
+    "hotelAddressShort": "高新一路15号（近西安电子科技大及西工大步行15分钟，门前有机场巴士，中电科20研究所毗邻，近地铁3、6号科技路站）"
+  }, 
+  {
+    "hotelId": "7100184", 
+    "hotelName": "星程西安北站酒店", 
+    "hotelAddressShort": "陕西省西安市未央区凤城十二路与文景路十字向北200米"
+  }, 
+  {
+    "hotelId": "9001438", 
+    "hotelName": "西安钟楼南门漫心酒店", 
+    "hotelAddressShort": "南大街32号紧邻中大国际（地铁2号线钟楼站下车C口3号口出步行5分钟；永宁门站A2口出，步行6分钟即可抵达）"
+  }, 
+  {
+    "hotelId": "7100045", 
+    "hotelName": "汉庭西安五路口地铁站酒店（原五路口机场大巴店）", 
+    "hotelAddressShort": "西安市新城区西三路九号"
+  }, 
+  {
+    "hotelId": "7100007", 
+    "hotelName": "汉庭西安含光南路美院酒店", 
+    "hotelAddressShort": "陕西省西安市雁塔区含光南路罗家寨191号"
+  }, 
+  {
+    "hotelId": "7100684", 
+    "hotelName": "汉庭西安吉祥路酒店", 
+    "hotelAddressShort": "西安市雁塔区吉祥路31号（吉祥路与永松路交汇处东北角）"
+  }, 
+  {
+    "hotelId": "7100026", 
+    "hotelName": "宜必思西安钟楼地铁站店", 
+    "hotelAddressShort": "西安市莲湖区西大街9号钟鼓楼广场1层（地铁站C口9号口、星巴克右楼梯100米）"
+  }, 
+  {
+    "hotelId": "7100864", 
+    "hotelName": "宜必思西安建章路沣东新区酒店", 
+    "hotelAddressShort": "陕西省西安市未央区建章路与丰产路丁字路口往北80米路东"
+  }, 
+  {
+    "hotelId": "7100545", 
+    "hotelName": "全季西安大雁塔酒店", 
+    "hotelAddressShort": "大雁塔北广场芙蓉东路与西影路交叉口"
+  }, 
+  {
+    "hotelId": "9009050", 
+    "hotelName": "桔子西安钟鼓楼回民街酒店", 
+    "hotelAddressShort": "西安市莲湖区北院门1号（回民街南口，鼓楼入口处肯德基旁，钟楼地铁站C口9号出口直行至鼓楼）"
+  }, 
+  {
+    "hotelId": "7100054", 
+    "hotelName": "全季西安钟楼省政府酒店", 
+    "hotelAddressShort": "东新街240号 紧邻钟鼓楼/永兴坊/易俗社 地铁1/2/4号线 酒店热线18066766106 "
+  }, 
+  {
+    "hotelId": "9001103", 
+    "hotelName": "汉庭西安钟楼南门新店", 
+    "hotelAddressShort": "碑林区南门里湘子庙街70-71号"
+  }, 
+  {
+    "hotelId": "7100024", 
+    "hotelName": "西安钟楼长安漫心府", 
+    "hotelAddressShort": "陕西省西安市碑林区湘子庙街68号"
+  }, 
+  {
+    "hotelId": "7100548", 
+    "hotelName": "桔子西安永宁门地铁站酒店", 
+    "hotelAddressShort": "环城南路东段328号"
+  }, 
+  {
+    "hotelId": "7100485", 
+    "hotelName": "宜必思西安交大酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区兴庆路兴庆公园东门向北100米处仁厚庄南路"
+  }, 
+  {
+    "hotelId": "9000790", 
+    "hotelName": "汉庭优佳西安火车站解放路酒店", 
+    "hotelAddressShort": "陕西省西安市新城区西七路6号"
+  }, 
+  {
+    "hotelId": "9000243", 
+    "hotelName": "全季西安钟楼东大街酒店", 
+    "hotelAddressShort": "南新街2号"
+  }, 
+  {
+    "hotelId": "9018810", 
+    "hotelName": "汉庭西安周至中心东街酒店", 
+    "hotelAddressShort": "周至县中心东街沙河桥畔公园1号（近烟火巷子、周至中学）"
+  }, 
+  {
+    "hotelId": "7100019", 
+    "hotelName": "西安钟鼓楼回民街漫心酒店", 
+    "hotelAddressShort": "东大街565号紧邻中国工商银行东大街支行（地铁6号线钟楼站H出口向东步行1分钟）"
+  }, 
+  {
+    "hotelId": "7100541", 
+    "hotelName": "汉庭西安大雁塔酒店", 
+    "hotelAddressShort": "西安市雁塔区乐游路1号"
+  }, 
+  {
+    "hotelId": "9007255", 
+    "hotelName": "汉庭西安小寨西路酒店", 
+    "hotelAddressShort": "陕西省西安市雁塔区小寨西路114号"
+  }, 
+  {
+    "hotelId": "8000376", 
+    "hotelName": "桔子西安高新区锦业路酒店", 
+    "hotelAddressShort": "西安市高新区丈八一路3号旺都大厦"
+  }, 
+  {
+    "hotelId": "9003397", 
+    "hotelName": "汉庭优佳西安大雁塔南广场酒店", 
+    "hotelAddressShort": "雁塔区慈恩路新乐汇项目A5区17栋"
+  }, 
+  {
+    "hotelId": "9007646", 
+    "hotelName": "汉庭西安西稍门酒店", 
+    "hotelAddressShort": "陕西省西安市莲湖区丰镐东路190号"
+  }, 
+  {
+    "hotelId": "7100381", 
+    "hotelName": "星程西安半坡地铁站酒店", 
+    "hotelAddressShort": "纺织城纺西街堡子村转盘华夏世纪广场B座1楼"
+  }, 
+  {
+    "hotelId": "9003722", 
+    "hotelName": "星程西安五路口地铁站酒店", 
+    "hotelAddressShort": "解放路258号东光国际现代广场1号楼六层"
+  }, 
+  {
+    "hotelId": "9001604", 
+    "hotelName": "宜必思尚品西安大雁塔长安大学酒店", 
+    "hotelAddressShort": "翠华路325号历史博物馆东门对面(近陕西历史博物馆)"
+  }, 
+  {
+    "hotelId": "9001021", 
+    "hotelName": "桔子水晶西安北站市政府酒店", 
+    "hotelAddressShort": "西安市未央区文景路128号（高铁北站南广场向南2公里）"
+  }, 
+  {
+    "hotelId": "7100612", 
+    "hotelName": "汉庭西安太白南路地铁站酒店(原科技路新店)", 
+    "hotelAddressShort": "西安市雁塔区融鑫路1号"
+  }, 
+  {
+    "hotelId": "3133991", 
+    "hotelName": "汉庭西安雁塔西路美院酒店", 
+    "hotelAddressShort": "陕西省西安市雁塔西路158号双鱼花园C座5楼"
+  }, 
+  {
+    "hotelId": "9015745", 
+    "hotelName": "全季西安高新区软件新城酒店", 
+    "hotelAddressShort": "西安市高新区天谷五路（紧邻环普、会议中心、大华、数字出版基地等核心商务区）"
+  }, 
+  {
+    "hotelId": "8000550", 
+    "hotelName": "汉庭西安大明宫盛龙广场酒店", 
+    "hotelAddressShort": "西安市未央区二府庄路11号"
+  }, 
+  {
+    "hotelId": "8000656", 
+    "hotelName": "全季西安钟楼回民街酒店", 
+    "hotelAddressShort": "骡马市步行街46号"
+  }, 
+  {
+    "hotelId": "7100152", 
+    "hotelName": "桔子西安大唐不夜城酒店", 
+    "hotelAddressShort": "西安市曲江新区翠华路1699号"
+  }, 
+  {
+    "hotelId": "9011787", 
+    "hotelName": "桔子西安大雁塔大唐不夜城酒店", 
+    "hotelAddressShort": "雁塔南路大雁塔南广场东南角18幢"
+  }, 
+  {
+    "hotelId": "9023085", 
+    "hotelName": "西安龙首原大明宫美居酒店", 
+    "hotelAddressShort": "未央路80号盛龙广场B区6层（地铁二号线龙首原站A2口向北800米、大明宫西站B2口向南700米即到）"
+  }, 
+  {
+    "hotelId": "7106002", 
+    "hotelName": "汉庭西安临潼华清池景区酒店", 
+    "hotelAddressShort": "西安市临潼区陕鼓大道39号，群星莱骊2期"
+  }, 
+  {
+    "hotelId": "8000611", 
+    "hotelName": "汉庭优佳西安太白南路地铁站酒店", 
+    "hotelAddressShort": "西安市雁塔区太白南路280号"
+  }, 
+  {
+    "hotelId": "9004300", 
+    "hotelName": "全季西安李家村万达广场酒店", 
+    "hotelAddressShort": "安西街甲字1号"
+  }, 
+  {
+    "hotelId": "7104991", 
+    "hotelName": "西安北站市政府漫心酒店", 
+    "hotelAddressShort": "凤城八路国金华府D座（小布莱特幼稚园旁）距离文景路地铁B口200米"
+  }, 
+  {
+    "hotelId": "9011559", 
+    "hotelName": "桔子西安交通大学兴庆宫地铁站酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区兴庆路中段1号翠庭大厦4/5F"
+  }, 
+  {
+    "hotelId": "7100615", 
+    "hotelName": "全季西安大雁塔小寨东路酒店", 
+    "hotelAddressShort": "小寨东路80号"
+  }, 
+  {
+    "hotelId": "7100863", 
+    "hotelName": "汉庭西安沣东新城后卫寨酒店", 
+    "hotelAddressShort": "西安市未央区沣东新城后卫寨启航时代广场C座一楼大厅"
+  }, 
+  {
+    "hotelId": "8000452", 
+    "hotelName": "全季西安曲江国际会展中心酒店", 
+    "hotelAddressShort": "朱雀大街7号"
+  }, 
+  {
+    "hotelId": "9003460", 
+    "hotelName": "全季西安康复路酒店", 
+    "hotelAddressShort": "新城区康复路8号全季酒店。电话88071888，分机0，占线请再试一次，谢谢"
+  }, 
+  {
+    "hotelId": "9000754", 
+    "hotelName": "全季西安南门明城墙酒店", 
+    "hotelAddressShort": "环城南路中段68号"
+  }, 
+  {
+    "hotelId": "7100614", 
+    "hotelName": "汉庭西安曲江国际会展中心酒店", 
+    "hotelAddressShort": "陕西省雁塔区长安南路101号金品国际24楼"
+  }, 
+  {
+    "hotelId": "4750011", 
+    "hotelName": "全季西安凤城二路酒店", 
+    "hotelAddressShort": "凤城二路6号"
+  }, 
+  {
+    "hotelId": "8000496", 
+    "hotelName": "星程西安钟楼回民街酒店", 
+    "hotelAddressShort": "骡马市街60号文商大厦5楼"
+  }, 
+  {
+    "hotelId": "9020581", 
+    "hotelName": "星程西安高新区草堂比亚迪酒店", 
+    "hotelAddressShort": "西安市高新区西太路泰和社区"
+  }, 
+  {
+    "hotelId": "7100053", 
+    "hotelName": "全季西安五路口地铁站酒店", 
+    "hotelAddressShort": "西五路26号"
+  }, 
+  {
+    "hotelId": "7100324", 
+    "hotelName": "汉庭西安西京医院通化门地铁站酒店", 
+    "hotelAddressShort": "新城区长乐西路41号"
+  }, 
+  {
+    "hotelId": "7100022", 
+    "hotelName": "汉庭西安钟鼓楼桥梓口地铁站酒店（原回民街酒店）", 
+    "hotelAddressShort": "西安市莲湖区西大街439号（桥梓口D2口垂直电梯出口直行100米，儿童医院东侧100米））"
+  }, 
+  {
+    "hotelId": "7101004", 
+    "hotelName": "汉庭西安长安西北大学酒店", 
+    "hotelAddressShort": "西安市长安区郭杜顺兴路6号"
+  }, 
+  {
+    "hotelId": "9009206", 
+    "hotelName": "全季西安北站南广场酒店", 
+    "hotelAddressShort": "未央区文景路220号（高铁北站南广场向南文景路下桥掉头即到）"
+  }, 
+  {
+    "hotelId": "9018145", 
+    "hotelName": "星程西安大兴东路老城根酒店", 
+    "hotelAddressShort": "西安市莲湖区大兴东路45号（距离大兴医院200米）"
+  }, 
+  {
+    "hotelId": "8000186", 
+    "hotelName": "宜必思西安明城墙南门酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区南关正街99号"
+  }, 
+  {
+    "hotelId": "7100011", 
+    "hotelName": "汉庭优佳西安钟楼南门酒店", 
+    "hotelAddressShort": "南大街6号，南门（永宁门）里西北角湘子庙街口"
+  }, 
+  {
+    "hotelId": "9005401", 
+    "hotelName": "全季西安延兴门地铁站酒店", 
+    "hotelAddressShort": "金花南路43号"
+  }, 
+  {
+    "hotelId": "8000467", 
+    "hotelName": "汉庭西安北站酒店(原凤城十二路店)", 
+    "hotelAddressShort": "西安市经开区北三环与明光路十字东南角"
+  }, 
+  {
+    "hotelId": "9012744", 
+    "hotelName": "星程西安交大兴庆宫酒店", 
+    "hotelAddressShort": "兴庆路23号5幢"
+  }, 
+  {
+    "hotelId": "9008566", 
+    "hotelName": "全季西安兴庆公园酒店", 
+    "hotelAddressShort": "新郭门9号兴庆∙宫2号楼"
+  }, 
+  {
+    "hotelId": "9020804", 
+    "hotelName": "宜必思尚品西安五路口地铁站酒店", 
+    "hotelAddressShort": "解放路318号"
+  }, 
+  {
+    "hotelId": "7100016", 
+    "hotelName": "汉庭西安钟楼骡马市酒店(质量整改)", 
+    "hotelAddressShort": "南大街东木头市192号"
+  }, 
+  {
+    "hotelId": "7100434", 
+    "hotelName": "汉庭西安大唐芙蓉园酒店", 
+    "hotelAddressShort": "西安市雁塔区芙蓉西路北段106号"
+  }, 
+  {
+    "hotelId": "8000200", 
+    "hotelName": "全季西安太白立交酒店", 
+    "hotelAddressShort": "太白南路363号"
+  }, 
+  {
+    "hotelId": "8000204", 
+    "hotelName": "全季西安辛家庙地铁站酒店", 
+    "hotelAddressShort": "玄武东路209号A1-5、A2-A4"
+  }, 
+  {
+    "hotelId": "9011714", 
+    "hotelName": "宜必思西安钟鼓楼回民街新店", 
+    "hotelAddressShort": "西安市碑林区盐店街36号(西安信访接待中心对面)地铁6号线（广济街）200米  地铁2号线（钟楼）900米"
+  }, 
+  {
+    "hotelId": "8915627", 
+    "hotelName": "全季西安钟楼酒店", 
+    "hotelAddressShort": "陕西省西安市莲湖区北大街28号"
+  }, 
+  {
+    "hotelId": "7100017", 
+    "hotelName": "全季西安钟鼓楼酒店", 
+    "hotelAddressShort": "竹笆市55号"
+  }, 
+  {
+    "hotelId": "9008468", 
+    "hotelName": "汉庭西安西部大道紫薇田园都市酒店", 
+    "hotelAddressShort": "陕西省西安市雁塔区西沣四路37号竹园阳光嘉苑4号楼"
+  }, 
+  {
+    "hotelId": "9008174", 
+    "hotelName": "星程西安大雁塔科技大学酒店", 
+    "hotelAddressShort": "雁塔北路与建设西路十字口西南角"
+  }, 
+  {
+    "hotelId": "7100542", 
+    "hotelName": "汉庭西安大雁塔新店", 
+    "hotelAddressShort": "西安市雁塔区西延路16号"
+  }, 
+  {
+    "hotelId": "7100031", 
+    "hotelName": "汉庭西安钟楼北大街地铁站酒店", 
+    "hotelAddressShort": "西安市莲湖区莲湖路18号（钟楼以北，北大街莲湖路十字西侧200米,苏宁电器正对面）"
+  }, 
+  {
+    "hotelId": "9011127", 
+    "hotelName": "全季西安高新区科技西路酒店", 
+    "hotelAddressShort": "西安市雁塔区科技路与丈八北路十字向西200米金辉高新云璟12号楼"
+  }, 
+  {
+    "hotelId": "7100757", 
+    "hotelName": "全季西安大明宫贞观路酒店", 
+    "hotelAddressShort": "连心路9号"
+  }, 
+  {
+    "hotelId": "9001641", 
+    "hotelName": "全季西安南门酒店", 
+    "hotelAddressShort": "西安市碑林区五岳庙门92号"
+  }, 
+  {
+    "hotelId": "7100777", 
+    "hotelName": "西安高新美居酒店", 
+    "hotelAddressShort": "科技六路31号"
+  }, 
+  {
+    "hotelId": "9009260", 
+    "hotelName": "星程西安大雁塔北广场酒店", 
+    "hotelAddressShort": "西影路508号近大雁塔(北池头地铁D口向西300米)"
+  }, 
+  {
+    "hotelId": "8000589", 
+    "hotelName": "宜必思西安钟楼东大街酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区东大街菊花园1号(中国银行东巷内20米)"
+  }, 
+  {
+    "hotelId": "7102992", 
+    "hotelName": "汉庭西安泾渭工业园长庆西路酒店", 
+    "hotelAddressShort": "西安市高陵区泾渭中路130号"
+  }, 
+  {
+    "hotelId": "7100321", 
+    "hotelName": "汉庭西安明城墙火车站新店", 
+    "hotelAddressShort": "西安市新城区长缨西路64号"
+  }, 
+  {
+    "hotelId": "8000531", 
+    "hotelName": "宜必思尚品西安大兴东路酒店", 
+    "hotelAddressShort": "陕西省西安市莲湖区大兴东路6号(距离大兴医院200m)"
+  }, 
+  {
+    "hotelId": "9009339", 
+    "hotelName": "汉庭西安雁塔北路李家村万达酒店", 
+    "hotelAddressShort": "雁塔北路69号（华润万家五楼，地铁4号线和平门站B口向南300米）"
+  }, 
+  {
+    "hotelId": "9014315", 
+    "hotelName": "宜必思西安灞桥洪庆地铁站酒店", 
+    "hotelAddressShort": "田洪正街268号"
+  }, 
+  {
+    "hotelId": "8000547", 
+    "hotelName": "星程西安大明宫盛龙广场酒店", 
+    "hotelAddressShort": "未央路80号（盛龙广场1号楼6层）"
+  }, 
+  {
+    "hotelId": "7100039", 
+    "hotelName": "汉庭西安钟楼北大街酒店", 
+    "hotelAddressShort": "西安市新城区西七路291号"
+  }, 
+  {
+    "hotelId": "9008347", 
+    "hotelName": "海友西安火车站酒店", 
+    "hotelAddressShort": "火车站城墙连接段西墩台"
+  }, 
+  {
+    "hotelId": "9001682", 
+    "hotelName": "桔子西安龙首原地铁站酒店(原大明宫店)", 
+    "hotelAddressShort": "西安市未央区未央路74号宝龙国际大厦12层"
+  }, 
+  {
+    "hotelId": "9010317", 
+    "hotelName": "汉庭西安边家村地铁站酒店(升级中)", 
+    "hotelAddressShort": "西安市碑林区太白北路121号物探大厦一层"
+  }, 
+  {
+    "hotelId": "9000651", 
+    "hotelName": "汉庭优佳西安钟楼北大街酒店", 
+    "hotelAddressShort": "陕西省西安市莲湖区北大街129号"
+  }, 
+  {
+    "hotelId": "9001285", 
+    "hotelName": "汉庭优佳西安大明宫西地铁站酒店", 
+    "hotelAddressShort": "未央区玄武路凯旋大厦"
+  }, 
+  {
+    "hotelId": "9001823", 
+    "hotelName": "星程西安北站城市运动公园酒店", 
+    "hotelAddressShort": "未央路303号（未央路与凤城十路十字东北角保利中达广场）"
+  }, 
+  {
+    "hotelId": "9019016", 
+    "hotelName": "全季西安奥体国际会展中心酒店", 
+    "hotelAddressShort": "西安市灞桥区欧亚大道与港兴三路交汇处中铁卓越中心B座"
+  }, 
+  {
+    "hotelId": "7100003", 
+    "hotelName": "汉庭西安大明宫酒店", 
+    "hotelAddressShort": "西安市未央区太元路266号华远君城6号楼"
+  }, 
+  {
+    "hotelId": "7100658", 
+    "hotelName": "汉庭优佳西安西部大道造字台路酒店", 
+    "hotelAddressShort": "陕西省西安市高新区信息大道22号"
+  }, 
+  {
+    "hotelId": "8000559", 
+    "hotelName": "汉庭优佳西安北站凤城十一路酒店", 
+    "hotelAddressShort": "西安市未央区凤城十一路世融嘉境1号楼"
+  }, 
+  {
+    "hotelId": "9000598", 
+    "hotelName": "全季西安龙首原地铁站酒店", 
+    "hotelAddressShort": "未央路23号"
+  }, 
+  {
+    "hotelId": "7100056", 
+    "hotelName": "星程西安五路口火车站酒店", 
+    "hotelAddressShort": "东七路106号"
+  }, 
+  {
+    "hotelId": "7100182", 
+    "hotelName": "汉庭西安北站凤城九路酒店", 
+    "hotelAddressShort": "陕西省西安市未央区凤城九路与文景路十字西北角"
+  }, 
+  {
+    "hotelId": "7100151", 
+    "hotelName": "汉庭西安北站凤城六路酒店", 
+    "hotelAddressShort": "凤城六路与明光路十字西北角"
+  }, 
+  {
+    "hotelId": "7100187", 
+    "hotelName": "星程西安北站市政府酒店", 
+    "hotelAddressShort": "教育科研大厦176号（凤城七路与文景路十字西侧200米路北）"
+  }, 
+  {
+    "hotelId": "9003727", 
+    "hotelName": "怡莱西安南稍门红会医院酒店", 
+    "hotelAddressShort": "永宁路大话南门5号楼商铺1-06号（红会医院对面永宁路向前100米路东）"
+  }, 
+  {
+    "hotelId": "9010871", 
+    "hotelName": "星程西安临潼华清池景区酒店", 
+    "hotelAddressShort": "会昌路1号邮政综合大楼"
+  }, 
+  {
+    "hotelId": "9001511", 
+    "hotelName": "汉庭西安公园南路酒店", 
+    "hotelAddressShort": "西安市新城区建工路19号新城科技产业园华企大厦"
+  }, 
+  {
+    "hotelId": "8000388", 
+    "hotelName": "汉庭优佳西安科技二路文理学院酒店", 
+    "hotelAddressShort": "西安市雁塔区科技二路西安文理学院北门西侧20米"
+  }, 
+  {
+    "hotelId": "7100823", 
+    "hotelName": "全季西安西稍门酒店", 
+    "hotelAddressShort": "沣镐东路1号酒店热线：19909253581"
+  }, 
+  {
+    "hotelId": "8000282", 
+    "hotelName": "宜必思西安大明宫西地铁站酒店", 
+    "hotelAddressShort": "陕西省西安市未央区未央路111-1号(2号地铁线大明宫西地铁站下车D出口往北500米）"
+  }, 
+  {
+    "hotelId": "7101192", 
+    "hotelName": "汉庭优佳西安西部大道产业园酒店", 
+    "hotelAddressShort": "陕西省西安市长安区郭杜北街45号金宇蓝苑综合楼1楼"
+  }, 
+  {
+    "hotelId": "9001007", 
+    "hotelName": "全季西安北站酒店（原西安北站凤城十路酒店）", 
+    "hotelAddressShort": "文景路128号（高铁北站南广场向南2公里文景路路西）"
+  }, 
+  {
+    "hotelId": "9010708", 
+    "hotelName": "汉庭西安蓝田宏辉广场酒店", 
+    "hotelAddressShort": "蓝新路北段宏辉广场对面"
+  }, 
+  {
+    "hotelId": "8000133", 
+    "hotelName": "汉庭西安建章路沣东新区酒店", 
+    "hotelAddressShort": "西安市未央区建章路北段12号"
+  }, 
+  {
+    "hotelId": "7100186", 
+    "hotelName": "全季西安北站市政府酒店", 
+    "hotelAddressShort": "明光路72号旭景兴园"
+  }, 
+  {
+    "hotelId": "7100167", 
+    "hotelName": "汉庭西安大明宫万达酒店", 
+    "hotelAddressShort": "西安市未央区太华路242号"
+  }, 
+  {
+    "hotelId": "9010216", 
+    "hotelName": "汉庭西安科技八路酒店", 
+    "hotelAddressShort": "西安市高新区丈八六路6号"
+  }, 
+  {
+    "hotelId": "7100168", 
+    "hotelName": "汉庭西安北站凤城十路酒店", 
+    "hotelAddressShort": "陕西省西安市未央区凤城十路与凤扬路交叉口向南50米"
+  }, 
+  {
+    "hotelId": "7100547", 
+    "hotelName": "宜必思西安青龙寺交大酒店", 
+    "hotelAddressShort": "陕西省西安市雁塔区雁翔路与西影路十字交汇往北200米路西"
+  }, 
+  {
+    "hotelId": "7100162", 
+    "hotelName": "汉庭西安龙首北路酒店", 
+    "hotelAddressShort": "西安市莲湖区龙首北路58号"
+  }, 
+  {
+    "hotelId": "7100432", 
+    "hotelName": "汉庭西安建工路机场大巴酒店", 
+    "hotelAddressShort": "西安市雁塔区建工路中段甲字1号"
+  }, 
+  {
+    "hotelId": "9001781", 
+    "hotelName": "全季西安朱宏路酒店", 
+    "hotelAddressShort": "朱宏路888号盛达行大厦"
+  }, 
+  {
+    "hotelId": "9001806", 
+    "hotelName": "星程西安南稍门地铁站酒店（升级中）", 
+    "hotelAddressShort": "永宁路大话南门5号楼商铺1-06号（红会医院对面永宁路向前100米路东）"
+  }, 
+  {
+    "hotelId": "9003971", 
+    "hotelName": "汉庭优佳西安西稍门机场大巴酒店", 
+    "hotelAddressShort": "西安市莲湖区西关正街379号"
+  }, 
+  {
+    "hotelId": "7100211", 
+    "hotelName": "汉庭西安凤城南路酒店", 
+    "hotelAddressShort": "西安市未央区凤城南路9号"
+  }, 
+  {
+    "hotelId": "7100779", 
+    "hotelName": "全季西安科技八路酒店", 
+    "hotelAddressShort": "锦业路69号创业研发园A区15号"
+  }, 
+  {
+    "hotelId": "7100773", 
+    "hotelName": "汉庭西安软件园玫瑰公馆酒店", 
+    "hotelAddressShort": "西安市雁塔区丈八北路与科技三路交汇处玫瑰公馆11栋28F"
+  }, 
+  {
+    "hotelId": "7100758", 
+    "hotelName": "宜必思西安高新区酒店", 
+    "hotelAddressShort": "西安市高新区高新一路4号(招商银行大厦东侧50米）"
+  }, 
+  {
+    "hotelId": "7100655", 
+    "hotelName": "全季西安丈八北路地铁站酒店", 
+    "hotelAddressShort": "科技路78号（丈八北路地铁站D口右转20M）"
+  }, 
+  {
+    "hotelId": "8000347", 
+    "hotelName": "宜必思西安高新万达广场酒店", 
+    "hotelAddressShort": "陕西省西安市高新区科技七路51号"
+  }, 
+  {
+    "hotelId": "7100242", 
+    "hotelName": "宜必思尚品西安国际会展中心酒店", 
+    "hotelAddressShort": "陕西省西安市灞桥区世博大道与东三环十字东北角"
+  }, 
+  {
+    "hotelId": "7100751", 
+    "hotelName": "汉庭西安科技路地铁站酒店", 
+    "hotelAddressShort": "高新区光德路6号"
+  }, 
+  {
+    "hotelId": "9000104", 
+    "hotelName": "全季西安南稍门省体育场酒店", 
+    "hotelAddressShort": "新文巷10号"
+  }, 
+  {
+    "hotelId": "8000159", 
+    "hotelName": "宜必思西安北站酒店（原北站行政中心酒店）", 
+    "hotelAddressShort": "陕西省西安市未央区凤城十二路与文景路十字向北200米首创国际28号楼"
+  }, 
+  {
+    "hotelId": "9005377", 
+    "hotelName": "怡莱西安幸福快车酒店", 
+    "hotelAddressShort": "渭滨街南段320号"
+  }, 
+  {
+    "hotelId": "9005912", 
+    "hotelName": "汉庭西安万寿北路幸福林带酒店", 
+    "hotelAddressShort": "西安市新城区万寿北路58号（陕汽万寿小区东门南侧）"
+  }, 
+  {
+    "hotelId": "9007770", 
+    "hotelName": "怡莱西安长安大学城子午大道酒店", 
+    "hotelAddressShort": "陕西省西安市长安区子午大道智慧城小区西门南20米"
+  }, 
+  {
+    "hotelId": "9019319", 
+    "hotelName": "星程西安高新区锦业路酒店", 
+    "hotelAddressShort": "锦业一路34号国家服务软件基地二区综合服务楼1楼"
+  }, 
+  {
+    "hotelId": "8000381", 
+    "hotelName": "宜必思西安明城墙小雁塔酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区含光路46号新西部医药交易大厦"
+  }, 
+  {
+    "hotelId": "9019829", 
+    "hotelName": "星程西安小寨地铁站酒店", 
+    "hotelAddressShort": "小寨西路50号三北大厦1、3、4、5、6、8层"
+  }, 
+  {
+    "hotelId": "9012523", 
+    "hotelName": "全季西安浐灞国际会展中心酒店", 
+    "hotelAddressShort": "欧亚大道与广运潭大道十字东北角旭辉荣华公园大道(原名西部世界华商中心)3号楼"
+  }, 
+  {
+    "hotelId": "7100754", 
+    "hotelName": "汉庭西安高新区大都荟酒店(原创业广场店)", 
+    "hotelAddressShort": "西安市高新区科技路195号"
+  }, 
+  {
+    "hotelId": "9010033", 
+    "hotelName": "你好西安曲江大唐不夜城酒店", 
+    "hotelAddressShort": "和谐路-翠华南路路口西100米凯颐大厦"
+  }, 
+  {
+    "hotelId": "8000377", 
+    "hotelName": "桔子西安北站市政府酒店", 
+    "hotelAddressShort": "陕西省西安市未央区凤城八路168号西北国金中心22幢1楼"
+  }, 
+  {
+    "hotelId": "9006793", 
+    "hotelName": "星程西安经开区明光路酒店", 
+    "hotelAddressShort": "凤城三路15号（风华路文景观园北门16号楼）"
+  }, 
+  {
+    "hotelId": "7100169", 
+    "hotelName": "海友西安龙首原地铁站酒店", 
+    "hotelAddressShort": "陕西省西安市未央区未央路65号"
+  }, 
+  {
+    "hotelId": "9011509", 
+    "hotelName": "星程西安北站凤城五路酒店", 
+    "hotelAddressShort": "凤城五路103号（凤城五路与明光路十字向西150米瑞泰卡地亚小区南门）"
+  }, 
+  {
+    "hotelId": "9004613", 
+    "hotelName": "全季西安三桥搜宝中心酒店", 
+    "hotelAddressShort": "阿房四路8号"
+  }, 
+  {
+    "hotelId": "7100776", 
+    "hotelName": "全季西安高新区锦业路酒店", 
+    "hotelAddressShort": "锦业路125号西安半导体产业园(北1门)"
+  }, 
+  {
+    "hotelId": "7101003", 
+    "hotelName": "汉庭西安长安大学城酒店", 
+    "hotelAddressShort": "西安市长安区樱花一路万科棉花广场16#"
+  }, 
+  {
+    "hotelId": "9019945", 
+    "hotelName": "汉庭西安南稍门文艺路地铁站酒店", 
+    "hotelAddressShort": "友谊东路449号1楼3-7层"
+  }, 
+  {
+    "hotelId": "9000960", 
+    "hotelName": "汉庭西安胡家庙酒店", 
+    "hotelAddressShort": "新城区东站路65号"
+  }, 
+  {
+    "hotelId": "7100653", 
+    "hotelName": "星程西安高新区酒店", 
+    "hotelAddressShort": "高新技术开发区科技五路3号（高新一路与科技五路丁字路东北）"
+  }, 
+  {
+    "hotelId": "7101993", 
+    "hotelName": "汉庭优佳西安航天城地铁站酒店", 
+    "hotelAddressShort": "西安市长安区北长安街85号"
+  }, 
+  {
+    "hotelId": "7101191", 
+    "hotelName": "全季西安西部大道阳光天地酒店", 
+    "hotelAddressShort": "信息大道1号"
+  }, 
+  {
+    "hotelId": "9019108", 
+    "hotelName": "星程西安大雁塔历史博物馆酒店", 
+    "hotelAddressShort": "西安市雁塔区翠华北路389号星程酒店"
+  }, 
+  {
+    "hotelId": "9002342", 
+    "hotelName": "西安大雁塔美仑酒店(升级中)", 
+    "hotelAddressShort": "长胜街3号（地铁4号线李家村A出口）"
+  }, 
+  {
+    "hotelId": "9002267", 
+    "hotelName": "宜必思西安高新六路软件园酒店", 
+    "hotelAddressShort": "高新区高新六路43号(高新六路与科技四路十字东南角)"
+  }, 
+  {
+    "hotelId": "7100188", 
+    "hotelName": "汉庭西安北站市政府酒店", 
+    "hotelAddressShort": "教育科研大厦176号（凤城七路与文景路十字西侧200米路北）"
+  }, 
+  {
+    "hotelId": "7100771", 
+    "hotelName": "汉庭西安土门酒店", 
+    "hotelAddressShort": "西安市莲湖区沣镐东路42号天和长大厦"
+  }, 
+  {
+    "hotelId": "7100756", 
+    "hotelName": "全季西安高新区唐延路酒店", 
+    "hotelAddressShort": "科技一路58号唐延公馆"
+  }, 
+  {
+    "hotelId": "9015942", 
+    "hotelName": "星程西安行政中心中医医院地铁站酒店", 
+    "hotelAddressShort": "贞观路与彰德路十字西北角三丰中心思想小区商铺"
+  }, 
+  {
+    "hotelId": "7100241", 
+    "hotelName": "桔子西安国际会展中心酒店", 
+    "hotelAddressShort": "陕西省西安市浐灞生态区欧亚大道3639号"
+  }, 
+  {
+    "hotelId": "9014155", 
+    "hotelName": "汉庭西安泾渭吉利产业园酒店", 
+    "hotelAddressShort": "陕西省西安高陵区泾渭新城四季阳光八区南门"
+  }, 
+  {
+    "hotelId": "7100161", 
+    "hotelName": "全季西安龙首原文景路酒店", 
+    "hotelAddressShort": "文景路南段9号"
+  }, 
+  {
+    "hotelId": "7100483", 
+    "hotelName": "汉庭西安长乐公园地铁站酒店", 
+    "hotelAddressShort": "西安市碑林区互助路1号（长乐公园地铁站B2出口向西200米）"
+  }, 
+  {
+    "hotelId": "7100185", 
+    "hotelName": "全季西安经开区明光路酒店", 
+    "hotelAddressShort": "经开区明光路39号大院"
+  }, 
+  {
+    "hotelId": "9001141", 
+    "hotelName": "汉庭西安韦曲南地铁站酒店", 
+    "hotelAddressShort": "长安区韦曲南街皂河路239号"
+  }, 
+  {
+    "hotelId": "7100047", 
+    "hotelName": "全季西安解放路万达酒店", 
+    "hotelAddressShort": "解放路77号，地铁1号线和4号线五路口站E口"
+  }, 
+  {
+    "hotelId": "8000560", 
+    "hotelName": "汉庭西安常青路地铁站酒店", 
+    "hotelAddressShort": "西安市未央区太华北路21号，地铁4号线常青路站C口对面"
+  }, 
+  {
+    "hotelId": "9023036", 
+    "hotelName": "汉庭西安西京医院金花路酒店", 
+    "hotelAddressShort": "西安市碑林区金花北路副14号（金花饭店南隔壁）"
+  }, 
+  {
+    "hotelId": "7100753", 
+    "hotelName": "汉庭西安高新一路机场大巴店", 
+    "hotelAddressShort": "西安市高新区高新一路17号（机场大巴西高新线终点站）"
+  }, 
+  {
+    "hotelId": "7101992", 
+    "hotelName": "汉庭西安长安太阳新城酒店", 
+    "hotelAddressShort": "西安市长安区新华街411号"
+  }, 
+  {
+    "hotelId": "7100611", 
+    "hotelName": "汉庭西安小寨历史博物馆酒店", 
+    "hotelAddressShort": "西安市雁塔区兴善寺东街35号（陕西省历史博物馆北门正对面）"
+  }, 
+  {
+    "hotelId": "7100759", 
+    "hotelName": "桔子西安科技路地铁站酒店", 
+    "hotelAddressShort": "西安市雁塔区高新路51号"
+  }, 
+  {
+    "hotelId": "8916589", 
+    "hotelName": "宜必思尚品西安明城墙含光门酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区含光北路137号"
+  }, 
+  {
+    "hotelId": "9001536", 
+    "hotelName": "全季西安锦业路神州数码科技园酒店", 
+    "hotelAddressShort": "丈八四路20号"
+  }, 
+  {
+    "hotelId": "8916027", 
+    "hotelName": "汉庭西安西京医院兴庆路酒店", 
+    "hotelAddressShort": "陕西省西安市碑林区互助路1号"
+  }, 
+  {
+    "hotelId": "9005532", 
+    "hotelName": "怡莱西安北站南广场酒店", 
+    "hotelAddressShort": "陕西省西安市未央区首创富北高银28号楼1单元"
+  }, 
+  {
+    "hotelId": "7100657", 
+    "hotelName": "全季西安唐延南路绿地会展中心酒店", 
+    "hotelAddressShort": "唐延南路8号"
+  }, 
+  {
+    "hotelId": "9003629", 
+    "hotelName": "全季西安长安大学城酒店", 
+    "hotelAddressShort": "西长安街195号"
+  }, 
+  {
+    "hotelId": "9002831", 
+    "hotelName": "星程西安西北大学边家村酒店", 
+    "hotelAddressShort": "太白北路256号泰华金汇时代a栋（边家村地铁A口300米）"
+  }, 
+  {
+    "hotelId": "7100778", 
+    "hotelName": "汉庭优佳西安土门酒店", 
+    "hotelAddressShort": "西安市莲湖区沣镐东路42号"
+  }, 
+  {
+    "hotelId": "7100163", 
+    "hotelName": "汉庭西安北二环明光路酒店", 
+    "hotelAddressShort": "西安市凤城一路海璟台北湾小区"
+  }, 
+  {
+    "hotelId": "9010787", 
+    "hotelName": "你好西安北客站行政中心地铁站酒店", 
+    "hotelAddressShort": "陕西省西安市经济技术开发区凤城七路华天大厦"
+  }, 
+  {
+    "hotelId": "8000262", 
+    "hotelName": "全季西安北站行政中心酒店", 
+    "hotelAddressShort": "凤城十路开元路十字路口东南角"
+  }, 
+  {
+    "hotelId": "9014668", 
+    "hotelName": "汉庭西安太华南路含元殿地铁站酒店", 
+    "hotelAddressShort": "太华南路433号风机大厦北侧"
+  }, 
+  {
+    "hotelId": "9014032", 
+    "hotelName": "星程西安高新省体育训练中心酒店", 
+    "hotelAddressShort": "太白南路20号（西安建工大厦向南200米）"
+  }, 
+  {
+    "hotelId": "9012964", 
+    "hotelName": "怡莱西安丈八北路地铁站酒店", 
+    "hotelAddressShort": "丈八北路7号"
+  }, 
+  {
+    "hotelId": "9001711", 
+    "hotelName": "星程轻居西安明城墙东门外酒店", 
+    "hotelAddressShort": "柿园路35号帝标大厦B座(鸡市拐十字向北50米路东侧)"
+  }, 
+  {
+    "hotelId": "7100546", 
+    "hotelName": "海友西安明城墙和平门地铁站酒店（质量整改）", 
+    "hotelAddressShort": "西安碑林区碑林区环城南路东段100号"
+  }, 
+  {
+    "hotelId": "7100891", 
+    "hotelName": "汉庭西安阎良中飞酒店", 
+    "hotelAddressShort": "西安市阎良区人民西路54号"
+  }, 
+  {
+    "hotelId": "7102991", 
+    "hotelName": "汉庭西安泾渭工业园酒店", 
+    "hotelAddressShort": "陕西省西安市泾渭工业园泾渭路16号"
+  }
+]

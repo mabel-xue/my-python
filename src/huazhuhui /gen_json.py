@@ -51,11 +51,11 @@ HotelStyle = {
 }
 
 param = {
-    'checkInDate': '2023-09-02',
-    'checkOutDate': '2023-09-04',
-    'cityName': '北京',
+    'checkInDate': '2023-09-20',
+    'checkOutDate': '2023-09-21',
+    'cityName': '上海',
     # 'hotelStyle': '2',
-    'hotelStyle': '2,4,14,16,18',
+    # 'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0
     'pageSize': 20,
     'pageIndex': 1
