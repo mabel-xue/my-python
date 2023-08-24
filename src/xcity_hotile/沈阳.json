@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "9000303", 
+    "hotelName": "全季沈阳中街故宫酒店", 
+    "hotelAddressShort": "辽宁省沈阳市沈河区北中街路118号"
+  }, 
+  {
+    "hotelId": "9003754", 
+    "hotelName": "桔子水晶沈阳中山广场火车站酒店", 
+    "hotelAddressShort": "沈阳市和平区中山路108号"
+  }, 
+  {
+    "hotelId": "1100241", 
+    "hotelName": "全季沈阳张士开发区酒店", 
+    "hotelAddressShort": "沈阳市经济技术开发区沈辽西路89号"
+  }, 
+  {
+    "hotelId": "9006857", 
+    "hotelName": "桔子水晶沈阳青年大街彩电塔酒店", 
+    "hotelAddressShort": "顺通路54号(近万象城、中街步行街，沈阳故宫)"
+  }, 
+  {
+    "hotelId": "1100137", 
+    "hotelName": "汉庭沈阳沈北大学城七星大街酒店", 
+    "hotelAddressShort": "沈北新区七星大街27号"
+  }, 
+  {
+    "hotelId": "9001370", 
+    "hotelName": "汉庭沈阳火车站东广场酒店", 
+    "hotelAddressShort": "和平区胜利北街104号（地铁一号线沈阳站A出口对面步行200米）"
+  }, 
+  {
+    "hotelId": "1101361", 
+    "hotelName": "全季沈阳沈北大学城酒店", 
+    "hotelAddressShort": "沈阳市沈北新区正良四路15号"
+  }, 
+  {
+    "hotelId": "1100143", 
+    "hotelName": "全季沈阳中街地铁站酒店", 
+    "hotelAddressShort": "大东区东顺城街17号"
+  }, 
+  {
+    "hotelId": "9006815", 
+    "hotelName": "全季沈阳上园路酒店", 
+    "hotelAddressShort": "合作街101号"
+  }, 
+  {
+    "hotelId": "9015709", 
+    "hotelName": "桔子水晶沈阳浑南市政府机场酒店", 
+    "hotelAddressShort": " 全运三路99-2号（辽宁省博物馆，科技馆旁）"
+  }, 
+  {
+    "hotelId": "9000217", 
+    "hotelName": "汉庭沈阳南塔金马鞋城酒店", 
+    "hotelAddressShort": "距南塔鞋城最近，步行20米；距辽宁工业展览馆2.14公里,中街步行街3.4公里,浑南奥体中心3.4公里"
+  }, 
+  {
+    "hotelId": "1100341", 
+    "hotelName": "汉庭沈阳陵西地铁站酒店（原北陵公园店）", 
+    "hotelAddressShort": "于洪区黄河北大街58号（近中医二院、北陵公园）"
+  }, 
+  {
+    "hotelId": "1101221", 
+    "hotelName": "汉庭沈阳沈北大学城酒店（质量整改）", 
+    "hotelAddressShort": "沈北新区道义南大街50号"
+  }, 
+  {
+    "hotelId": "1100131", 
+    "hotelName": "汉庭沈阳北站酒店(原北站惠工店)", 
+    "hotelAddressShort": "沈河区惠工东一街29号"
+  }, 
+  {
+    "hotelId": "9002038", 
+    "hotelName": "汉庭沈阳医学院地铁站酒店", 
+    "hotelAddressShort": "于洪区黄河北大街128号-1甲"
+  }, 
+  {
+    "hotelId": "1100005", 
+    "hotelName": "桔子沈阳华晨陶瓷城酒店", 
+    "hotelAddressShort": "东望北街2号"
+  }, 
+  {
+    "hotelId": "9006691", 
+    "hotelName": "全季沈阳奥体中心浑南大道酒店", 
+    "hotelAddressShort": "沈阳市浑南区浑南西路5-5号"
+  }, 
+  {
+    "hotelId": "1100951", 
+    "hotelName": "汉庭沈阳黎明广场地铁站酒店", 
+    "hotelAddressShort": "大东区和睦路38号，距离中街步行街3公里"
+  }, 
+  {
+    "hotelId": "9010755", 
+    "hotelName": "全季沈阳沈辽东路万达广场酒店", 
+    "hotelAddressShort": "腾飞一街2甲号"
+  }, 
+  {
+    "hotelId": "9021528", 
+    "hotelName": "汉庭沈阳沈北虎石台酒店", 
+    "hotelAddressShort": "沈阳市沈北新区沈北路108-7号1门"
+  }, 
+  {
+    "hotelId": "1101792", 
+    "hotelName": "全季沈阳浑南市政府酒店", 
+    "hotelAddressShort": "沈阳市浑南区全运路109号"
+  }, 
+  {
+    "hotelId": "1100202", 
+    "hotelName": "汉庭沈阳北二西路酒店", 
+    "hotelAddressShort": "铁西区北二西路26号甲"
+  }, 
+  {
+    "hotelId": "9002469", 
+    "hotelName": "全季沈阳北二路酒店", 
+    "hotelAddressShort": "沈阳市铁西区北二中路10号"
+  }, 
+  {
+    "hotelId": "1100013", 
+    "hotelName": "全季沈阳三好街盛京医院酒店", 
+    "hotelAddressShort": "沈阳市和平区三好街55号"
+  }, 
+  {
+    "hotelId": "9000522", 
+    "hotelName": "全季沈阳北站南广场酒店", 
+    "hotelAddressShort": "沈阳市沈河区北站路72号"
+  }, 
+  {
+    "hotelId": "9006887", 
+    "hotelName": "桔子沈阳中街地铁站酒店", 
+    "hotelAddressShort": "沈河区中街路268号（近中街步行街、故宫、刘老根大舞台、张氏帅府、头条胡同）"
+  }, 
+  {
+    "hotelId": "9019500", 
+    "hotelName": "全季沈阳西塔酒店", 
+    "hotelAddressShort": "和平区市府大路106号(市府大路与西塔街交汇处）"
+  }, 
+  {
+    "hotelId": "1100018", 
+    "hotelName": "汉庭沈阳北站二店(原北站惠工二店)", 
+    "hotelAddressShort": "沈河区惠工东一街25号"
+  }, 
+  {
+    "hotelId": "9007424", 
+    "hotelName": "全季沈阳南塔文化路酒店", 
+    "hotelAddressShort": "沈阳市沈河区大南街429号"
+  }, 
+  {
+    "hotelId": "9021157", 
+    "hotelName": "汉庭沈阳沈辽路万达广场酒店", 
+    "hotelAddressShort": "沈辽东路17号"
+  }, 
+  {
+    "hotelId": "1100441", 
+    "hotelName": "汉庭沈阳中街地铁站酒店(原沈阳中街店)", 
+    "hotelAddressShort": "大东区东顺城街11号（近中街步行街，故宫，刘老根大舞台，张氏帅府，头条胡同）"
+  }, 
+  {
+    "hotelId": "9001119", 
+    "hotelName": "汉庭优佳沈阳太原街地铁站酒店", 
+    "hotelAddressShort": "沈阳市和平区中华路112号"
+  }, 
+  {
+    "hotelId": "1100252", 
+    "hotelName": "全季沈阳火车站酒店", 
+    "hotelAddressShort": "沈阳市铁西区北二东路10号（沈阳站西广场出站右手边直行）"
+  }, 
+  {
+    "hotelId": "1101791", 
+    "hotelName": "全季沈阳奥体中心地铁站酒店", 
+    "hotelAddressShort": "浑南区营盘北街7-2号（招商局大厦B座）近奥体中心，K11新世界博览馆"
+  }, 
+  {
+    "hotelId": "9011459", 
+    "hotelName": "汉庭沈阳长江北街香炉山路酒店", 
+    "hotelAddressShort": "香炉山路15-1号"
+  }, 
+  {
+    "hotelId": "1100342", 
+    "hotelName": "汉庭沈阳三台子地铁站酒店", 
+    "hotelAddressShort": "于洪区黄河北大街90号"
+  }, 
+  {
+    "hotelId": "1100262", 
+    "hotelName": "汉庭沈阳铁西启工街地铁站酒店", 
+    "hotelAddressShort": "铁西区建设西路15号益和公馆"
+  }, 
+  {
+    "hotelId": "1100021", 
+    "hotelName": "汉庭沈阳中山广场酒店", 
+    "hotelAddressShort": "和平区柳州街17号"
+  }, 
+  {
+    "hotelId": "9012213", 
+    "hotelName": "汉庭沈阳中街市府广场酒店", 
+    "hotelAddressShort": "沈河区万寿寺街16号（近太清宫）"
+  }, 
+  {
+    "hotelId": "9006008", 
+    "hotelName": "汉庭沈阳张士经济开发区酒店", 
+    "hotelAddressShort": "张士开发区昆明湖街88号（沈辽路与昆明湖街路口西侧200米即是）"
+  }, 
+  {
+    "hotelId": "9012772", 
+    "hotelName": "汉庭沈阳三好街酒店", 
+    "hotelAddressShort": "三好街24号科技大厦，鲁迅美术学院对面，距盛京医院约312m，距工业展览馆B口（2号线）673m"
+  }, 
+  {
+    "hotelId": "9003424", 
+    "hotelName": "全季沈阳于洪新城酒店", 
+    "hotelAddressShort": "沈阳市于洪区南阳湖街134号"
+  }, 
+  {
+    "hotelId": "9004486", 
+    "hotelName": "汉庭沈阳江东街地铁站酒店", 
+    "hotelAddressShort": "沈河区文化东路103号"
+  }, 
+  {
+    "hotelId": "9021128", 
+    "hotelName": "汉庭沈阳中街酒店", 
+    "hotelAddressShort": "沈阳市大东区大北街49号"
+  }, 
+  {
+    "hotelId": "9001205", 
+    "hotelName": "全季沈阳领事馆三经街酒店", 
+    "hotelAddressShort": "沈阳市和平区南三经街62号"
+  }, 
+  {
+    "hotelId": "1100251", 
+    "hotelName": "汉庭沈阳北二路地铁站酒店", 
+    "hotelAddressShort": "距离宜家家居1公里,127中学1公里,星摩尔1.5公里,原料库3.3公里"
+  }, 
+  {
+    "hotelId": "1101411", 
+    "hotelName": "汉庭沈阳于洪广场地铁站酒店", 
+    "hotelAddressShort": "于洪区太湖街8号"
+  }, 
+  {
+    "hotelId": "1100011", 
+    "hotelName": "汉庭沈阳火车站酒店", 
+    "hotelAddressShort": "和平区民族南街138号"
+  }, 
+  {
+    "hotelId": "1100431", 
+    "hotelName": "汉庭沈阳万莲地铁站酒店（原万泉公园店）", 
+    "hotelAddressShort": "大东区万柳塘路2号沈阳真空所旁,距离中街步行街2.5公里，省肿瘤医院900米，距离中航工沈阳发动机设计研究院606所765米"
+  }, 
+  {
+    "hotelId": "1100301", 
+    "hotelName": "汉庭沈阳北行长江街酒店（质量整改）", 
+    "hotelAddressShort": "皇姑区长江街6号甲"
+  }, 
+  {
+    "hotelId": "1101011", 
+    "hotelName": "汉庭沈阳苏家屯火车站酒店", 
+    "hotelAddressShort": "苏家屯区枫杨路26号、含笑街28号"
+  }, 
+  {
+    "hotelId": "9012956", 
+    "hotelName": "汉庭沈阳和平大街医科大学酒店", 
+    "hotelAddressShort": "和平北大街97号"
+  }, 
+  {
+    "hotelId": "1100161", 
+    "hotelName": "汉庭沈阳南塔鞋城酒店（原南塔街陆军总院店）", 
+    "hotelAddressShort": "沈河区南塔街65号"
+  }, 
+  {
+    "hotelId": "1100052", 
+    "hotelName": "汉庭沈阳东北大学酒店", 
+    "hotelAddressShort": "和平区砂阳路926号"
+  }, 
+  {
+    "hotelId": "1100242", 
+    "hotelName": "全季沈阳启工街地铁站酒店", 
+    "hotelAddressShort": "沈阳市铁西区卫工南街8号"
+  }, 
+  {
+    "hotelId": "1100133", 
+    "hotelName": "全季沈阳北站酒店", 
+    "hotelAddressShort": "沈阳市沈河区小北关街72号"
+  }, 
+  {
+    "hotelId": "1100012", 
+    "hotelName": "全季沈阳中山公园酒店", 
+    "hotelAddressShort": "沈阳市和平区民主路181号"
+  }, 
+  {
+    "hotelId": "1100003", 
+    "hotelName": "汉庭沈阳太原南街酒店", 
+    "hotelAddressShort": "和平区太原南街180号"
+  }, 
+  {
+    "hotelId": "9006672", 
+    "hotelName": "汉庭沈阳浑南奥体彩霞街地铁站酒店", 
+    "hotelAddressShort": "浑南区浑南西路5-5号3楼(全季酒店后身）距离沈阳奥林匹克中心直线距离3公里，距离K11（沈阳新世界博览中心）直线6公里"
+  }, 
+  {
+    "hotelId": "9000190", 
+    "hotelName": "汉庭优佳沈阳浑南奥体中心酒店", 
+    "hotelAddressShort": "浑南区富民南街2号4栋1门"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "hotelId": "9014924", 
+    "hotelName": "广州施柏阁大观酒店", 
+    "hotelAddressShort": "中国广东省广州市花都区凤凰北路75号"
+  }, 
+  {
+    "hotelId": "9014925", 
+    "hotelName": "广州融创施柏阁酒店", 
+    "hotelAddressShort": "中国广东省广州市花都区凤凰北路73号"
+  }, 
+  {
+    "hotelId": "9012562", 
+    "hotelName": "广州融创堇山酒店", 
+    "hotelAddressShort": "凤凰北路69号"
+  }, 
+  {
+    "hotelId": "5100007", 
+    "hotelName": "广州珠江新城华轩美爵酒店", 
+    "hotelAddressShort": "天河区金穗路62号"
+  }, 
+  {
+    "hotelId": "9009894", 
+    "hotelName": "广州金融城美居酒店", 
+    "hotelAddressShort": "黄埔区黄埔大道东885号101铺和13-19层"
+  }, 
+  {
+    "hotelId": "5114572", 
+    "hotelName": "广州南沙美居酒店", 
+    "hotelAddressShort": "南沙区南沙街进港大道577号"
+  }, 
+  {
+    "hotelId": "5104001", 
+    "hotelName": "汉庭广州三元里地铁站酒店", 
+    "hotelAddressShort": "广州市越秀区广园西路342号（地铁2号线三元里地铁站A1出口往车流反方向沿人行道回走300米）"
+  }, 
+  {
+    "hotelId": "5100006", 
+    "hotelName": "汉庭广州东圃大马路酒店", 
+    "hotelAddressShort": "天河区陂东路4号"
+  }, 
+  {
+    "hotelId": "8000448", 
+    "hotelName": "汉庭广州江南市场酒店", 
+    "hotelAddressShort": "广州市白云区增槎路828号"
+  }, 
+  {
+    "hotelId": "9005739", 
+    "hotelName": "广州白云机场漫心酒店", 
+    "hotelAddressShort": "绿港一街1号之四"
+  }, 
+  {
+    "hotelId": "9014732", 
+    "hotelName": "广州天河体育中心美居酒店", 
+    "hotelAddressShort": "天河北路365号"
+  }, 
+  {
+    "hotelId": "9019946", 
+    "hotelName": "广州白云机场赛仑吉地美仑酒店", 
+    "hotelAddressShort": "迎宾大道123号-1名高大厦1楼部分、2楼部分、3-6楼全部"
+  }, 
+  {
+    "hotelId": "5100304", 
+    "hotelName": "桔子水晶广州淘金酒店", 
+    "hotelAddressShort": "环市东路华侨新村光明路28号"
+  }, 
+  {
+    "hotelId": "9002704", 
+    "hotelName": "全季广州塔酒店", 
+    "hotelAddressShort": "广州市海珠区金菊路10号"
+  }, 
+  {
+    "hotelId": "9005929", 
+    "hotelName": "广州白云国际机场美居酒店", 
+    "hotelAddressShort": "花都区空港大道10号"
+  }, 
+  {
+    "hotelId": "9014145", 
+    "hotelName": "广州区庄地铁站CitiGO欢阁酒店", 
+    "hotelAddressShort": "广州市越秀区环市东路418号4层"
+  }, 
+  {
+    "hotelId": "9007951", 
+    "hotelName": "全季广州市二宫地铁站酒店", 
+    "hotelAddressShort": "海珠区同福东路490号"
+  }, 
+  {
+    "hotelId": "8916106", 
+    "hotelName": "汉庭优佳广州东晓南地铁站酒店", 
+    "hotelAddressShort": "海珠区东晓南路怡居街97号（地铁2号线南洲地铁站A出口仅350米、广州南站地铁直达仅5个地铁站）"
+  }, 
+  {
+    "hotelId": "9011170", 
+    "hotelName": "全季广州芳村花地湾酒店", 
+    "hotelAddressShort": "全季广州芳村花地湾酒店位于广州市荔湾区丰年路8号"
+  }, 
+  {
+    "hotelId": "9000955", 
+    "hotelName": "汉庭优佳广州纪念堂地铁站酒店", 
+    "hotelAddressShort": "解放北路783号(2号线纪念堂站D2口出右转50米，再穿过斑马线右转100米即达）"
+  }, 
+  {
+    "hotelId": "5107991", 
+    "hotelName": "全季广州黄埔南岗万达酒店", 
+    "hotelAddressShort": "广州市黄埔区黄埔东路3770号"
+  }, 
+  {
+    "hotelId": "9014572", 
+    "hotelName": "全季广州北京路团一大广场酒店", 
+    "hotelAddressShort": "东华西路永安东街29、31号"
+  }, 
+  {
+    "hotelId": "9005321", 
+    "hotelName": "汉庭广州东圃中山大道酒店（原东圃客运站店）", 
+    "hotelAddressShort": "广州市天河区中山大道中1025号君易大厦5-6层"
+  }, 
+  {
+    "hotelId": "9019752", 
+    "hotelName": "全季广州北京路步行街大德路酒店", 
+    "hotelAddressShort": "广州市越秀区大德路318号（出入境大厦旁边30米）"
+  }, 
+  {
+    "hotelId": "5106401", 
+    "hotelName": "汉庭广州五山地铁站酒店", 
+    "hotelAddressShort": "天河区茶山路263号（五山地铁站B1出口左转约50米）"
+  }, 
+  {
+    "hotelId": "5100161", 
+    "hotelName": "宜必思广州越秀公园地铁站酒店", 
+    "hotelAddressShort": "流花路117号流花中心4号馆B座（越秀公园C出口-流花中心1号门直走300米）"
+  }, 
+  {
+    "hotelId": "9016137", 
+    "hotelName": "广州北京路步行街美居酒店", 
+    "hotelAddressShort": "北京路182号"
+  }, 
+  {
+    "hotelId": "9016495", 
+    "hotelName": "全季广州中山大学酒店", 
+    "hotelAddressShort": "新港西路206号之一"
+  }, 
+  {
+    "hotelId": "9000887", 
+    "hotelName": "汉庭广州南村员岗地铁站酒店（原兴南大道店）", 
+    "hotelAddressShort": "南村镇兴南大道733号"
+  }, 
+  {
+    "hotelId": "5100001", 
+    "hotelName": "全季广州西门口酒店", 
+    "hotelAddressShort": "广州市荔湾区中山七路85-100号"
+  }, 
+  {
+    "hotelId": "5101801", 
+    "hotelName": "全季广州越秀公园酒店", 
+    "hotelAddressShort": "广州市越秀区解放北路960号"
+  }, 
+  {
+    "hotelId": "9009989", 
+    "hotelName": "汉庭广州火车站酒店", 
+    "hotelAddressShort": "荔湾区站前路流花新街16号（从火车站地铁站市政通道六出口出直行约600米马路对面）"
+  }, 
+  {
+    "hotelId": "9000912", 
+    "hotelName": "桔子广州区庄地铁站酒店", 
+    "hotelAddressShort": "广州市越秀区环市东路422号"
+  }, 
+  {
+    "hotelId": "9014571", 
+    "hotelName": "全季广州天河体育中心酒店", 
+    "hotelAddressShort": "天河北路365号201房之3层、6层、7层、8层、29-43层"
+  }, 
+  {
+    "hotelId": "5113003", 
+    "hotelName": "桔子广州增城东汇城酒店", 
+    "hotelAddressShort": "广东省广州市增城区荔城街夏街大道119号"
+  }, 
+  {
+    "hotelId": "9002832", 
+    "hotelName": "全季广州珠江新城酒店", 
+    "hotelAddressShort": "广州市越秀区广州大道中明月一路18号"
+  }, 
+  {
+    "hotelId": "5106354", 
+    "hotelName": "广州天河太古汇CitiGO欢阁公寓酒店", 
+    "hotelAddressShort": "广州市天河区天河路560号（近天河城、体育中心。距离中山大学附属医院步行可至）"
+  }, 
+  {
+    "hotelId": "9011853", 
+    "hotelName": "汉庭广州三元里酒店", 
+    "hotelAddressShort": "三元里大道684号"
+  }, 
+  {
+    "hotelId": "9005590", 
+    "hotelName": "汉庭广州飞翔公园地铁站酒店", 
+    "hotelAddressShort": "广东省广州市白云区机场路91号润景广场"
+  }, 
+  {
+    "hotelId": "5100802", 
+    "hotelName": "汉庭广州东山口地铁站酒店", 
+    "hotelAddressShort": "越秀区东华北路50号"
+  }, 
+  {
+    "hotelId": "9005591", 
+    "hotelName": "汉庭广州白云机场花都广场地铁站酒店", 
+    "hotelAddressShort": "广州市花都区曙光大道49-19号"
+  }, 
+  {
+    "hotelId": "5106201", 
+    "hotelName": "汉庭广州天河酒店", 
+    "hotelAddressShort": "广州市天河区天河路97-99号（体育西路地铁站E出口直走200米转9号出口直走300米）"
+  }, 
+  {
+    "hotelId": "5104251", 
+    "hotelName": "汉庭广州黄石酒店", 
+    "hotelAddressShort": "白云区黄石西路457-459号"
+  }, 
+  {
+    "hotelId": "9011284", 
+    "hotelName": "全季广州江泰路地铁站酒店", 
+    "hotelAddressShort": "江南大道南416号"
+  }, 
+  {
+    "hotelId": "9009405", 
+    "hotelName": "全季广州白云机场空港酒店", 
+    "hotelAddressShort": "空港大道10号之六1栋"
+  }, 
+  {
+    "hotelId": "9022913", 
+    "hotelName": "广州黄埔瑞季美仑国际酒店", 
+    "hotelAddressShort": "新阳东路81号A座1-3层、B座1-10层"
+  }, 
+  {
+    "hotelId": "5106102", 
+    "hotelName": "全季广州天河火车东站酒店", 
+    "hotelAddressShort": "广东省广州市天河区林和中路180号"
+  }, 
+  {
+    "hotelId": "5105072", 
+    "hotelName": "汉庭广州燕塘地铁站酒店", 
+    "hotelAddressShort": "广州市天河区燕岭路149号（燕塘地铁站C出口步行5分钟）"
+  }, 
+  {
+    "hotelId": "5114571", 
+    "hotelName": "汉庭广州南沙今洲广场酒店", 
+    "hotelAddressShort": "南沙区进港大道51号今洲广场"
+  }, 
+  {
+    "hotelId": "5114061", 
+    "hotelName": "汉庭广州番禺市桥步行街酒店", 
+    "hotelAddressShort": "广州市番禺区市桥大北路105号凯美大厦"
+  }, 
+  {
+    "hotelId": "5108901", 
+    "hotelName": "桔子广州北站站前路酒店", 
+    "hotelAddressShort": "广东省广州市花都区站前路34号"
+  }, 
+  {
+    "hotelId": "9020710", 
+    "hotelName": "汉庭广州珠影星光城酒店", 
+    "hotelAddressShort": "广州市海珠区新港中路354号大院25号"
+  }, 
+  {
+    "hotelId": "5106304", 
+    "hotelName": "桔子广州天河岗顶酒店", 
+    "hotelAddressShort": "天河路633号"
+  }, 
+  {
+    "hotelId": "9005652", 
+    "hotelName": "怡莱广州番禺动物园大石地铁站酒店", 
+    "hotelAddressShort": "大石街建华汇商业中心东街17号楼F座8-9层"
+  }, 
+  {
+    "hotelId": "9018551", 
+    "hotelName": "汉庭广州天河火车东站酒店", 
+    "hotelAddressShort": "林和西横路194号（广州火车东站600米）"
+  }, 
+  {
+    "hotelId": "5106301", 
+    "hotelName": "汉庭广州岗顶西店", 
+    "hotelAddressShort": "广州市天河区龙口西路138号顺盛大厦"
+  }, 
+  {
+    "hotelId": "5114306", 
+    "hotelName": "汉庭广州大石万博中心酒店（原大石长隆南门店）", 
+    "hotelAddressShort": "广州市番禺区朝阳东路208号"
+  }, 
+  {
+    "hotelId": "5103101", 
+    "hotelName": "宜必思广州琶洲会展中心海珠湿地公园酒店", 
+    "hotelAddressShort": "广东省广州市海珠区新滘中路新海街9号"
+  }, 
+  {
+    "hotelId": "5106351", 
+    "hotelName": "汉庭广州岗顶地铁站酒店", 
+    "hotelAddressShort": "天河区岗顶龙口东路129号龙泽商业大厦（地铁3号线岗顶站A出口步行7分钟）"
+  }, 
+  {
+    "hotelId": "5100005", 
+    "hotelName": "海友良品广州沙河顶地铁站酒店", 
+    "hotelAddressShort": "广州市天河区先烈东路沙河顶新一街24号（沙河顶地铁站A出口步行2分钟）"
+  }, 
+  {
+    "hotelId": "5108101", 
+    "hotelName": "全季广州白云机场酒店", 
+    "hotelAddressShort": "广东省广州市花都区新华街宝华路72号君豪大厦"
+  }, 
+  {
+    "hotelId": "5106352", 
+    "hotelName": "海友广州岗顶地铁站酒店", 
+    "hotelAddressShort": "广州市天河区龙口东路129号（地铁3号线岗顶站A出口步行7分钟）"
+  }, 
+  {
+    "hotelId": "5102801", 
+    "hotelName": "汉庭广州西门口光孝酒店", 
+    "hotelAddressShort": "越秀区海珠北路228号"
+  }, 
+  {
+    "hotelId": "9017827", 
+    "hotelName": "汉庭广州车陂地铁站二店", 
+    "hotelAddressShort": "中山大道车陂北街大岗二巷3号（车陂地铁站4号线D出口步行400米））"
+  }, 
+  {
+    "hotelId": "5108992", 
+    "hotelName": "汉庭广州北站酒店", 
+    "hotelAddressShort": "广州市花都区商业大道23-4"
+  }, 
+  {
+    "hotelId": "5104051", 
+    "hotelName": "汉庭广州广园中路酒店", 
+    "hotelAddressShort": "白云区广园中路203号"
+  }, 
+  {
+    "hotelId": "5108011", 
+    "hotelName": "桔子水晶广州白云机场酒店", 
+    "hotelAddressShort": "迎宾大道163号"
+  }, 
+  {
+    "hotelId": "5104002", 
+    "hotelName": "桔子广州火车站酒店", 
+    "hotelAddressShort": "广东省广州市越秀区三元里大道583号"
+  }, 
+  {
+    "hotelId": "5106501", 
+    "hotelName": "汉庭广州天河客运站酒店", 
+    "hotelAddressShort": "广州市天河区长兴路68号（天河客运站地铁站C出口800米）"
+  }, 
+  {
+    "hotelId": "9021425", 
+    "hotelName": "全季广州五羊邨地铁站酒店", 
+    "hotelAddressShort": "寺右二马路60号"
+  }, 
+  {
+    "hotelId": "5105074", 
+    "hotelName": "汉庭广州天平架地铁站酒店", 
+    "hotelAddressShort": "沙太南路86-88号(天平架地铁站B出口步行8分钟；阿信土菜馆隔壁）"
+  }, 
+  {
+    "hotelId": "9009404", 
+    "hotelName": "汉庭广州中山八地铁站酒店", 
+    "hotelAddressShort": "荔湾区中山八路73号"
+  }, 
+  {
+    "hotelId": "9007684", 
+    "hotelName": "汉庭广州智慧城酒店", 
+    "hotelAddressShort": "广州市天河区大观中路新泰商业街5号"
+  }, 
+  {
+    "hotelId": "9007871", 
+    "hotelName": "全季广州天河北酒店", 
+    "hotelAddressShort": "天河北路6-8号"
+  }, 
+  {
+    "hotelId": "9009285", 
+    "hotelName": "汉庭广州白云机场人和地铁站酒店", 
+    "hotelAddressShort": "人和镇人和大街42号，距离地铁3号线（北延段）人和站C2出口672米。"
+  }, 
+  {
+    "hotelId": "9009707", 
+    "hotelName": "汉庭广州江夏地铁站酒店（质量整改）", 
+    "hotelAddressShort": "黄石街江夏村北二路南一巷10号"
+  }, 
+  {
+    "hotelId": "5109251", 
+    "hotelName": "汉庭广州从化酒店", 
+    "hotelAddressShort": "广州市从化市环市东路138号"
+  }, 
+  {
+    "hotelId": "5104702", 
+    "hotelName": "怡莱精品广州白云机场酒店", 
+    "hotelAddressShort": "广州市白云区人和镇人和大街13号"
+  }, 
+  {
+    "hotelId": "9001409", 
+    "hotelName": "汉庭广州车陂地铁站酒店", 
+    "hotelAddressShort": "广州市天河区中山大道中87号(车陂地铁站D出口对面100米）"
+  }, 
+  {
+    "hotelId": "B321", 
+    "hotelName": "广州白云机场诺富特酒店", 
+    "hotelAddressShort": "中国广东省广州市白云机场空港酒店路1号 广州白云国际机场 花都区"
+  }
+]

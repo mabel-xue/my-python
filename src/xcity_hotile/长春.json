@@ -1,0 +1,502 @@
+[
+  {
+    "hotelId": "9008339", 
+    "hotelName": "汉庭长春桂林路酒店（原人民大街店）", 
+    "hotelAddressShort": "朝阳区丰顺街与隆礼路交汇隆礼路392号（名门饭店西行100米)"
+  }, 
+  {
+    "hotelId": "9000676", 
+    "hotelName": "全季长春北湖吾悦广场酒店", 
+    "hotelAddressShort": "吉林省长春市宽城区北远达大街与雅园路交汇"
+  }, 
+  {
+    "hotelId": "1300008", 
+    "hotelName": "长春净月欣城美居酒店", 
+    "hotelAddressShort": "生态大街4888号（天麦路与蓝柏街交汇处）"
+  }, 
+  {
+    "hotelId": "1300212", 
+    "hotelName": "汉庭长春开运街万达广场酒店", 
+    "hotelAddressShort": "吉林省长春市朝阳区开运街856-1号"
+  }, 
+  {
+    "hotelId": "1301171", 
+    "hotelName": "汉庭长春净月大学城迅驰广场酒店（原净月大学城酒店）", 
+    "hotelAddressShort": "长春市净月区博学路1555号迅驰广场1号楼"
+  }, 
+  {
+    "hotelId": "8916552", 
+    "hotelName": "汉庭优佳长春红旗街万达酒店", 
+    "hotelAddressShort": "朝阳区红旗街1151号(万达广场对面、这有山旁）"
+  }, 
+  {
+    "hotelId": "9015411", 
+    "hotelName": "你好长春会展中心摩天活力城酒店", 
+    "hotelAddressShort": "卫星路东皇银河家园56栋（会展中心地铁站旁）"
+  }, 
+  {
+    "hotelId": "1300007", 
+    "hotelName": "汉庭优佳长春高新区硅谷大街酒店", 
+    "hotelAddressShort": "吉林省长春市朝阳区博才路168号"
+  }, 
+  {
+    "hotelId": "9001091", 
+    "hotelName": "汉庭优佳长春双阳亿阳大厦酒店", 
+    "hotelAddressShort": "吉林省长春市双阳区长清公路379号"
+  }, 
+  {
+    "hotelId": "1304001", 
+    "hotelName": "汉庭长春红旗街万达广场酒店", 
+    "hotelAddressShort": "长春市朝阳区工农大路甲5号"
+  }, 
+  {
+    "hotelId": "9001925", 
+    "hotelName": "汉庭优佳长春火车站酒店", 
+    "hotelAddressShort": "火车站南口地面东行200米，紧邻广场、位于长白路南侧"
+  }, 
+  {
+    "hotelId": "1300612", 
+    "hotelName": "全季长春同志街万达广场酒店", 
+    "hotelAddressShort": "朝阳区同志街119号（建行省分行旁边，卓展南200米，万达广场斜对面）"
+  }, 
+  {
+    "hotelId": "1300152", 
+    "hotelName": "全季长春硅谷大街酒店", 
+    "hotelAddressShort": "吉林省长春市高新区硅谷大街3355号"
+  }, 
+  {
+    "hotelId": "9014700", 
+    "hotelName": "汉庭长春安达街吉大一院酒店", 
+    "hotelAddressShort": "安达街1302号"
+  }, 
+  {
+    "hotelId": "9006914", 
+    "hotelName": "汉庭长春桂林路南湖公园酒店", 
+    "hotelAddressShort": "长春市朝阳区同志街3488号科技花园小区1号楼"
+  }, 
+  {
+    "hotelId": "9011181", 
+    "hotelName": "汉庭长春龙嘉机场酒店", 
+    "hotelAddressShort": " 东湖街道东湖购物休闲广场1#楼鼎星商贸"
+  }, 
+  {
+    "hotelId": "1300518", 
+    "hotelName": "星程长春火车站酒店", 
+    "hotelAddressShort": "长白路23号(长春火车站南广场出口东侧200米)"
+  }, 
+  {
+    "hotelId": "1300122", 
+    "hotelName": "汉庭长春红旗街长影酒店", 
+    "hotelAddressShort": "长春市朝阳区红旗街1885号"
+  }, 
+  {
+    "hotelId": "8000455", 
+    "hotelName": "宜必思长春桂林路万象城酒店", 
+    "hotelAddressShort": "吉林省长春市朝阳区同志街29号"
+  }, 
+  {
+    "hotelId": "9005045", 
+    "hotelName": "全季长春新天地长春大街酒店", 
+    "hotelAddressShort": "长春南关区大马路1065号"
+  }, 
+  {
+    "hotelId": "8916281", 
+    "hotelName": "汉庭长春一汽创业大街酒店", 
+    "hotelAddressShort": "吉林省长春市绿园区创业大街3098号"
+  }, 
+  {
+    "hotelId": "1300211", 
+    "hotelName": "全季长春金融中心解放大路酒店", 
+    "hotelAddressShort": "吉林省长春市朝阳区解放大路2518号"
+  }, 
+  {
+    "hotelId": "9011762", 
+    "hotelName": "你好长春西安大路西安桥地铁站酒店", 
+    "hotelAddressShort": "绿园区西安大路2553号（西安大路与铁西街交汇处）"
+  }, 
+  {
+    "hotelId": "1300004", 
+    "hotelName": "汉庭长春市政府酒店", 
+    "hotelAddressShort": "吉林省长春市南关区幸福街与南三环交汇陶然庭苑19栋"
+  }, 
+  {
+    "hotelId": "1300512", 
+    "hotelName": "汉庭长春火车站酒店", 
+    "hotelAddressShort": "宽城区长白路1号(南站出口往东走200米)"
+  }, 
+  {
+    "hotelId": "9013037", 
+    "hotelName": "全季长春人民大街东北师范大学酒店", 
+    "hotelAddressShort": "人民大街5225号"
+  }, 
+  {
+    "hotelId": "9010304", 
+    "hotelName": "汉庭长春高新区硅谷大街大学城酒店", 
+    "hotelAddressShort": "高新区硅谷大街佳园路100号"
+  }, 
+  {
+    "hotelId": "9001819", 
+    "hotelName": "汉庭长春摩天活力城仙台大街酒店（原会展中心仙台大街店）", 
+    "hotelAddressShort": "长春经济开发区仙台大街与芜湖路交叉西南角"
+  }, 
+  {
+    "hotelId": "9005163", 
+    "hotelName": "汉庭长春合隆客运站酒店", 
+    "hotelAddressShort": "吉林省宽城区合隆客运站对面老185站点"
+  }, 
+  {
+    "hotelId": "9000618", 
+    "hotelName": "汉庭长春吉大一院文化广场店", 
+    "hotelAddressShort": "朝阳区西民主大街1045号"
+  }, 
+  {
+    "hotelId": "9001041", 
+    "hotelName": "汉庭长春吉林大路地铁站酒店（原吉林大路酒店）", 
+    "hotelAddressShort": "二道区吉林大路535号（地铁2号线吉林大路站A口直行600米即达）"
+  }, 
+  {
+    "hotelId": "9013954", 
+    "hotelName": "汉庭榆树市政府酒店", 
+    "hotelAddressShort": "吉林省长春市榆树市西环府路与健康路交汇大唐金街商业楼5号A楼102室"
+  }, 
+  {
+    "hotelId": "1300006", 
+    "hotelName": "全季长春市政府酒店 ", 
+    "hotelAddressShort": "吉林省长春市南关区亚泰大街与源通路交汇东行100米"
+  }, 
+  {
+    "hotelId": "9015672", 
+    "hotelName": "桔子长春桂林路酒店", 
+    "hotelAddressShort": " 长春市朝阳区同志街2489号（同志街与桂林路交汇）"
+  }, 
+  {
+    "hotelId": "1300112", 
+    "hotelName": "汉庭长春一汽红旗工厂酒店", 
+    "hotelAddressShort": "长春市汽车产业开发区迎春南路36号"
+  }, 
+  {
+    "hotelId": "9001121", 
+    "hotelName": "长春会展中心大华美居酒店", 
+    "hotelAddressShort": "二道区自由大路4487号"
+  }, 
+  {
+    "hotelId": "9010976", 
+    "hotelName": "汉庭长春九台区政务中心酒店", 
+    "hotelAddressShort": "丽景家园1栋101号门市"
+  }, 
+  {
+    "hotelId": "9002898", 
+    "hotelName": "星程榆树中心街酒店", 
+    "hotelAddressShort": "中心街康盛西区12栋，毗邻榆树市医院、天悦城商圈、恒基购物广场、榆树二中"
+  }, 
+  {
+    "hotelId": "5302001", 
+    "hotelName": "全季长春东方广场酒店", 
+    "hotelAddressShort": "吉林省长春市经济开发区吉林大路东方广场中意国际大厦A座"
+  }, 
+  {
+    "hotelId": "1300009", 
+    "hotelName": "桔子长春东方广场地铁站酒店", 
+    "hotelAddressShort": "吉林大路与洋浦大街交汇佳泰V公馆（地铁2号线D出口沿吉林大路西行2分钟）"
+  }, 
+  {
+    "hotelId": "1320012", 
+    "hotelName": "汉庭德惠人民街酒店", 
+    "hotelAddressShort": "吉林省长春市德惠市人民街(八道街)东风小区9号裙楼"
+  }, 
+  {
+    "hotelId": "9000109", 
+    "hotelName": "全季长春吉林大路酒店", 
+    "hotelAddressShort": "吉林省长春市二道区吉林大街535号"
+  }, 
+  {
+    "hotelId": "9003813", 
+    "hotelName": "宜必思长春赛德广场浦东路酒店", 
+    "hotelAddressShort": "长春市深圳街587号"
+  }, 
+  {
+    "hotelId": "9007487", 
+    "hotelName": "汉庭长春正阳街吾悦广场酒店", 
+    "hotelAddressShort": "长春市绿园区正阳街1361号"
+  }, 
+  {
+    "hotelId": "1300412", 
+    "hotelName": "汉庭长春火车站北站酒店（原铁北二路店）", 
+    "hotelAddressShort": "宽城区铁北二路808号"
+  }, 
+  {
+    "hotelId": "9000813", 
+    "hotelName": "全季长春北湖酒店", 
+    "hotelAddressShort": "吉林省长春市宽城区明斯克路与盛德大街交汇"
+  }, 
+  {
+    "hotelId": "9008680", 
+    "hotelName": "怡莱长春砂之船地铁站酒店", 
+    "hotelAddressShort": "宽城区北人民大街与北环城路交汇中东港公寓5号楼2单元17层"
+  }, 
+  {
+    "hotelId": "1300624", 
+    "hotelName": "全季长春西安大路酒店", 
+    "hotelAddressShort": "吉林省长春市绿园区西安大路2435号（原长客宾馆）"
+  }, 
+  {
+    "hotelId": "8000451", 
+    "hotelName": "全季长春远达大街酒店", 
+    "hotelAddressShort": "长春市二道区红星美凯龙7号楼"
+  }, 
+  {
+    "hotelId": "1300414", 
+    "hotelName": "长春恒兴美居酒店", 
+    "hotelAddressShort": "吉林省长春市南关区解放大路251A号"
+  }, 
+  {
+    "hotelId": "1300515", 
+    "hotelName": "汉庭长春人民大街东北师范大学酒店", 
+    "hotelAddressShort": "吉林省长春市南关区人民大街4966号（人民大街与自由大路交叉口）"
+  }, 
+  {
+    "hotelId": "9004313", 
+    "hotelName": "全季长春桂林路酒店", 
+    "hotelAddressShort": "同志街2548号，紧邻美食一条街。"
+  }, 
+  {
+    "hotelId": "1300334", 
+    "hotelName": "汉庭长春会展中心临河街酒店（原经开区临河街店）", 
+    "hotelAddressShort": "长春市经济技术开发区临河街与昆山路交汇"
+  }, 
+  {
+    "hotelId": "8916254", 
+    "hotelName": "汉庭农安火车站酒店", 
+    "hotelAddressShort": "农安县站前街与黄龙路交汇处"
+  }, 
+  {
+    "hotelId": "1300124", 
+    "hotelName": "汉庭长春前进大街酒店", 
+    "hotelAddressShort": "朝阳区前进大街1655号"
+  }, 
+  {
+    "hotelId": "1301175", 
+    "hotelName": "汉庭优佳长春生态广场酒店", 
+    "hotelAddressShort": "净月开发区南四环路与宜昌路交汇瀚邦凤凰传奇D座"
+  }, 
+  {
+    "hotelId": "1300622", 
+    "hotelName": "汉庭长春和平大街酒店", 
+    "hotelAddressShort": "长春市绿园区和平大街249号"
+  }, 
+  {
+    "hotelId": "9010618", 
+    "hotelName": "全季长春硅谷大街市委党校酒店", 
+    "hotelAddressShort": "高新区硅谷大街7139号"
+  }, 
+  {
+    "hotelId": "1300113", 
+    "hotelName": "汉庭长春一汽西站酒店", 
+    "hotelAddressShort": "吉林省长春市汽车产业开发区保利拉菲公馆S2栋103号"
+  }, 
+  {
+    "hotelId": "9010174", 
+    "hotelName": "汉庭长春红旗街吉大一院酒店", 
+    "hotelAddressShort": "长春市朝阳区万宝街1227号"
+  }, 
+  {
+    "hotelId": "1300623", 
+    "hotelName": "全季长春一汽酒店", 
+    "hotelAddressShort": "吉林省长春市汽车产业开发区创业大街819号"
+  }, 
+  {
+    "hotelId": "9001314", 
+    "hotelName": "全季长春光谷大街酒店", 
+    "hotelAddressShort": "长春市高新区光谷大街928号"
+  }, 
+  {
+    "hotelId": "1301174", 
+    "hotelName": "全季长春净月新城大街建筑大学酒店", 
+    "hotelAddressShort": "吉林省长春市净月开发区朗天国际B区4号楼"
+  }, 
+  {
+    "hotelId": "9019369", 
+    "hotelName": "星程长春净月长影世纪城酒店", 
+    "hotelAddressShort": "吉林省长春市净月产业开发区杜鹃路999号（东北虎体育中心院里）"
+  }, 
+  {
+    "hotelId": "1300336", 
+    "hotelName": "全季长春会展大街自由大路酒店", 
+    "hotelAddressShort": "二道区浦东路2758号  近国际会展中心"
+  }, 
+  {
+    "hotelId": "9009168", 
+    "hotelName": "长春国际会展中心美仑酒店", 
+    "hotelAddressShort": "经济开发区净月大街1号万豪世纪广场B座4-14层"
+  }, 
+  {
+    "hotelId": "9013754", 
+    "hotelName": "汉庭长春一汽东风大街酒店", 
+    "hotelAddressShort": "长春市汽车开发区东风大街文明路53号（近一汽解放大厦）"
+  }, 
+  {
+    "hotelId": "1300321", 
+    "hotelName": "汉庭长春远达大街酒店", 
+    "hotelAddressShort": "二道区河东路28号"
+  }, 
+  {
+    "hotelId": "1300005", 
+    "hotelName": "全季长春会展中心世纪广场酒店", 
+    "hotelAddressShort": "吉林省长春市经济技术开发区新城大街1号万豪世纪广场21-26层"
+  }, 
+  {
+    "hotelId": "2201001", 
+    "hotelName": "汉庭长春人民广场吉大二院酒店", 
+    "hotelAddressShort": "长春市南关区民康路666号"
+  }, 
+  {
+    "hotelId": "9013848", 
+    "hotelName": "你好长春一汽东风大街酒店", 
+    "hotelAddressShort": "东风大街与兴安路交汇南200米路西"
+  }, 
+  {
+    "hotelId": "9015603", 
+    "hotelName": "你好长春桂林路南湖公园酒店", 
+    "hotelAddressShort": "工农大路3506号光机宾馆"
+  }, 
+  {
+    "hotelId": "9002335", 
+    "hotelName": "汉庭长春自由大路中东大市场酒店", 
+    "hotelAddressShort": "长春市经济技术开发区福州街150号"
+  }, 
+  {
+    "hotelId": "9006499", 
+    "hotelName": "宜必思长春全安广场机场巴士酒店", 
+    "hotelAddressShort": "吉林省长春市解放大路338号21世纪国际商务总部C座"
+  }, 
+  {
+    "hotelId": "8916720", 
+    "hotelName": "星程长春亚泰北大街酒店", 
+    "hotelAddressShort": "亚泰北大街与庆丰路交汇处-紫金豪庭19号楼"
+  }, 
+  {
+    "hotelId": "9018857", 
+    "hotelName": "海友长春高新区欧亚卖场酒店", 
+    "hotelAddressShort": "高新区飞跃路2399号35幢"
+  }, 
+  {
+    "hotelId": "1300415", 
+    "hotelName": "汉庭长春重庆路活力城酒店", 
+    "hotelAddressShort": "南关区西四马路398号"
+  }, 
+  {
+    "hotelId": "9006058", 
+    "hotelName": "怡莱长春东盛大街酒店", 
+    "hotelAddressShort": "二道区岭东路900号（岭东路与东盛大街交汇西行50米）"
+  }, 
+  {
+    "hotelId": "9009005", 
+    "hotelName": "怡莱长春大街活力城酒店", 
+    "hotelAddressShort": "南关区长春大街111号(长春大街与健康胡同交汇口，距活力城80米)"
+  }, 
+  {
+    "hotelId": "9016173", 
+    "hotelName": "长春西安大路万达广场美仑酒店", 
+    "hotelAddressShort": "吉林省长春市朝阳区西安大路568号国际大厦C座十楼"
+  }, 
+  {
+    "hotelId": "1300115", 
+    "hotelName": "全季长春一汽西站酒店", 
+    "hotelAddressShort": "吉林省长春市汽车开发区保利拉菲公馆S2幢108号"
+  }, 
+  {
+    "hotelId": "1300311", 
+    "hotelName": "全季长春国际会展中心酒店", 
+    "hotelAddressShort": "吉林省长春市经济技术开发区仙台大街8号"
+  }, 
+  {
+    "hotelId": "9002899", 
+    "hotelName": "星程长春建设街吉大一院酒店", 
+    "hotelAddressShort": "建设街1688号距吉大一院982米（长春市朝阳区普济医院对面）"
+  }, 
+  {
+    "hotelId": "9012092", 
+    "hotelName": "汉庭长春卫星广场物贸大厦酒店", 
+    "hotelAddressShort": "吉林省长春市朝阳区人民大街6969号"
+  }, 
+  {
+    "hotelId": "1300333", 
+    "hotelName": "汉庭长春中日联谊医院自由大路酒店（原经开区自由大路酒店）", 
+    "hotelAddressShort": "经济技术开发区海口路563号"
+  }, 
+  {
+    "hotelId": "9010476", 
+    "hotelName": "汉庭长春人民广场重庆路酒店", 
+    "hotelAddressShort": "长春市南关区人民大街2076号"
+  }, 
+  {
+    "hotelId": "1300517", 
+    "hotelName": "全季长春火车站酒店", 
+    "hotelAddressShort": "吉林省长春市宽城区长白路358号"
+  }, 
+  {
+    "hotelId": "1300331", 
+    "hotelName": "汉庭长春会展中心摩天活力城酒店", 
+    "hotelAddressShort": "长春市经济开发区东南湖大路2109号"
+  }, 
+  {
+    "hotelId": "9000815", 
+    "hotelName": "宜必思长春一汽锦程大街酒店", 
+    "hotelAddressShort": "吉林省长春市汽车产业开发区锦程大街30号"
+  }, 
+  {
+    "hotelId": "1300151", 
+    "hotelName": "汉庭长春高新区光谷大街酒店", 
+    "hotelAddressShort": "吉林省长春市高新区光谷大街1979号（光谷大街与飞跃路交汇处）"
+  }, 
+  {
+    "hotelId": "9000176", 
+    "hotelName": "汉庭优佳长春新天地长春大街酒店", 
+    "hotelAddressShort": "南关区东四马路与燕春胡同交会处"
+  }, 
+  {
+    "hotelId": "1301172", 
+    "hotelName": "汉庭长春净月大街东北师大酒店", 
+    "hotelAddressShort": "净月大街2177号"
+  }, 
+  {
+    "hotelId": "9019065", 
+    "hotelName": "汉庭长春红旗街南湖广场酒店", 
+    "hotelAddressShort": "朝阳区前进大街488号南湖.学府经典9-12、18#楼102号1层、2层、3层"
+  }, 
+  {
+    "hotelId": "9000354", 
+    "hotelName": "汉庭长春净月长影世纪城酒店", 
+    "hotelAddressShort": "吉林省长春市南关区永顺路"
+  }, 
+  {
+    "hotelId": "9009104", 
+    "hotelName": "怡莱长春卫星广场酒店", 
+    "hotelAddressShort": "朝阳区繁荣路388号（人民大街与繁荣路交汇西行300米）"
+  }, 
+  {
+    "hotelId": "9014786", 
+    "hotelName": "星程长春硅谷大街居然之家酒店", 
+    "hotelAddressShort": "吉林省长春市高新区硅谷大街与创意北路交汇南行50米"
+  }, 
+  {
+    "hotelId": "1300121", 
+    "hotelName": "汉庭长春高新区硅谷大街酒店", 
+    "hotelAddressShort": "长春市高新区硅谷大街3355号超达创业园16幢109号"
+  }, 
+  {
+    "hotelId": "9003603", 
+    "hotelName": "怡莱长春会展中心酒店", 
+    "hotelAddressShort": "经开区威海路2445号（威海路与东环城路交汇处西行100米，福临家园南门）"
+  }, 
+  {
+    "hotelId": "9010804", 
+    "hotelName": "怡莱德惠西站松柏路酒店", 
+    "hotelAddressShort": "德惠市松柏路泊林郡小区20号楼(松柏路与迎新街交汇东侧150米)"
+  }, 
+  {
+    "hotelId": "1300514", 
+    "hotelName": "怡莱长春火车站南广场酒店", 
+    "hotelAddressShort": "宽城区胜利大街879号南广场转盘处"
+  }
+]

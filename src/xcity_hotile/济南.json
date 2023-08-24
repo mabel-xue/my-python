@@ -1,0 +1,602 @@
+[
+  {
+    "hotelId": "9023200", 
+    "hotelName": "汉庭济南高新区孙村科创路酒店", 
+    "hotelAddressShort": "济南市高新区孙村街道七号路公建14号楼1-5层"
+  }, 
+  {
+    "hotelId": "9011237", 
+    "hotelName": "汉庭济南章丘圣井工业园酒店", 
+    "hotelAddressShort": "安莉芳路3588号"
+  }, 
+  {
+    "hotelId": "9000234", 
+    "hotelName": "汉庭优佳济南莱芜长勺北路酒店", 
+    "hotelAddressShort": "山东省济南市莱芜区长勺北路272号"
+  }, 
+  {
+    "hotelId": "9012067", 
+    "hotelName": "桔子水晶济南莱芜高创中心酒店", 
+    "hotelAddressShort": " 山东省济南市莱芜高新区凤凰北路2号汇源首座22号楼"
+  }, 
+  {
+    "hotelId": "2500113", 
+    "hotelName": "汉庭优佳济南泉城路酒店", 
+    "hotelAddressShort": "济南市历下区县西巷路86号"
+  }, 
+  {
+    "hotelId": "2501993", 
+    "hotelName": "全季济南山东大学闵子骞路酒店", 
+    "hotelAddressShort": "区闵子骞路21号山东农业大厦"
+  }, 
+  {
+    "hotelId": "2500121", 
+    "hotelName": "汉庭济南趵突泉酒店", 
+    "hotelAddressShort": "济南市历下区趵突泉北路23号"
+  }, 
+  {
+    "hotelId": "2500014", 
+    "hotelName": "汉庭济南泉城广场酒店", 
+    "hotelAddressShort": "济南市历下区泺文路3号"
+  }, 
+  {
+    "hotelId": "9019983", 
+    "hotelName": "全季济南高新区丁豪广场酒店", 
+    "hotelAddressShort": "工业南路44号丁豪广场5号楼3单元"
+  }, 
+  {
+    "hotelId": "9008480", 
+    "hotelName": "全季济南工业南路枫润大厦酒店", 
+    "hotelAddressShort": "工业南路100号三庆·枫润大厦B座"
+  }, 
+  {
+    "hotelId": "9007581", 
+    "hotelName": "汉庭济南东站酒店", 
+    "hotelAddressShort": "济南市历城区梁王新城5号楼"
+  }, 
+  {
+    "hotelId": "9014546", 
+    "hotelName": "全季济南山东大学山大南路酒店", 
+    "hotelAddressShort": " 山大南路60号"
+  }, 
+  {
+    "hotelId": "9000111", 
+    "hotelName": "全季济南莱芜高创中心酒店", 
+    "hotelAddressShort": "汇源大街156号"
+  }, 
+  {
+    "hotelId": "2504001", 
+    "hotelName": "汉庭济南平阴汽车总站酒店", 
+    "hotelAddressShort": "济南市平阴县榆山路南段"
+  }, 
+  {
+    "hotelId": "9008426", 
+    "hotelName": "全季济南趵突泉文化西路酒店", 
+    "hotelAddressShort": "文化西路117号（齐鲁医院西行230米路北，山东剧院院内）"
+  }, 
+  {
+    "hotelId": "9016138", 
+    "hotelName": "桔子济南凤鸣广场建筑大学酒店", 
+    "hotelAddressShort": "世纪大道10678号凤鸣广场A座"
+  }, 
+  {
+    "hotelId": "2500002", 
+    "hotelName": "汉庭济南汽车总站西店", 
+    "hotelAddressShort": "济南市天桥区无影山中路48号（长途汽车总站往西600米路南）"
+  }, 
+  {
+    "hotelId": "2501008", 
+    "hotelName": "汉庭优佳济南唐冶酒店", 
+    "hotelAddressShort": "山东省济南市历城区唐冶西路868号"
+  }, 
+  {
+    "hotelId": "9009579", 
+    "hotelName": "汉庭济南经四路中山公园酒店", 
+    "hotelAddressShort": "山东省济南市小纬六路65号1幢距省立医院200米"
+  }, 
+  {
+    "hotelId": "9001140", 
+    "hotelName": "全季济南唐冶世纪大道酒店", 
+    "hotelAddressShort": "唐冶街道世纪大道与唐冶西路交叉口东北角53号楼112号"
+  }, 
+  {
+    "hotelId": "2502002", 
+    "hotelName": "汉庭济南章丘绣水大街百脉泉酒店", 
+    "hotelAddressShort": "章丘绣水大街与铁道北路交汇处北20米路东"
+  }, 
+  {
+    "hotelId": "2500116", 
+    "hotelName": "全季济南泉城广场酒店", 
+    "hotelAddressShort": "泺源大街21号"
+  }, 
+  {
+    "hotelId": "2503992", 
+    "hotelName": "汉庭济南长清大学城酒店", 
+    "hotelAddressShort": "济南市长清大学城科技园三庆青年城3号楼"
+  }, 
+  {
+    "hotelId": "2501017", 
+    "hotelName": "全季济南高新区万达广场酒店", 
+    "hotelAddressShort": "颖秀路1455号"
+  }, 
+  {
+    "hotelId": "8916394", 
+    "hotelName": "桔子济南无影山中路酒店", 
+    "hotelAddressShort": "济南市天桥区无影山路13号瑞驰万隆广场"
+  }, 
+  {
+    "hotelId": "9021359", 
+    "hotelName": "汉庭济南章丘大学城酒店", 
+    "hotelAddressShort": "埠村街道经十东路6012号（双创基地斜对面）"
+  }, 
+  {
+    "hotelId": "9012157", 
+    "hotelName": "汉庭济南济阳龙海路酒店", 
+    "hotelAddressShort": "山东省济南市济阳区济北开发区龙海路50-1号"
+  }, 
+  {
+    "hotelId": "2501001", 
+    "hotelName": "汉庭济南山大北路酒店", 
+    "hotelAddressShort": "济南市历城区山大北路77号"
+  }, 
+  {
+    "hotelId": "2500134", 
+    "hotelName": "汉庭济南花园路洪楼广场酒店", 
+    "hotelAddressShort": "济南市花园路84号（振邦大厦院内，二环东路与花园路交叉口东南角）"
+  }, 
+  {
+    "hotelId": "2500011", 
+    "hotelName": "汉庭优佳济南大观园酒店", 
+    "hotelAddressShort": "济南市市中区经五路51号-2"
+  }, 
+  {
+    "hotelId": "2501007", 
+    "hotelName": "汉庭济南农干院路酒店", 
+    "hotelAddressShort": "山东省济南市历城区农干院路866号"
+  }, 
+  {
+    "hotelId": "9001005", 
+    "hotelName": "全季济南东站酒店", 
+    "hotelAddressShort": "凤凰北路万象新天云公馆5号楼B5G3"
+  }, 
+  {
+    "hotelId": "2501181", 
+    "hotelName": "全季济南二环西路酒店", 
+    "hotelAddressShort": "二环西路大魏名都商业楼8号"
+  }, 
+  {
+    "hotelId": "9016709", 
+    "hotelName": "桔子济南经十路会展中心酒店", 
+    "hotelAddressShort": " 经十路27810号"
+  }, 
+  {
+    "hotelId": "2500111", 
+    "hotelName": "汉庭济南泉城广场佛山街酒店", 
+    "hotelAddressShort": "济南市历下区佛山街28号"
+  }, 
+  {
+    "hotelId": "9005193", 
+    "hotelName": "全季济南遥墙机场航天大道酒店", 
+    "hotelAddressShort": "机场北路航天大道6117号"
+  }, 
+  {
+    "hotelId": "9011365", 
+    "hotelName": "汉庭济南英雄山路酒店", 
+    "hotelAddressShort": "济南市市中区英雄山路79号"
+  }, 
+  {
+    "hotelId": "9009494", 
+    "hotelName": "汉庭济南孙村春晖路酒店", 
+    "hotelAddressShort": "济南市高新区东区街道孙村新区春晖路2966号三板小镇24号楼五层"
+  }, 
+  {
+    "hotelId": "9010784", 
+    "hotelName": "汉庭济南章丘火车站酒店", 
+    "hotelAddressShort": "福安路大友中心项目3号楼"
+  }, 
+  {
+    "hotelId": "2502991", 
+    "hotelName": "汉庭济南章丘双山大街酒店", 
+    "hotelAddressShort": "山东省章丘双山大街817号（双山大街与鲁宏大道交汇，齐鲁涧桥东门，工商银行北侧）"
+  }, 
+  {
+    "hotelId": "9008030", 
+    "hotelName": "汉庭济南西站东广场酒店（原西站站前广场店）", 
+    "hotelAddressShort": "齐鲁大道3179号"
+  }, 
+  {
+    "hotelId": "9020181", 
+    "hotelName": "汉庭济南经十路和谐广场酒店", 
+    "hotelAddressShort": "经十路23369号1层至6层全部"
+  }, 
+  {
+    "hotelId": "2501171", 
+    "hotelName": "汉庭优佳济南西站经十西路酒店", 
+    "hotelAddressShort": "山东省济南市槐荫区经十路28838号"
+  }, 
+  {
+    "hotelId": "9014161", 
+    "hotelName": "全季济南钢城钢都大街酒店", 
+    "hotelAddressShort": "钢都大街304号"
+  }, 
+  {
+    "hotelId": "9009536", 
+    "hotelName": "全季济南济阳济北公园酒店", 
+    "hotelAddressShort": "富强街11号"
+  }, 
+  {
+    "hotelId": "2502003", 
+    "hotelName": "全季济南章丘百脉泉酒店", 
+    "hotelAddressShort": "双泉路113号"
+  }, 
+  {
+    "hotelId": "9012723", 
+    "hotelName": "汉庭济南莱芜口镇深圳南路酒店", 
+    "hotelAddressShort": "口镇深圳南路2号1幢"
+  }, 
+  {
+    "hotelId": "9007481", 
+    "hotelName": "汉庭济南西站会展中心酒店", 
+    "hotelAddressShort": "济南市槐荫区威海路与临沂路交叉口绿地齐鲁之门A3-b栋"
+  }, 
+  {
+    "hotelId": "2500019", 
+    "hotelName": "全季济南经十路和谐广场酒店", 
+    "hotelAddressShort": "经七纬七路127-5号"
+  }, 
+  {
+    "hotelId": "2500231", 
+    "hotelName": "汉庭济南堤口路酒店", 
+    "hotelAddressShort": "济南市堤口路143号"
+  }, 
+  {
+    "hotelId": "2500023", 
+    "hotelName": "汉庭济南玉函路酒店", 
+    "hotelAddressShort": "　济南市玉函路38-10号宝威大厦（济大路与玉函路路口北150米路东，山东女子学院对面）"
+  }, 
+  {
+    "hotelId": "2711991", 
+    "hotelName": "汉庭济南莱芜银座商城酒店", 
+    "hotelAddressShort": "山东省济南市莱芜区鲁中东大街12号"
+  }, 
+  {
+    "hotelId": "8000126", 
+    "hotelName": "汉庭济南泉城广场朝山街酒店", 
+    "hotelAddressShort": "济南市历下区朝山街32号"
+  }, 
+  {
+    "hotelId": "9008169", 
+    "hotelName": "汉庭济南英雄山路鲁能领秀城酒店", 
+    "hotelAddressShort": "山东省济南市市中区英雄山路306号商银大厦（十六里河办事处南邻）"
+  }, 
+  {
+    "hotelId": "9000428", 
+    "hotelName": "全季济南千佛山酒店", 
+    "hotelAddressShort": "燕子山西路79号"
+  }, 
+  {
+    "hotelId": "8000445", 
+    "hotelName": "全季济南趵突泉北门酒店", 
+    "hotelAddressShort": "趵突泉北路12号"
+  }, 
+  {
+    "hotelId": "9012791", 
+    "hotelName": "汉庭济南高新东区孙村大正路酒店", 
+    "hotelAddressShort": "大正路与福瑞达路交叉口以东200米"
+  }, 
+  {
+    "hotelId": "9005088", 
+    "hotelName": "全季济南遥墙国际机场酒店", 
+    "hotelAddressShort": "机场路3196-2号"
+  }, 
+  {
+    "hotelId": "9010808", 
+    "hotelName": "汉庭济南港西路保税区酒店", 
+    "hotelAddressShort": "港沟街道神武南街36号"
+  }, 
+  {
+    "hotelId": "9017809", 
+    "hotelName": "桔子济南经七路大观园酒店", 
+    "hotelAddressShort": "经七路470号"
+  }, 
+  {
+    "hotelId": "8000132", 
+    "hotelName": "全季济南趵突泉酒店", 
+    "hotelAddressShort": "榜棚街1号"
+  }, 
+  {
+    "hotelId": "8915615", 
+    "hotelName": "桔子济南大明湖酒店", 
+    "hotelAddressShort": "山东省济南市历下区东关大街121号"
+  }, 
+  {
+    "hotelId": "8916107", 
+    "hotelName": "汉庭优佳济南和平路酒店", 
+    "hotelAddressShort": "济南市历下区和平路16号"
+  }, 
+  {
+    "hotelId": "9019360", 
+    "hotelName": "桔子济南泉城广场宽厚里酒店", 
+    "hotelAddressShort": "山东省济南市历下区泺源大街61号"
+  }, 
+  {
+    "hotelId": "9020413", 
+    "hotelName": "全季济南CBD中央商务区酒店", 
+    "hotelAddressShort": "济南市历下区工业南路68号华润置地广场4号楼"
+  }, 
+  {
+    "hotelId": "2500311", 
+    "hotelName": "汉庭济南堤口路长途汽车总站酒店", 
+    "hotelAddressShort": "济南市天桥区堤口路9号"
+  }, 
+  {
+    "hotelId": "2711001", 
+    "hotelName": "汉庭济南莱芜凤城西大街酒店", 
+    "hotelAddressShort": "山东省济南市莱芜区凤城西大街与长勺南路交叉口向南100米路西"
+  }, 
+  {
+    "hotelId": "9002315", 
+    "hotelName": "全季济南高新区汉峪金谷酒店", 
+    "hotelAddressShort": "舜华路2666号"
+  }, 
+  {
+    "hotelId": "2503991", 
+    "hotelName": "汉庭济南长清区经十西路酒店", 
+    "hotelAddressShort": "山东省济南市长清区经十西路17426号"
+  }, 
+  {
+    "hotelId": "2500008", 
+    "hotelName": "桔子济南泉城广场酒店", 
+    "hotelAddressShort": "济南市历下区文化西路77号（广智院公交站）"
+  }, 
+  {
+    "hotelId": "2500211", 
+    "hotelName": "汉庭济南经六路会展中心酒店", 
+    "hotelAddressShort": "济南市槐荫区经六路689号"
+  }, 
+  {
+    "hotelId": "9007189", 
+    "hotelName": "汉庭济南高新区齐鲁软件园酒店", 
+    "hotelAddressShort": "山东省济南市高新区舜华路1118号"
+  }, 
+  {
+    "hotelId": "2500314", 
+    "hotelName": "全季济南泺口服装城酒店", 
+    "hotelAddressShort": "汽车厂东路6号中凡鲁鼎广场A座2-101号"
+  }, 
+  {
+    "hotelId": "9020484", 
+    "hotelName": "全季济南花园路酒店", 
+    "hotelAddressShort": "花园路18号"
+  }, 
+  {
+    "hotelId": "2501081", 
+    "hotelName": "汉庭优佳济南遥墙国际机场酒店", 
+    "hotelAddressShort": "山东省济南市高新区机场路与荷花路交汇处向东200米路南"
+  }, 
+  {
+    "hotelId": "2500015", 
+    "hotelName": "汉庭济南经二路火车站酒店", 
+    "hotelAddressShort": "济南市槐荫区经二路320号"
+  }, 
+  {
+    "hotelId": "2500135", 
+    "hotelName": "汉庭济南经十路千佛山酒店", 
+    "hotelAddressShort": "济南市历下区经十路17175号"
+  }, 
+  {
+    "hotelId": "2500012", 
+    "hotelName": "汉庭济南大观园万达酒店", 
+    "hotelAddressShort": "济南市市中区纬二路37号"
+  }, 
+  {
+    "hotelId": "9005340", 
+    "hotelName": "汉庭优佳济南山东大学中心校区酒店", 
+    "hotelAddressShort": "山大北路77-2号"
+  }, 
+  {
+    "hotelId": "9015885", 
+    "hotelName": "桔子济南西站国际会展中心酒店", 
+    "hotelAddressShort": "绿地齐鲁之门A2-a栋"
+  }, 
+  {
+    "hotelId": "9010219", 
+    "hotelName": "桔子济南华山酒店", 
+    "hotelAddressShort": "历城区金舆大道与东陈路交叉口西北角"
+  }, 
+  {
+    "hotelId": "9000319", 
+    "hotelName": "汉庭济南全福北园大街酒店", 
+    "hotelAddressShort": "山东省济南市历城区北园大街11号"
+  }, 
+  {
+    "hotelId": "9017261", 
+    "hotelName": "桔子济南CBD中央商务区酒店", 
+    "hotelAddressShort": "山东省济南市历下区绿地山东国际金融中心A2-1号楼"
+  }, 
+  {
+    "hotelId": "2514993", 
+    "hotelName": "汉庭优佳济南济阳济北公园酒店", 
+    "hotelAddressShort": "山东省济南市济阳区开元大街永安路天霖大厦一楼"
+  }, 
+  {
+    "hotelId": "2501013", 
+    "hotelName": "全季济南高新区齐鲁软件园酒店", 
+    "hotelAddressShort": "崇华路2653号"
+  }, 
+  {
+    "hotelId": "2501015", 
+    "hotelName": "汉庭济南高新区凤凰路酒店", 
+    "hotelAddressShort": "济南市高新区舜风路101号（凤凰路与舜风路交汇处齐鲁文化创意基地3号楼）"
+  }, 
+  {
+    "hotelId": "9012068", 
+    "hotelName": "桔子济南趵突泉酒店", 
+    "hotelAddressShort": "济南市历下区南新街32号"
+  }, 
+  {
+    "hotelId": "2501051", 
+    "hotelName": "汉庭济南遥墙国际机场酒店", 
+    "hotelAddressShort": "济南市历城区遥墙机场机场路北首"
+  }, 
+  {
+    "hotelId": "2500118", 
+    "hotelName": "汉庭济南华信路酒店", 
+    "hotelAddressShort": "济南市历城区花园路9号"
+  }, 
+  {
+    "hotelId": "9008345", 
+    "hotelName": "全季济南华山环宇城酒店", 
+    "hotelAddressShort": "华山街道安置一区S2#商务楼"
+  }, 
+  {
+    "hotelId": "9000935", 
+    "hotelName": "全季济南大明湖酒店", 
+    "hotelAddressShort": "铜元局前街6号"
+  }, 
+  {
+    "hotelId": "2501006", 
+    "hotelName": "桔子济南山东大学洪楼广场酒店", 
+    "hotelAddressShort": "济南市历城区花园路136号聚隆广场6号楼"
+  }, 
+  {
+    "hotelId": "8916265", 
+    "hotelName": "全季济南英雄山路酒店", 
+    "hotelAddressShort": "英雄山路104号"
+  }, 
+  {
+    "hotelId": "2500013", 
+    "hotelName": "汉庭济南火车站广场酒店", 
+    "hotelAddressShort": "济南市天桥区车站街16号"
+  }, 
+  {
+    "hotelId": "9014034", 
+    "hotelName": "汉庭济南山大路华强广场酒店", 
+    "hotelAddressShort": "山大路168号（邻近华强广场、赛博大厦50米）"
+  }, 
+  {
+    "hotelId": "2500133", 
+    "hotelName": "汉庭济南解放路酒店", 
+    "hotelAddressShort": "济南市历下区解放路14号农资大厦"
+  }, 
+  {
+    "hotelId": "2711041", 
+    "hotelName": "汉庭优佳济南莱芜信誉楼商城酒店", 
+    "hotelAddressShort": "济南市莱城区文化北路与赢牟东大街交叉口"
+  }, 
+  {
+    "hotelId": "9004302", 
+    "hotelName": "全季济南大观园酒店", 
+    "hotelAddressShort": "小纬四路30号"
+  }, 
+  {
+    "hotelId": "9006088", 
+    "hotelName": "汉庭济南经七路和谐广场酒店", 
+    "hotelAddressShort": "山东省济南市经七纬七路127号  距省立医院500米"
+  }, 
+  {
+    "hotelId": "2516001", 
+    "hotelName": "汉庭济南商河县商中路酒店", 
+    "hotelAddressShort": "山东省济南市商河县商中路286号"
+  }, 
+  {
+    "hotelId": "2500007", 
+    "hotelName": "汉庭济南西站酒店(原西部会展中心店)", 
+    "hotelAddressShort": "济南西客站腊山河东路与兴福寺路交叉口南100米路东(三馆东临)"
+  }, 
+  {
+    "hotelId": "8000284", 
+    "hotelName": "汉庭济南郭店酒店", 
+    "hotelAddressShort": "山东省济南市历城区S102郭店镇郭店街道三区16号供销大厦"
+  }, 
+  {
+    "hotelId": "9010655", 
+    "hotelName": "全季济南经十路会展中心酒店", 
+    "hotelAddressShort": "经十路26448号"
+  }, 
+  {
+    "hotelId": "2500143", 
+    "hotelName": "桔子济南高新万达广场酒店", 
+    "hotelAddressShort": "济南市高新区会展西路中铁财智中心1号楼"
+  }, 
+  {
+    "hotelId": "2501012", 
+    "hotelName": "汉庭济南奥体中心酒店", 
+    "hotelAddressShort": "济南市历下区坤顺路441号（燕山新居南门西150米）"
+  }, 
+  {
+    "hotelId": "2500136", 
+    "hotelName": "桔子济南文化东路酒店", 
+    "hotelAddressShort": "山东省济南市历下区文化东路55号院"
+  }, 
+  {
+    "hotelId": "9009394", 
+    "hotelName": "汉庭济南燕山银座酒店", 
+    "hotelAddressShort": "窑头路1号楼"
+  }, 
+  {
+    "hotelId": "2500003", 
+    "hotelName": "汉庭济南历城区政府酒店", 
+    "hotelAddressShort": "济南市历城区山大北路32号（东港股份有限公司对面）--距离山东大学900米"
+  }, 
+  {
+    "hotelId": "9015017", 
+    "hotelName": "汉庭济南章丘明水古城百脉泉酒店", 
+    "hotelAddressShort": "明水大街733-2号"
+  }, 
+  {
+    "hotelId": "9007492", 
+    "hotelName": "汉庭济南山大南路酒店", 
+    "hotelAddressShort": "山大南路1-21号"
+  }, 
+  {
+    "hotelId": "2501011", 
+    "hotelName": "汉庭济南齐鲁软件园舜泰广场店", 
+    "hotelAddressShort": "济南市高新区舜华路1118号"
+  }, 
+  {
+    "hotelId": "9009314", 
+    "hotelName": "全季济南经十东路凤凰广场酒店", 
+    "hotelAddressShort": "鲁商凤凰广场二期6号楼108,109商铺"
+  }, 
+  {
+    "hotelId": "8000342", 
+    "hotelName": "桔子济南大观园酒店", 
+    "hotelAddressShort": "山东省济南市纬二路58号"
+  }, 
+  {
+    "hotelId": "2500016", 
+    "hotelName": "汉庭济南千佛山酒店", 
+    "hotelAddressShort": "济南历下区文化西路10号（历下大润发西50米路南）"
+  }, 
+  {
+    "hotelId": "9011252", 
+    "hotelName": "汉庭济南山师东路酒店", 
+    "hotelAddressShort": "山师东路16号"
+  }, 
+  {
+    "hotelId": "9013117", 
+    "hotelName": "汉庭济南经七路趵突泉酒店", 
+    "hotelAddressShort": "济南市市中区经七路34号"
+  }, 
+  {
+    "hotelId": "9016902", 
+    "hotelName": "汉庭济南山东国际会展中心酒店", 
+    "hotelAddressShort": "济南市槐荫区日照路地平甲地时代A3号公寓"
+  }, 
+  {
+    "hotelId": "9001225", 
+    "hotelName": "汉庭济南高新区万达广场酒店", 
+    "hotelAddressShort": "山东省济南市历下区会展路万达广场Y6号楼西单元"
+  }, 
+  {
+    "hotelId": "9000060", 
+    "hotelName": "汉庭济南西站西广场酒店", 
+    "hotelAddressShort": "济南西客站顺安路与烟台路交汇处"
+  }, 
+  {
+    "hotelId": "2500009", 
+    "hotelName": "全季济南西站酒店", 
+    "hotelAddressShort": "临沂路1197号"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "hotelId": "9001351", 
+    "hotelName": "南京新街口泊金美居酒店", 
+    "hotelAddressShort": "管家桥34号"
+  }, 
+  {
+    "hotelId": "9000712", 
+    "hotelName": "桔子水晶南京玄武湖酒店", 
+    "hotelAddressShort": "湖南路18号(近中大医院、狮子桥美食街、玄武湖）"
+  }, 
+  {
+    "hotelId": "8916467", 
+    "hotelName": "桔子水晶南京鼓楼酒店", 
+    "hotelAddressShort": "中山北路28号（近南京大学与鼓楼医院）"
+  }, 
+  {
+    "hotelId": "9023810", 
+    "hotelName": "南京马群钟山风景区美居酒店(升级中)", 
+    "hotelAddressShort": "顾家营路59-10号"
+  }, 
+  {
+    "hotelId": "2112003", 
+    "hotelName": "南京溧水花间堂·福林邑", 
+    "hotelAddressShort": "南京市溧水区永阳街道金井路66号52栋101室"
+  }, 
+  {
+    "hotelId": "9002787", 
+    "hotelName": "桔子水晶南京新街口中心酒店", 
+    "hotelAddressShort": "汉中路27号友谊广场A座1楼、12-15楼（近德基广场、金鹰国际、省中医院、市妇幼）"
+  }, 
+  {
+    "hotelId": "9003557", 
+    "hotelName": "南京玄武湖美居酒店", 
+    "hotelAddressShort": "建宁路7号"
+  }, 
+  {
+    "hotelId": "9016711", 
+    "hotelName": "南京夫子庙美仑酒店", 
+    "hotelAddressShort": "建康路3号（靠近旧王府路，水平方西门右侧电梯上6楼）"
+  }, 
+  {
+    "hotelId": "9020055", 
+    "hotelName": "南京奥体国际博览中心漫心府", 
+    "hotelAddressShort": "江东南路9号青奥米里中心-A座（河西儿童医院正对面；比邻国际博览中心）"
+  }, 
+  {
+    "hotelId": "9009562", 
+    "hotelName": "桔子水晶南京奥体CBD国际博览中心酒店", 
+    "hotelAddressShort": "南京市建邺区庐山路268号(近国际博览中心；南京金融城及河西儿童医院）"
+  }, 
+  {
+    "hotelId": "9010609", 
+    "hotelName": "南京红山美居酒店", 
+    "hotelAddressShort": "和燕路258号"
+  }, 
+  {
+    "hotelId": "2100165", 
+    "hotelName": "桔子水晶南京总统府中山东路酒店", 
+    "hotelAddressShort": "中山东路472号(近总统府、新街口、南京博物院、东部战区总院、1912酒吧街、夫子庙)"
+  }, 
+  {
+    "hotelId": "9000183", 
+    "hotelName": "汉庭南京仙林红枫科技园酒店", 
+    "hotelAddressShort": "栖霞区西岗街道摄山星城摄山路8号"
+  }, 
+  {
+    "hotelId": "9000327", 
+    "hotelName": "桔子水晶南京夫子庙酒店", 
+    "hotelAddressShort": "太平南路529号（近夫子庙、老门东、总统府、鸡鸣寺、玄武湖、南京博物院）"
+  }, 
+  {
+    "hotelId": "9009706", 
+    "hotelName": "南京老门东漫心府", 
+    "hotelAddressShort": "养虎巷28号晨光1865创意产业园内E5幢"
+  }, 
+  {
+    "hotelId": "9000123", 
+    "hotelName": "桔子水晶南京博物院酒店", 
+    "hotelAddressShort": "黄埔路2号B幢黄埔科技大厦(东部战区总医院东门对面)"
+  }, 
+  {
+    "hotelId": "8915291", 
+    "hotelName": "南京夫子庙熙涵映漫心府", 
+    "hotelAddressShort": "熙南里街区大板巷院落3-5栋（近夫子庙、老门东、新街口，酒店有私家花园）"
+  }, 
+  {
+    "hotelId": "9006884", 
+    "hotelName": "桔子水晶南京江北新区工业大学酒店", 
+    "hotelAddressShort": "浦口大道18号"
+  }, 
+  {
+    "hotelId": "8000566", 
+    "hotelName": "全季南京夫子庙步行街酒店", 
+    "hotelAddressShort": "瞻园路21号"
+  }, 
+  {
+    "hotelId": "9018430", 
+    "hotelName": "汉庭南京新街口大行宫地铁站酒店", 
+    "hotelAddressShort": "江苏省南京市秦淮区中山东路136号"
+  }, 
+  {
+    "hotelId": "8000232", 
+    "hotelName": "桔子水晶南京新街口酒店", 
+    "hotelAddressShort": "三元巷5号（近新街口、明瓦廊美食街、大洋百货、德基广场、省中医院、市第一医院）"
+  }, 
+  {
+    "hotelId": "9005255", 
+    "hotelName": "南京幕府山居漫心酒店", 
+    "hotelAddressShort": "永济大道上元门6号"
+  }, 
+  {
+    "hotelId": "9000855", 
+    "hotelName": "南京仙林大学城漫心酒店", 
+    "hotelAddressShort": "灵山北路18号B区9幢"
+  }, 
+  {
+    "hotelId": "8916258", 
+    "hotelName": "桔子水晶南京夫子庙中山南路酒店", 
+    "hotelAddressShort": "中山南路360号1-4层（近南京一中、江苏银行、夫子庙、新街口、老门东、总统府、明瓦廊、熙南里、万象天地、水游城、秦淮河、瞻园、博物院、玄武湖、鸡鸣寺等）"
+  }, 
+  {
+    "hotelId": "8000346", 
+    "hotelName": "南京夫子庙水韵秦淮漫心酒店", 
+    "hotelAddressShort": "钞库街18号"
+  }, 
+  {
+    "hotelId": "9000063", 
+    "hotelName": "南京奥体博览中心美居酒店", 
+    "hotelAddressShort": "云龙山路98号天盛大厦西北门4-8层"
+  }, 
+  {
+    "hotelId": "9000032", 
+    "hotelName": "南京老门东花间堂·朱雀里", 
+    "hotelAddressShort": "江苏省南京市秦淮区马道街47号，老门东景区正大牌坊口20米即达"
+  }, 
+  {
+    "hotelId": "2100199", 
+    "hotelName": "南京金陵隐漫心酒店", 
+    "hotelAddressShort": "河西大街230号"
+  }, 
+  {
+    "hotelId": "9019749", 
+    "hotelName": "全季南京河西儿童医院江东南路酒店", 
+    "hotelAddressShort": "江东南路9号（河西儿童医院对面，国际博览中心1km）"
+  }, 
+  {
+    "hotelId": "9005441", 
+    "hotelName": "汉庭南京红山动物园酒店", 
+    "hotelAddressShort": "鼓楼区和燕路239号南昌大厦一层"
+  }, 
+  {
+    "hotelId": "9006725", 
+    "hotelName": "桔子南京新街口中心酒店", 
+    "hotelAddressShort": "三元巷1号"
+  }, 
+  {
+    "hotelId": "9001847", 
+    "hotelName": "汉庭南京溧水万达广场酒店", 
+    "hotelAddressShort": "珍珠南路158号学府雅苑16幢"
+  }, 
+  {
+    "hotelId": "8000333", 
+    "hotelName": "南京新街口漫心酒店", 
+    "hotelAddressShort": "太平南路168号（地铁3号线常府街站4号口南50米，近大行宫、新街口、科巷、1912街区）"
+  }, 
+  {
+    "hotelId": "8000267", 
+    "hotelName": "桔子南京夫子庙地铁站酒店", 
+    "hotelAddressShort": "建康路268号"
+  }, 
+  {
+    "hotelId": "8916457", 
+    "hotelName": "全季南京江宁东南大学酒店", 
+    "hotelAddressShort": "铺岗街599号"
+  }, 
+  {
+    "hotelId": "2100055", 
+    "hotelName": "全季南京新街口酒店", 
+    "hotelAddressShort": "淮海路50号"
+  }, 
+  {
+    "hotelId": "9016808", 
+    "hotelName": "全季南京大行宫酒店", 
+    "hotelAddressShort": "中山东路482号"
+  }, 
+  {
+    "hotelId": "2100018", 
+    "hotelName": "全季南京夫子庙酒店", 
+    "hotelAddressShort": "建康路127号"
+  }, 
+  {
+    "hotelId": "2100465", 
+    "hotelName": "桔子水晶南京仙林万达茂酒店", 
+    "hotelAddressShort": "仙林大道181号万达茂A座27楼（近万达乐园、欢乐谷、栖霞山及园博园景区）"
+  }, 
+  {
+    "hotelId": "9000387", 
+    "hotelName": "南京泊金花间堂·琵琶山居", 
+    "hotelAddressShort": "江苏省南京市玄武区琵琶洲16号"
+  }, 
+  {
+    "hotelId": "2100019", 
+    "hotelName": "南京夫子庙漫心酒店", 
+    "hotelAddressShort": "升州路122号（南京万象天地旁，近新街口、老门东、市第一医院、水游城）"
+  }, 
+  {
+    "hotelId": "9012524", 
+    "hotelName": "全季南京浦口国际健康城酒店", 
+    "hotelAddressShort": "康行路10号"
+  }, 
+  {
+    "hotelId": "9000287", 
+    "hotelName": "南京新街口中央商场漫心酒店", 
+    "hotelAddressShort": "正洪街18号一禾广场4楼(地铁14号口沿中央商场3号大门对面即到，近德基广场)"
+  }, 
+  {
+    "hotelId": "9004648", 
+    "hotelName": "星程南京葛塘地铁站酒店", 
+    "hotelAddressShort": "平顶山路898号"
+  }, 
+  {
+    "hotelId": "8000258", 
+    "hotelName": "全季南京新街口户部街酒店", 
+    "hotelAddressShort": "延龄巷2号"
+  }, 
+  {
+    "hotelId": "9002098", 
+    "hotelName": "星程南京南站酒店", 
+    "hotelAddressShort": "秦淮路100号"
+  }, 
+  {
+    "hotelId": "9001105", 
+    "hotelName": "宜必思南京溧水站天利广场酒店", 
+    "hotelAddressShort": "南京市溧水区交通东路69号天利广场"
+  }, 
+  {
+    "hotelId": "9013034", 
+    "hotelName": "全季南京牛首山吉印大道地铁站酒店", 
+    "hotelAddressShort": "吉印大道1196号（距吉印大道地铁站1号口300米）"
+  }, 
+  {
+    "hotelId": "9007406", 
+    "hotelName": "星程南京谷里银杏湖大道酒店", 
+    "hotelAddressShort": "江宁区谷里街道银杏湖大道198号"
+  }, 
+  {
+    "hotelId": "9004868", 
+    "hotelName": "汉庭南京火车站龙湖紫都城酒店", 
+    "hotelAddressShort": "鼓楼区玉宁路16号龙湖紫都城1号楼"
+  }, 
+  {
+    "hotelId": "8000525", 
+    "hotelName": "星程南京诚信大道地铁站酒店", 
+    "hotelAddressShort": "秣陵街道诚信大道699号汇金九龙商业街1-401号"
+  }, 
+  {
+    "hotelId": "9001087", 
+    "hotelName": "南京南站漫心酒店", 
+    "hotelAddressShort": "江南路9号高铁网谷B座（高铁南京南站旁）"
+  }, 
+  {
+    "hotelId": "2100056", 
+    "hotelName": "汉庭南京新街口地铁站酒店", 
+    "hotelAddressShort": "鼓楼区管家桥47号（新街口站20号出口直行50米左拐即达）"
+  }, 
+  {
+    "hotelId": "8000231", 
+    "hotelName": "桔子南京夫子庙景区酒店", 
+    "hotelAddressShort": "大石坝街26号"
+  }, 
+  {
+    "hotelId": "8000228", 
+    "hotelName": "桔子水晶南京奥体中胜国际博览中心酒店", 
+    "hotelAddressShort": "河西大街66号(近南京国际博览中心、河西龙湖天街、华采天地）"
+  }, 
+  {
+    "hotelId": "8916223", 
+    "hotelName": "星程南京龙湖天街东大成贤地铁站酒店", 
+    "hotelAddressShort": "丽景路6号（焦点科技向东100米）"
+  }, 
+  {
+    "hotelId": "2100092", 
+    "hotelName": "汉庭南京新街口上海路地铁站酒店", 
+    "hotelAddressShort": "鼓楼区上海路4号"
+  }, 
+  {
+    "hotelId": "2100064", 
+    "hotelName": "桔子南京博物院明故宫地铁站酒店", 
+    "hotelAddressShort": "中山东路532-1号（近航空大学、明故宫、博物院、中山陵、东部战区医院、2号线地铁口）口"
+  }, 
+  {
+    "hotelId": "2100063", 
+    "hotelName": "海友南京夫子庙中华门酒店", 
+    "hotelAddressShort": "南京市秦淮区军师巷55号"
+  }, 
+  {
+    "hotelId": "9014762", 
+    "hotelName": "全季南京广州路省人民医院酒店", 
+    "hotelAddressShort": "华侨路街道广州路177号（先锋书店旁）"
+  }, 
+  {
+    "hotelId": "9017300", 
+    "hotelName": "你好南京总统府酒店", 
+    "hotelAddressShort": "玄武区珠江路205号（距1号线珠江路地铁站4号口步行500米）"
+  }, 
+  {
+    "hotelId": "9005754", 
+    "hotelName": "汉庭南京经五路弘阳家居城酒店", 
+    "hotelAddressShort": "栖霞区经五路壹城西区55幢"
+  }, 
+  {
+    "hotelId": "9000401", 
+    "hotelName": "汉庭南京上元门地铁站酒店", 
+    "hotelAddressShort": "鼓楼区中央北路270号"
+  }, 
+  {
+    "hotelId": "9014363", 
+    "hotelName": "桔子南京溧水开发区机场路酒店", 
+    "hotelAddressShort": "宝塔北路22号金都华府商业街北端"
+  }, 
+  {
+    "hotelId": "9008663", 
+    "hotelName": "汉庭南京上元门地铁站永济大道酒店", 
+    "hotelAddressShort": "永济大道上元里6号"
+  }, 
+  {
+    "hotelId": "2118993", 
+    "hotelName": "全季南京浦口新浦路酒店", 
+    "hotelAddressShort": "新浦路120号"
+  }, 
+  {
+    "hotelId": "9005534", 
+    "hotelName": "怡莱南京新街口王府大街酒店", 
+    "hotelAddressShort": "江苏省南京市秦淮区新街口王府大街8号"
+  }, 
+  {
+    "hotelId": "2100026", 
+    "hotelName": "汉庭优佳南京新街口酒店", 
+    "hotelAddressShort": "洪武路135号淘淘巷5楼（苏宁生活广场东）"
+  }, 
+  {
+    "hotelId": "9015710", 
+    "hotelName": "桔子南京百家湖酒店", 
+    "hotelAddressShort": "天元西路146号（地铁3号线天元西路3号口出）"
+  }, 
+  {
+    "hotelId": "9014505", 
+    "hotelName": "汉庭南京天印大道昌宁路酒店", 
+    "hotelAddressShort": "江宁区天印大道1180号"
+  }, 
+  {
+    "hotelId": "9014870", 
+    "hotelName": "汉庭南京溧水海乐城通济街酒店", 
+    "hotelAddressShort": "溧水区永阳镇珍珠北路75号"
+  }, 
+  {
+    "hotelId": "8000230", 
+    "hotelName": "桔子南京新街口张府园地铁站酒店", 
+    "hotelAddressShort": "中山南路288号苏茂大厦"
+  }, 
+  {
+    "hotelId": "9009941", 
+    "hotelName": "全季南京龙江新城市广场酒店", 
+    "hotelAddressShort": "江苏省南京市龙园西路106号宝地园25栋主楼"
+  }, 
+  {
+    "hotelId": "9010572", 
+    "hotelName": "桔子南京江宁天印大道酒店", 
+    "hotelAddressShort": "宏运大道4597号景祥大厦C区"
+  }, 
+  {
+    "hotelId": "9011223", 
+    "hotelName": "南京仙林万达茂漫心酒店", 
+    "hotelAddressShort": "西岗街道仙林大道181号"
+  }, 
+  {
+    "hotelId": "9003025", 
+    "hotelName": "桔子南京新街口户部街酒店", 
+    "hotelAddressShort": "小火瓦巷四十八村12号"
+  }, 
+  {
+    "hotelId": "9001902", 
+    "hotelName": "全季南京江心洲文泰街酒店", 
+    "hotelAddressShort": "文泰街85号"
+  }, 
+  {
+    "hotelId": "9000683", 
+    "hotelName": "桔子南京夫子庙三山街酒店", 
+    "hotelAddressShort": "仙鹤街118号"
+  }, 
+  {
+    "hotelId": "2115002", 
+    "hotelName": "汉庭南京六合横梁酒店", 
+    "hotelAddressShort": "六合区横梁街道瑞成路9号（东骏华府A8幢）"
+  }, 
+  {
+    "hotelId": "9001859", 
+    "hotelName": "桔子南京夫子庙龙蟠中路酒店", 
+    "hotelAddressShort": "龙蟠中路323号"
+  }, 
+  {
+    "hotelId": "2112001", 
+    "hotelName": "汉庭南京溧水顾家欧亚达广场酒店", 
+    "hotelAddressShort": "永阳镇秦淮路159-24号"
+  }, 
+  {
+    "hotelId": "2100027", 
+    "hotelName": "全季南京总统府酒店", 
+    "hotelAddressShort": "中山东路139号"
+  }, 
+  {
+    "hotelId": "9007268", 
+    "hotelName": "星程南京六合雄州东路酒店", 
+    "hotelAddressShort": "雄州街道雄州东路85号(雄州东路和白果南路交叉口)"
+  }, 
+  {
+    "hotelId": "2100322", 
+    "hotelName": "汉庭优佳南京高新学府路酒店", 
+    "hotelAddressShort": "浦口区高新路23号力朋广场"
+  }, 
+  {
+    "hotelId": "9000839", 
+    "hotelName": "全季南京新街口王府大街酒店", 
+    "hotelAddressShort": "王府大街63号-19"
+  }, 
+  {
+    "hotelId": "9001390", 
+    "hotelName": "全季南京夫子庙三山街酒店", 
+    "hotelAddressShort": "中山南路499号长乐大厦(近夫子庙、瞻园、老门东、熙南里等）"
+  }, 
+  {
+    "hotelId": "2100016", 
+    "hotelName": "海友良品南京夫子庙酒店", 
+    "hotelAddressShort": "南京市秦淮区瞻园路7号"
+  }, 
+  {
+    "hotelId": "9000120", 
+    "hotelName": "桔子南京火车站玄武湖酒店", 
+    "hotelAddressShort": "龙蟠路31号（近火车站）"
+  }, 
+  {
+    "hotelId": "9000350", 
+    "hotelName": "星程南京汉中门酒店", 
+    "hotelAddressShort": "虎踞路57号（鼓楼区社保局旁边）"
+  }, 
+  {
+    "hotelId": "9001605", 
+    "hotelName": "宜必思尚品南京火车站玄武湖酒店", 
+    "hotelAddressShort": "南京市鼓楼区建宁路8号玉桥商业广场A座"
+  }, 
+  {
+    "hotelId": "2100045", 
+    "hotelName": "桔子南京新街口王府大街酒店", 
+    "hotelAddressShort": "南台巷32号"
+  }, 
+  {
+    "hotelId": "2250027", 
+    "hotelName": "南京南站美居酒店", 
+    "hotelAddressShort": "天元西路199号"
+  }, 
+  {
+    "hotelId": "9000847", 
+    "hotelName": "汉庭优佳南京珠江路浮桥地铁站酒店", 
+    "hotelAddressShort": "玄武区珠江路370号"
+  }, 
+  {
+    "hotelId": "2100184", 
+    "hotelName": "汉庭南京溧水机场路酒店", 
+    "hotelAddressShort": "秦淮大道188号"
+  }, 
+  {
+    "hotelId": "2100011", 
+    "hotelName": "汉庭南京夫子庙步行街酒店", 
+    "hotelAddressShort": "秦淮区大石坝街146号"
+  }, 
+  {
+    "hotelId": "2100291", 
+    "hotelName": "汉庭南京汉中门地铁站酒店", 
+    "hotelAddressShort": "秦淮区汉中路209号"
+  }, 
+  {
+    "hotelId": "9001619", 
+    "hotelName": "汉庭南京葛塘地铁站酒店", 
+    "hotelAddressShort": "江北新区宁六路400号"
+  }, 
+  {
+    "hotelId": "8000097", 
+    "hotelName": "全季南京火车站酒店", 
+    "hotelAddressShort": "红山南路69号"
+  }, 
+  {
+    "hotelId": "9020604", 
+    "hotelName": "汉庭南京丹凤街酒店", 
+    "hotelAddressShort": "唱经楼西街28号(珠江路地铁站3号口步行350米)"
+  }, 
+  {
+    "hotelId": "8000265", 
+    "hotelName": "桔子水晶南京奥体中心酒店", 
+    "hotelAddressShort": "江东中路231号8幢(近奥林匹克体育中心，中央商场，华采天地，金鹰世界））"
+  }, 
+  {
+    "hotelId": "9012998", 
+    "hotelName": "汉庭南京信息工程大学晓山路酒店", 
+    "hotelAddressShort": "晓山路101号"
+  }, 
+  {
+    "hotelId": "8916579", 
+    "hotelName": "全季南京仙林万达茂酒店", 
+    "hotelAddressShort": "南京市栖霞区学森路12号"
+  }, 
+  {
+    "hotelId": "8000038", 
+    "hotelName": "宜必思南京夫子庙酒店", 
+    "hotelAddressShort": "南京市秦淮区中华路1号(距张府园1号线433m、水游城400m、夫子庙800m)"
+  }, 
+  {
+    "hotelId": "9006547", 
+    "hotelName": "汉庭南京东郊小镇地铁站酒店", 
+    "hotelAddressShort": "汤山街道麒东路777号"
+  }, 
+  {
+    "hotelId": "8000515", 
+    "hotelName": "宜必思尚品南京夫子庙张府园地铁站酒店", 
+    "hotelAddressShort": "南京市秦淮区中山南路344号(地铁1号线张府园站3号出口出来右后方直行20米即到)"
+  }, 
+  {
+    "hotelId": "9000685", 
+    "hotelName": "全季南京山西路酒店", 
+    "hotelAddressShort": "江苏省南京市鼓楼区山西路57号"
+  }, 
+  {
+    "hotelId": "9001313", 
+    "hotelName": "全季南京仙林徐庄软件园酒店", 
+    "hotelAddressShort": "江苏省南京市玄武区玄武大道108号"
+  }, 
+  {
+    "hotelId": "2100073", 
+    "hotelName": "全季南京明故宫酒店", 
+    "hotelAddressShort": "御道街12号"
+  }, 
+  {
+    "hotelId": "9000201", 
+    "hotelName": "汉庭优佳南京中山东路总统府酒店", 
+    "hotelAddressShort": "秦淮区中山东路416号"
+  }, 
+  {
+    "hotelId": "2100006", 
+    "hotelName": "全季南京新街口中央商场酒店", 
+    "hotelAddressShort": "淮海路金銮巷9号"
+  }, 
+  {
+    "hotelId": "9015142", 
+    "hotelName": "汉庭南京浦口医药谷高新路酒店", 
+    "hotelAddressShort": "江北新区高新路43号"
+  }, 
+  {
+    "hotelId": "2100163", 
+    "hotelName": "汉庭南京黄埔路酒店", 
+    "hotelAddressShort": "玄武区黄埔路2号东部战区总医院对面"
+  }, 
+  {
+    "hotelId": "9020867", 
+    "hotelName": "汉庭南京苜蓿园大街酒店", 
+    "hotelAddressShort": "苜蓿园大街165号（近博物院，中山陵，夫子庙，理工大学，农业大学，公交苜蓿园大街南站30米）"
+  }, 
+  {
+    "hotelId": "2115001", 
+    "hotelName": "汉庭南京六合雄州地铁站酒店", 
+    "hotelAddressShort": "六合区雄州南路3号(地铁S8号线雄州站2号出口左转100米)"
+  }, 
+  {
+    "hotelId": "9006440", 
+    "hotelName": "全季南京高淳螃蟹城酒店", 
+    "hotelAddressShort": "南京市高淳区淳溪街道汶溪路26号南京固城湖螃蟹市场B区B03栋"
+  }, 
+  {
+    "hotelId": "2100294", 
+    "hotelName": "汉庭南京新街口华侨路酒店", 
+    "hotelAddressShort": "鼓楼区华侨路81号"
+  }, 
+  {
+    "hotelId": "8000562", 
+    "hotelName": "全季南京百家湖酒店", 
+    "hotelAddressShort": "江宁区天元西路199号  "
+  }, 
+  {
+    "hotelId": "9003601", 
+    "hotelName": "星程南京滨江开发区新天地酒店", 
+    "hotelAddressShort": "长兴大街834号新天地商贸街区3号楼"
+  }, 
+  {
+    "hotelId": "9009149", 
+    "hotelName": "汉庭南京溧水大学城酒店", 
+    "hotelAddressShort": "石湫街道雨山路1号秦淮世家花园云景街区6幢单元105室"
+  }, 
+  {
+    "hotelId": "2115991", 
+    "hotelName": "怡莱精品南京浦口信息工程大学地铁站酒店", 
+    "hotelAddressShort": "南京市浦口高新技术开发区杨新路1号"
+  }, 
+  {
+    "hotelId": "9000988", 
+    "hotelName": "全季南京仙林大学城酒店", 
+    "hotelAddressShort": "江苏省南京市栖霞区仙林街道学典路6号"
+  }, 
+  {
+    "hotelId": "8916633", 
+    "hotelName": "桔子南京中央门建宁路酒店", 
+    "hotelAddressShort": "玉宁路16号龙湖紫都城2座1单元"
+  }, 
+  {
+    "hotelId": "9012219", 
+    "hotelName": "你好南京市中医院大明路酒店", 
+    "hotelAddressShort": "秦淮区大明路136号（近南京市中医院）"
+  }, 
+  {
+    "hotelId": "9014304", 
+    "hotelName": "汉庭南京南站南广场酒店", 
+    "hotelAddressShort": "宏运大道宋艾新村01幢 "
+  }, 
+  {
+    "hotelId": "9010278", 
+    "hotelName": "星程南京高淳经济开发区花样城酒店", 
+    "hotelAddressShort": "经济开发区双高路50号花样城18幢128号（科创中心大楼向南200米）"
+  }, 
+  {
+    "hotelId": "8000446", 
+    "hotelName": "宜必思南京高淳老街酒店", 
+    "hotelAddressShort": "南京高淳学山路162号"
+  }, 
+  {
+    "hotelId": "2100462", 
+    "hotelName": "汉庭优佳南京仙林大学城仙尧路酒店", 
+    "hotelAddressShort": "栖霞区仙尧路8号"
+  }, 
+  {
+    "hotelId": "9005121", 
+    "hotelName": "汉庭南京广州路省人民医院酒店", 
+    "hotelAddressShort": "鼓楼区广州路207号（距离省人民医院、脑科医院、儿童医院步行2分钟即到）"
+  }, 
+  {
+    "hotelId": "9010170", 
+    "hotelName": "桔子南京百家湖小龙湾地铁站酒店", 
+    "hotelAddressShort": "江宁区天元中路118号"
+  }, 
+  {
+    "hotelId": "9000163", 
+    "hotelName": "全季南京珠江路北门桥酒店", 
+    "hotelAddressShort": "珠江路北门桥4号"
+  }, 
+  {
+    "hotelId": "9009606", 
+    "hotelName": "桔子南京奥体江东中路酒店", 
+    "hotelAddressShort": "江东中路315号中泰国际广场6栋18层（近博览中心、奥体中心、华采天地、南京眼）"
+  }, 
+  {
+    "hotelId": "9001080", 
+    "hotelName": "星程南京滨江开发区润寿北路酒店", 
+    "hotelAddressShort": "润寿北路619号（朗诗未来家小区西门口）"
+  }, 
+  {
+    "hotelId": "9005069", 
+    "hotelName": "全季南京奥体中心中泰国际广场酒店", 
+    "hotelAddressShort": "南京市建邺区江东中路305号"
+  }, 
+  {
+    "hotelId": "9000644", 
+    "hotelName": "全季南京夫子庙地铁站酒店", 
+    "hotelAddressShort": "太平南路529号"
+  }, 
+  {
+    "hotelId": "2100061", 
+    "hotelName": "汉庭南京夫子庙中华门酒店", 
+    "hotelAddressShort": "秦淮区钓鱼台95号"
+  }, 
+  {
+    "hotelId": "9002888", 
+    "hotelName": "全季南京牛首山风景区诚信大道酒店", 
+    "hotelAddressShort": "江宁开发区水长街8号"
+  }, 
+  {
+    "hotelId": "9006174", 
+    "hotelName": "汉庭南京中央门先锋广场酒店", 
+    "hotelAddressShort": "中央路300号"
+  }, 
+  {
+    "hotelId": "2111612", 
+    "hotelName": "汉庭南京江宁滨江开发区酒店", 
+    "hotelAddressShort": "江宁区滨江开发区宁芜大道1206号"
+  }, 
+  {
+    "hotelId": "8000548", 
+    "hotelName": "桔子南京火车南站百家湖酒店", 
+    "hotelAddressShort": "胜利路 99 号"
+  }, 
+  {
+    "hotelId": "9013144", 
+    "hotelName": "汉庭南京北京东路九华山地铁站酒店", 
+    "hotelAddressShort": "龙蟠中路29-1号（荷包套内）"
+  }, 
+  {
+    "hotelId": "8000574", 
+    "hotelName": "全季南京新街口莫愁路酒店", 
+    "hotelAddressShort": "莫愁路344号"
+  }, 
+  {
+    "hotelId": "2111069", 
+    "hotelName": "全季南京江宁东麒路酒店", 
+    "hotelAddressShort": "润麒南路1号"
+  }, 
+  {
+    "hotelId": "9009088", 
+    "hotelName": "桔子南京溧水大学城酒店", 
+    "hotelAddressShort": "碧桂园影湖路111号"
+  }, 
+  {
+    "hotelId": "9010277", 
+    "hotelName": "星程南京栖霞万寿地铁站酒店", 
+    "hotelAddressShort": "经五路8号（弘阳家居城对面）"
+  }, 
+  {
+    "hotelId": "9009435", 
+    "hotelName": "汉庭南京江宁滨江开发区园区酒店", 
+    "hotelAddressShort": "滨江经济开发区飞鹰路1号"
+  }, 
+  {
+    "hotelId": "2115993", 
+    "hotelName": "全季南京六合龙池酒店", 
+    "hotelAddressShort": "雄州南路333号"
+  }, 
+  {
+    "hotelId": "2100424", 
+    "hotelName": "汉庭优佳南京仙鹤门酒店", 
+    "hotelAddressShort": "玄武区仙居雅苑60号综合楼"
+  }, 
+  {
+    "hotelId": "9000373", 
+    "hotelName": "宜必思尚品南京东麒路酒店", 
+    "hotelAddressShort": "江苏省南京市江宁区临麒路12号(毗邻南京众彩批发市场斜对面麒麟科技园，4S园内)"
+  }, 
+  {
+    "hotelId": "2100491", 
+    "hotelName": "汉庭南京仙鹤门紫东商业街酒店", 
+    "hotelAddressShort": "栖霞区马群街道紫东路2号"
+  }, 
+  {
+    "hotelId": "2100463", 
+    "hotelName": "怡莱南京仙林大学城酒店", 
+    "hotelAddressShort": "江苏省南京市栖霞区学衡路1号九霄梦天地B幢"
+  }, 
+  {
+    "hotelId": "9004654", 
+    "hotelName": "桔子南京河西金鹰酒店", 
+    "hotelAddressShort": "应天大街776号"
+  }, 
+  {
+    "hotelId": "9001392", 
+    "hotelName": "泊金·全季南京商厦酒店", 
+    "hotelAddressShort": "龙蟠路2号(小市地铁站3号口出步行422米)"
+  }, 
+  {
+    "hotelId": "2111031", 
+    "hotelName": "汉庭优佳南京江宁万安西路酒店", 
+    "hotelAddressShort": "江宁区万安西路168号"
+  }, 
+  {
+    "hotelId": "2111005", 
+    "hotelName": "宜必思南京江宁谷里产业园酒店", 
+    "hotelAddressShort": "江宁区谷里镇振容路8号"
+  }, 
+  {
+    "hotelId": "2100143", 
+    "hotelName": "全季南京航空航天大学酒店", 
+    "hotelAddressShort": "后标营路25-1号"
+  }, 
+  {
+    "hotelId": "8000633", 
+    "hotelName": "汉庭优佳南京明故宫瑞金路酒店", 
+    "hotelAddressShort": "秦淮区瑞金路25号"
+  }, 
+  {
+    "hotelId": "2100171", 
+    "hotelName": "汉庭南京河西集庆门大街酒店", 
+    "hotelAddressShort": "建邺区集庆门大街42号"
+  }, 
+  {
+    "hotelId": "2100065", 
+    "hotelName": "宜必思尚品南京南站北广场酒店", 
+    "hotelAddressShort": "南京市雨花台区六朝路1号"
+  }, 
+  {
+    "hotelId": "9007933", 
+    "hotelName": "汉庭南京南站北广场站前中心酒店", 
+    "hotelAddressShort": "南京市雨花台区玉兰路98号南京南站北广场地下商业空间B1-01"
+  }, 
+  {
+    "hotelId": "2100194", 
+    "hotelName": "全季南京河西博览中心酒店", 
+    "hotelAddressShort": "江苏省南京市建邺区河西大街230号台湾名品城10馆（河西大街与苍山路交汇处）"
+  }, 
+  {
+    "hotelId": "9015310", 
+    "hotelName": "全季南京龙江新城市广场漓江路酒店", 
+    "hotelAddressShort": "江苏省南京市鼓楼区漓江路28号（地铁4号线龙江站1号口出站700米）"
+  }, 
+  {
+    "hotelId": "2111067", 
+    "hotelName": "宜必思南京江宁南航大学酒店(原将军大道店)", 
+    "hotelAddressShort": "江宁区将军大道20号（距南航大学西门500米，南航大学西门斜对面）"
+  }, 
+  {
+    "hotelId": "2100313", 
+    "hotelName": "汉庭南京桥北金盛国际家居酒店", 
+    "hotelAddressShort": "浦口区大桥北路24号（金盛国际家居5楼）"
+  }, 
+  {
+    "hotelId": "9001402", 
+    "hotelName": "桔子南京江宁砂之船未来网络小镇酒店", 
+    "hotelAddressShort": "苏源大道117号"
+  }, 
+  {
+    "hotelId": "9012929", 
+    "hotelName": "全季南京百家湖1912酒店", 
+    "hotelAddressShort": "南京市江宁区双龙大道1680号凤凰港商贸城8幢"
+  }, 
+  {
+    "hotelId": "2100375", 
+    "hotelName": "全季南京中央门建宁路酒店", 
+    "hotelAddressShort": "建宁路61号"
+  }, 
+  {
+    "hotelId": "9000886", 
+    "hotelName": "桔子南京大学广州路酒店", 
+    "hotelAddressShort": "广州路37号"
+  }, 
+  {
+    "hotelId": "2100371", 
+    "hotelName": "汉庭优佳南京玄武门酒店", 
+    "hotelAddressShort": "玄武区中央路264号"
+  }, 
+  {
+    "hotelId": "9009462", 
+    "hotelName": "全季南京溧水永寿坊商业街酒店", 
+    "hotelAddressShort": "溧水区永阳街道西坛路99号"
+  }, 
+  {
+    "hotelId": "9009433", 
+    "hotelName": "汉庭南京博物院明故宫地铁站酒店", 
+    "hotelAddressShort": "中山东路323号"
+  }, 
+  {
+    "hotelId": "2100423", 
+    "hotelName": "汉庭南京林业大学新庄地铁站酒店", 
+    "hotelAddressShort": "玄武区龙蟠路165号"
+  }, 
+  {
+    "hotelId": "2111121", 
+    "hotelName": "汉庭南京东南大学诚信大道地铁站酒店", 
+    "hotelAddressShort": "江宁区诚信大道990号"
+  }, 
+  {
+    "hotelId": "2100461", 
+    "hotelName": "汉庭南京尧化门地铁站酒店", 
+    "hotelAddressShort": "栖霞区尧佳路33-10号"
+  }, 
+  {
+    "hotelId": "9001174", 
+    "hotelName": "汉庭南京白下高新技术产业园酒店", 
+    "hotelAddressShort": "江宁区大里聚福城觅秀西园3栋"
+  }, 
+  {
+    "hotelId": "8000323", 
+    "hotelName": "汉庭优佳南京江浦文德路研创园酒店", 
+    "hotelAddressShort": "浦口区团结西路滨江馨园幸福里商业街3-1-114"
+  }, 
+  {
+    "hotelId": "9017242", 
+    "hotelName": "全季南京河西博览中心中和路酒店", 
+    "hotelAddressShort": "南京市建邺区中和路121号（近河西儿童医院.河西博览中心.金融城.螺塘路地铁站步行600米）"
+  }, 
+  {
+    "hotelId": "9017236", 
+    "hotelName": "星程南京高淳八佰伴固城湖北路酒店", 
+    "hotelAddressShort": "固城湖北路53号"
+  }, 
+  {
+    "hotelId": "8000092", 
+    "hotelName": "汉庭南京河西国际博览中心酒店", 
+    "hotelAddressShort": "建邺区金沙江东街33号"
+  }, 
+  {
+    "hotelId": "9002648", 
+    "hotelName": "桔子南京江宁东南大学诚信大道酒店", 
+    "hotelAddressShort": "前庄路299号"
+  }, 
+  {
+    "hotelId": "9008662", 
+    "hotelName": "汉庭南京大厂长冲步行街酒店", 
+    "hotelAddressShort": "江北新区大厂街道新华路528号"
+  }, 
+  {
+    "hotelId": "9017975", 
+    "hotelName": "你好南京高淳宝龙广场店", 
+    "hotelAddressShort": "淳溪街道汶溪路163-13号"
+  }, 
+  {
+    "hotelId": "9011396", 
+    "hotelName": "汉庭南京秣陵工业园建兴街酒店", 
+    "hotelAddressShort": "江宁区秣陵街道建兴街45号"
+  }, 
+  {
+    "hotelId": "2113011", 
+    "hotelName": "汉庭南京板桥振兴路酒店", 
+    "hotelAddressShort": "雨花台区板桥振兴路1号"
+  }, 
+  {
+    "hotelId": "2100382", 
+    "hotelName": "汉庭南京新港开发区二店", 
+    "hotelAddressShort": "栖霞区恒通大道50-8号"
+  }, 
+  {
+    "hotelId": "2100023", 
+    "hotelName": "汉庭南京新街口常府街地铁站酒店", 
+    "hotelAddressShort": "秦淮区常府街39号"
+  }, 
+  {
+    "hotelId": "9009778", 
+    "hotelName": "你好南京夫子庙步行街酒店", 
+    "hotelAddressShort": "南京市秦淮区瞻园路29号（市第一医院对面，近航天管理干部学院）"
+  }, 
+  {
+    "hotelId": "9001135", 
+    "hotelName": "全季南京丹凤街酒店", 
+    "hotelAddressShort": "大石桥街29号"
+  }, 
+  {
+    "hotelId": "2111122", 
+    "hotelName": "汉庭南京江宁交院地铁站酒店", 
+    "hotelAddressShort": "江宁区龙眠大道688号9栋"
+  }, 
+  {
+    "hotelId": "9003602", 
+    "hotelName": "星程南京江宁滨江开发区地秀路酒店", 
+    "hotelAddressShort": "地秀路516号"
+  }, 
+  {
+    "hotelId": "2100062", 
+    "hotelName": "汉庭南京河西金鹰酒店", 
+    "hotelAddressShort": "建邺区应天大街778号"
+  }, 
+  {
+    "hotelId": "9001148", 
+    "hotelName": "全季南京江宁砂之船奥莱酒店", 
+    "hotelAddressShort": "悠谷路2号。"
+  }, 
+  {
+    "hotelId": "2118991", 
+    "hotelName": "汉庭南京江浦龙华路地铁站酒店", 
+    "hotelAddressShort": "浦口区江浦龙华路26号"
+  }, 
+  {
+    "hotelId": "2111011", 
+    "hotelName": "汉庭南京江宁东麒路酒店", 
+    "hotelAddressShort": "江宁区东麒路33号"
+  }, 
+  {
+    "hotelId": "2111064", 
+    "hotelName": "汉庭南京江宁东山汽车站酒店", 
+    "hotelAddressShort": "江宁区上元大街1098号"
+  }, 
+  {
+    "hotelId": "2100111", 
+    "hotelName": "汉庭南京鼓楼广场酒店", 
+    "hotelAddressShort": "鼓楼区中山北路28号江苏商厦内"
+  }, 
+  {
+    "hotelId": "9000131", 
+    "hotelName": "汉庭优佳南京仙林大学城文成路酒店", 
+    "hotelAddressShort": "栖霞区仙林大学城文成路3号"
+  }, 
+  {
+    "hotelId": "2100067", 
+    "hotelName": "全季南京南站南广场酒店", 
+    "hotelAddressShort": "明城大道40号"
+  }, 
+  {
+    "hotelId": "8000612", 
+    "hotelName": "星程轻居南京温泉度假区汤山地铁站酒店", 
+    "hotelAddressShort": "汤泉东路308号(汤泉东路与若水路交叉口汤山4号地铁口向南300米）"
+  }, 
+  {
+    "hotelId": "9008183", 
+    "hotelName": "海友南京五塘广场酒店", 
+    "hotelAddressShort": "幕府西路88号"
+  }, 
+  {
+    "hotelId": "2100151", 
+    "hotelName": "汉庭南京五塘广场酒店", 
+    "hotelAddressShort": "鼓楼区幕府西路29号，地铁7号线幕府西路站2号出口"
+  }, 
+  {
+    "hotelId": "2100185", 
+    "hotelName": "全季南京龙蟠中路酒店", 
+    "hotelAddressShort": "龙蟠中路88号"
+  }, 
+  {
+    "hotelId": "9010080", 
+    "hotelName": "全季南京江宁大学城湖山路酒店", 
+    "hotelAddressShort": "湖山路717号"
+  }, 
+  {
+    "hotelId": "2111532", 
+    "hotelName": "星程南京江宁开发区将军大道酒店", 
+    "hotelAddressShort": "开拓路1号"
+  }, 
+  {
+    "hotelId": "2100014", 
+    "hotelName": "海友南京夫子庙中华路酒店", 
+    "hotelAddressShort": "江苏省南京市秦淮区中华路308号"
+  }, 
+  {
+    "hotelId": "2111991", 
+    "hotelName": "汉庭南京江宁黄金海岸酒店", 
+    "hotelAddressShort": "江宁区明月路188号"
+  }, 
+  {
+    "hotelId": "2100091", 
+    "hotelName": "汉庭南京湖南路酒店", 
+    "hotelAddressShort": "鼓楼区裴家桥29号"
+  }, 
+  {
+    "hotelId": "8000140", 
+    "hotelName": "汉庭南京明故宫瑞金路酒店", 
+    "hotelAddressShort": "秦淮区瑞金路25号"
+  }, 
+  {
+    "hotelId": "2111009", 
+    "hotelName": "汉庭优佳南京江宁职业技术学院酒店", 
+    "hotelAddressShort": "江宁区至善路1号"
+  }, 
+  {
+    "hotelId": "9000822", 
+    "hotelName": "汉庭优佳南京夫子庙中华门地铁站酒店", 
+    "hotelAddressShort": "雨花台区雨花西路35-1号"
+  }, 
+  {
+    "hotelId": "2100123", 
+    "hotelName": "汉庭南京小行地铁站酒店", 
+    "hotelAddressShort": "雨花台区小行路58号11幢"
+  }, 
+  {
+    "hotelId": "9008254", 
+    "hotelName": "汉庭南京双龙大道胜太路地铁站酒店", 
+    "hotelAddressShort": "双龙大道1222号"
+  }, 
+  {
+    "hotelId": "2111992", 
+    "hotelName": "汉庭优佳南京江宁南航大学酒店", 
+    "hotelAddressShort": "江宁区胜太西路160号"
+  }, 
+  {
+    "hotelId": "9006084", 
+    "hotelName": "星程南京中山陵下马坊地铁站酒店", 
+    "hotelAddressShort": "中山门大街99号君临紫金商业街6栋"
+  }, 
+  {
+    "hotelId": "2100066", 
+    "hotelName": "宜必思南京南站北广场酒店", 
+    "hotelAddressShort": "南京市雨花台区玉盘东街2号"
+  }, 
+  {
+    "hotelId": "2100128", 
+    "hotelName": "汉庭优佳南京小行地铁站酒店", 
+    "hotelAddressShort": "小行路69号顺德生活广场3-4层"
+  }, 
+  {
+    "hotelId": "2100443", 
+    "hotelName": "汉庭南京浦口信息工程大学地铁站酒店", 
+    "hotelAddressShort": "浦口区盘城街道新华西路458号44栋苏果超市旁"
+  }, 
+  {
+    "hotelId": "9003261", 
+    "hotelName": "全季南京江东中路酒店", 
+    "hotelAddressShort": "江东中路152-3号"
+  }, 
+  {
+    "hotelId": "2100393", 
+    "hotelName": "全季南京板桥酒店", 
+    "hotelAddressShort": "宁谷路108号"
+  }, 
+  {
+    "hotelId": "9022997", 
+    "hotelName": "宜必思南京江北弘阳广场酒店（升级中）", 
+    "hotelAddressShort": "大桥北路48号弘阳广场A4栋健康馆"
+  }, 
+  {
+    "hotelId": "9005723", 
+    "hotelName": "全季南京南站前广场酒店", 
+    "hotelAddressShort": "金兰路1号"
+  }, 
+  {
+    "hotelId": "8000139", 
+    "hotelName": "汉庭南京禄口机场酒店", 
+    "hotelAddressShort": "江宁区禄口街道来凤路9号（百利广场2栋）"
+  }, 
+  {
+    "hotelId": "8916560", 
+    "hotelName": "桔子南京板桥吾悦广场酒店", 
+    "hotelAddressShort": "新林大道板桥新城科创中心3号楼第一至五层"
+  }, 
+  {
+    "hotelId": "8000645", 
+    "hotelName": "汉庭优佳南京江宁启迪大街酒店", 
+    "hotelAddressShort": "江宁区启迪大街188号华清园1号楼（中山陵）"
+  }, 
+  {
+    "hotelId": "9001515", 
+    "hotelName": "汉庭南京兴隆大街地铁站酒店", 
+    "hotelAddressShort": "建邺区江东中路223号"
+  }, 
+  {
+    "hotelId": "2100057", 
+    "hotelName": "全季南京汉中门酒店", 
+    "hotelAddressShort": "汉中路185号"
+  }, 
+  {
+    "hotelId": "8000054", 
+    "hotelName": "汉庭南京河西万达酒店", 
+    "hotelAddressShort": "建邺区江东中路42号"
+  }, 
+  {
+    "hotelId": "8000199", 
+    "hotelName": "全季南京南站酒店", 
+    "hotelAddressShort": "玉兰路99号明发广场内5栋"
+  }, 
+  {
+    "hotelId": "9000892", 
+    "hotelName": "全季南京浦口弘阳广场酒店", 
+    "hotelAddressShort": "大桥北路24号"
+  }, 
+  {
+    "hotelId": "9003156", 
+    "hotelName": "汉庭南京南站软件大道酒店", 
+    "hotelAddressShort": "雨花台区玉兰路19-10号"
+  }, 
+  {
+    "hotelId": "2100034", 
+    "hotelName": "全季南京虹桥中山北路酒店", 
+    "hotelAddressShort": "中山北路219号"
+  }, 
+  {
+    "hotelId": "2111065", 
+    "hotelName": "汉庭南京江宁牛首山酒店", 
+    "hotelAddressShort": "江宁开发区水长街8号"
+  }, 
+  {
+    "hotelId": "2100043", 
+    "hotelName": "全季南京朝天宫酒店", 
+    "hotelAddressShort": "江苏省南京市秦淮区莫愁路329"
+  }, 
+  {
+    "hotelId": "2100372", 
+    "hotelName": "汉庭南京火车站南广场酒店", 
+    "hotelAddressShort": "玄武区湖景花园1号(距离南京火车站步行5分钟，毗邻玄武湖）"
+  }, 
+  {
+    "hotelId": "9003157", 
+    "hotelName": "汉庭优佳南京浦口浦东路酒店", 
+    "hotelAddressShort": "江北新区浦东路7号"
+  }, 
+  {
+    "hotelId": "8000429", 
+    "hotelName": "海友南京新港开发区酒店", 
+    "hotelAddressShort": "江苏省南京市栖霞区恒通大道50-8号1号楼3楼"
+  }, 
+  {
+    "hotelId": "2100129", 
+    "hotelName": "全季南京软件大道地铁站酒店", 
+    "hotelAddressShort": "软件大道106号"
+  }, 
+  {
+    "hotelId": "2100084", 
+    "hotelName": "星程南京新街口步行街酒店", 
+    "hotelAddressShort": "洪武路38号（正洪大厦，洪武路立体停车场内）"
+  }, 
+  {
+    "hotelId": "2100042", 
+    "hotelName": "汉庭南京夫子庙张府园地铁站酒店", 
+    "hotelAddressShort": "秦淮区建邺路76号张府园地铁口"
+  }, 
+  {
+    "hotelId": "8000073", 
+    "hotelName": "汉庭南京奥体中心北门酒店", 
+    "hotelAddressShort": "建邺区梦都大街138号"
+  }, 
+  {
+    "hotelId": "9014232", 
+    "hotelName": "星程南京溧水顾家欧亚达广场酒店", 
+    "hotelAddressShort": "秦淮路158号1幢"
+  }, 
+  {
+    "hotelId": "8000243", 
+    "hotelName": "怡莱精品南京夫子庙地铁站酒店", 
+    "hotelAddressShort": "南京市秦淮区慧园街6号"
+  }, 
+  {
+    "hotelId": "8000190", 
+    "hotelName": "怡莱南京马群地铁站酒店", 
+    "hotelAddressShort": "栖霞区中山门大街699号花园城"
+  }, 
+  {
+    "hotelId": "2110001", 
+    "hotelName": "桔子南京安德门酒店", 
+    "hotelAddressShort": "安德门大街15号"
+  }, 
+  {
+    "hotelId": "9013524", 
+    "hotelName": "你好南京河西金鹰酒店", 
+    "hotelAddressShort": "集庆门大街188号"
+  }, 
+  {
+    "hotelId": "9013210", 
+    "hotelName": "怡莱南京丁家庄地铁站酒店", 
+    "hotelAddressShort": "江苏省南京市栖霞区迈皋桥街道丁家庄商业街区4-11号3楼"
+  }, 
+  {
+    "hotelId": "9014581", 
+    "hotelName": "汉庭南京汤山汤泉东路酒店", 
+    "hotelAddressShort": "汤山镇汤泉东路15号"
+  }, 
+  {
+    "hotelId": "2115992", 
+    "hotelName": "汉庭南京六合长江路酒店", 
+    "hotelAddressShort": "六合区棠城西路179号"
+  }, 
+  {
+    "hotelId": "9007569", 
+    "hotelName": "怡莱南京河西集庆门大街酒店", 
+    "hotelAddressShort": "集庆门大街168号"
+  }, 
+  {
+    "hotelId": "8000135", 
+    "hotelName": "汉庭南京江宁麒麟科技园酒店", 
+    "hotelAddressShort": "江宁区运粮河东路717号"
+  }, 
+  {
+    "hotelId": "2100028", 
+    "hotelName": "汉庭优佳南京新街口中心酒店", 
+    "hotelAddressShort": "秦淮区淮海路2号"
+  }, 
+  {
+    "hotelId": "2111006", 
+    "hotelName": "宜必思尚品南京江宁麒麟门地铁站酒店", 
+    "hotelAddressShort": "江苏省南京市江宁区麒麟街道开城路109号"
+  }, 
+  {
+    "hotelId": "2100197", 
+    "hotelName": "汉庭优佳南京奥体中心酒店", 
+    "hotelAddressShort": "建邺区梦都大街138号"
+  }, 
+  {
+    "hotelId": "9013506", 
+    "hotelName": "全季南京仙林紫东创意园金马路酒店", 
+    "hotelAddressShort": "石狮路8号12-3#"
+  }, 
+  {
+    "hotelId": "9015087", 
+    "hotelName": "海友南京江宁金鹰百家湖地铁站酒店", 
+    "hotelAddressShort": "开发区天元西路42号蓝宝湾花园"
+  }, 
+  {
+    "hotelId": "9009974", 
+    "hotelName": "汉庭南京朝天宫虎踞南路酒店", 
+    "hotelAddressShort": "南京市秦淮区虎踞南路96号"
+  }, 
+  {
+    "hotelId": "9005538", 
+    "hotelName": "怡莱南京佳遇金马路地铁站酒店", 
+    "hotelAddressShort": "南京市栖霞区石狮路3号银城KINMA-Q社区1幢"
+  }, 
+  {
+    "hotelId": "9004364", 
+    "hotelName": "星程南京禄口机场酒店", 
+    "hotelAddressShort": "永欣大道3号牡丹苑6幢"
+  }, 
+  {
+    "hotelId": "9000326", 
+    "hotelName": "汉庭优佳南京龙江定淮门大街酒店", 
+    "hotelAddressShort": "鼓楼区江东北路417号"
+  }, 
+  {
+    "hotelId": "2100127", 
+    "hotelName": "汉庭南京岱山东来奥南城酒店", 
+    "hotelAddressShort": "雨花台区岱山中路4号（东来奥南城4层402）"
+  }, 
+  {
+    "hotelId": "2111007", 
+    "hotelName": "怡莱精品南京江宁龙眠大道地铁站酒店", 
+    "hotelAddressShort": "江苏省南京市江宁区天元东路358号"
+  }, 
+  {
+    "hotelId": "2112002", 
+    "hotelName": "海友南京溧水海乐城通济街酒店", 
+    "hotelAddressShort": "江苏省南京市溧水区珍珠南路8号"
+  }, 
+  {
+    "hotelId": "9006415", 
+    "hotelName": "怡莱南京溧水区海乐城步行街酒店", 
+    "hotelAddressShort": "南京市溧水区永阳镇中大街48号"
+  }, 
+  {
+    "hotelId": "9020868", 
+    "hotelName": "海友南京小市地铁站酒店", 
+    "hotelAddressShort": "江苏省南京市鼓楼区和燕路6号1层大堂，2层全部"
+  }, 
+  {
+    "hotelId": "9004928", 
+    "hotelName": "怡莱南京江宁天印大道酒店", 
+    "hotelAddressShort": "江苏省南京市江宁区上元大街888号"
+  }, 
+  {
+    "hotelId": "8000534", 
+    "hotelName": "桔子南京山西路虹桥酒店", 
+    "hotelAddressShort": "中山北路223号"
+  }, 
+  {
+    "hotelId": "2100097", 
+    "hotelName": "汉庭南京山西路酒店", 
+    "hotelAddressShort": "鼓楼区山西路水佐岗老菜市8号"
+  }, 
+  {
+    "hotelId": "2118992", 
+    "hotelName": "怡莱南京江浦龙华路地铁站酒店", 
+    "hotelAddressShort": "南京市浦口区珠泉路1号"
+  }, 
+  {
+    "hotelId": "9007730", 
+    "hotelName": "海友南京油坊桥地铁站酒店", 
+    "hotelAddressShort": "西善桥北路50号"
+  }, 
+  {
+    "hotelId": "9009801", 
+    "hotelName": "怡莱南京仙林中心地铁站酒店", 
+    "hotelAddressShort": "仙林大道118号尚东花园B区B-2室"
+  }, 
+  {
+    "hotelId": "9005968", 
+    "hotelName": "海友南京百家湖胜太路地铁站酒店", 
+    "hotelAddressShort": "南京市江宁区庄排路1号"
+  }, 
+  {
+    "hotelId": "8000086", 
+    "hotelName": "海友南京火车站地铁站酒店（质量整改）", 
+    "hotelAddressShort": "江苏省南京市玄武区龙蟠路121号南京站南广场向东300米"
+  }, 
+  {
+    "hotelId": "2100007", 
+    "hotelName": "怡莱南京高淳体育场酒店", 
+    "hotelAddressShort": "江苏省南京市高淳区龙井路2号"
+  }, 
+  {
+    "hotelId": "9009824", 
+    "hotelName": "星程南京交院地铁站酒店", 
+    "hotelAddressShort": "龙眠大道660号新壹城3号楼"
+  }, 
+  {
+    "hotelId": "2100124", 
+    "hotelName": "星程南京莫愁湖酒店", 
+    "hotelAddressShort": "长虹路4号(省国土资源厅对面)"
+  }, 
+  {
+    "hotelId": "9008272", 
+    "hotelName": "怡莱南京中山陵风景区酒店", 
+    "hotelAddressShort": "中山门大街99号（地铁2号线下马坊站1号出口直走250米左边交通银行旁）"
+  }, 
+  {
+    "hotelId": "9001176", 
+    "hotelName": "汉庭优佳南京南站酒店", 
+    "hotelAddressShort": "雨花台区玉兰路99号6幢101室"
+  }, 
+  {
+    "hotelId": "2111022", 
+    "hotelName": "怡莱精品南京诚信大道地铁站酒店", 
+    "hotelAddressShort": "秣陵街道诚信大道699号2幢六朝之星宾馆"
+  }, 
+  {
+    "hotelId": "2111131", 
+    "hotelName": "怡莱精品南京禄口机场酒店", 
+    "hotelAddressShort": "江宁区正阳路109号"
+  }, 
+  {
+    "hotelId": "2100181", 
+    "hotelName": "海友南京新街口珠江路酒店", 
+    "hotelAddressShort": "玄武区红庙美食街9号"
+  }, 
+  {
+    "hotelId": "9010056", 
+    "hotelName": "汉庭南京花园城迈化路酒店", 
+    "hotelAddressShort": "江苏省南京市栖霞区迈皋桥街道迈尧路396号"
+  }
+]

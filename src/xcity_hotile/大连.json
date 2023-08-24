@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "9004860", 
+    "hotelName": "桔子大连星海广场酒店", 
+    "hotelAddressShort": "滨海西路597号"
+  }, 
+  {
+    "hotelId": "9002312", 
+    "hotelName": "全季大连星海会展中心酒店", 
+    "hotelAddressShort": "大连市沙河口会展路43号"
+  }, 
+  {
+    "hotelId": "9001804", 
+    "hotelName": "桔子大连火车站酒店", 
+    "hotelAddressShort": "大连市西岗区建设街26，28号（地铁5号线G1口出站即是、大连站北广场出口）"
+  }, 
+  {
+    "hotelId": "8914948", 
+    "hotelName": "全季大连港湾广场酒店", 
+    "hotelAddressShort": "大连市中山区港湾街3号"
+  }, 
+  {
+    "hotelId": "1163181", 
+    "hotelName": "全季大连长兴岛经济区酒店", 
+    "hotelAddressShort": "辽宁省大连长兴岛经济区三堂街186、188号"
+  }, 
+  {
+    "hotelId": "9017279", 
+    "hotelName": "汉庭大连星海广场西安路酒店", 
+    "hotelAddressShort": "沙河口区五一路68号（地铁1、2号线 西安路站D口出 步行200米）"
+  }, 
+  {
+    "hotelId": "1160213", 
+    "hotelName": "汉庭大连马栏广场地铁站酒店", 
+    "hotelAddressShort": "甘井子区红旗东路7号"
+  }, 
+  {
+    "hotelId": "9004968", 
+    "hotelName": "全季大连青泥洼商业街酒店", 
+    "hotelAddressShort": "辽宁省大连市中山区青泥街7号"
+  }, 
+  {
+    "hotelId": "9015386", 
+    "hotelName": "桔子大连开发区安盛广场酒店", 
+    "hotelAddressShort": "金马路187号五彩城K区1栋-1号（近开发区安盛公交站，开发区轻轨站)"
+  }, 
+  {
+    "hotelId": "9009243", 
+    "hotelName": "汉庭大连中山解放路酒店", 
+    "hotelAddressShort": "大连市中山区葵英街道解放路318号"
+  }, 
+  {
+    "hotelId": "9015332", 
+    "hotelName": "桔子大连机场酒店", 
+    "hotelAddressShort": "西部通道南松路北观贤别墅A区（万达广场对面）"
+  }, 
+  {
+    "hotelId": "1160852", 
+    "hotelName": "汉庭优佳大连高新万达广场酒店", 
+    "hotelAddressShort": "火炬路22号"
+  }, 
+  {
+    "hotelId": "8000293", 
+    "hotelName": "汉庭优佳大连北站酒店", 
+    "hotelAddressShort": "大连市甘井子区南关岭190号（近北站北广场、地铁站）"
+  }, 
+  {
+    "hotelId": "8000237", 
+    "hotelName": "桔子大连中山广场人民路酒店", 
+    "hotelAddressShort": "辽宁省大连市中山区中山广场人民路21号"
+  }, 
+  {
+    "hotelId": "9014123", 
+    "hotelName": "全季大连星海广场胜利路酒店", 
+    "hotelAddressShort": "胜利路90号（百佳妇产医院东侧即是）"
+  }, 
+  {
+    "hotelId": "1160008", 
+    "hotelName": "汉庭大连北站酒店", 
+    "hotelAddressShort": "甘井子区姚家路6号（近北站、地铁站、第六人民医院、后盐陶瓷城及二手车市场）"
+  }, 
+  {
+    "hotelId": "1160118", 
+    "hotelName": "桔子大连青泥洼桥地铁站酒店", 
+    "hotelAddressShort": "中山路141-3号（希望大厦1号门正对面）"
+  }, 
+  {
+    "hotelId": "1160009", 
+    "hotelName": "全季大连和平广场酒店", 
+    "hotelAddressShort": "大连市沙河口区中山路522号"
+  }, 
+  {
+    "hotelId": "9016653", 
+    "hotelName": "汉庭大连开发区双D港酒店", 
+    "hotelAddressShort": "大连市金州双D港大地街生命三路2号（近小窑湾高速出口、近金石滩车程15分钟）"
+  }, 
+  {
+    "hotelId": "9003428", 
+    "hotelName": "全季大连西安路酒店", 
+    "hotelAddressShort": "辽宁省大连市沙河口区黄河路580号科学家公寓2号副楼"
+  }, 
+  {
+    "hotelId": "8000360", 
+    "hotelName": "汉庭大连森林动物园酒店（原南石道街店）", 
+    "hotelAddressShort": "大连市西岗区迎春路1号（森林动物园北门约500米，市交警支队对面）"
+  }, 
+  {
+    "hotelId": "9017715", 
+    "hotelName": "汉庭大连长兴岛经济区酒店", 
+    "hotelAddressShort": " 长兴岛经济区星岛路562号（三堂商业街）"
+  }, 
+  {
+    "hotelId": "8000326", 
+    "hotelName": "全季大连机场酒店", 
+    "hotelAddressShort": "大连市甘井子区迎客路9A-1、2号"
+  }, 
+  {
+    "hotelId": "8000198", 
+    "hotelName": "汉庭大连春柳地铁站酒店", 
+    "hotelAddressShort": "沙河口区华北路256号"
+  }, 
+  {
+    "hotelId": "1160119", 
+    "hotelName": "全季大连火车站酒店", 
+    "hotelAddressShort": "大连市西岗区团结街18号"
+  }, 
+  {
+    "hotelId": "1160921", 
+    "hotelName": "全季大连华南酒店", 
+    "hotelAddressShort": "大连市甘井子区华东路23号"
+  }, 
+  {
+    "hotelId": "9003650", 
+    "hotelName": "汉庭优佳大连机场酒店", 
+    "hotelAddressShort": "甘井子区虹港路483号6层"
+  }, 
+  {
+    "hotelId": "8000350", 
+    "hotelName": "汉庭大连机场虹港路酒店", 
+    "hotelAddressShort": "大连市甘井子区虹港路298号"
+  }, 
+  {
+    "hotelId": "9015915", 
+    "hotelName": "汉庭大连旅顺口酒店", 
+    "hotelAddressShort": "大连市旅顺口区自新街32号（顺屹商城1号门旁）"
+  }, 
+  {
+    "hotelId": "1160019", 
+    "hotelName": "桔子水晶大连火车站中山广场酒店", 
+    "hotelAddressShort": "友好路50号"
+  }, 
+  {
+    "hotelId": "1166021", 
+    "hotelName": "汉庭大连开发区万达广场酒店", 
+    "hotelAddressShort": "金州新区开发区东北二街29-2号（距离万达购物广场200米）"
+  }, 
+  {
+    "hotelId": "1160015", 
+    "hotelName": "全季大连人民路酒店", 
+    "hotelAddressShort": "大连市中山区人民路19号（平安大厦对面）"
+  }, 
+  {
+    "hotelId": "1160911", 
+    "hotelName": "汉庭大连华南广场酒店", 
+    "hotelAddressShort": "甘井子区山东路75号"
+  }, 
+  {
+    "hotelId": "1160211", 
+    "hotelName": "汉庭大连奥林匹克广场酒店", 
+    "hotelAddressShort": "大连市沙河口区东北路107-109号"
+  }, 
+  {
+    "hotelId": "9008725", 
+    "hotelName": "汉庭大连北站南广场酒店", 
+    "hotelAddressShort": "甘井子区华北路695号（近大连北站南广场、地铁1号线2号线、后盐高速口）"
+  }, 
+  {
+    "hotelId": "9015078", 
+    "hotelName": "汉庭大连香炉礁酒店", 
+    "hotelAddressShort": " 西岗区香周路80号 (汤本汤温泉对面）"
+  }, 
+  {
+    "hotelId": "8000150", 
+    "hotelName": "全季大连高新万达广场酒店", 
+    "hotelAddressShort": "大连市高新技术产业园区世达街21号"
+  }, 
+  {
+    "hotelId": "1160116", 
+    "hotelName": "汉庭大连青泥洼桥酒店", 
+    "hotelAddressShort": "大连市西岗区中山路143号"
+  }, 
+  {
+    "hotelId": "9019860", 
+    "hotelName": "汉庭大连金石滩发现王国酒店", 
+    "hotelAddressShort": "枫洋街3号一层部分及二至五层"
+  }, 
+  {
+    "hotelId": "8000409", 
+    "hotelName": "汉庭大连开发区轻轨站酒店", 
+    "hotelAddressShort": "大连市开发区五彩城E区2栋（轻轨站B口出左行200米）"
+  }, 
+  {
+    "hotelId": "8000313", 
+    "hotelName": "全季大连星海公园酒店", 
+    "hotelAddressShort": "大连市沙河口区尖山街241号"
+  }, 
+  {
+    "hotelId": "1160851", 
+    "hotelName": "汉庭大连海事大学地铁站酒店", 
+    "hotelAddressShort": "大连市沙河口区凌河街1号"
+  }, 
+  {
+    "hotelId": "8000598", 
+    "hotelName": "汉庭优佳大连辽师大地铁站酒店", 
+    "hotelAddressShort": "大连市沙河口区黄河路1049号"
+  }, 
+  {
+    "hotelId": "8000319", 
+    "hotelName": "全季大连开发区万达广场酒店", 
+    "hotelAddressShort": "大连开发区辽宁街20号"
+  }, 
+  {
+    "hotelId": "1163001", 
+    "hotelName": "汉庭瓦房店火车站酒店", 
+    "hotelAddressShort": "瓦房店市站前广场9-1号"
+  }, 
+  {
+    "hotelId": "8000349", 
+    "hotelName": "全季大连北站酒店", 
+    "hotelAddressShort": "辽宁省大连市甘井子区华东路159号"
+  }, 
+  {
+    "hotelId": "1160111", 
+    "hotelName": "汉庭大连火车站轻轨站酒店", 
+    "hotelAddressShort": "大连市西岗区云阳街32号"
+  }, 
+  {
+    "hotelId": "1160012", 
+    "hotelName": "汉庭大连中山广场地铁站酒店", 
+    "hotelAddressShort": "大连市中山区天津街58-3号"
+  }, 
+  {
+    "hotelId": "9001264", 
+    "hotelName": "汉庭大连东纬路地铁站酒店", 
+    "hotelAddressShort": "大连市甘井子区东纬路47号"
+  }, 
+  {
+    "hotelId": "1160115", 
+    "hotelName": "全季大连青泥洼桥酒店", 
+    "hotelAddressShort": "大连市西岗区中山路143号"
+  }, 
+  {
+    "hotelId": "9001385", 
+    "hotelName": "汉庭瓦房店瓦轴酒店", 
+    "hotelAddressShort": "大连瓦房店市北共济街一段1-4号"
+  }, 
+  {
+    "hotelId": "1160002", 
+    "hotelName": "汉庭庄河千盛百货酒店", 
+    "hotelAddressShort": "庄河市黄海大街398号"
+  }, 
+  {
+    "hotelId": "1164501", 
+    "hotelName": "汉庭大连庄河花园口酒店", 
+    "hotelAddressShort": "辽宁省大连市花园口经济区迎春街15号"
+  }, 
+  {
+    "hotelId": "1166003", 
+    "hotelName": "汉庭大连开发区金马路酒店", 
+    "hotelAddressShort": "大连开发区鞍山街12号"
+  }, 
+  {
+    "hotelId": "1160231", 
+    "hotelName": "汉庭优佳大连开发区安盛广场酒店", 
+    "hotelAddressShort": "大连金普新区开发区辽宁街51号（安盛购物广场、开发区管委会旁、区域核心）"
+  }, 
+  {
+    "hotelId": "1160331", 
+    "hotelName": "汉庭大连体育中心酒店（原亿丰国际车城店）", 
+    "hotelAddressShort": "大连市甘井子区西北路872号亿丰汽车城D座"
+  }, 
+  {
+    "hotelId": "9019721", 
+    "hotelName": "桔子大连北站酒店", 
+    "hotelAddressShort": "大连市甘井子区泉水D1区1号"
+  }, 
+  {
+    "hotelId": "8000289", 
+    "hotelName": "汉庭大连辽宁师范大学酒店", 
+    "hotelAddressShort": "大连市沙河口区西南路580号"
+  }, 
+  {
+    "hotelId": "9000859", 
+    "hotelName": "汉庭优佳大连港湾广场会议中心酒店", 
+    "hotelAddressShort": "大连市中山区人民路85号"
+  }, 
+  {
+    "hotelId": "9000811", 
+    "hotelName": "汉庭大连旅顺中心广场酒店", 
+    "hotelAddressShort": "大连市旅顺口区黄河路63号（大商新玛特对面）"
+  }
+]
