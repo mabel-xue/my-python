@@ -25,6 +25,9 @@ def get_data(url, params=None, headers=None):
 
 
 request_url = 'https://hweb-hotel.huazhu.com/hotels/hotel/list'
+headers = {
+    'Cookie': '_hudVID=51280303-8e08-01ae-3d12-667a260427f4; _hudSource=; _hudSID=1692839072641_4; _HZ_I_SessionId=5581db4d-da60-4f9f-bbed-2d3ba9f2fafd; userToken=487644794fd0448d87b440f0861b3671262571721; hud_refer=hrewards.huazhu.com/|10001,hpassport.huazhu.com/|10018,hrewards.huazhu.com/hotel|10013; _hudPVID=31; _hudSID_TS=1692839094344'
+}
 
 HotelStyle = {
     # 汉庭
@@ -39,23 +42,25 @@ HotelStyle = {
     'htyj': 18,
     'hy': 5,
 }
-
+month = '0808'
+date = '2627'
 hotelList = get_data(request_url, {
-    'checkInDate': '2023-09-26',
-    'checkOutDate': '2023-09-27',
-    'cityName': '大同',
-    'hotelStyle': HotelStyle['ht'],
+    'checkInDate': '2023-'+month[:2]+'-'+date[:2],
+    'checkOutDate': '2023-'+month[:2]+'-'+date[:2],
+    'cityName': '通辽',
+    'hotelStyle': HotelStyle['qj'],
     # 'sortBy':0
     'pageSize': 20,
-    'pageIndex': 1
-})
+    'pageIndex': 1,
+    # 'keyword': '全季天津中北新城市中心酒店',
+}, headers)
 
 data = [{
     'hotelId': item['hotelId'],
     'hotelName': item['hotelName'],
     'hotelAddressShort': item['hotelAddressShort'],
     'lowestMaretPrice': item['lowestMaretPrice'],
-    'price': item['lowestMaretPrice']*0.85
+    'hotelLowestPrice': item['hotelLowestPrice']
 } for item in hotelList['content']['hotelList']]
 
 

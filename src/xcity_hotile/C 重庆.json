@@ -1,0 +1,402 @@
+[
+  {
+    "hotelId": "9014931", 
+    "hotelName": "重庆山前宋品酒店", 
+    "hotelAddressShort": "中国重庆市沙坪坝区文广大道18号"
+  }, 
+  {
+    "hotelId": "8000454", 
+    "hotelName": "桔子重庆观音桥龙湖新壹街酒店", 
+    "hotelAddressShort": "建北八支路36号附114号 （红旗河沟地铁站3/6号线1号出口步行609米）"
+  }, 
+  {
+    "hotelId": "9014932", 
+    "hotelName": "重庆融创施柏阁酒店", 
+    "hotelAddressShort": "重庆市沙坪坝区文广大道18号附2号"
+  }, 
+  {
+    "hotelId": "4000208", 
+    "hotelName": "桔子重庆观音桥酒店", 
+    "hotelAddressShort": "华新街华唐路2号农垦大厦LG层（华新街地铁站2号出口步行409米)"
+  }, 
+  {
+    "hotelId": "9025042", 
+    "hotelName": "桔子水晶重庆观音桥酒店", 
+    "hotelAddressShort": "龙塔街道红黄路99号皇冠东和花园A3幢1-67一层局部、2-14层全部"
+  }, 
+  {
+    "hotelId": "9018796", 
+    "hotelName": "汉庭重庆彭水十字街酒店", 
+    "hotelAddressShort": "汉葭街道石嘴社区113号临江花园水天阁B栋（彭水县五桥旁，重百超市楼上）"
+  }, 
+  {
+    "hotelId": "4024601", 
+    "hotelName": "汉庭重庆荣昌南门桥步行街酒店", 
+    "hotelAddressShort": "南大街6号附1号"
+  }, 
+  {
+    "hotelId": "9003568", 
+    "hotelName": "桔子水晶重庆解放碑洪崖洞酒店", 
+    "hotelAddressShort": "新华路3号（大融汇）16楼"
+  }, 
+  {
+    "hotelId": "4000107", 
+    "hotelName": "重庆解放碑美居酒店", 
+    "hotelAddressShort": "八一路183号"
+  }, 
+  {
+    "hotelId": "9001505", 
+    "hotelName": "汉庭重庆火车西站酒店", 
+    "hotelAddressShort": "凤中路168号"
+  }, 
+  {
+    "hotelId": "4015191", 
+    "hotelName": "汉庭重庆合川行政中心酒店", 
+    "hotelAddressShort": "南津街718号"
+  }, 
+  {
+    "hotelId": "4000209", 
+    "hotelName": "重庆观音桥漫心酒店", 
+    "hotelAddressShort": "重庆市江北区洋河东路10号"
+  }, 
+  {
+    "hotelId": "9016195", 
+    "hotelName": "汉庭重庆巫山市政广场酒店", 
+    "hotelAddressShort": "重庆巫山县高唐街道平湖西路380号"
+  }, 
+  {
+    "hotelId": "9015619", 
+    "hotelName": "重庆解放碑洪崖洞美居酒店", 
+    "hotelAddressShort": "民族路128号-132号"
+  }, 
+  {
+    "hotelId": "4008001", 
+    "hotelName": "汉庭重庆万盛老街酒店", 
+    "hotelAddressShort": "莲池路175号"
+  }, 
+  {
+    "hotelId": "9013184", 
+    "hotelName": "桔子重庆沙坪坝磁器口酒店", 
+    "hotelAddressShort": "沙滨路101号附90-93号"
+  }, 
+  {
+    "hotelId": "4000602", 
+    "hotelName": "汉庭重庆南坪万达酒店", 
+    "hotelAddressShort": "南城大道7号（3号线5号南城大道出口直行）"
+  }, 
+  {
+    "hotelId": "9014935", 
+    "hotelName": "重庆融创永乐半山酒店", 
+    "hotelAddressShort": "中国重庆市沙坪坝区文广大道18号附1号"
+  }, 
+  {
+    "hotelId": "4000109", 
+    "hotelName": "全季重庆解放碑步行街民生路酒店", 
+    "hotelAddressShort": "民生路329号渝海大厦 （1/10号线七星岗站1号口直行620米）"
+  }, 
+  {
+    "hotelId": "9007402", 
+    "hotelName": "汉庭重庆涪陵高笋塘泽胜中央广场酒店", 
+    "hotelAddressShort": "高笋塘路7号电信局旁"
+  }, 
+  {
+    "hotelId": "9006210", 
+    "hotelName": "汉庭重庆云阳滨江购物公园酒店", 
+    "hotelAddressShort": "青龙街道滨江大道659号"
+  }, 
+  {
+    "hotelId": "9016150", 
+    "hotelName": "重庆万州福斯德广场美仑酒店", 
+    "hotelAddressShort": "太白路91-97号"
+  }, 
+  {
+    "hotelId": "9016494", 
+    "hotelName": "全季重庆石桥铺酒店", 
+    "hotelAddressShort": "石杨路33号（陈家坪汽车站旁）"
+  }, 
+  {
+    "hotelId": "4098001", 
+    "hotelName": "汉庭重庆酉阳桃花源酒店", 
+    "hotelAddressShort": "桃花源北路8号"
+  }, 
+  {
+    "hotelId": "4000422", 
+    "hotelName": "汉庭重庆大坪龙湖时代天街酒店", 
+    "hotelAddressShort": "长江二路马家堡煤建新村42号"
+  }, 
+  {
+    "hotelId": "4000203", 
+    "hotelName": "汉庭重庆观音桥地铁站酒店", 
+    "hotelAddressShort": "中野路5号建东大厦旁（9号线8号出口直行100米）"
+  }, 
+  {
+    "hotelId": "4041501", 
+    "hotelName": "汉庭重庆万州酒店", 
+    "hotelAddressShort": "沙龙路二段346号"
+  }, 
+  {
+    "hotelId": "9017903", 
+    "hotelName": "全季重庆巴南高职城酒店", 
+    "hotelAddressShort": "龙洲湾街道汇央路54号（近中国（重庆）职业技能公共实训中心直线距离100米）"
+  }, 
+  {
+    "hotelId": "4000501", 
+    "hotelName": "汉庭重庆杨家坪地铁站酒店", 
+    "hotelAddressShort": "杨家坪前进路53号（2号线1号出口杨家坪中学旁）"
+  }, 
+  {
+    "hotelId": "9012556", 
+    "hotelName": "星程重庆悦来国博会展中心酒店", 
+    "hotelAddressShort": "国博大道19号3幢（停车场：导航星程酒店停车场3号楼电梯上1楼）"
+  }, 
+  {
+    "hotelId": "9006022", 
+    "hotelName": "全季重庆解放碑洪崖洞酒店", 
+    "hotelAddressShort": "民族路99号帝都广场B塔1楼"
+  }, 
+  {
+    "hotelId": "9016175", 
+    "hotelName": "汉庭重庆涪陵宝龙广场稻香路酒店", 
+    "hotelAddressShort": "重庆市涪陵区稻香路40号（307公交总站旁）"
+  }, 
+  {
+    "hotelId": "4000132", 
+    "hotelName": "汉庭重庆两路口儿童医院酒店", 
+    "hotelAddressShort": "枇杷山正街136号(近两路口地铁站）"
+  }, 
+  {
+    "hotelId": "9007588", 
+    "hotelName": "全季重庆解放碑步行街酒店", 
+    "hotelAddressShort": "民权路35号9层（1号线/2号线较场口9号口直行80米"
+  }, 
+  {
+    "hotelId": "9015597", 
+    "hotelName": "重庆解放碑长航美仑酒店", 
+    "hotelAddressShort": "白象街18号"
+  }, 
+  {
+    "hotelId": "4021601", 
+    "hotelName": "汉庭重庆永川铭豪美食街酒店", 
+    "hotelAddressShort": "胜利路78号"
+  }, 
+  {
+    "hotelId": "9016524", 
+    "hotelName": "汉庭重庆大足双桥财富中心酒店", 
+    "hotelAddressShort": " 车城大道10号"
+  }, 
+  {
+    "hotelId": "9010383", 
+    "hotelName": "宜必思尚品重庆悦来会展中心酒店", 
+    "hotelAddressShort": "渝北区悦城路55号附13号（近地铁6号支线/国博线 国博中心站2号口）"
+  }, 
+  {
+    "hotelId": "4000112", 
+    "hotelName": "桔子重庆解放碑步行街酒店", 
+    "hotelAddressShort": "新华路138号万吉广场B幢"
+  }, 
+  {
+    "hotelId": "9015795", 
+    "hotelName": "全季重庆欢乐谷光环购物公园酒店", 
+    "hotelAddressShort": "重庆市渝北区鸳鸯街道湖霞街2号1幢（近地铁5号线湖霞街站-3号出口）"
+  }, 
+  {
+    "hotelId": "9003100", 
+    "hotelName": "全季重庆沙坪坝火车站步行街酒店", 
+    "hotelAddressShort": "北站东路188号附6号32-36层"
+  }, 
+  {
+    "hotelId": "4047001", 
+    "hotelName": "汉庭重庆巫山酒店", 
+    "hotelAddressShort": "宁江路188号"
+  }, 
+  {
+    "hotelId": "9006733", 
+    "hotelName": "星程重庆永川中央大街酒店", 
+    "hotelAddressShort": "胜利路18号1栋（文曲广场老干所旁）"
+  }, 
+  {
+    "hotelId": "9003372", 
+    "hotelName": "宜必思重庆江北国际机场酒店", 
+    "hotelAddressShort": "双龙大道60号(10号线渝北广场站3号出口,距离酒店700米;3号线碧津站1号出口距离酒店900米)"
+  }, 
+  {
+    "hotelId": "8000587", 
+    "hotelName": "汉庭重庆观音桥北城天街酒店", 
+    "hotelAddressShort": "建新东路11号（观音桥3号线1号口出站步行443米）"
+  }, 
+  {
+    "hotelId": "9012299", 
+    "hotelName": "你好重庆观音桥步行街中心酒店", 
+    "hotelAddressShort": "建新北路18号 (地铁3号线4号口步行500米，茂业百货与星光68商场中间，茶颜悦色对望）"
+  }, 
+  {
+    "hotelId": "9004200", 
+    "hotelName": "汉庭重庆北站龙头寺公园地铁站酒店", 
+    "hotelAddressShort": "重庆市北部新区高新园宝华大道16号（10号线龙头寺公园站5号口20米）"
+  }, 
+  {
+    "hotelId": "9000531", 
+    "hotelName": "全季重庆万州万达广场酒店", 
+    "hotelAddressShort": "复兴路48号城市之心B幢"
+  }, 
+  {
+    "hotelId": "9008901", 
+    "hotelName": "全季重庆中央公园龙湖天街酒店", 
+    "hotelAddressShort": "龙湖天际2号楼39层（近机场，会展中心，近地铁10号/5号线中央公园西站6号口）"
+  }, 
+  {
+    "hotelId": "9022334", 
+    "hotelName": "全季重庆两路口重庆中心酒店", 
+    "hotelAddressShort": "中山三路86号（两路口轻轨1/3号线2A出口）"
+  }, 
+  {
+    "hotelId": "4011201", 
+    "hotelName": "汉庭重庆鸳鸯园博园酒店", 
+    "hotelAddressShort": "重庆市渝北区翠渝路55号（近轻轨3号线园博园站-2号出口））"
+  }, 
+  {
+    "hotelId": "9012700", 
+    "hotelName": "全季重庆万州南滨公园酒店", 
+    "hotelAddressShort": "玉韵路19号"
+  }, 
+  {
+    "hotelId": "9000840", 
+    "hotelName": "全季重庆两江新区人和酒店", 
+    "hotelAddressShort": "重庆市渝北区人和大道8号（轻轨环线4号线民安大道—1B出口）"
+  }, 
+  {
+    "hotelId": "9011546", 
+    "hotelName": "全季重庆江北国际机场中央公园酒店", 
+    "hotelAddressShort": "同茂大道舟济路26号水木栖地商圈（10号线鹿山地铁站5号出口直行100米）"
+  }, 
+  {
+    "hotelId": "8000473", 
+    "hotelName": "汉庭重庆江北机场中央公园酒店", 
+    "hotelAddressShort": "融创中央广场7幢113号附13号（近地铁10号线麓山站5号出口）"
+  }, 
+  {
+    "hotelId": "9011593", 
+    "hotelName": "你好重庆北碚西南大学酒店", 
+    "hotelAddressShort": "北碚区文星湾131号旺德旺城小区中国银行楼上3楼"
+  }, 
+  {
+    "hotelId": "9019268", 
+    "hotelName": "全季重庆巫山市政广场酒店", 
+    "hotelAddressShort": "广东中路273号"
+  }, 
+  {
+    "hotelId": "4000607", 
+    "hotelName": "全季重庆南坪步行街上海城酒店", 
+    "hotelAddressShort": "开发路29号正扬大厦(3号线2号口右转200米斜对面)"
+  }, 
+  {
+    "hotelId": "4000206", 
+    "hotelName": "桔子重庆观音桥步行街中心酒店", 
+    "hotelAddressShort": "观音桥建新北路二支路19号飞扬世纪（观音桥地铁站5号口前行500米）"
+  }, 
+  {
+    "hotelId": "8000497", 
+    "hotelName": "全季重庆江北机场酒店", 
+    "hotelAddressShort": "重庆市渝北区两港大道309号圣名世贸城（近10号线环山公园站4A出口右转200米）"
+  }, 
+  {
+    "hotelId": "4000002", 
+    "hotelName": "汉庭重庆沙坪坝火车站龙湖金沙天街酒店", 
+    "hotelAddressShort": "小龙坎正街139号雾都大厦5楼"
+  }, 
+  {
+    "hotelId": "8916503", 
+    "hotelName": "星程重庆观音桥步行街酒店", 
+    "hotelAddressShort": "红锦大道23号加来金大厦1幢 （红旗河沟3/6号线2号出口步行200米）"
+  }, 
+  {
+    "hotelId": "4011473", 
+    "hotelName": "汉庭重庆财富中心洪湖东路地铁站酒店", 
+    "hotelAddressShort": "红锦大道555附5号（龙湖南苑旁，地铁环线洪湖东路地铁站711米）"
+  }, 
+  {
+    "hotelId": "4011204", 
+    "hotelName": "汉庭重庆黄泥磅地铁站酒店", 
+    "hotelAddressShort": "黄龙路44号（黄泥磅地铁站1A口出，皇冠中学斜对面）"
+  }, 
+  {
+    "hotelId": "4011474", 
+    "hotelName": "全季重庆两江幸福广场酒店", 
+    "hotelAddressShort": "重庆市渝北区黄山大道中段6号（轻轨6号线光电站-2B出口））"
+  }, 
+  {
+    "hotelId": "9020992", 
+    "hotelName": "全季重庆解放碑中心酒店", 
+    "hotelAddressShort": "大同路1号(临江门地铁站3号口步行120米)"
+  }, 
+  {
+    "hotelId": "8000266", 
+    "hotelName": "桔子重庆冉家坝酒店", 
+    "hotelAddressShort": "余松路319号（近财富中心、光电园；5/6号线大龙山站3号出口）"
+  }, 
+  {
+    "hotelId": "9001939", 
+    "hotelName": "星程重庆大足石刻体育中心酒店", 
+    "hotelAddressShort": "棠香街道二环南路889号南山明珠6号楼"
+  }, 
+  {
+    "hotelId": "4011208", 
+    "hotelName": "重庆机场诺富特酒店", 
+    "hotelAddressShort": "重庆江北国际机场T3A航站楼东南侧"
+  }, 
+  {
+    "hotelId": "9012656", 
+    "hotelName": "星程重庆汽博三亚湾地铁站酒店", 
+    "hotelAddressShort": "重庆市渝北区金石大道458号（地铁10号线三亚湾站-6号出口正对面）"
+  }, 
+  {
+    "hotelId": "9008954", 
+    "hotelName": "全季重庆观音桥步行街酒店", 
+    "hotelAddressShort": "建新北路78号（地铁3/6号线红旗河沟站1号出口670m、星光68广场旁）"
+  }, 
+  {
+    "hotelId": "9012677", 
+    "hotelName": "汉庭重庆融创文旅城酒店", 
+    "hotelAddressShort": "西桂路16号"
+  }, 
+  {
+    "hotelId": "8916322", 
+    "hotelName": "全季重庆西永微电园酒店", 
+    "hotelAddressShort": "永泰路88号(1号线微电园站1号出口，步梯下行穿过天街商场1层通道左斜对面）"
+  }, 
+  {
+    "hotelId": "4011212", 
+    "hotelName": "全季重庆火车北站酒店（质量整改）", 
+    "hotelAddressShort": "玉兰路2号(3号线，环线，10号线重庆北站南广场2号出口）"
+  }, 
+  {
+    "hotelId": "9012333", 
+    "hotelName": "全季重庆璧山CBD秀湖公园酒店", 
+    "hotelAddressShort": "泉山路19号"
+  }, 
+  {
+    "hotelId": "8916655", 
+    "hotelName": "汉庭重庆杨家坪步行街万象城酒店", 
+    "hotelAddressShort": "兴胜路65号"
+  }, 
+  {
+    "hotelId": "4000152", 
+    "hotelName": "全季重庆上清寺酒店", 
+    "hotelAddressShort": "嘉陵桥西村2号"
+  }, 
+  {
+    "hotelId": "4000301", 
+    "hotelName": "汉庭沙坪坝重庆大学酒店", 
+    "hotelAddressShort": "沙南街43号（南开中学旁）"
+  }, 
+  {
+    "hotelId": "9007719", 
+    "hotelName": "全季重庆蔡家地铁站酒店", 
+    "hotelAddressShort": "嘉瑞大道18号附201号(6号线3号口步行650米）"
+  }, 
+  {
+    "hotelId": "4000207", 
+    "hotelName": "桔子重庆解放碑洪崖洞江景酒店", 
+    "hotelAddressShort": "嘉陵江滨江路112号高盛创富中心B幢"
+  }
+]

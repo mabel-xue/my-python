@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "9011287", 
+    "hotelName": "桔子水晶长沙五一大道酒店", 
+    "hotelAddressShort": "五一路456号（原五一路68号）亚大时代大厦"
+  }, 
+  {
+    "hotelId": "9000500", 
+    "hotelName": "桔子水晶长沙芙蓉中路国金中心酒店", 
+    "hotelAddressShort": "湖南省长沙市天心区芙蓉中路450号，靠近人民中路"
+  }, 
+  {
+    "hotelId": "9000744", 
+    "hotelName": "长沙国金中心漫心酒店", 
+    "hotelAddressShort": "芙蓉区解放西路147号,IFS国金中心对面（停车需提前联系前台）地铁2号线五一广场3出口直行5分钟，地铁1号线黄兴广场1出口直行100米，紧邻黄兴路步行街30米"
+  }, 
+  {
+    "hotelId": "9011335", 
+    "hotelName": "长沙环球融创施柏阁酒店", 
+    "hotelAddressShort": "中国湖南省长沙市学园路9号"
+  }, 
+  {
+    "hotelId": "4100055", 
+    "hotelName": "桔子长沙国金中心酒店", 
+    "hotelAddressShort": "解放西路97号"
+  }, 
+  {
+    "hotelId": "9014077", 
+    "hotelName": "汉庭长沙窑岭湘雅二医院地铁站酒店", 
+    "hotelAddressShort": "人民中路228号(近地铁6号线窑岭湘雅二医院站1号口步行20米即可到达）"
+  }, 
+  {
+    "hotelId": "9011744", 
+    "hotelName": "长沙施柏阁大观酒店", 
+    "hotelAddressShort": "中国湖南省长沙市学园路3号"
+  }, 
+  {
+    "hotelId": "4100004", 
+    "hotelName": "桔子长沙五一大道火车站地铁站酒店", 
+    "hotelAddressShort": "五一大道65号"
+  }, 
+  {
+    "hotelId": "4100007", 
+    "hotelName": "桔子水晶长沙国金中心黄兴路步行街酒店", 
+    "hotelAddressShort": "黄兴中路1号世纪情珠宝大厦7-10层"
+  }, 
+  {
+    "hotelId": "9011289", 
+    "hotelName": "桔子长沙窑岭湘雅二医院地铁站酒店", 
+    "hotelAddressShort": "韶山北路228号（距湘雅附二医院南门50米）"
+  }, 
+  {
+    "hotelId": "4100062", 
+    "hotelName": "汉庭长沙岳麓橘子洲酒店", 
+    "hotelAddressShort": "岳麓区麓山路29号青枫大厦一层"
+  }, 
+  {
+    "hotelId": "9015714", 
+    "hotelName": "桔子长沙芙蓉中路富兴广场酒店", 
+    "hotelAddressShort": "长沙市开福区芙蓉中路一段185号(富兴广场旁）"
+  }, 
+  {
+    "hotelId": "9018787", 
+    "hotelName": "汉庭长沙五一广场国金中心酒店", 
+    "hotelAddressShort": "湖南省长沙市芙蓉区登隆街59号（地铁1号线黄兴广场站2号口步行200米即可到达）"
+  }, 
+  {
+    "hotelId": "8916468", 
+    "hotelName": "全季长沙月亮岛银星路酒店", 
+    "hotelAddressShort": "银星路999号"
+  }, 
+  {
+    "hotelId": "4100072", 
+    "hotelName": "全季长沙芙蓉中路酒店", 
+    "hotelAddressShort": "芙蓉中路二段193号"
+  }, 
+  {
+    "hotelId": "4100005", 
+    "hotelName": "桔子长沙芙蓉广场酒店", 
+    "hotelAddressShort": "芙蓉中路388号"
+  }, 
+  {
+    "hotelId": "9017351", 
+    "hotelName": "汉庭长沙湖南卫视中南汽车世界酒店", 
+    "hotelAddressShort": "湖南省长沙市长沙县开元西路12号"
+  }, 
+  {
+    "hotelId": "9007664", 
+    "hotelName": "宜必思尚品长沙火车站地铁站酒店", 
+    "hotelAddressShort": "长沙市芙蓉区五一大道34号（地铁1号口晓园公园方向出）"
+  }, 
+  {
+    "hotelId": "4100111", 
+    "hotelName": "汉庭长沙五一大道迎宾路地铁站酒店", 
+    "hotelAddressShort": "芙蓉区五一大道323号（地铁2号线迎宾路站2号出口直行300米）"
+  }, 
+  {
+    "hotelId": "9003561", 
+    "hotelName": "桔子长沙晚报大道酒店", 
+    "hotelAddressShort": "晚报大道349号"
+  }, 
+  {
+    "hotelId": "4100073", 
+    "hotelName": "汉庭长沙五一广场芙蓉中路酒店", 
+    "hotelAddressShort": "雨花区侯家塘街道麻园湾社区芙蓉中路二段187号(近茶颜悦色、笨萝卜浏阳菜馆）"
+  }, 
+  {
+    "hotelId": "9008892", 
+    "hotelName": "汉庭长沙南站酒店", 
+    "hotelAddressShort": "雨花区花侯路黎郡新宇太和园景园CEO大厦（长沙南站西广场出往左直行900米即到）"
+  }, 
+  {
+    "hotelId": "9001328", 
+    "hotelName": "全季长沙湖南金融中心酒店", 
+    "hotelAddressShort": "潇湘北路三段808号启迪协信中心A5栋"
+  }, 
+  {
+    "hotelId": "9015283", 
+    "hotelName": "桔子长沙四方坪国防科大酒店", 
+    "hotelAddressShort": "开福区三一大道156号工美大厦"
+  }, 
+  {
+    "hotelId": "4100015", 
+    "hotelName": "全季长沙东塘酒店", 
+    "hotelAddressShort": "曙光中路298号"
+  }, 
+  {
+    "hotelId": "4100076", 
+    "hotelName": "全季长沙火车站酒店", 
+    "hotelAddressShort": "长沙市芙蓉区远大一路222号"
+  }, 
+  {
+    "hotelId": "9012214", 
+    "hotelName": "全季长沙中南大学铁道学院酒店", 
+    "hotelAddressShort": "韶山中路731号银星大厦"
+  }, 
+  {
+    "hotelId": "9001219", 
+    "hotelName": "汉庭长沙火车站地铁站酒店", 
+    "hotelAddressShort": "芙蓉区解放东路88号"
+  }, 
+  {
+    "hotelId": "4103001", 
+    "hotelName": "桔子浏阳市政府酒店", 
+    "hotelAddressShort": "道吾山东路与复兴中路交叉口西南50米"
+  }, 
+  {
+    "hotelId": "4100056", 
+    "hotelName": "桔子长沙解放西路国金中心酒店", 
+    "hotelAddressShort": "芙蓉区解放西路136号华盛蓝色地标"
+  }, 
+  {
+    "hotelId": "9009187", 
+    "hotelName": "汉庭长沙八一路省公安厅酒店", 
+    "hotelAddressShort": "长沙市芙蓉区八一路169号（省公安厅对面）"
+  }, 
+  {
+    "hotelId": "4100074", 
+    "hotelName": "汉庭长沙阿弥岭地铁站酒店", 
+    "hotelAddressShort": "雨花区城南东路191号(城南郡小区旁）"
+  }, 
+  {
+    "hotelId": "4101161", 
+    "hotelName": "全季长沙德思勤广场酒店", 
+    "hotelAddressShort": "时代阳光大道西529号"
+  }, 
+  {
+    "hotelId": "4100031", 
+    "hotelName": "汉庭长沙万家丽广场酒店", 
+    "hotelAddressShort": "芙蓉区浏阳河大道二段98号"
+  }, 
+  {
+    "hotelId": "9009380", 
+    "hotelName": "汉庭长沙芙蓉中路湘春路酒店", 
+    "hotelAddressShort": "湘春路266号(泊富国际广场往前200米）"
+  }, 
+  {
+    "hotelId": "4100008", 
+    "hotelName": "桔子长沙洋湖新城地铁站酒店", 
+    "hotelAddressShort": "长沙市岳麓区先导路76号雅和苑B座"
+  }, 
+  {
+    "hotelId": "4102053", 
+    "hotelName": "全季长沙麓谷梅溪湖步步高酒店", 
+    "hotelAddressShort": "枫林三路980号惠和苑3栋"
+  }, 
+  {
+    "hotelId": "4101261", 
+    "hotelName": "全季长沙中交广场酒店", 
+    "hotelAddressShort": "长沙市人民东路/望龙路交汇处"
+  }, 
+  {
+    "hotelId": "9009746", 
+    "hotelName": "全季长沙南站吾悦广场酒店", 
+    "hotelAddressShort": "长沙市雨花区花侯路218号绿地新里佳苑E-12栋115号"
+  }, 
+  {
+    "hotelId": "4100052", 
+    "hotelName": "汉庭长沙国金中心酒店", 
+    "hotelAddressShort": "芙蓉区蔡锷中路89号国金中心旁"
+  }, 
+  {
+    "hotelId": "4100071", 
+    "hotelName": "汉庭长沙湘雅附二梓园路酒店", 
+    "hotelAddressShort": "雨花区梓园路451号（近地铁窑岭湘雅二医院站）"
+  }, 
+  {
+    "hotelId": "9021746", 
+    "hotelName": "全季长沙芙蓉南路省政府酒店", 
+    "hotelAddressShort": "湖南省长沙市芙蓉南路一段529号永熙大厦"
+  }, 
+  {
+    "hotelId": "4100163", 
+    "hotelName": "宜必思尚品长沙万家丽广场酒店", 
+    "hotelAddressShort": "湖南省长沙市芙蓉区远大一路968号"
+  }, 
+  {
+    "hotelId": "9021566", 
+    "hotelName": "海友长沙涂家冲地铁站酒店", 
+    "hotelAddressShort": "水竹街1号香墅美地家园1号栋401号，一层部分，四层客房全部。"
+  }, 
+  {
+    "hotelId": "8916422", 
+    "hotelName": "全季长沙芙蓉中路天健城酒店", 
+    "hotelAddressShort": "新河街道开福寺东路26号天健城14栋14楼-19楼"
+  }, 
+  {
+    "hotelId": "9001230", 
+    "hotelName": "全季长沙中南林业科技大学酒店", 
+    "hotelAddressShort": "天心区木莲西路187号（距离德思勤，省政府2公里）"
+  }, 
+  {
+    "hotelId": "9014802", 
+    "hotelName": "汉庭长沙黄花机场永安酒店", 
+    "hotelAddressShort": " 永安镇永安社区永安花园2栋"
+  }, 
+  {
+    "hotelId": "4100014", 
+    "hotelName": "怡莱长沙迎宾路地铁站酒店", 
+    "hotelAddressShort": "湖南省长沙市芙蓉区韭菜园街道桐荫里社区五一大道372号"
+  }, 
+  {
+    "hotelId": "9009644", 
+    "hotelName": "你好长沙湖南生物机电学院酒店", 
+    "hotelAddressShort": "长沙市芙蓉区远大一路1603号"
+  }, 
+  {
+    "hotelId": "9016624", 
+    "hotelName": "桔子长沙芙蓉中路天健城酒店", 
+    "hotelAddressShort": " 长沙市开福区芙蓉路与开福寺路交汇处天健芙蓉盛世三期14栋公寓20-27层"
+  }, 
+  {
+    "hotelId": "4102051", 
+    "hotelName": "汉庭长沙麓谷高新园酒店", 
+    "hotelAddressShort": "岳麓区麓景路12号海天大厦西侧地铁2号线梅溪湖东站3出口直行5分钟即到"
+  }, 
+  {
+    "hotelId": "4100133", 
+    "hotelName": "全季长沙岳麓大道市政府酒店", 
+    "hotelAddressShort": "长沙市岳麓区岳麓大道26号金湘大厦"
+  }, 
+  {
+    "hotelId": "4100142", 
+    "hotelName": "全季长沙圭塘五江天街酒店", 
+    "hotelAddressShort": "长沙市雨花区圭塘路122号岭南家园"
+  }, 
+  {
+    "hotelId": "9004282", 
+    "hotelName": "怡莱长沙德思勤红星会展中心酒店", 
+    "hotelAddressShort": "湖南省长沙市雨花区杉木冲路112-113号"
+  }, 
+  {
+    "hotelId": "9021246", 
+    "hotelName": "长沙梅溪湖麓谷美仑酒店", 
+    "hotelAddressShort": "枫林三路82号101"
+  }, 
+  {
+    "hotelId": "9005585", 
+    "hotelName": "怡莱长沙枫林三路酒店", 
+    "hotelAddressShort": "湖南省长沙市高新开发区雷锋镇枫林三路1218号"
+  }, 
+  {
+    "hotelId": "9013329", 
+    "hotelName": "怡莱长沙星沙大道蓝思科技酒店", 
+    "hotelAddressShort": "星沙大道与盼盼路交汇处(兴桥路旁)"
+  }, 
+  {
+    "hotelId": "4100161", 
+    "hotelName": "汉庭长沙马王堆酒店", 
+    "hotelAddressShort": "芙蓉区远大一路373号（地铁2号线锦泰广场站3号出口左行832米，近远大一路与东二环线交叉口）"
+  }, 
+  {
+    "hotelId": "9006207", 
+    "hotelName": "怡莱长沙德思勤酒店", 
+    "hotelAddressShort": "湖南省长沙市雨花区中意一路313号"
+  }, 
+  {
+    "hotelId": "A150", 
+    "hotelName": "长沙国际会展中心诺富特酒店", 
+    "hotelAddressShort": "101 号 国展路 长沙县黄兴镇"
+  }
+]
