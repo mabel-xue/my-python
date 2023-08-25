@@ -1,0 +1,802 @@
+[
+  {
+    "hotelId": "9010431", 
+    "hotelName": "昆山汇金诺富特酒店", 
+    "hotelAddressShort": "昆山市云澄路汇金财富广场(登云路258号)"
+  }, 
+  {
+    "hotelId": "2150022", 
+    "hotelName": "苏州平江万达广场美居酒店", 
+    "hotelAddressShort": "人民路3189号"
+  }, 
+  {
+    "hotelId": "8000484", 
+    "hotelName": "苏州文旅花间堂·探花府", 
+    "hotelAddressShort": "苏州市姑苏区平江路大儒巷南石子街10号"
+  }, 
+  {
+    "hotelId": "2155051", 
+    "hotelName": "汉庭常熟万达广场酒店（原虞山店）", 
+    "hotelAddressShort": "黄河路263号"
+  }, 
+  {
+    "hotelId": "8000485", 
+    "hotelName": "苏州文旅花间堂·山塘人家", 
+    "hotelAddressShort": "江苏省苏州市姑苏区山塘街醃猪河头38号"
+  }, 
+  {
+    "hotelId": "2150241", 
+    "hotelName": "苏州金鸡湖美居酒店", 
+    "hotelAddressShort": "苏州市工业园区星都街72号"
+  }, 
+  {
+    "hotelId": "9000677", 
+    "hotelName": "苏州石路山塘街美居酒店", 
+    "hotelAddressShort": "姑苏区苏州石路29号"
+  }, 
+  {
+    "hotelId": "2150024", 
+    "hotelName": "苏州观前平江美居酒店", 
+    "hotelAddressShort": "干将东路535号"
+  }, 
+  {
+    "hotelId": "2150086", 
+    "hotelName": "苏州山塘江南织造漫心府", 
+    "hotelAddressShort": "山塘街136号（山塘街景区里岭南会馆内）"
+  }, 
+  {
+    "hotelId": "9010429", 
+    "hotelName": "常熟滨江美居酒店", 
+    "hotelAddressShort": "经济开发区永嘉路12号"
+  }, 
+  {
+    "hotelId": "3205081", 
+    "hotelName": "苏州观前平江CitiGO欢阁酒店", 
+    "hotelAddressShort": "江苏省苏州市姑苏区干将东路535号"
+  }, 
+  {
+    "hotelId": "8000627", 
+    "hotelName": "苏州树山花间堂·云泉", 
+    "hotelAddressShort": "江苏省苏州市高新区通安镇树山路98号"
+  }, 
+  {
+    "hotelId": "8000129", 
+    "hotelName": "全季苏州高新区星悦湾酒店", 
+    "hotelAddressShort": "滨河路8号"
+  }, 
+  {
+    "hotelId": "8000487", 
+    "hotelName": "同里花间堂·丽则女学", 
+    "hotelAddressShort": "吴江区同里镇东溪街55号"
+  }, 
+  {
+    "hotelId": "9002789", 
+    "hotelName": "桔子水晶苏州相城酒店", 
+    "hotelAddressShort": "江苏省苏州市相城区华元路880号"
+  }, 
+  {
+    "hotelId": "9000658", 
+    "hotelName": "桔子苏州寒山寺酒店", 
+    "hotelAddressShort": "金门路1027号"
+  }, 
+  {
+    "hotelId": "9008281", 
+    "hotelName": "全季苏州乐园酒店", 
+    "hotelAddressShort": "凤凰峰路19号"
+  }, 
+  {
+    "hotelId": "2150011", 
+    "hotelName": "汉庭苏州火车站南广场酒店（质量整改）", 
+    "hotelAddressShort": "姑苏区人民路2178号"
+  }, 
+  {
+    "hotelId": "2150051", 
+    "hotelName": "汉庭苏州观前街察院场地铁站酒店", 
+    "hotelAddressShort": "姑苏区因果巷23号"
+  }, 
+  {
+    "hotelId": "2150067", 
+    "hotelName": "苏州水墨平江漫心府", 
+    "hotelAddressShort": "干将东路548号"
+  }, 
+  {
+    "hotelId": "2151017", 
+    "hotelName": "桔子苏州观前街酒店", 
+    "hotelAddressShort": "景德路26-64号"
+  }, 
+  {
+    "hotelId": "9000413", 
+    "hotelName": "汉庭苏州观前街中心酒店", 
+    "hotelAddressShort": "姑苏区人民路1331号"
+  }, 
+  {
+    "hotelId": "9000922", 
+    "hotelName": "汉庭优佳苏州观前街酒店（原观前街乐桥地铁站店）", 
+    "hotelAddressShort": "姑苏区人民路1266号"
+  }, 
+  {
+    "hotelId": "2153009", 
+    "hotelName": "周庄花间堂·季香院", 
+    "hotelAddressShort": "江苏省苏州市昆山市周庄镇中市街110号"
+  }, 
+  {
+    "hotelId": "9010191", 
+    "hotelName": "全季苏州狮山永利广场酒店", 
+    "hotelAddressShort": "运河路28号狮山永利广场E区1号"
+  }, 
+  {
+    "hotelId": "2151281", 
+    "hotelName": "汉庭苏州盘蠡路地铁站酒店", 
+    "hotelAddressShort": "吴中区龙西路168号"
+  }, 
+  {
+    "hotelId": "9004845", 
+    "hotelName": "汉庭苏州阳澄湖酒店", 
+    "hotelAddressShort": "江苏省苏州市阳澄湖镇湘洲路89号"
+  }, 
+  {
+    "hotelId": "8000564", 
+    "hotelName": "全季苏州观前街察院场地铁站酒店", 
+    "hotelAddressShort": "人民路1331号"
+  }, 
+  {
+    "hotelId": "9014493", 
+    "hotelName": "桔子苏州科技城酒店", 
+    "hotelAddressShort": "光福镇福锦路35号东崦湖商贸中心1号楼"
+  }, 
+  {
+    "hotelId": "2156332", 
+    "hotelName": "汉庭张家港金港酒店", 
+    "hotelAddressShort": "张家港金港镇天台南路12号"
+  }, 
+  {
+    "hotelId": "9009202", 
+    "hotelName": "全季苏州石路山塘街酒店", 
+    "hotelAddressShort": "爱河桥路28号"
+  }, 
+  {
+    "hotelId": "9000628", 
+    "hotelName": "姑苏平江大院漫心府", 
+    "hotelAddressShort": "平江路306号"
+  }, 
+  {
+    "hotelId": "2156111", 
+    "hotelName": "汉庭张家港塘桥酒店", 
+    "hotelAddressShort": "塘桥镇北京路144号"
+  }, 
+  {
+    "hotelId": "9015432", 
+    "hotelName": "桔子昆山万象汇酒店", 
+    "hotelAddressShort": "前进西路1456号兰亭天悦（万象汇西侧）"
+  }, 
+  {
+    "hotelId": "9015693", 
+    "hotelName": "全季苏州相城黄埭酒店", 
+    "hotelAddressShort": " 黄埭镇春秋路4号"
+  }, 
+  {
+    "hotelId": "2150031", 
+    "hotelName": "汉庭苏州观前景德路酒店", 
+    "hotelAddressShort": "姑苏区中街路49号"
+  }, 
+  {
+    "hotelId": "2151002", 
+    "hotelName": "星程苏州甪直古镇酒店", 
+    "hotelAddressShort": "甪直镇鸣市路24号（甪直镇政府对面）"
+  }, 
+  {
+    "hotelId": "9019271", 
+    "hotelName": "全季苏州独墅湖生态公园酒店", 
+    "hotelAddressShort": "吴中区郭巷街道独墅湾雅苑149幢"
+  }, 
+  {
+    "hotelId": "9008316", 
+    "hotelName": "全季苏州金鸡湖李公堤酒店", 
+    "hotelAddressShort": "水坊路36号"
+  }, 
+  {
+    "hotelId": "2150009", 
+    "hotelName": "全季苏州人民南路酒店", 
+    "hotelAddressShort": "吴中东路158号"
+  }, 
+  {
+    "hotelId": "2150046", 
+    "hotelName": "宜必思苏州三香路酒店", 
+    "hotelAddressShort": "江苏省苏州市姑苏区三香路1158号"
+  }, 
+  {
+    "hotelId": "2150059", 
+    "hotelName": "全季苏州观前步行街酒店", 
+    "hotelAddressShort": "观前街57-69号"
+  }, 
+  {
+    "hotelId": "2153162", 
+    "hotelName": "昆山高新万象汇美居酒店", 
+    "hotelAddressShort": "虹祺路221号D1（虹祺路与文苑路路口）"
+  }, 
+  {
+    "hotelId": "9000756", 
+    "hotelName": "苏州浒墅关花间堂·蚕逸", 
+    "hotelAddressShort": "江苏省苏州市高新区浒墅关镇桑园路333号5、7号商铺"
+  }, 
+  {
+    "hotelId": "8000307", 
+    "hotelName": "宜必思尚品苏州科技城酒店", 
+    "hotelAddressShort": "苏州高新区东渚镇美田里路9号"
+  }, 
+  {
+    "hotelId": "9002524", 
+    "hotelName": "全季苏州宝带路地铁站酒店", 
+    "hotelAddressShort": "县前街58号"
+  }, 
+  {
+    "hotelId": "9022144", 
+    "hotelName": "汉庭太仓璜泾酒店", 
+    "hotelAddressShort": "璜泾镇怀仁路16号1层部分、4层-7层全部"
+  }, 
+  {
+    "hotelId": "9001334", 
+    "hotelName": "全季苏州观前街干将西路酒店", 
+    "hotelAddressShort": "干将西路236号"
+  }, 
+  {
+    "hotelId": "9004407", 
+    "hotelName": "汉庭苏州吴江华东商业城酒店", 
+    "hotelAddressShort": "吴江经济开发区江陵东路369号"
+  }, 
+  {
+    "hotelId": "2150112", 
+    "hotelName": "桔子苏州绿宝广场酒店", 
+    "hotelAddressShort": "苏州市高新区长江路436号绿宝广场9幢"
+  }, 
+  {
+    "hotelId": "2150213", 
+    "hotelName": "汉庭苏州园区金鸡湖李公堤酒店", 
+    "hotelAddressShort": "工业园区星州街1号296幢"
+  }, 
+  {
+    "hotelId": "8000270", 
+    "hotelName": "全季苏州吴江汾湖酒店", 
+    "hotelAddressShort": "城司路1199号"
+  }, 
+  {
+    "hotelId": "2150214", 
+    "hotelName": "汉庭苏州吴中万达广场酒店（原苏蠡路店）", 
+    "hotelAddressShort": "吴中区长桥街道苏蠡路36号"
+  }, 
+  {
+    "hotelId": "2151551", 
+    "hotelName": "海友良品苏州火车站北广场酒店", 
+    "hotelAddressShort": "苏州市姑苏区苏站路苏州火车站北广场公交换乘综合楼"
+  }, 
+  {
+    "hotelId": "9011619", 
+    "hotelName": "汉庭苏州甪直古镇酒店", 
+    "hotelAddressShort": " 甪直镇甫澄中路10号(甫澄商业广场）"
+  }, 
+  {
+    "hotelId": "2150085", 
+    "hotelName": "苏州观前街漫心酒店", 
+    "hotelAddressShort": "大井巷9号"
+  }, 
+  {
+    "hotelId": "9020495", 
+    "hotelName": "全季常熟东南开发区昆承湖酒店", 
+    "hotelAddressShort": "东南街道五渠路10号5幢1层"
+  }, 
+  {
+    "hotelId": "9001348", 
+    "hotelName": "昆山花桥美仑国际酒店", 
+    "hotelAddressShort": "昆山花桥兆丰路2号"
+  }, 
+  {
+    "hotelId": "8000424", 
+    "hotelName": "全季苏州观前街乐桥地铁站酒店", 
+    "hotelAddressShort": "人民路1168号"
+  }, 
+  {
+    "hotelId": "2151003", 
+    "hotelName": "全季苏州甪直古镇酒店", 
+    "hotelAddressShort": "吴淞路168号"
+  }, 
+  {
+    "hotelId": "8000225", 
+    "hotelName": "桔子水晶苏州金鸡湖国际博览中心酒店", 
+    "hotelAddressShort": "商业广场7幢105室"
+  }, 
+  {
+    "hotelId": "9000919", 
+    "hotelName": "宜必思尚品苏州浒墅关酒店", 
+    "hotelAddressShort": "虎丘区浒墅关桑园路485号（浒悦生活广场一楼）"
+  }, 
+  {
+    "hotelId": "9012477", 
+    "hotelName": "汉庭苏州姑苏云谷酒店", 
+    "hotelAddressShort": "朱家湾街8号姑苏云谷一期（公交车8路，机电五金城南公交站下车步行339米）"
+  }, 
+  {
+    "hotelId": "2151013", 
+    "hotelName": "汉庭苏州木渎国际影视城酒店", 
+    "hotelAddressShort": "木渎镇金山南路288号"
+  }, 
+  {
+    "hotelId": "9011505", 
+    "hotelName": "星程苏州南门汇邻广场酒店", 
+    "hotelAddressShort": "吴门桥街道南环东路857号"
+  }, 
+  {
+    "hotelId": "2151681", 
+    "hotelName": "汉庭苏州国际教育园酒店", 
+    "hotelAddressShort": "吴中区吴中大道1109号"
+  }, 
+  {
+    "hotelId": "2152003", 
+    "hotelName": "桔子苏州东太湖吴江公园酒店", 
+    "hotelAddressShort": "江苏省苏州市吴江区笠泽路607号"
+  }, 
+  {
+    "hotelId": "9000346", 
+    "hotelName": "汉庭苏州木渎凯马汽车城酒店", 
+    "hotelAddressShort": "江苏省苏州市吴中区木渎镇中山东路268号21幢105室"
+  }, 
+  {
+    "hotelId": "2150058", 
+    "hotelName": "全季苏州观前街酒店", 
+    "hotelAddressShort": "临顿路落瓜桥下塘66号"
+  }, 
+  {
+    "hotelId": "2153232", 
+    "hotelName": "汉庭昆山千灯古镇酒店", 
+    "hotelAddressShort": "千灯镇尚书路千石商业广场"
+  }, 
+  {
+    "hotelId": "2150313", 
+    "hotelName": "海友苏州火车站北广场酒店", 
+    "hotelAddressShort": "苏州市姑苏区苏站路1455号"
+  }, 
+  {
+    "hotelId": "9015061", 
+    "hotelName": "海友昆山花桥行政服务中心酒店（原香榭丽大道店）", 
+    "hotelAddressShort": "花桥镇 春天大道243号春华里9号楼"
+  }, 
+  {
+    "hotelId": "9007798", 
+    "hotelName": "全季苏州石湖东路酒店", 
+    "hotelAddressShort": "枫津路36号"
+  }, 
+  {
+    "hotelId": "9004174", 
+    "hotelName": "全季苏州吴江开发区酒店", 
+    "hotelAddressShort": "江兴东路1772号"
+  }, 
+  {
+    "hotelId": "2150041", 
+    "hotelName": "汉庭苏州三香广场地铁站酒店", 
+    "hotelAddressShort": "姑苏区烽火路55号"
+  }, 
+  {
+    "hotelId": "2155591", 
+    "hotelName": "汉庭常熟沙家浜酒店", 
+    "hotelAddressShort": "江苏省苏州市常熟市阳澄南路22-2号1幢"
+  }, 
+  {
+    "hotelId": "9005531", 
+    "hotelName": "怡莱苏州金鸡湖国际博览中心酒店", 
+    "hotelAddressShort": "金鸡湖商业广场5栋105室"
+  }, 
+  {
+    "hotelId": "9001169", 
+    "hotelName": "全季苏州高铁北站酒店", 
+    "hotelAddressShort": "南天成路68号"
+  }, 
+  {
+    "hotelId": "8000493", 
+    "hotelName": "桔子苏州北站采莲广场酒店", 
+    "hotelAddressShort": "相城大道2890号采莲商业广场二区南侧"
+  }, 
+  {
+    "hotelId": "2150065", 
+    "hotelName": "汉庭苏州大学葑门酒店", 
+    "hotelAddressShort": "姑苏区葑门路10号"
+  }, 
+  {
+    "hotelId": "2150084", 
+    "hotelName": "桔子苏州火车站酒店", 
+    "hotelAddressShort": "苏站路1455号火车站北广场公交换乘综合楼北侧"
+  }, 
+  {
+    "hotelId": "9015068", 
+    "hotelName": "全季昆山花桥行政服务中心酒店（原香榭丽大道店）", 
+    "hotelAddressShort": "花桥镇 春天大道243号春华里9号楼"
+  }, 
+  {
+    "hotelId": "2155012", 
+    "hotelName": "桔子常熟招商城酒店", 
+    "hotelAddressShort": "常熟市花园浜路151号"
+  }, 
+  {
+    "hotelId": "9017770", 
+    "hotelName": "星程苏州狮山路高新广场酒店", 
+    "hotelAddressShort": "运河路77号乐嘉汇商务广场2幢"
+  }, 
+  {
+    "hotelId": "9008624", 
+    "hotelName": "桔子昆山张浦银都商业广场酒店", 
+    "hotelAddressShort": "新吴街999号银都商业广场2号楼"
+  }, 
+  {
+    "hotelId": "2150043", 
+    "hotelName": "汉庭苏州石路胥门酒店", 
+    "hotelAddressShort": "姑苏区阊胥路77号"
+  }, 
+  {
+    "hotelId": "9015797", 
+    "hotelName": "全季苏州园区博览中心唯新路酒店", 
+    "hotelAddressShort": "唯新路86号湖滨商业中心1-4层"
+  }, 
+  {
+    "hotelId": "9000054", 
+    "hotelName": "桔子苏州大学东环路酒店", 
+    "hotelAddressShort": "苏州市东环路1320号"
+  }, 
+  {
+    "hotelId": "9000431", 
+    "hotelName": "汉庭太仓万达广场酒店", 
+    "hotelAddressShort": "苏州市太仓市常胜南路59号"
+  }, 
+  {
+    "hotelId": "9014463", 
+    "hotelName": "星程常熟虞山风景区酒店", 
+    "hotelAddressShort": "常熟市虞山北路258号"
+  }, 
+  {
+    "hotelId": "2150042", 
+    "hotelName": "汉庭苏州留园桐泾路酒店", 
+    "hotelAddressShort": "姑苏区桐泾北路168号"
+  }, 
+  {
+    "hotelId": "9018982", 
+    "hotelName": "苏州高铁新城美居酒店", 
+    "hotelAddressShort": "相城区澄阳街道富元路1069号美居酒店"
+  }, 
+  {
+    "hotelId": "9012392", 
+    "hotelName": "星程常熟琴湖酒店", 
+    "hotelAddressShort": "海虞南路1号江南大厦2幢1-5楼商铺"
+  }, 
+  {
+    "hotelId": "8000495", 
+    "hotelName": "汉庭苏州独墅湖高教区酒店", 
+    "hotelAddressShort": "江苏省苏州市工业园区普惠路57号"
+  }, 
+  {
+    "hotelId": "9000714", 
+    "hotelName": "桔子苏州东沙湖现代大道酒店", 
+    "hotelAddressShort": "苏州市吴中区东沙湖路100号"
+  }, 
+  {
+    "hotelId": "9000829", 
+    "hotelName": "全季太仓郑和中路酒店", 
+    "hotelAddressShort": "富达路98号"
+  }, 
+  {
+    "hotelId": "2150242", 
+    "hotelName": "桔子苏州中心金鸡湖酒店", 
+    "hotelAddressShort": "苏州市工业园区师惠坊12幢1至三层"
+  }, 
+  {
+    "hotelId": "9001761", 
+    "hotelName": "桔子太仓南洋广场酒店", 
+    "hotelAddressShort": "人民南路113号"
+  }, 
+  {
+    "hotelId": "9000881", 
+    "hotelName": "苏州金枫路漫心酒店", 
+    "hotelAddressShort": "吴中区金枫南路8号"
+  }, 
+  {
+    "hotelId": "2152111", 
+    "hotelName": "汉庭苏州吴江汾湖酒店", 
+    "hotelAddressShort": "吴江区芦墟镇芦莘大道511号"
+  }, 
+  {
+    "hotelId": "9006934", 
+    "hotelName": "全季常熟滨江碧浒路酒店", 
+    "hotelAddressShort": "经济技术开发区碧浒路6号宝鸿商业广场1幢"
+  }, 
+  {
+    "hotelId": "2151311", 
+    "hotelName": "汉庭苏州高铁北站采莲路酒店", 
+    "hotelAddressShort": "相城区采莲路1097号"
+  }, 
+  {
+    "hotelId": "9001949", 
+    "hotelName": "汉庭优佳苏州盛泽酒店", 
+    "hotelAddressShort": "吴江区盛泽镇舜新南路2号"
+  }, 
+  {
+    "hotelId": "9017010", 
+    "hotelName": "全季苏州金鸡湖博览中心星湖街酒店", 
+    "hotelAddressShort": "苏州工业园区融安街18号5幢星合360广场"
+  }, 
+  {
+    "hotelId": "2154002", 
+    "hotelName": "宜必思太仓中心广场酒店", 
+    "hotelAddressShort": "太仓市城厢镇人民南路114-2号"
+  }, 
+  {
+    "hotelId": "9015627", 
+    "hotelName": "苏州金鸡湖博览中心美仑公寓酒店", 
+    "hotelAddressShort": "苏州工业园区嘉瑞巷8号"
+  }, 
+  {
+    "hotelId": "2153372", 
+    "hotelName": "宜必思昆山长江路酒店", 
+    "hotelAddressShort": "江苏省苏州市昆山市萧林东路5018号"
+  }, 
+  {
+    "hotelId": "2150271", 
+    "hotelName": "汉庭苏州国际博览中心酒店", 
+    "hotelAddressShort": "工业园区西沈浒路合众街交叉口"
+  }, 
+  {
+    "hotelId": "9006035", 
+    "hotelName": "全季苏州吴江南方时代广场酒店", 
+    "hotelAddressShort": "联杨路599号"
+  }, 
+  {
+    "hotelId": "2150023", 
+    "hotelName": "汉庭苏州观前街养育巷地铁站酒店", 
+    "hotelAddressShort": "姑苏区养育巷218号"
+  }, 
+  {
+    "hotelId": "2153016", 
+    "hotelName": "汉庭昆山火车南站酒店", 
+    "hotelAddressShort": "江苏省苏州市昆山市柏庐南路1003号博悦广场2区"
+  }, 
+  {
+    "hotelId": "8000184", 
+    "hotelName": "全季苏州渭塘酒店", 
+    "hotelAddressShort": "钻石路1788号"
+  }, 
+  {
+    "hotelId": "9003630", 
+    "hotelName": "全季常熟莫城大道酒店", 
+    "hotelAddressShort": "莫城大道453号"
+  }, 
+  {
+    "hotelId": "2153006", 
+    "hotelName": "海友昆山弘基广场顺帆北路地铁站酒店", 
+    "hotelAddressShort": "江苏省苏州市昆山市前进东路888号-2号楼"
+  }, 
+  {
+    "hotelId": "9014510", 
+    "hotelName": "苏州火车站美仑酒店", 
+    "hotelAddressShort": "苏站路1398号A座"
+  }, 
+  {
+    "hotelId": "2151232", 
+    "hotelName": "汉庭苏州园区奥体中心酒店", 
+    "hotelAddressShort": "工业园区南榭雨街9号凤凰新天地商业二期41幢103号"
+  }, 
+  {
+    "hotelId": "9006973", 
+    "hotelName": "全季常熟世茂世纪中心酒店", 
+    "hotelAddressShort": "新世纪大道81号"
+  }, 
+  {
+    "hotelId": "2153007", 
+    "hotelName": "汉庭昆山蓬朗酒店", 
+    "hotelAddressShort": "蓬朗镇新星路210号"
+  }, 
+  {
+    "hotelId": "2151231", 
+    "hotelName": "全季苏州独墅湖酒店", 
+    "hotelAddressShort": "启月街288号"
+  }, 
+  {
+    "hotelId": "9001172", 
+    "hotelName": "宜必思尚品苏州东方之门地铁站店", 
+    "hotelAddressShort": "苏州吴中区 星港街158号近地铁东方之门1号线3号口"
+  }, 
+  {
+    "hotelId": "9003595", 
+    "hotelName": "海友苏州石路山塘街酒店", 
+    "hotelAddressShort": "江苏省苏州市阊胥路733号"
+  }, 
+  {
+    "hotelId": "2151012", 
+    "hotelName": "汉庭苏州吴江开发区酒店", 
+    "hotelAddressShort": "吴江开发区运东大道1088号"
+  }, 
+  {
+    "hotelId": "2152004", 
+    "hotelName": "全季苏州盛泽东方纺织城酒店", 
+    "hotelAddressShort": "市场东路19号"
+  }, 
+  {
+    "hotelId": "9011630", 
+    "hotelName": "汉庭苏州工业园区时尚舞台酒店", 
+    "hotelAddressShort": "双圩路105号"
+  }, 
+  {
+    "hotelId": "9000753", 
+    "hotelName": "宜必思尚品苏州三香路酒店", 
+    "hotelAddressShort": "江苏省苏州市姑苏区三香路1158号"
+  }, 
+  {
+    "hotelId": "9002714", 
+    "hotelName": "全季昆山花桥光明路酒店", 
+    "hotelAddressShort": "光明路196号"
+  }, 
+  {
+    "hotelId": "9004340", 
+    "hotelName": "海友张家港金港酒店", 
+    "hotelAddressShort": "江苏省张家港市金港镇黄泗浦西路186号"
+  }, 
+  {
+    "hotelId": "2153163", 
+    "hotelName": "全季昆山水秀路酒店", 
+    "hotelAddressShort": "水秀路796号"
+  }, 
+  {
+    "hotelId": "8000557", 
+    "hotelName": "桔子苏州独墅湖高教区酒店", 
+    "hotelAddressShort": "林泉街366号"
+  }, 
+  {
+    "hotelId": "9011668", 
+    "hotelName": "星程昆山千灯古镇酒店", 
+    "hotelAddressShort": "千灯镇炎中路138号"
+  }, 
+  {
+    "hotelId": "9002761", 
+    "hotelName": "星程苏州火车站万达广场酒店(质量整改)", 
+    "hotelAddressShort": "人民路3188号万达广场C座5楼。"
+  }, 
+  {
+    "hotelId": "2152002", 
+    "hotelName": "全季苏州吴江流虹路酒店", 
+    "hotelAddressShort": "流虹路18号"
+  }, 
+  {
+    "hotelId": "2151441", 
+    "hotelName": "汉庭苏州相城嘉元路酒店", 
+    "hotelAddressShort": "相城区嘉元路588号"
+  }, 
+  {
+    "hotelId": "9004268", 
+    "hotelName": "桔子张家港步行街酒店", 
+    "hotelAddressShort": "沙洲中路步行街89号凯丽百货南二门"
+  }, 
+  {
+    "hotelId": "2151312", 
+    "hotelName": "宜必思尚品苏州阳澄湖中路地铁站酒店", 
+    "hotelAddressShort": "江苏省苏州市相城区采莲路666号"
+  }, 
+  {
+    "hotelId": "9001775", 
+    "hotelName": "全季张家港大成广场酒店", 
+    "hotelAddressShort": "长安南路265号"
+  }, 
+  {
+    "hotelId": "2150281", 
+    "hotelName": "汉庭苏州园区北酒店", 
+    "hotelAddressShort": "工业园区星湖街9号青剑湖商业广场内"
+  }, 
+  {
+    "hotelId": "9011618", 
+    "hotelName": "汉庭张家港长江中路酒店", 
+    "hotelAddressShort": "苏州市张家港市金港镇长江中路238号"
+  }, 
+  {
+    "hotelId": "2155002", 
+    "hotelName": "汉庭常熟步行街酒店", 
+    "hotelAddressShort": "海虞南路40号"
+  }, 
+  {
+    "hotelId": "9004080", 
+    "hotelName": "怡莱苏州相城大道酒店", 
+    "hotelAddressShort": "江苏省苏州市相城区相城大道789号"
+  }, 
+  {
+    "hotelId": "2154992", 
+    "hotelName": "全季太仓酒店", 
+    "hotelAddressShort": "太平南路1号"
+  }, 
+  {
+    "hotelId": "9003227", 
+    "hotelName": "怡莱精品昆山陆家富荣路酒店", 
+    "hotelAddressShort": "江苏省苏州市苏州市陆家镇富荣路64号"
+  }, 
+  {
+    "hotelId": "9005643", 
+    "hotelName": "张家港金港大道步行街漫心酒店", 
+    "hotelAddressShort": "杨舍镇金港大道一号"
+  }, 
+  {
+    "hotelId": "9000769", 
+    "hotelName": "怡莱苏州东沙湖星华街轻奢酒店（升级中）", 
+    "hotelAddressShort": "江苏省苏州市工业园区雅戈尔太阳城6幢101-107"
+  }, 
+  {
+    "hotelId": "2153331", 
+    "hotelName": "全季昆山开发区前进东路酒店", 
+    "hotelAddressShort": "前进东路898号"
+  }, 
+  {
+    "hotelId": "2150091", 
+    "hotelName": "全季苏州世茂广场新郭地铁站酒店", 
+    "hotelAddressShort": "江苏省苏州市姑苏区太湖西路1188号"
+  }, 
+  {
+    "hotelId": "2151331", 
+    "hotelName": "桔子苏州相城大道环球港酒店", 
+    "hotelAddressShort": "江苏省苏州市相城区相城大道1609号月星环球港"
+  }, 
+  {
+    "hotelId": "2153014", 
+    "hotelName": "星程昆山金鹰国际购物中心酒店", 
+    "hotelAddressShort": "前进中路237号（前进中路与黄河路交汇处肯德基旁）"
+  }, 
+  {
+    "hotelId": "2153371", 
+    "hotelName": "汉庭昆山万达广场酒店（原明珠集成店）", 
+    "hotelAddressShort": "开发区黄浦江北路209号"
+  }, 
+  {
+    "hotelId": "9002130", 
+    "hotelName": "怡莱精品太仓浏河镇听海路店", 
+    "hotelAddressShort": "江苏省苏州市太仓市浏河镇听海路80号"
+  }, 
+  {
+    "hotelId": "9003904", 
+    "hotelName": "海友苏州园区北酒店", 
+    "hotelAddressShort": "江苏省苏州市工业园区唯华路3号君地中心9号楼2单元7-8层"
+  }, 
+  {
+    "hotelId": "2153161", 
+    "hotelName": "海友良品昆山北门路酒店", 
+    "hotelAddressShort": "昆山市玉山镇北门路与339省道路口"
+  }, 
+  {
+    "hotelId": "9019476", 
+    "hotelName": "怡莱苏州大学拙政园酒店", 
+    "hotelAddressShort": "日规路1-1、2号"
+  }, 
+  {
+    "hotelId": "9006144", 
+    "hotelName": "怡莱苏州新区何山地铁站酒店", 
+    "hotelAddressShort": "江苏省苏州市高新区长江路465号青成大厦-地铁3号线（何山地铁站）"
+  }, 
+  {
+    "hotelId": "9023188", 
+    "hotelName": "苏州馨乐庭金鸡湖公寓酒店", 
+    "hotelAddressShort": "苏州工业园区中新大道西229号"
+  }, 
+  {
+    "hotelId": "2153992", 
+    "hotelName": "汉庭昆山火车站酒店", 
+    "hotelAddressShort": "人民南路35号"
+  }, 
+  {
+    "hotelId": "B5H9", 
+    "hotelName": "苏州太仓华发铂尔曼酒店", 
+    "hotelAddressShort": "书院路 188 号"
+  }, 
+  {
+    "hotelId": "9019194", 
+    "hotelName": "苏州金鸡湖李公堤瑞贝庭公寓酒店", 
+    "hotelAddressShort": "苏州工业园区李公堤三期E区商业街9幢"
+  }, 
+  {
+    "hotelId": "9012565", 
+    "hotelName": "怡莱苏州园区星湖街独墅湖高教区酒店", 
+    "hotelAddressShort": "江苏省苏州市工业园区星湖街818号星湖名轩1幢"
+  }, 
+  {
+    "hotelId": "9007159", 
+    "hotelName": "怡莱太仓五洋广场酒店", 
+    "hotelAddressShort": "太仓市上海东路77号（五洋广场内）"
+  }
+]

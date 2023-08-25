@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "3610017", 
+    "hotelName": "厦门中山路步行街海景美居酒店", 
+    "hotelAddressShort": "鹭江道96号"
+  }, 
+  {
+    "hotelId": "8000281", 
+    "hotelName": "全季厦门北站杏林湾路酒店", 
+    "hotelAddressShort": "杏林湾路1657号"
+  }, 
+  {
+    "hotelId": "9002557", 
+    "hotelName": "桔子厦门市政府酒店", 
+    "hotelAddressShort": "开元街道湖滨南路51号102"
+  }, 
+  {
+    "hotelId": "3610016", 
+    "hotelName": "全季厦门中山路步行街思明南路酒店", 
+    "hotelAddressShort": "思明南路158号 定安广场4楼"
+  }, 
+  {
+    "hotelId": "3610012", 
+    "hotelName": "汉庭优佳厦门中山路步行街酒店", 
+    "hotelAddressShort": "厦门思明区大中路55号之一"
+  }, 
+  {
+    "hotelId": "9004039", 
+    "hotelName": "汉庭厦门中山路步行街鼓浪屿码头酒店", 
+    "hotelAddressShort": "厦门市思明区海后路11-15号（酒店步行50米就可以漫步厦门外滩尽收鼓浪屿美景）"
+  }, 
+  {
+    "hotelId": "3610095", 
+    "hotelName": "厦门凯裕美爵酒店", 
+    "hotelAddressShort": "厦门市思明区嘉禾路128号"
+  }, 
+  {
+    "hotelId": "3610214", 
+    "hotelName": "桔子厦门集美学村酒店", 
+    "hotelAddressShort": "集源路27号"
+  }, 
+  {
+    "hotelId": "3610034", 
+    "hotelName": "桔子水晶厦门中山路中山公园酒店", 
+    "hotelAddressShort": "公园南路25号-4-、5"
+  }, 
+  {
+    "hotelId": "8000374", 
+    "hotelName": "桔子厦门会展中心观音山酒店", 
+    "hotelAddressShort": "环岛东路观音山商业街12号"
+  }, 
+  {
+    "hotelId": "3610014", 
+    "hotelName": "全季厦门中山路步行街酒店", 
+    "hotelAddressShort": "中山路244号"
+  }, 
+  {
+    "hotelId": "3610021", 
+    "hotelName": "汉庭厦门市政府酒店", 
+    "hotelAddressShort": "厦门市思明区禾祥西路41号"
+  }, 
+  {
+    "hotelId": "3611993", 
+    "hotelName": "全季厦门同安环城南路酒店", 
+    "hotelAddressShort": "环城南路606号"
+  }, 
+  {
+    "hotelId": "3610009", 
+    "hotelName": "宜必思尚品厦门中山路步行街酒店", 
+    "hotelAddressShort": "厦门市思明区中山路318号"
+  }, 
+  {
+    "hotelId": "9008197", 
+    "hotelName": "汉庭厦门中山路步行街植物园酒店", 
+    "hotelAddressShort": "公园南路11号（距中山公园地铁站3A出口50米）步行150米到中山路步行街；600米漫步5A景区园林植物园"
+  }, 
+  {
+    "hotelId": "9008136", 
+    "hotelName": "汉庭厦门大学酒店", 
+    "hotelAddressShort": "厦门市思明区思明南路479号"
+  }, 
+  {
+    "hotelId": "3610006", 
+    "hotelName": "汉庭厦门中山路步行街大同路酒店", 
+    "hotelAddressShort": "福建省厦门思明区大同路280-308号"
+  }, 
+  {
+    "hotelId": "8000331", 
+    "hotelName": "全季厦门集美学村酒店", 
+    "hotelAddressShort": "石鼓路78号"
+  }, 
+  {
+    "hotelId": "3610033", 
+    "hotelName": "全季厦门大学酒店", 
+    "hotelAddressShort": "思明南路497号"
+  }, 
+  {
+    "hotelId": "9012968", 
+    "hotelName": "汉庭厦门中山路第一码头海景酒店", 
+    "hotelAddressShort": "鹭江道218-228号（五楼海景天台尽享迷人鼓浪屿旖旎风光）"
+  }, 
+  {
+    "hotelId": "9004037", 
+    "hotelName": "汉庭厦门火车站酒店", 
+    "hotelAddressShort": "厦门市思明区厦禾路866号"
+  }, 
+  {
+    "hotelId": "9022095", 
+    "hotelName": "全季厦门中山路将军祠酒店", 
+    "hotelAddressShort": "文园路66号4-6层"
+  }, 
+  {
+    "hotelId": "3611002", 
+    "hotelName": "汉庭厦门同安环城南路酒店", 
+    "hotelAddressShort": "福建省厦门市同安区环城南路199号"
+  }, 
+  {
+    "hotelId": "3610018", 
+    "hotelName": "全季厦门中山路银行中心酒店", 
+    "hotelAddressShort": "湖滨西路15号"
+  }, 
+  {
+    "hotelId": "9016790", 
+    "hotelName": "全季厦门集美软件园三期灌口中路酒店", 
+    "hotelAddressShort": "灌口中路1071号"
+  }, 
+  {
+    "hotelId": "8000116", 
+    "hotelName": "全季厦门SM广场松柏酒店", 
+    "hotelAddressShort": "屿后南里238号"
+  }, 
+  {
+    "hotelId": "9017440", 
+    "hotelName": "汉庭厦门集美灌口万达酒店", 
+    "hotelAddressShort": " 灌口中路1071号"
+  }, 
+  {
+    "hotelId": "3610031", 
+    "hotelName": "汉庭厦门文灶万象城酒店", 
+    "hotelAddressShort": "厦门市思明区厦禾路859号(文灶地铁站2号出口直行180米）"
+  }, 
+  {
+    "hotelId": "3611991", 
+    "hotelName": "汉庭厦门同安城南酒店(原同安区政府店)", 
+    "hotelAddressShort": "厦门市同安区环城南路26号"
+  }, 
+  {
+    "hotelId": "9010172", 
+    "hotelName": "汉庭厦门中山路轮渡酒店", 
+    "hotelAddressShort": "鹭江道254号之四国贸海景公寓2A,2B,3A,3B单元"
+  }, 
+  {
+    "hotelId": "3610151", 
+    "hotelName": "全季厦门机场区政府酒店", 
+    "hotelAddressShort": "枋湖路289号"
+  }, 
+  {
+    "hotelId": "3610008", 
+    "hotelName": "全季厦门SM广场成功大道酒店", 
+    "hotelAddressShort": "园山南路898号"
+  }, 
+  {
+    "hotelId": "9000270", 
+    "hotelName": "全季厦门中山路酒店", 
+    "hotelAddressShort": "思明南路291号"
+  }, 
+  {
+    "hotelId": "3610041", 
+    "hotelName": "汉庭厦门万象城酒店", 
+    "hotelAddressShort": "厦门市思明区禾祥东路23号(湖滨东路地铁站2号口左转往金榜路直行200米）"
+  }, 
+  {
+    "hotelId": "8000188", 
+    "hotelName": "全季厦门会展中心莲前东路酒店", 
+    "hotelAddressShort": "莲前东路489号"
+  }, 
+  {
+    "hotelId": "3610015", 
+    "hotelName": "桔子厦门中山路步行街酒店", 
+    "hotelAddressShort": "思明南路135号中华城北区4楼（85度C楼上）"
+  }, 
+  {
+    "hotelId": "9000523", 
+    "hotelName": "全季厦门机场酒店", 
+    "hotelAddressShort": "火炬北路21号"
+  }, 
+  {
+    "hotelId": "9016508", 
+    "hotelName": "全季厦门杏林湾杏林南路酒店", 
+    "hotelAddressShort": "杏林杏南路29号"
+  }, 
+  {
+    "hotelId": "3610125", 
+    "hotelName": "汉庭优佳厦门SM广场松柏酒店", 
+    "hotelAddressShort": "厦门市思明区莲岳路189号武夷工贸11号楼"
+  }, 
+  {
+    "hotelId": "9012346", 
+    "hotelName": "汉庭厦门机场五缘湾酒店", 
+    "hotelAddressShort": "厦门市湖里区 安岭二路1号 (湖里创新园地铁站3号出口直走50米右转)"
+  }, 
+  {
+    "hotelId": "9001085", 
+    "hotelName": "全季厦门海沧区政府酒店", 
+    "hotelAddressShort": "滨湖北路869号"
+  }, 
+  {
+    "hotelId": "9000475", 
+    "hotelName": "全季厦门市政府白鹭洲路酒店", 
+    "hotelAddressShort": "后江埭路45号"
+  }, 
+  {
+    "hotelId": "3610094", 
+    "hotelName": "全季厦门明发广场酒店", 
+    "hotelAddressShort": "嘉禾路96号"
+  }, 
+  {
+    "hotelId": "3610062", 
+    "hotelName": "全季厦门机场湖里大道酒店", 
+    "hotelAddressShort": "悦华路4号"
+  }, 
+  {
+    "hotelId": "9003044", 
+    "hotelName": "汉庭厦门湖滨东路地铁站酒店（原万象城凤屿路店）", 
+    "hotelAddressShort": "厦门市思明区凤屿路99号(地铁1号线（莲板站2号出口）直走400米左转和3号线到（湖滨东路站8号口）出门直走400米，右转即可)"
+  }, 
+  {
+    "hotelId": "9000275", 
+    "hotelName": "全季厦门会展中心加州广场酒店", 
+    "hotelAddressShort": "洪莲路19号"
+  }, 
+  {
+    "hotelId": "3610048", 
+    "hotelName": "汉庭厦门文灶地铁站酒店", 
+    "hotelAddressShort": "思明区禾祥西路456号禾祥商城二楼(文灶地铁站6号出口左转300米)"
+  }, 
+  {
+    "hotelId": "8000120", 
+    "hotelName": "厦门会展中心观音山美居酒店", 
+    "hotelAddressShort": "前埔岭兜西路299号"
+  }, 
+  {
+    "hotelId": "9000690", 
+    "hotelName": "全季厦门火车站酒店", 
+    "hotelAddressShort": "厦禾路873号（金榜公园BRT站旁）"
+  }, 
+  {
+    "hotelId": "9003170", 
+    "hotelName": "汉庭厦门海沧新阳酒店", 
+    "hotelAddressShort": "厦门市海沧区新美路19号"
+  }, 
+  {
+    "hotelId": "9009930", 
+    "hotelName": "全季厦门翔安马巷酒店", 
+    "hotelAddressShort": "厦门市翔安区巷北二路68号"
+  }, 
+  {
+    "hotelId": "3610212", 
+    "hotelName": "汉庭厦门集美大学北店", 
+    "hotelAddressShort": "厦门市集美区同集南路92号"
+  }, 
+  {
+    "hotelId": "9001404", 
+    "hotelName": "星程厦门同安宝龙广场酒店", 
+    "hotelAddressShort": "厦门市同安区祥平街道环城南路185号"
+  }, 
+  {
+    "hotelId": "9001167", 
+    "hotelName": "汉庭优佳厦门机场台湾街酒店", 
+    "hotelAddressShort": "湖里区台湾街292号 华永天地广场4层（面对广场左侧直行50米入口）"
+  }, 
+  {
+    "hotelId": "3610112", 
+    "hotelName": "汉庭厦门机场酒店", 
+    "hotelAddressShort": "湖里区殿前六路37号"
+  }, 
+  {
+    "hotelId": "9004591", 
+    "hotelName": "汉庭厦门会展中心莲前西路酒店", 
+    "hotelAddressShort": "厦门市思明区莲前西路226-17号（莲前移动大厦对面）"
+  }, 
+  {
+    "hotelId": "8916025", 
+    "hotelName": "汉庭厦门明发广场酒店（原莲花路口地铁站店）", 
+    "hotelAddressShort": "厦门市思明区莲花南路7号经协大厦"
+  }, 
+  {
+    "hotelId": "3610081", 
+    "hotelName": "汉庭厦门会展中心酒店", 
+    "hotelAddressShort": "思明区文兴东路前埔社区400号，距厦门国际会展中心588米"
+  }, 
+  {
+    "hotelId": "3610047", 
+    "hotelName": "宜必思厦门火车站地铁站酒店", 
+    "hotelAddressShort": "厦门市思明区厦禾路870号(火车站地铁站3号出口直行200米)"
+  }, 
+  {
+    "hotelId": "3610211", 
+    "hotelName": "汉庭厦门集美学村酒店", 
+    "hotelAddressShort": "厦门市集美区集源路28号"
+  }
+]
