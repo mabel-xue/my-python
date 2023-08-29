@@ -1,0 +1,702 @@
+[
+  {
+    "hotelId": "9008540", 
+    "hotelName": "武汉汉口江滩保安洋行漫心府", 
+    "hotelAddressShort": "青岛路8号1栋"
+  }, 
+  {
+    "hotelId": "9017056", 
+    "hotelName": "桔子水晶武汉金银湖酒店", 
+    "hotelAddressShort": " 金银湖街金银湖路以东，金银湖南三街以南"
+  }, 
+  {
+    "hotelId": "9006322", 
+    "hotelName": "汉庭武汉江汉路步行街酒店", 
+    "hotelAddressShort": "江汉区民主一街167号（地铁2/6号线江汉路站G出口步行400米即到）"
+  }, 
+  {
+    "hotelId": "9011899", 
+    "hotelName": "武汉汉口金融中心漫心府", 
+    "hotelAddressShort": "建设大道632号（武汉市杂技厅正对面，地铁七号线取水楼站G1出口）"
+  }, 
+  {
+    "hotelId": "9006949", 
+    "hotelName": "武汉黄鹤楼首义广场漫心酒店", 
+    "hotelAddressShort": "武汉市武昌区阅马场首义新村188号"
+  }, 
+  {
+    "hotelId": "9008907", 
+    "hotelName": "武汉江滩好百年美仑国际酒店", 
+    "hotelAddressShort": "汉口沿江大道131号"
+  }, 
+  {
+    "hotelId": "4300734", 
+    "hotelName": "武汉光谷漫心酒店", 
+    "hotelAddressShort": "南湖大道192号"
+  }, 
+  {
+    "hotelId": "9018608", 
+    "hotelName": "武汉沌口体育中心国博漫心酒店", 
+    "hotelAddressShort": "宁康路58号湘隆时代商业中心B区第7栋"
+  }, 
+  {
+    "hotelId": "4300152", 
+    "hotelName": "汉庭武汉台北路万象城酒店", 
+    "hotelAddressShort": "江汉区台北路216号（地铁七号线取水楼站H出口左后方150米）"
+  }, 
+  {
+    "hotelId": "4300701", 
+    "hotelName": "汉庭武汉广埠屯地铁站酒店", 
+    "hotelAddressShort": "洪山区珞瑜路190号（地铁2号线广埠屯站D出口前行500米，珞瑜路与卓刀泉南路交叉口）"
+  }, 
+  {
+    "hotelId": "9008637", 
+    "hotelName": "汉庭武汉群光广场街道口地铁站酒店", 
+    "hotelAddressShort": "洪山区珞喻路78号长江传媒大厦一楼（地铁2号线、8号线街道口站B出口前行500米）"
+  }, 
+  {
+    "hotelId": "9018442", 
+    "hotelName": "汉庭武汉归元寺钟家村地铁站酒店", 
+    "hotelAddressShort": "汉阳大道140号钟家村闽东国际城3栋B座"
+  }, 
+  {
+    "hotelId": "9002396", 
+    "hotelName": "汉庭武汉梦时代街道口地铁站酒店", 
+    "hotelAddressShort": "武珞路669号地铁2号线宝通寺C1出口直行400M省妇幼D出口600M"
+  }, 
+  {
+    "hotelId": "9019334", 
+    "hotelName": "你好武汉黄鹤楼酒店", 
+    "hotelAddressShort": "武汉市武昌区解放路407号1层9号门店及2-3层"
+  }, 
+  {
+    "hotelId": "9012678", 
+    "hotelName": "武汉恺德光谷城际酒店", 
+    "hotelAddressShort": "武汉市东湖新技术开发区光谷五路28号恺德中心1号楼"
+  }, 
+  {
+    "hotelId": "9001398", 
+    "hotelName": "汉庭武汉武昌火车站起义门酒店", 
+    "hotelAddressShort": "武昌区武泰闸堤街2号(地铁5号线八铺街站A出口往万隆广场方向步行5分钟即到，万隆广场旁)"
+  }, 
+  {
+    "hotelId": "4300301", 
+    "hotelName": "汉庭武汉古田酒店", 
+    "hotelAddressShort": "硚口区汉西三路81号A栋1楼(距离地铁1号线古田四路约1.4KM，公交乘坐330/378/646/701/505到汉西三路香江家居站下车即达)"
+  }, 
+  {
+    "hotelId": "9001702", 
+    "hotelName": "桔子武汉黄鹤楼长江大桥酒店", 
+    "hotelAddressShort": "解放路400号新佳丽珠宝城"
+  }, 
+  {
+    "hotelId": "4200001", 
+    "hotelName": "武汉光谷美居酒店", 
+    "hotelAddressShort": "东湖新技术开发区南湖大道-关山大道-雄庄路"
+  }, 
+  {
+    "hotelId": "4300563", 
+    "hotelName": "汉庭武汉四新大道地铁站酒店", 
+    "hotelAddressShort": "汉阳区龙阳大道123号欧亚达汉阳国际广场塔楼A座（地铁3号线四新大道站B出口斜对面直行50米，红星美凯龙正对面）"
+  }, 
+  {
+    "hotelId": "9011521", 
+    "hotelName": "你好武汉街道口地铁站酒店", 
+    "hotelAddressShort": "珞狮北路129号"
+  }, 
+  {
+    "hotelId": "9002959", 
+    "hotelName": "全季武汉黄鹤楼首义路酒店", 
+    "hotelAddressShort": "张之洞路211号"
+  }, 
+  {
+    "hotelId": "4304151", 
+    "hotelName": "武汉阳逻开发区美居酒店", 
+    "hotelAddressShort": "阳逻金色港湾"
+  }, 
+  {
+    "hotelId": "9006745", 
+    "hotelName": "汉庭武汉昙华林螃蟹岬地铁站酒店", 
+    "hotelAddressShort": "武昌区公平路15号(地铁2号线、7号线螃蟹岬站A1出口步行450米至宜昌大厦路口右转20米，武昌区人民法院斜对面)"
+  }, 
+  {
+    "hotelId": "9007171", 
+    "hotelName": "全季武汉光谷大学园路酒店", 
+    "hotelAddressShort": "华师园北路17号一楼"
+  }, 
+  {
+    "hotelId": "9008498", 
+    "hotelName": "桔子武汉沌口开发区体育中心酒店", 
+    "hotelAddressShort": "金色港湾MIMI空间四栋地层"
+  }, 
+  {
+    "hotelId": "9018960", 
+    "hotelName": "全季武汉香港路酒店", 
+    "hotelAddressShort": "西马街香港路151号青莲大厦1层部分、4层、7-16层"
+  }, 
+  {
+    "hotelId": "4300242", 
+    "hotelName": "汉庭武汉新华路协和医院酒店", 
+    "hotelAddressShort": "新华路19号"
+  }, 
+  {
+    "hotelId": "9016307", 
+    "hotelName": "武汉汉口金融中心美仑酒店", 
+    "hotelAddressShort": "湖北省武汉市江汉区新华路396号中国民生银行大厦41楼，59-62楼"
+  }, 
+  {
+    "hotelId": "9020498", 
+    "hotelName": "星程武汉江汉路吉庆街酒店", 
+    "hotelAddressShort": "大智路28号"
+  }, 
+  {
+    "hotelId": "9010702", 
+    "hotelName": "你好武汉汉口江滩酒店", 
+    "hotelAddressShort": "江岸区黎黄陂路2号"
+  }, 
+  {
+    "hotelId": "9006427", 
+    "hotelName": "怡莱武汉香港路地铁站酒店", 
+    "hotelAddressShort": "武汉市江汉区香江路17号"
+  }, 
+  {
+    "hotelId": "9015208", 
+    "hotelName": "你好武汉汉口火车站酒店", 
+    "hotelAddressShort": "金墩街特1号（汉口火车站E出口300米）"
+  }, 
+  {
+    "hotelId": "9007864", 
+    "hotelName": "全季武汉光谷之星酒店", 
+    "hotelAddressShort": "高新大道801号"
+  }, 
+  {
+    "hotelId": "9010868", 
+    "hotelName": "汉庭武汉香港路儿童医院酒店", 
+    "hotelAddressShort": "江岸区香港路38号，地铁站6号线苗栗路站D出口过马路步行300米"
+  }, 
+  {
+    "hotelId": "9023108", 
+    "hotelName": "星程武汉钟家村归元寺酒店", 
+    "hotelAddressShort": "归元寺路20号归元寺北侧的二栋房屋"
+  }, 
+  {
+    "hotelId": "4300741", 
+    "hotelName": "汉庭武汉光谷广场酒店", 
+    "hotelAddressShort": "洪山区珞瑜路590号(地铁2号线\"光谷广场站\"站C口，左转至地下通道从T出口“中商.世界里”方向顺着直行700米；近烽火科技&邮科院&光谷金盾大酒店&东湖绿道)"
+  }, 
+  {
+    "hotelId": "9001461", 
+    "hotelName": "全季武汉光谷创业街酒店", 
+    "hotelAddressShort": "佳园路13号"
+  }, 
+  {
+    "hotelId": "4300004", 
+    "hotelName": "汉庭武汉汉口新华路酒店", 
+    "hotelAddressShort": "新华路432号,地铁3号线菱角湖站A出口直行到新华路左转"
+  }, 
+  {
+    "hotelId": "9018818", 
+    "hotelName": "你好武汉汉正街地铁站酒店", 
+    "hotelAddressShort": "湖北省武汉市硚口区利济南路116号"
+  }, 
+  {
+    "hotelId": "9018816", 
+    "hotelName": "全季武汉中南佳兆业广场酒店", 
+    "hotelAddressShort": "武珞路340号"
+  }, 
+  {
+    "hotelId": "4300607", 
+    "hotelName": "宜必思武汉司门口黄鹤楼地铁站酒店", 
+    "hotelAddressShort": "湖北省武汉市武昌区民主路118号（司门口黄鹤楼地铁站A出口面朝黄鹤楼向右260米以纯大楼4楼）"
+  }, 
+  {
+    "hotelId": "4300006", 
+    "hotelName": "全季武汉光谷珞喻路酒店", 
+    "hotelAddressShort": "珞喻路459号"
+  }, 
+  {
+    "hotelId": "9008312", 
+    "hotelName": "全季武汉光谷生物城同济医院酒店", 
+    "hotelAddressShort": "高新大道药监二路生命AI中心"
+  }, 
+  {
+    "hotelId": "4300733", 
+    "hotelName": "全季武汉光谷软件园民族大道酒店", 
+    "hotelAddressShort": "南湖大道192号"
+  }, 
+  {
+    "hotelId": "9019741", 
+    "hotelName": "全季武汉恒隆广场酒店", 
+    "hotelAddressShort": "民意四路48号1层及3-12层"
+  }, 
+  {
+    "hotelId": "4300606", 
+    "hotelName": "桔子武汉黄鹤楼户部巷酒店", 
+    "hotelAddressShort": "中华路39号"
+  }, 
+  {
+    "hotelId": "8000055", 
+    "hotelName": "汉庭武昌火车站地铁站酒店", 
+    "hotelAddressShort": "中山路633号万金国际广场2号楼1楼汉庭酒店（地铁4号线武昌火车站D出口）"
+  }, 
+  {
+    "hotelId": "4300604", 
+    "hotelName": "怡莱精品武汉徐东销品茂酒店", 
+    "hotelAddressShort": "湖北省武汉市洪山区友谊大道532号（5号线铁四院B出口步行650米左右）"
+  }, 
+  {
+    "hotelId": "9021476", 
+    "hotelName": "海友武汉黄鹤楼酒店", 
+    "hotelAddressShort": "解放路407号、4-5层全部"
+  }, 
+  {
+    "hotelId": "9017566", 
+    "hotelName": "你好武汉白沙洲龙湖天街酒店", 
+    "hotelAddressShort": "张家湾胜利村胜利丰园一期17号楼"
+  }, 
+  {
+    "hotelId": "9012184", 
+    "hotelName": "汉庭武汉武昌火车站丁字桥路酒店", 
+    "hotelAddressShort": "武昌区丁字桥路112号(天佑医院正对面，地铁4号线梅苑小区站A出口直行200米左转500米再左转过桥即到)"
+  }, 
+  {
+    "hotelId": "9011611", 
+    "hotelName": "桔子武汉光谷创业街酒店", 
+    "hotelAddressShort": "武汉市洪山区光谷创业街20号"
+  }, 
+  {
+    "hotelId": "8000399", 
+    "hotelName": "汉庭武汉武昌火车站西广场酒店", 
+    "hotelAddressShort": "中山路火车站西广场公交综合体2楼（武昌火车站地铁站C出口/售票处旁）"
+  }, 
+  {
+    "hotelId": "9009416", 
+    "hotelName": "汉庭武汉武昌火车站酒店", 
+    "hotelAddressShort": "武昌区中山路497号(地铁4/7号线武昌火车站下, F出口出来右转直行600米至中山路大东门公交站即到)"
+  }, 
+  {
+    "hotelId": "8000192", 
+    "hotelName": "全季武汉武昌中南路酒店", 
+    "hotelAddressShort": "付家坡一路11号"
+  }, 
+  {
+    "hotelId": "9011945", 
+    "hotelName": "汉庭武汉菱角湖万达酒店", 
+    "hotelAddressShort": "江汉区北湖西路12号（菱角湖地铁站A出口往新华路方向直行约700米）"
+  }, 
+  {
+    "hotelId": "4300745", 
+    "hotelName": "汉庭优佳武汉华科大创业街酒店", 
+    "hotelAddressShort": "洪山区关山大道创业街9栋"
+  }, 
+  {
+    "hotelId": "9016373", 
+    "hotelName": "汉庭武汉国博中心永旺酒店", 
+    "hotelAddressShort": "汉阳区芙蓉路70号太子湖畔星苑三号楼世纪潮江广场裙楼（地铁6号线江城大道地铁站D出口步行1.8公里）"
+  }, 
+  {
+    "hotelId": "8000356", 
+    "hotelName": "全季武汉汉阳美好广场酒店", 
+    "hotelAddressShort": "马鹦路191号美好广场"
+  }, 
+  {
+    "hotelId": "9007706", 
+    "hotelName": "全季武汉街道口酒店", 
+    "hotelAddressShort": "珞狮路90号"
+  }, 
+  {
+    "hotelId": "9007477", 
+    "hotelName": "桔子武汉火车站酒店", 
+    "hotelAddressShort": "武汉市洪山区和谐路武汉站东广场"
+  }, 
+  {
+    "hotelId": "9000723", 
+    "hotelName": "汉庭武汉光谷青年汇酒店", 
+    "hotelAddressShort": "光谷大道121号光谷青年汇4号楼（武汉传媒学院正对面）"
+  }, 
+  {
+    "hotelId": "9018157", 
+    "hotelName": "汉庭武汉东西湖食品工业园酒店", 
+    "hotelAddressShort": "走马岭街办事处食品一路32号武汉金香园食品有限公司1号楼"
+  }, 
+  {
+    "hotelId": "4300752", 
+    "hotelName": "汉庭武汉富士康科技园酒店", 
+    "hotelAddressShort": "武汉东湖新技术开发区高新六路99号南山光谷自贸港B栋"
+  }, 
+  {
+    "hotelId": "9012594", 
+    "hotelName": "汉庭武汉光谷高农生物科技园酒店", 
+    "hotelAddressShort": "（修路期间请导至—国英种业西门）东湖新技术开发区神墩四路666号研发楼B区"
+  }, 
+  {
+    "hotelId": "9018759", 
+    "hotelName": "全季武汉东湖欢乐谷酒店", 
+    "hotelAddressShort": "武汉市洪山区园林路218号东湖城拾光"
+  }, 
+  {
+    "hotelId": "9018956", 
+    "hotelName": "全季武汉汉南兴城大道酒店", 
+    "hotelAddressShort": "月亮湾路与兴城大道交叉口北天源天骄大楼附楼1层部分，2-4层全部"
+  }, 
+  {
+    "hotelId": "9021617", 
+    "hotelName": "汉庭武汉汉口火车站新唐万科广场酒店", 
+    "hotelAddressShort": "武汉市江汉区常青一路222号（新唐万科广场旁）"
+  }, 
+  {
+    "hotelId": "9001397", 
+    "hotelName": "全季武汉华中农业大学酒店", 
+    "hotelAddressShort": "书城路特9号"
+  }, 
+  {
+    "hotelId": "4300743", 
+    "hotelName": "全季武汉光谷广场酒店", 
+    "hotelAddressShort": "雄楚大道981号立信大厦"
+  }, 
+  {
+    "hotelId": "4300154", 
+    "hotelName": "全季武汉汉口火车站唐家墩酒店", 
+    "hotelAddressShort": "发展大道357号田园商务大厦一楼"
+  }, 
+  {
+    "hotelId": "9013036", 
+    "hotelName": "全季武汉白沙洲居然之家酒店", 
+    "hotelAddressShort": "湖北省武汉市洪山区白沙洲大道与白沙三路交汇处南边商业综合体6-7楼"
+  }, 
+  {
+    "hotelId": "8000263", 
+    "hotelName": "桔子武汉光谷广场杨家湾地铁站酒店", 
+    "hotelAddressShort": "武汉市洪山区虎泉街299号"
+  }, 
+  {
+    "hotelId": "9009866", 
+    "hotelName": "全季武汉理工大学酒店", 
+    "hotelAddressShort": "工大路12号"
+  }, 
+  {
+    "hotelId": "4300111", 
+    "hotelName": "全季武汉后湖兴业路酒店", 
+    "hotelAddressShort": "兴业路59号"
+  }, 
+  {
+    "hotelId": "9012776", 
+    "hotelName": "全季武汉大学东湖南路酒店", 
+    "hotelAddressShort": "东湖南路16号综合楼"
+  }, 
+  {
+    "hotelId": "4300605", 
+    "hotelName": "汉庭武汉洪山广场民主路酒店", 
+    "hotelAddressShort": "武昌区民主路722号"
+  }, 
+  {
+    "hotelId": "9011939", 
+    "hotelName": "全季武汉光谷高农生物科技园酒店", 
+    "hotelAddressShort": "神墩二路高农生物园一区20幢1-5楼"
+  }, 
+  {
+    "hotelId": "9010974", 
+    "hotelName": "汉庭武汉万松园王家墩东地铁站酒店", 
+    "hotelAddressShort": "江汉区建设大道470号（地铁2号线／7号线王家墩东B出口直行100M）"
+  }, 
+  {
+    "hotelId": "4300009", 
+    "hotelName": "汉庭武汉东湖酒店", 
+    "hotelAddressShort": "武昌区东亭路25号(地铁4号线岳家嘴站H出口，往东湖梨园方向步行约8分钟国家电网对面或地铁8号线梨园站A出口，往岳家嘴天桥方向，步行约7分钟)"
+  }, 
+  {
+    "hotelId": "4302051", 
+    "hotelName": "汉庭武汉光谷金融港北地铁站酒店（质量整改）", 
+    "hotelAddressShort": "光谷大道当代国际花园"
+  }, 
+  {
+    "hotelId": "4300562", 
+    "hotelName": "汉庭武汉江汉大学酒店", 
+    "hotelAddressShort": "沌口经济技术开发区三角湖路官湖景珠公寓1-1号（神龙大道碧湖东路站）"
+  }, 
+  {
+    "hotelId": "9015329", 
+    "hotelName": "你好武汉青年路花园道酒店", 
+    "hotelAddressShort": "西北湖路25号一层大堂及3-8层客房"
+  }, 
+  {
+    "hotelId": "8000632", 
+    "hotelName": "汉庭武汉徐东销品茂酒店", 
+    "hotelAddressShort": "武昌区徐东新村518号(地铁8号线D出口往才华街方向步行7分钟左右)"
+  }, 
+  {
+    "hotelId": "8916255", 
+    "hotelName": "桔子武汉光谷科技会展中心酒店", 
+    "hotelAddressShort": "高新大道778号奥山光谷创意街区7号楼"
+  }, 
+  {
+    "hotelId": "9010069", 
+    "hotelName": "你好武汉归元寺钟家村地铁站酒店", 
+    "hotelAddressShort": "湖北省武汉市汉阳区汉阳大道267号远洋国际A1座"
+  }, 
+  {
+    "hotelId": "9011985", 
+    "hotelName": "全季武汉光谷六路地铁站酒店", 
+    "hotelAddressShort": "光谷六路碧桂园云玺6号楼"
+  }, 
+  {
+    "hotelId": "9013076", 
+    "hotelName": "武汉华科大美仑酒店", 
+    "hotelAddressShort": "关山大道光谷时代广场B座"
+  }, 
+  {
+    "hotelId": "8000449", 
+    "hotelName": "宜必思尚品武汉光谷广场酒店", 
+    "hotelAddressShort": "雄楚大街 938 号洪福添美城市广场"
+  }, 
+  {
+    "hotelId": "9016585", 
+    "hotelName": "汉庭武汉洪山广场地铁站酒店", 
+    "hotelAddressShort": "湖北省武汉市武昌区中南路80号中南大厦1楼（地铁2号线.4号线洪山广场站B3出口左转230米）"
+  }, 
+  {
+    "hotelId": "4300143", 
+    "hotelName": "汉庭武汉汉口火车站酒店", 
+    "hotelAddressShort": "江汉区汉口火车站东侧金墩街1号"
+  }, 
+  {
+    "hotelId": "9018738", 
+    "hotelName": "你好武汉理工大学文治街地铁站酒店", 
+    "hotelAddressShort": "文秀街7号"
+  }, 
+  {
+    "hotelId": "9000728", 
+    "hotelName": "全季武汉国际广场酒店", 
+    "hotelAddressShort": "武胜路72号"
+  }, 
+  {
+    "hotelId": "4300401", 
+    "hotelName": "汉庭武汉吴家山酒店", 
+    "hotelAddressShort": "吴家山东西湖大道2719号(轻轨1号线五环大道B出口前行500M）"
+  }, 
+  {
+    "hotelId": "9012050", 
+    "hotelName": "全季武汉火车站酒店", 
+    "hotelAddressShort": "武汉火车站西广场南侧邻湖壹方项目五号楼"
+  }, 
+  {
+    "hotelId": "9007224", 
+    "hotelName": "桔子武汉楚河汉街地铁站酒店", 
+    "hotelAddressShort": "中北路68号(4号线楚河汉街地铁站A出口直行30米）"
+  }, 
+  {
+    "hotelId": "9008953", 
+    "hotelName": "桔子武汉站建设二路酒店", 
+    "hotelAddressShort": "友谊大道956号"
+  }, 
+  {
+    "hotelId": "9000700", 
+    "hotelName": "汉庭优佳武汉额头湾地铁站酒店", 
+    "hotelAddressShort": "东西湖区东西湖大道6525号（地铁1号线额头湾D出口直行100米到）"
+  }, 
+  {
+    "hotelId": "9014513", 
+    "hotelName": "全季武汉白沙洲龙湖天街酒店", 
+    "hotelAddressShort": "张家湾胜利村胜利丰园一期17号楼"
+  }, 
+  {
+    "hotelId": "4300771", 
+    "hotelName": "汉庭武汉楚河汉街地铁站酒店", 
+    "hotelAddressShort": "武昌区中北路119号(地铁4号线楚河汉街站C出口前行100米)"
+  }, 
+  {
+    "hotelId": "8000057", 
+    "hotelName": "汉庭武汉华中科技大学酒店", 
+    "hotelAddressShort": "洪山区佳园路2号(光谷大道B出口直行550米高科大厦一楼)"
+  }, 
+  {
+    "hotelId": "4300221", 
+    "hotelName": "汉庭武汉中山公园地铁站酒店", 
+    "hotelAddressShort": "江汉区解放大道710号，协和医院对面，武商广场和武汉国际会展中心旁"
+  }, 
+  {
+    "hotelId": "4300232", 
+    "hotelName": "汉庭武汉汉口火车站地铁站酒店", 
+    "hotelAddressShort": "江汉区发展大道176号汉口火车站地铁站D1出口50米"
+  }, 
+  {
+    "hotelId": "4301051", 
+    "hotelName": "汉庭武汉沌口沌阳大道地铁站酒店", 
+    "hotelAddressShort": "沌口经济技术开发区创业路50号银城大厦（地铁3号线沌阳大道站A出口直行50米下楼梯右转100米再左转200米地铁3号线沌阳大道站A出口直行50米下楼梯右转100米再左转200米）"
+  }, 
+  {
+    "hotelId": "9010111", 
+    "hotelName": "全季武汉光谷湖北经济学院酒店", 
+    "hotelAddressShort": "藏龙岛开发区杨桥湖大道8号"
+  }, 
+  {
+    "hotelId": "4730002", 
+    "hotelName": "怡莱武汉洪山广场酒店", 
+    "hotelAddressShort": "武汉市武昌区星海路特1号"
+  }, 
+  {
+    "hotelId": "4300501", 
+    "hotelName": "全季武汉汉阳王家湾酒店", 
+    "hotelAddressShort": "龙阳大道17号"
+  }, 
+  {
+    "hotelId": "9019361", 
+    "hotelName": "桔子武汉光谷大学园路酒店", 
+    "hotelAddressShort": "武汉东湖新技术开发区华师园北路13号"
+  }, 
+  {
+    "hotelId": "9001020", 
+    "hotelName": "汉庭武汉花山软件新城酒店", 
+    "hotelAddressShort": "东湖高新技术开发区花城大道9号花城汇一号楼"
+  }, 
+  {
+    "hotelId": "9013499", 
+    "hotelName": "桔子武汉汉口站泛海CBD酒店", 
+    "hotelAddressShort": "江汉区青年路556号房开大厦（范湖地铁站J口向北150米，武汉市博物馆正对面）"
+  }, 
+  {
+    "hotelId": "9015819", 
+    "hotelName": "你好武汉众圆广场建设二路地铁站酒店", 
+    "hotelAddressShort": "和平大道1244号"
+  }, 
+  {
+    "hotelId": "9000748", 
+    "hotelName": "全季武汉金银湖酒店", 
+    "hotelAddressShort": "金银湖路9号"
+  }, 
+  {
+    "hotelId": "4300131", 
+    "hotelName": "汉庭武汉市民之家酒店", 
+    "hotelAddressShort": "武汉市江岸区凯信后湖生活广场      （健身街汉口绿地中心对面）"
+  }, 
+  {
+    "hotelId": "9012545", 
+    "hotelName": "武汉光谷湖北经济学院美仑国际酒店", 
+    "hotelAddressShort": "武汉东湖新技术开发区光谷大道308号光谷动力节能保护产业园2栋美仑国际酒店"
+  }, 
+  {
+    "hotelId": "4300631", 
+    "hotelName": "汉庭武汉欢乐谷酒店", 
+    "hotelAddressShort": "洪山区华电小路综合市场旁(地铁4号线铁机路站A出口右转直行500米/地铁8号线梨园站D 出口800米）"
+  }, 
+  {
+    "hotelId": "9008753", 
+    "hotelName": "全季武汉市民之家酒店", 
+    "hotelAddressShort": "健康街66号绿地汉口中心S6号楼"
+  }, 
+  {
+    "hotelId": "4300641", 
+    "hotelName": "汉庭武汉光谷步行街酒店", 
+    "hotelAddressShort": "洪山区雄楚大道981号中国石油大楼旁  民族大道与雄楚大道交汇处左转100米"
+  }, 
+  {
+    "hotelId": "9004142", 
+    "hotelName": "全季武汉沌口开发区永旺酒店", 
+    "hotelAddressShort": "太子湖畔星苑"
+  }, 
+  {
+    "hotelId": "9015771", 
+    "hotelName": "汉庭武汉蔡甸经济开发区常福工业园酒店", 
+    "hotelAddressShort": "经济开发区奓山街玛瑙四路59号"
+  }, 
+  {
+    "hotelId": "4300512", 
+    "hotelName": "汉庭武汉王家湾地铁站酒店", 
+    "hotelAddressShort": "汉阳区汉阳大道582号王家湾海天广场B座1楼、7-10楼"
+  }, 
+  {
+    "hotelId": "4303111", 
+    "hotelName": "汉庭武汉天河机场盘龙城酒店", 
+    "hotelAddressShort": "黄陂区盘龙城巨龙大道55号中城时代（麦德龙商场旁、美景天城斜对面）"
+  }, 
+  {
+    "hotelId": "9019114", 
+    "hotelName": "汉庭武汉江夏大桥现代产业园酒店", 
+    "hotelAddressShort": "武汉市江夏区产业二路8号武汉顺琥石材城12号楼1至3层"
+  }, 
+  {
+    "hotelId": "9017764", 
+    "hotelName": "星程武汉黄鹤楼首义路酒店", 
+    "hotelAddressShort": "张之洞路234号"
+  }, 
+  {
+    "hotelId": "8000343", 
+    "hotelName": "桔子武汉江汉路步行街酒店", 
+    "hotelAddressShort": "湖北省武汉市江岸区铭新街13号"
+  }, 
+  {
+    "hotelId": "9014059", 
+    "hotelName": "武汉吴家山美仑酒店（升级中）", 
+    "hotelAddressShort": "吴家山街临空港大道156号鸿达中央广场4号楼7-12层"
+  }, 
+  {
+    "hotelId": "4300144", 
+    "hotelName": "汉庭武汉火车站酒店", 
+    "hotelAddressShort": "洪山区武汉火车站西广场出站口综合服务楼特1号"
+  }, 
+  {
+    "hotelId": "4300243", 
+    "hotelName": "全季武汉汉口新华路酒店", 
+    "hotelAddressShort": "武汉市江汉区新华路272号（原宏元商务大厦）"
+  }, 
+  {
+    "hotelId": "4302234", 
+    "hotelName": "汉庭武汉江夏庙山酒店", 
+    "hotelAddressShort": "江夏区江夏大道43号"
+  }, 
+  {
+    "hotelId": "9000962", 
+    "hotelName": "桔子武汉光谷广场酒店", 
+    "hotelAddressShort": "雄楚大道981号"
+  }, 
+  {
+    "hotelId": "9023570", 
+    "hotelName": "星程武汉汉西一路地铁站酒店", 
+    "hotelAddressShort": "解放大道351号轨道交通1号线综合写字楼8-13层及1层大堂"
+  }, 
+  {
+    "hotelId": "4300621", 
+    "hotelName": "汉庭武汉湖北大学酒店", 
+    "hotelAddressShort": "武昌区和平大道三角路水岸国际1F(地铁2号线积玉桥站D出口乘坐530/607/804等多路公交车经3站至三角路车站即到)"
+  }, 
+  {
+    "hotelId": "4300005", 
+    "hotelName": "全季武汉沌口开发区酒店", 
+    "hotelAddressShort": "创业路10号"
+  }, 
+  {
+    "hotelId": "4300703", 
+    "hotelName": "全季武汉汉口火车站广场酒店", 
+    "hotelAddressShort": "银河里66号(汉口火车站地铁2号线C出口，欧亚达建材广场西侧)"
+  }, 
+  {
+    "hotelId": "9001884", 
+    "hotelName": "汉庭武汉青山建设二路地铁站酒店（原青山众圆广场店）", 
+    "hotelAddressShort": "青山区建设二路江城商业广场955号（地铁5号线建设二路地铁口D出口左转200米即到））"
+  }, 
+  {
+    "hotelId": "4300746", 
+    "hotelName": "汉庭武汉华科大创业街酒店", 
+    "hotelAddressShort": "洪山区关山大道创业街9栋"
+  }, 
+  {
+    "hotelId": "4300721", 
+    "hotelName": "汉庭武汉大学酒店(质量整改)", 
+    "hotelAddressShort": "武昌区天鹅路81号武大西门旁，8号线小洪山站A口直行过红绿灯左转200米。"
+  }, 
+  {
+    "hotelId": "9014624", 
+    "hotelName": "星程武汉光谷百度大厦酒店", 
+    "hotelAddressShort": "武汉市江夏区藏龙岛光谷大道128号附12"
+  }, 
+  {
+    "hotelId": "9013490", 
+    "hotelName": "怡莱武汉黄鹤楼户部巷酒店", 
+    "hotelAddressShort": "解放路360号"
+  }, 
+  {
+    "hotelId": "9009538", 
+    "hotelName": "怡莱武汉现代光谷世贸中心酒店", 
+    "hotelAddressShort": "武汉市光谷大道关南园路21号"
+  }
+]
