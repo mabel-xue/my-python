@@ -1,0 +1,702 @@
+[
+  {
+    "hotelId": "3000414", 
+    "hotelName": "桔子水晶天津津湾广场酒店", 
+    "hotelAddressShort": "解放北路与长春道交口津湾广场1号楼及2号楼南楼"
+  }, 
+  {
+    "hotelId": "9001435", 
+    "hotelName": "天津鼓楼诺富特酒店", 
+    "hotelAddressShort": "天津南开区城厢东路与东门内大街交叉口荣佳大厦A栋天津鼓楼诺富特酒店"
+  }, 
+  {
+    "hotelId": "3000103", 
+    "hotelName": "汉庭天津火车站意风区酒店", 
+    "hotelAddressShort": "天津市河北区建国道64号 【地铁2号线：建国道地铁站，B口对面100米】"
+  }, 
+  {
+    "hotelId": "9019443", 
+    "hotelName": "全季天津蓟州文昌街酒店", 
+    "hotelAddressShort": "天津市蓟州区渔阳镇中昌北路与兴华大街交口东北角（原东方商厦院内）"
+  }, 
+  {
+    "hotelId": "9001355", 
+    "hotelName": "桔子天津滨海新区响螺湾酒店", 
+    "hotelAddressShort": "极地广场17栋"
+  }, 
+  {
+    "hotelId": "9000498", 
+    "hotelName": "天津津湾广场漫心酒店", 
+    "hotelAddressShort": "解放北路22-26号"
+  }, 
+  {
+    "hotelId": "9000366", 
+    "hotelName": "宜必思天津津湾广场酒店", 
+    "hotelAddressShort": "天津市和平区滨江道20号津湾广场3号楼"
+  }, 
+  {
+    "hotelId": "9004147", 
+    "hotelName": "桔子水晶天津滨江道步行街酒店", 
+    "hotelAddressShort": "天津市和平区长春道98号"
+  }, 
+  {
+    "hotelId": "9015357", 
+    "hotelName": "汉庭天津金钟河大街酒店", 
+    "hotelAddressShort": "金钟河大街与外环线交口西北侧金钟商会楼宇总部1楼"
+  }, 
+  {
+    "hotelId": "9001321", 
+    "hotelName": "全季天津西站酒店", 
+    "hotelAddressShort": "天津市红桥区西青道与复兴路交口"
+  }, 
+  {
+    "hotelId": "3004504", 
+    "hotelName": "汉庭天津汉沽体育场酒店", 
+    "hotelAddressShort": "天津市滨海新区汉沽东风南路55号"
+  }, 
+  {
+    "hotelId": "3002023", 
+    "hotelName": "桔子天津解放南路酒店", 
+    "hotelAddressShort": "解放南路390号"
+  }, 
+  {
+    "hotelId": "9015222", 
+    "hotelName": "天津滨江道CitiGO欢阁酒店", 
+    "hotelAddressShort": "天津市和平区劝业场街华中路2号"
+  }, 
+  {
+    "hotelId": "3001101", 
+    "hotelName": "宜必思天津古文化街酒店", 
+    "hotelAddressShort": "天津市南开区古文化街张自忠路26号"
+  }, 
+  {
+    "hotelId": "8000208", 
+    "hotelName": "桔子天津五大道酒店", 
+    "hotelAddressShort": "天津市和平区昆明路与汉阳道交口处，汉阳道45号"
+  }, 
+  {
+    "hotelId": "3001423", 
+    "hotelName": "星程天津中山路地铁站酒店", 
+    "hotelAddressShort": "天津市河北区律纬路27号"
+  }, 
+  {
+    "hotelId": "9001337", 
+    "hotelName": "天津生态城东方美居酒店", 
+    "hotelAddressShort": "中新生态城东方文化广场6-101号"
+  }, 
+  {
+    "hotelId": "3000701", 
+    "hotelName": "汉庭天津八里台天津大学酒店", 
+    "hotelAddressShort": "天津市和平区卫津路149号"
+  }, 
+  {
+    "hotelId": "3000111", 
+    "hotelName": "汉庭天津火车站新开路酒店", 
+    "hotelAddressShort": "天津市河东区春华街道城市之星大厦"
+  }, 
+  {
+    "hotelId": "9011510", 
+    "hotelName": "汉庭天津火车站北广场酒店", 
+    "hotelAddressShort": "河东区华兴道65号（月坛商务大厦1F）"
+  }, 
+  {
+    "hotelId": "9017607", 
+    "hotelName": "桔子天津文化中心酒店", 
+    "hotelAddressShort": " 天津市河西区平江道81号"
+  }, 
+  {
+    "hotelId": "9015883", 
+    "hotelName": "桔子天津小白楼酒店", 
+    "hotelAddressShort": "天津市河西区南京路58号（地铁4号线徐州道A口右转沿蚌埠道步行2分钟即到）"
+  }, 
+  {
+    "hotelId": "9005166", 
+    "hotelName": "汉庭天津汉沽大剧院酒店", 
+    "hotelAddressShort": "天津市滨海新区汉沽新开北路129号"
+  }, 
+  {
+    "hotelId": "9009236", 
+    "hotelName": "全季天津小白楼酒店", 
+    "hotelAddressShort": "天津市和平区彰德道18号"
+  }, 
+  {
+    "hotelId": "9004019", 
+    "hotelName": "汉庭天津狮子林大街古文化街酒店", 
+    "hotelAddressShort": "望海楼街盐官厅西胡同5号"
+  }, 
+  {
+    "hotelId": "9005938", 
+    "hotelName": "汉庭天津南开王顶堤地铁站酒店", 
+    "hotelAddressShort": "苑中路1号"
+  }, 
+  {
+    "hotelId": "3000001", 
+    "hotelName": "汉庭天津之眼酒店", 
+    "hotelAddressShort": "天津市红桥区万通上游国际小区尚都街25号"
+  }, 
+  {
+    "hotelId": "9001924", 
+    "hotelName": "汉庭天津成林道地铁站酒店(原河东万达店)", 
+    "hotelAddressShort": "天津市河东区成林道91-1号"
+  }, 
+  {
+    "hotelId": "3004578", 
+    "hotelName": "天津滨海新区塘沽美居酒店", 
+    "hotelAddressShort": "营口道611号"
+  }, 
+  {
+    "hotelId": "9021293", 
+    "hotelName": "汉庭天津大港油田三号院步行街酒店", 
+    "hotelAddressShort": "天津市滨海新区大港油田团结路266号滨海商厦"
+  }, 
+  {
+    "hotelId": "3002302", 
+    "hotelName": "汉庭天津天泰路河北工大酒店", 
+    "hotelAddressShort": "天津市河北区天泰路696号"
+  }, 
+  {
+    "hotelId": "9005236", 
+    "hotelName": "汉庭天津滨海机场空港经济区地铁站酒店", 
+    "hotelAddressShort": "天津市东丽区华明街赵庄子村北津汉公路南金正科工贸有限公司院内"
+  }, 
+  {
+    "hotelId": "9015455", 
+    "hotelName": "汉庭天津五大道小白楼酒店", 
+    "hotelAddressShort": "天津市和平区小白楼街道泰安道3号五大院2号院"
+  }, 
+  {
+    "hotelId": "3003911", 
+    "hotelName": "汉庭天津西青大学城凌奥产业园酒店", 
+    "hotelAddressShort": "天津市西青区俊城浅水湾69号"
+  }, 
+  {
+    "hotelId": "3000121", 
+    "hotelName": "汉庭天津十一经路酒店", 
+    "hotelAddressShort": "天津市河东区八经路23号"
+  }, 
+  {
+    "hotelId": "3001822", 
+    "hotelName": "全季天津十一经路酒店", 
+    "hotelAddressShort": "天津市河东区十一经路与津塘路交口鼎泰大厦"
+  }, 
+  {
+    "hotelId": "9006015", 
+    "hotelName": "汉庭天津陈塘庄地铁站酒店", 
+    "hotelAddressShort": "大沽南路985号毛织厂院内"
+  }, 
+  {
+    "hotelId": "9008877", 
+    "hotelName": "汉庭天津中北新城市中心酒店", 
+    "hotelAddressShort": "天津市西青区中北镇万卉路6号-2"
+  }, 
+  {
+    "hotelId": "9000592", 
+    "hotelName": "全季天津滨海新区响螺湾酒店", 
+    "hotelAddressShort": "天津市滨海新区迎宾大道东侧万隆大厦2号楼4-6层"
+  }, 
+  {
+    "hotelId": "3004501", 
+    "hotelName": "汉庭天津塘沽外滩步行街酒店", 
+    "hotelAddressShort": "天津市塘沽区和平路34号"
+  }, 
+  {
+    "hotelId": "9003958", 
+    "hotelName": "汉庭天津西青开发区梅江会展中心酒店", 
+    "hotelAddressShort": "天津市西青区大寺镇芦北路20号商务楼B座"
+  }, 
+  {
+    "hotelId": "3000602", 
+    "hotelName": "桔子天津奥体中心天塔酒店（原南开大学店）", 
+    "hotelAddressShort": "环湖北道1号滨湖大厦"
+  }, 
+  {
+    "hotelId": "3000731", 
+    "hotelName": "汉庭天津海光寺酒店", 
+    "hotelAddressShort": "天津市南开区万德庄南北大街与双峰道交口"
+  }, 
+  {
+    "hotelId": "9010800", 
+    "hotelName": "汉庭天津蓟县建设大厦酒店", 
+    "hotelAddressShort": "蓟县中昌北路西侧迎宾路南建设大厦"
+  }, 
+  {
+    "hotelId": "9007504", 
+    "hotelName": "全季天津五大道酒店", 
+    "hotelAddressShort": "天津市和平区沙市道40号"
+  }, 
+  {
+    "hotelId": "9010286", 
+    "hotelName": "全季天津北辰儿童医院酒店", 
+    "hotelAddressShort": "天津市北辰区瑞景街龙居道199号"
+  }, 
+  {
+    "hotelId": "9008299", 
+    "hotelName": "汉庭天津宝坻新都汇商业街酒店", 
+    "hotelAddressShort": "天津市宝坻区宝平街道广阳路嘉兴园2号"
+  }, 
+  {
+    "hotelId": "9000953", 
+    "hotelName": "汉庭天津南站社会山广场酒店", 
+    "hotelAddressShort": "天津市西青区张家窝镇瑞欣商业广场3号楼"
+  }, 
+  {
+    "hotelId": "9014937", 
+    "hotelName": "汉庭天津武清京津公路华北城酒店", 
+    "hotelAddressShort": "京津公路东侧林溪大厦"
+  }, 
+  {
+    "hotelId": "3001901", 
+    "hotelName": "汉庭天津王顶堤酒店", 
+    "hotelAddressShort": "天津市南开区复康路98-100号"
+  }, 
+  {
+    "hotelId": "9000681", 
+    "hotelName": "全季天津鼓楼酒店", 
+    "hotelAddressShort": "天津市南开区城厢东路与东门内大街交口荣佳大厦"
+  }, 
+  {
+    "hotelId": "3002211", 
+    "hotelName": "全季天津梅江会展中心酒店", 
+    "hotelAddressShort": "天津市河西区友谊南路与环岛东路交口"
+  }, 
+  {
+    "hotelId": "3001911", 
+    "hotelName": "汉庭天津水上公园酒店", 
+    "hotelAddressShort": "天津市南开区迎水道与欣苑路交口，欣苑路25号"
+  }, 
+  {
+    "hotelId": "3000221", 
+    "hotelName": "汉庭天津国民饭店和平路酒店", 
+    "hotelAddressShort": "天津市和平区赤峰道58号"
+  }, 
+  {
+    "hotelId": "3017005", 
+    "hotelName": "宜必思天津武清大光明中心酒店", 
+    "hotelAddressShort": "天津市武清区杨村泉州路269号"
+  }, 
+  {
+    "hotelId": "3003082", 
+    "hotelName": "桔子天津空港盛誉大厦酒店", 
+    "hotelAddressShort": "天津空港经济区东二道与弘和路交口，盛誉商务大厦"
+  }, 
+  {
+    "hotelId": "3001612", 
+    "hotelName": "汉庭天津卫国道酒店", 
+    "hotelAddressShort": "天津市河东区卫国道187号"
+  }, 
+  {
+    "hotelId": "8000027", 
+    "hotelName": "汉庭天津南站酒店", 
+    "hotelAddressShort": "天津市西青区张家窝镇知景道279号潮向城A1"
+  }, 
+  {
+    "hotelId": "3000101", 
+    "hotelName": "汉庭天津意式风情街酒店", 
+    "hotelAddressShort": "天津市河北区平安街顾安里22门（平安街公交站斜对面）【地铁2号线：东南角站，D口出站】"
+  }, 
+  {
+    "hotelId": "3000742", 
+    "hotelName": "汉庭天津天塔地铁站酒店", 
+    "hotelAddressShort": "天津市南开区卫津路与水上北路交口聂公桥旁"
+  }, 
+  {
+    "hotelId": "9018400", 
+    "hotelName": "汉庭天津西站人民医院酒店", 
+    "hotelAddressShort": "天津市红桥区龙悦路68号"
+  }, 
+  {
+    "hotelId": "9007927", 
+    "hotelName": "全季天津火车站海河津湾酒店", 
+    "hotelAddressShort": "天津市河东区六经路11号"
+  }, 
+  {
+    "hotelId": "3004503", 
+    "hotelName": "汉庭天津塘沽地铁站酒店", 
+    "hotelAddressShort": "天津市塘沽区中心北路393号"
+  }, 
+  {
+    "hotelId": "9000841", 
+    "hotelName": "全季天津解放南路土城酒店", 
+    "hotelAddressShort": "天津市河西区泰山路1号"
+  }, 
+  {
+    "hotelId": "9011302", 
+    "hotelName": "汉庭天津小站练兵园米立方酒店", 
+    "hotelAddressShort": "天津市津南区小站镇津歧公路78号大有桥北"
+  }, 
+  {
+    "hotelId": "3003841", 
+    "hotelName": "汉庭天津华苑酒店", 
+    "hotelAddressShort": "天津市西青区复康路翠庭园1号"
+  }, 
+  {
+    "hotelId": "3004572", 
+    "hotelName": "汉庭天津开发区二大街酒店", 
+    "hotelAddressShort": "天津市塘沽开发区洞庭路41号"
+  }, 
+  {
+    "hotelId": "9000273", 
+    "hotelName": "全季天津武清佛罗伦萨小镇酒店", 
+    "hotelAddressShort": "天津市武清区黄庄街道前进道南侧汇鑫商务广场2号楼"
+  }, 
+  {
+    "hotelId": "9017768", 
+    "hotelName": "汉庭天津新一中心医院复康路酒店", 
+    "hotelAddressShort": "天津市西青区西营门街复康路208号增1号"
+  }, 
+  {
+    "hotelId": "3000902", 
+    "hotelName": "桔子天津古文化街酒店", 
+    "hotelAddressShort": "兴安路7号（地铁2号线东南角C出口150米）"
+  }, 
+  {
+    "hotelId": "3000112", 
+    "hotelName": "宜必思天津火车站北广场酒店", 
+    "hotelAddressShort": "天津市河东区华兴道春华公寓1号"
+  }, 
+  {
+    "hotelId": "9001645", 
+    "hotelName": "全季天津文化中心酒店", 
+    "hotelAddressShort": "天津市河西区隆昌路86号"
+  }, 
+  {
+    "hotelId": "9004169", 
+    "hotelName": "全季天津北辰区政府南仓道酒店", 
+    "hotelAddressShort": "天穆镇高峰路东侧悦盛商业广场5幢"
+  }, 
+  {
+    "hotelId": "9007858", 
+    "hotelName": "桔子天津海光寺酒店", 
+    "hotelAddressShort": "万德庄大街1号万德大厦(地铁1号线海光寺站B口乘坐电梯右侧出80米）"
+  }, 
+  {
+    "hotelId": "3002221", 
+    "hotelName": "汉庭天津津南开发区国家会展中心酒店", 
+    "hotelAddressShort": "天津市津南区双港镇赤龙街仁永名居综合楼1号"
+  }, 
+  {
+    "hotelId": "9009780", 
+    "hotelName": "天津小白楼美仑酒店", 
+    "hotelAddressShort": "和平区解放北路158号、160号"
+  }, 
+  {
+    "hotelId": "9002210", 
+    "hotelName": "汉庭天津宜宾道地铁站酒店", 
+    "hotelAddressShort": "天津市南开区红旗路163号"
+  }, 
+  {
+    "hotelId": "8915685", 
+    "hotelName": "全季天津滨江道商业街酒店", 
+    "hotelAddressShort": "天津市和平区辽宁路175号"
+  }, 
+  {
+    "hotelId": "9012286", 
+    "hotelName": "全季天津宁河开发区五纬路酒店", 
+    "hotelAddressShort": "五纬路22号"
+  }, 
+  {
+    "hotelId": "9020394", 
+    "hotelName": "全季天津滨海北塘经济区酒店", 
+    "hotelAddressShort": "天津经济技术开发区滨海一中关村科技园聚兴商务园8-4-101"
+  }, 
+  {
+    "hotelId": "9014609", 
+    "hotelName": "汉庭天津美院中山路地铁站酒店", 
+    "hotelAddressShort": "天津市河北区中山路61号"
+  }, 
+  {
+    "hotelId": "9009500", 
+    "hotelName": "汉庭天津北辰开发区高新大道酒店", 
+    "hotelAddressShort": "科技园高新大道与景观路交口处1号"
+  }, 
+  {
+    "hotelId": "3003041", 
+    "hotelName": "汉庭天津滨海国际机场酒店", 
+    "hotelAddressShort": "天津市东丽区华明镇华明大道12号"
+  }, 
+  {
+    "hotelId": "9008690", 
+    "hotelName": "汉庭天津海洋高新区滨海职业学院酒店", 
+    "hotelAddressShort": "天津滨海高新区塘沽海洋科技园厦门路2229号"
+  }, 
+  {
+    "hotelId": "3000007", 
+    "hotelName": "星程天津北辰儿童医院酒店", 
+    "hotelAddressShort": "北辰区北辰道与辰兴路交叉口"
+  }, 
+  {
+    "hotelId": "9020111", 
+    "hotelName": "海友天津宁河湾民航大学酒店", 
+    "hotelAddressShort": "海航东路聚丰一品12号1-2层"
+  }, 
+  {
+    "hotelId": "9015112", 
+    "hotelName": "汉庭天津宁河湾民航大学酒店", 
+    "hotelAddressShort": " 天津市宁河区现代产业区海航东路3号聚丰时代新街7-1-105"
+  }, 
+  {
+    "hotelId": "3000004", 
+    "hotelName": "汉庭天津南开二纬路地铁站酒店（原海光寺南开三马路店）", 
+    "hotelAddressShort": "天津市南开区南开三马路源德里"
+  }, 
+  {
+    "hotelId": "9002171", 
+    "hotelName": "汉庭天津咸阳路长虹公园酒店（原咸阳路店）", 
+    "hotelAddressShort": "南开区咸阳路79号与渭水道交口"
+  }, 
+  {
+    "hotelId": "3019001", 
+    "hotelName": "汉庭天津蓟州渔阳鼓楼独乐寺酒店", 
+    "hotelAddressShort": "天津市蓟县渔阳镇人民西大街80号"
+  }, 
+  {
+    "hotelId": "3002701", 
+    "hotelName": "汉庭天津大港津歧公路酒店", 
+    "hotelAddressShort": "天津滨海新区大港古林街东环路269号"
+  }, 
+  {
+    "hotelId": "9019766", 
+    "hotelName": "海友天津民航大学登州南路地铁站酒店", 
+    "hotelAddressShort": "登州南路与海昆道交口西南侧怡港中心1号楼501,5层整层"
+  }, 
+  {
+    "hotelId": "3000203", 
+    "hotelName": "全季天津滨江道吉利大厦酒店", 
+    "hotelAddressShort": "天津市和平区南京路209号"
+  }, 
+  {
+    "hotelId": "3004574", 
+    "hotelName": "汉庭天津开发区泰达MSD酒店", 
+    "hotelAddressShort": "天津市塘沽（滨海新区）南海路23号"
+  }, 
+  {
+    "hotelId": "8000312", 
+    "hotelName": "全季天津津滨大道酒店", 
+    "hotelAddressShort": "天津市东丽区津滨大道津滨置地广场1号楼6层"
+  }, 
+  {
+    "hotelId": "9001416", 
+    "hotelName": "全季天津大学鞍山西道酒店", 
+    "hotelAddressShort": "天津市南开区鞍山西道259号学湖里小区31、32号楼"
+  }, 
+  {
+    "hotelId": "3003042", 
+    "hotelName": "全季天津滨海国际机场酒店", 
+    "hotelAddressShort": "天津市东丽区一纬西路华明高新技术产业区EOD总部港C1-1"
+  }, 
+  {
+    "hotelId": "3003001", 
+    "hotelName": "汉庭天津东丽体育中心万达广场酒店", 
+    "hotelAddressShort": "天津市东丽区津塘公路振华里3号楼后院"
+  }, 
+  {
+    "hotelId": "8000375", 
+    "hotelName": "桔子天津津南大学城新国展酒店", 
+    "hotelAddressShort": "天津市津南区咸水沽镇津沽路与雅润路交口雅晟广场3号楼"
+  }, 
+  {
+    "hotelId": "9019222", 
+    "hotelName": "汉庭天津医科大学总医院酒店", 
+    "hotelAddressShort": "四平西道11号福星大厦A座一层局部、四层、五层、六层、八层全部"
+  }, 
+  {
+    "hotelId": "3000412", 
+    "hotelName": "全季天津津湾广场酒店", 
+    "hotelAddressShort": "天津市和平区解放北路2号"
+  }, 
+  {
+    "hotelId": "3017006", 
+    "hotelName": "汉庭天津武清大光明中心酒店", 
+    "hotelAddressShort": "天津市武清区建设北路1号"
+  }, 
+  {
+    "hotelId": "3016002", 
+    "hotelName": "桔子水晶天津静海东方红路酒店", 
+    "hotelAddressShort": "天津市静海区静海镇东方红路与春曦道交口10米处"
+  }, 
+  {
+    "hotelId": "9011051", 
+    "hotelName": "汉庭天津西青大学城卓尔电商城酒店", 
+    "hotelAddressShort": "天津市西青区学府工业园创源道32号卓尔电商城C6栋"
+  }, 
+  {
+    "hotelId": "3016001", 
+    "hotelName": "汉庭天津静海静文路酒店", 
+    "hotelAddressShort": "天津市静海县津德路50号"
+  }, 
+  {
+    "hotelId": "3000122", 
+    "hotelName": "汉庭天津音乐学院酒店", 
+    "hotelAddressShort": "天津市河东区八纬路100号"
+  }, 
+  {
+    "hotelId": "9007528", 
+    "hotelName": "汉庭天津珠江五金城酒店", 
+    "hotelAddressShort": "天津市河西区珠江道65号"
+  }, 
+  {
+    "hotelId": "9000145", 
+    "hotelName": "汉庭天津大港迎宾街酒店", 
+    "hotelAddressShort": "天津市滨海新区大港街道育才路535号"
+  }, 
+  {
+    "hotelId": "9000977", 
+    "hotelName": "全季天津空港经济区酒店", 
+    "hotelAddressShort": "天津空港经济区瑞航广场20栋A座"
+  }, 
+  {
+    "hotelId": "9014080", 
+    "hotelName": "星程天津静海火车站酒店", 
+    "hotelAddressShort": "天津市静海区静园里4号综合楼"
+  }, 
+  {
+    "hotelId": "9000856", 
+    "hotelName": "汉庭优佳天津南开大学白堤路酒店", 
+    "hotelAddressShort": "天津市南开区白堤路207.209号301"
+  }, 
+  {
+    "hotelId": "3002223", 
+    "hotelName": "全季天津珠江道酒店", 
+    "hotelAddressShort": "天津市河西区珠江道59号"
+  }, 
+  {
+    "hotelId": "9008735", 
+    "hotelName": "全季天津中北新城市中心酒店", 
+    "hotelAddressShort": "天津市西青区中北镇万卉路6号"
+  }, 
+  {
+    "hotelId": "3000601", 
+    "hotelName": "海友天津奥体中心酒店", 
+    "hotelAddressShort": "河西区卫津南路与富有道交口五环花园1号楼"
+  }, 
+  {
+    "hotelId": "9007565", 
+    "hotelName": "汉庭天津东丽开发区管委会酒店", 
+    "hotelAddressShort": "天津市东丽区东丽开发区一经路10号"
+  }, 
+  {
+    "hotelId": "9007139", 
+    "hotelName": "汉庭天津北辰开发区管委会酒店", 
+    "hotelAddressShort": "北辰区大张庄镇永进道创新创业大厦"
+  }, 
+  {
+    "hotelId": "9000992", 
+    "hotelName": "汉庭天津塘沽胡家园酒店", 
+    "hotelAddressShort": "天津市滨海新区塘沽区胡家园街道于庄子路5号"
+  }, 
+  {
+    "hotelId": "9001168", 
+    "hotelName": "全季天津津南大学城微山南路酒店", 
+    "hotelAddressShort": "天津市津南区双港开发区重庆街与天元路交口"
+  }, 
+  {
+    "hotelId": "3000732", 
+    "hotelName": "全季天津海光寺酒店", 
+    "hotelAddressShort": "天津市南开区万德庄大街1号(地铁1号线海光寺站B口出50米)"
+  }, 
+  {
+    "hotelId": "9017004", 
+    "hotelName": "桔子天津华苑酒店", 
+    "hotelAddressShort": "天津市西青区复康路208号"
+  }, 
+  {
+    "hotelId": "9013925", 
+    "hotelName": "全季天津西青开发区赛达国际工业城酒店", 
+    "hotelAddressShort": "经济技术开发区国际工业城B8座"
+  }, 
+  {
+    "hotelId": "3000744", 
+    "hotelName": "全季天津五大道友谊路酒店（原友谊路店）", 
+    "hotelAddressShort": "天津市河西区友谊路2号"
+  }, 
+  {
+    "hotelId": "9012017", 
+    "hotelName": "汉庭天津大学城国家会展中心酒店", 
+    "hotelAddressShort": "天津市津南区咸水沽镇津沽路与雅润路交口雅晟广场3号楼"
+  }, 
+  {
+    "hotelId": "3004577", 
+    "hotelName": "宜必思天津开发区泰达酒店", 
+    "hotelAddressShort": "天津市滨海塘沽开发区第三大街30号"
+  }, 
+  {
+    "hotelId": "3004001", 
+    "hotelName": "汉庭优佳天津华北集团地铁站酒店", 
+    "hotelAddressShort": "天津市北辰经济开发区华北集团对面壳牌加油站后"
+  }, 
+  {
+    "hotelId": "9003495", 
+    "hotelName": "汉庭天津中北海泰南北大街酒店", 
+    "hotelAddressShort": "新津道与海泰南北大街交叉口"
+  }, 
+  {
+    "hotelId": "3000008", 
+    "hotelName": "汉庭天津宜白大道酒店", 
+    "hotelAddressShort": "天津市北辰区辽河南道5号"
+  }, 
+  {
+    "hotelId": "9014466", 
+    "hotelName": "全季天津武清大光明中心酒店", 
+    "hotelAddressShort": "光明道1号君利大厦"
+  }, 
+  {
+    "hotelId": "3004031", 
+    "hotelName": "汉庭优佳天津北辰双街开发区酒店", 
+    "hotelAddressShort": "天津市北辰区双辰前路东8号"
+  }, 
+  {
+    "hotelId": "9010713", 
+    "hotelName": "桔子天津海泰大学城酒店", 
+    "hotelAddressShort": "精武镇迎水西道2号迪麦家居E-2区"
+  }, 
+  {
+    "hotelId": "9016331", 
+    "hotelName": "星程天津滨海国际机场酒店", 
+    "hotelAddressShort": "华明高新区科创慧谷-慧谷园1号楼-3栋、4栋"
+  }, 
+  {
+    "hotelId": "9004986", 
+    "hotelName": "星程天津滨江道酒店", 
+    "hotelAddressShort": "五大道街南京路129号世贸广场A座（诚基中心旁）"
+  }, 
+  {
+    "hotelId": "3003843", 
+    "hotelName": "全季天津华苑酒店", 
+    "hotelAddressShort": "天津市南开区华苑产业园区兰苑路2号頂佳金领地4号楼"
+  }, 
+  {
+    "hotelId": "9001180", 
+    "hotelName": "全季天津自贸区滨海站酒店", 
+    "hotelAddressShort": "天津市滨海新区新港路111号"
+  }, 
+  {
+    "hotelId": "3001431", 
+    "hotelName": "全季天津中山路酒店", 
+    "hotelAddressShort": "天津市河北区昆纬路85号"
+  }, 
+  {
+    "hotelId": "9020075", 
+    "hotelName": "海友天津中北永旺曹庄地铁站酒店", 
+    "hotelAddressShort": "中北镇万卉路6号"
+  }, 
+  {
+    "hotelId": "3015051", 
+    "hotelName": "汉庭天津宁河开发区酒店", 
+    "hotelAddressShort": "天津市宁河县经济开发区二径路60号"
+  }, 
+  {
+    "hotelId": "9014529", 
+    "hotelName": "星程天津塘沽地铁站酒店", 
+    "hotelAddressShort": " 塘沽区中心北路22号"
+  }, 
+  {
+    "hotelId": "9004566", 
+    "hotelName": "海友天津东丽开发区酒店", 
+    "hotelAddressShort": "天津市东丽区津塘公路387号现代大厦3F-5F"
+  }, 
+  {
+    "hotelId": "9023502", 
+    "hotelName": "天津滨海开发区美仑酒店", 
+    "hotelAddressShort": "明园路9号1层-8层整栋物业"
+  }
+]

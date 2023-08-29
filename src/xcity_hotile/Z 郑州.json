@@ -1,0 +1,602 @@
+[
+  {
+    "hotelId": "8913505", 
+    "hotelName": "郑州郑东新区城际酒店", 
+    "hotelAddressShort": "郑东新区普惠路55号1号楼 ( 距东站西广场步行9分钟）"
+  }, 
+  {
+    "hotelId": "4500524", 
+    "hotelName": "汉庭郑州南环佛岗酒店", 
+    "hotelAddressShort": "二七区连云路寒山东路"
+  }, 
+  {
+    "hotelId": "4501001", 
+    "hotelName": "怡莱荥阳康泰路酒店", 
+    "hotelAddressShort": "河南省郑州市荥阳市棋源路"
+  }, 
+  {
+    "hotelId": "8000194", 
+    "hotelName": "星程郑州新郑机场酒店", 
+    "hotelAddressShort": "新港大道与洵美路交叉口向东100米兴瑞汇金国际G-D楼"
+  }, 
+  {
+    "hotelId": "4500161", 
+    "hotelName": "怡莱精品郑州火车东站酒店", 
+    "hotelAddressShort": "郑州市经济技术开发区第八大街188号长盛广场1号楼1-4层"
+  }, 
+  {
+    "hotelId": "9015677", 
+    "hotelName": "汉庭郑州白沙商都路酒店", 
+    "hotelAddressShort": "郑东新区白沙商都路与敬业路交叉口向东88米路南"
+  }, 
+  {
+    "hotelId": "9001554", 
+    "hotelName": "汉庭郑州新郑黄金大道物流园酒店", 
+    "hotelAddressShort": "郑州新郑市黄金大道春天物流园B区"
+  }, 
+  {
+    "hotelId": "9009755", 
+    "hotelName": "全季郑州二七广场地铁站酒店", 
+    "hotelAddressShort": "二七路224号"
+  }, 
+  {
+    "hotelId": "9017672", 
+    "hotelName": "全季郑州杨金路新科技市场酒店", 
+    "hotelAddressShort": "杨金路与新庄街东南200米，近连霍高速口"
+  }, 
+  {
+    "hotelId": "9007732", 
+    "hotelName": "汉庭郑州高新区郑州大学酒店", 
+    "hotelAddressShort": "河南省郑州市高新区科学大道与腊梅路交叉口西南角"
+  }, 
+  {
+    "hotelId": "8913589", 
+    "hotelName": "郑州火车东站漫心酒店", 
+    "hotelAddressShort": "郑东新区普惠路55号1号楼（距东站西广场步行10分钟）"
+  }, 
+  {
+    "hotelId": "4500083", 
+    "hotelName": "星程郑州郑东新区会展中心酒店", 
+    "hotelAddressShort": "民航路12-1号（民航路与英协路交叉口向西50米）"
+  }, 
+  {
+    "hotelId": "4500461", 
+    "hotelName": "桔子水晶郑州会展中心五栋大楼酒店", 
+    "hotelAddressShort": "郑州市郑东新区商都路十里铺街12号诚工大厦西塔"
+  }, 
+  {
+    "hotelId": "9008120", 
+    "hotelName": "星程郑州高新万达酒店", 
+    "hotelAddressShort": "河南省郑州市高新技术开发区郁香路37号13号楼1单元22-26层"
+  }, 
+  {
+    "hotelId": "4500061", 
+    "hotelName": "汉庭郑州汝河路酒店", 
+    "hotelAddressShort": "中原区伏牛路218号世纪联华对面"
+  }, 
+  {
+    "hotelId": "4500006", 
+    "hotelName": "汉庭郑州秦岭路锦艺城酒店", 
+    "hotelAddressShort": "中原区秦岭路与棉纺路交叉口向西100米路南"
+  }, 
+  {
+    "hotelId": "9018085", 
+    "hotelName": "汉庭郑州南龙湖阳光大道酒店", 
+    "hotelAddressShort": "龙湖镇维也纳湖畔翰林府邸16号楼"
+  }, 
+  {
+    "hotelId": "4500072", 
+    "hotelName": "汉庭郑州建设路酒店", 
+    "hotelAddressShort": "中原区建设路与桐柏路交汇处西100米"
+  }, 
+  {
+    "hotelId": "9008260", 
+    "hotelName": "怡莱荥阳三公路酒店(升级中)", 
+    "hotelAddressShort": "河南省郑州市荥阳市三公路与汜河路交汇处西南角"
+  }, 
+  {
+    "hotelId": "9012052", 
+    "hotelName": "汉庭郑州象湖科技馆酒店", 
+    "hotelAddressShort": "中牟县杨桥大道与良秀路交叉口向西100米路南"
+  }, 
+  {
+    "hotelId": "9007598", 
+    "hotelName": "星程郑州二七广场金水路店", 
+    "hotelAddressShort": "经七路41号（金水路与杜岭街交叉口，往南100米路东）"
+  }, 
+  {
+    "hotelId": "9009868", 
+    "hotelName": "海友巩义宋陵公园酒店", 
+    "hotelAddressShort": "河南省巩义市建设路88号"
+  }, 
+  {
+    "hotelId": "8916486", 
+    "hotelName": "全季郑州花园路农业路酒店", 
+    "hotelAddressShort": "农业路73号"
+  }, 
+  {
+    "hotelId": "9011845", 
+    "hotelName": "全季郑州高新区科学大道酒店", 
+    "hotelAddressShort": "科学大道与石楠路交叉口西北角"
+  }, 
+  {
+    "hotelId": "4500012", 
+    "hotelName": "星程郑州高新区郑州大学酒店", 
+    "hotelAddressShort": "红莲街2号6号楼(红莲街与碧荷路交叉口）"
+  }, 
+  {
+    "hotelId": "9019422", 
+    "hotelName": "宜必思尚品郑州二七广场大卫城酒店", 
+    "hotelAddressShort": "铭功路和西太康路交叉口向东300米路北"
+  }, 
+  {
+    "hotelId": "4500413", 
+    "hotelName": "汉庭郑州上街区政府酒店", 
+    "hotelAddressShort": "郑州市上街区济源路与金屏路交叉口西南角"
+  }, 
+  {
+    "hotelId": "9001555", 
+    "hotelName": "汉庭郑州嵩山南路亚星广场酒店", 
+    "hotelAddressShort": "二七区嵩山路与长江路交叉口西100米路南"
+  }, 
+  {
+    "hotelId": "8000008", 
+    "hotelName": "汉庭郑州农业大学酒店", 
+    "hotelAddressShort": "金水区天明路2号附1号"
+  }, 
+  {
+    "hotelId": "9008458", 
+    "hotelName": "汉庭郑州火车东站东广场酒店", 
+    "hotelAddressShort": "郑州市汉月路与明理路交叉口西50米路南，中原数字经济产业园10号楼"
+  }, 
+  {
+    "hotelId": "9015226", 
+    "hotelName": "汉庭郑州中原路市政府酒店", 
+    "hotelAddressShort": "中原路103号院"
+  }, 
+  {
+    "hotelId": "4500038", 
+    "hotelName": "宜必思尚品郑州CBD会展中心省人民医院酒店", 
+    "hotelAddressShort": "河南省郑州市黄河路129号"
+  }, 
+  {
+    "hotelId": "4500521", 
+    "hotelName": "汉庭郑州棉纺路酒店", 
+    "hotelAddressShort": "二七区棉纺东路22号5号楼"
+  }, 
+  {
+    "hotelId": "4500151", 
+    "hotelName": "星程郑州京广路地铁站酒店", 
+    "hotelAddressShort": "京广中路96号（京广中路与淮河路交叉口向南200米路西）"
+  }, 
+  {
+    "hotelId": "9004586", 
+    "hotelName": "星程郑州紫荆山省人民医院酒店", 
+    "hotelAddressShort": "纬五路38号(花园路与纬五路交叉口向东300米路南)"
+  }, 
+  {
+    "hotelId": "9000044", 
+    "hotelName": "汉庭郑州中原水产物流港酒店", 
+    "hotelAddressShort": "惠济区江山路与绿环路交叉口"
+  }, 
+  {
+    "hotelId": "9016378", 
+    "hotelName": "桔子郑州东站博学路酒店", 
+    "hotelAddressShort": "金水区博学路与学理路交叉口东50米路南"
+  }, 
+  {
+    "hotelId": "9017636", 
+    "hotelName": "汉庭郑州未来路曼哈顿酒店", 
+    "hotelAddressShort": "未来路与纬二路交叉口西北角"
+  }, 
+  {
+    "hotelId": "4500031", 
+    "hotelName": "汉庭郑州文化路酒店", 
+    "hotelAddressShort": "金水区文化路19号"
+  }, 
+  {
+    "hotelId": "4500122", 
+    "hotelName": "汉庭郑州南阳路海滩寺地铁站酒店", 
+    "hotelAddressShort": "金水区南阳路与黄河路交叉口向北约300米路东 ，太极公馆西门南侧"
+  }, 
+  {
+    "hotelId": "4500181", 
+    "hotelName": "汉庭郑州郑东新区会展中心酒店", 
+    "hotelAddressShort": "郑东新区商鼎路1号"
+  }, 
+  {
+    "hotelId": "9000722", 
+    "hotelName": "汉庭优佳登封客运总站酒店", 
+    "hotelAddressShort": "登封市守敬路与颖河路交叉口向北300米路东"
+  }, 
+  {
+    "hotelId": "9015254", 
+    "hotelName": "汉庭郑州惠济万达北大学城酒店", 
+    "hotelAddressShort": " 英才街146号河南牧业经济学院英才校区院内学术交流中心"
+  }, 
+  {
+    "hotelId": "4524701", 
+    "hotelName": "汉庭郑州登封嵩阳书院酒店", 
+    "hotelAddressShort": "登封市书院河路139号"
+  }, 
+  {
+    "hotelId": "9015826", 
+    "hotelName": "全季郑州农业路升龙天汇广场酒店", 
+    "hotelAddressShort": "农业路与嵩山路交叉口西北角"
+  }, 
+  {
+    "hotelId": "4500041", 
+    "hotelName": "汉庭郑州紫荆山城东路酒店", 
+    "hotelAddressShort": "金水区城东路115号（金水路与城东路交叉口南500米路东）"
+  }, 
+  {
+    "hotelId": "9015958", 
+    "hotelName": "星程郑州中原万达广场酒店", 
+    "hotelAddressShort": "中原西路48号(中原路与前进路交叉口东北角）"
+  }, 
+  {
+    "hotelId": "9023013", 
+    "hotelName": "汉庭郑州航海西路酒店", 
+    "hotelAddressShort": "河南省郑州市中原区沁河路与文化宫路啟福铭都6号楼1001号"
+  }, 
+  {
+    "hotelId": "9004661", 
+    "hotelName": "汉庭郑州花园路黄河路店", 
+    "hotelAddressShort": "金水区黄河路与经五路交叉口向北50米路西（新华印刷厂对面）"
+  }, 
+  {
+    "hotelId": "9008440", 
+    "hotelName": "郑州二七广场美仑酒店", 
+    "hotelAddressShort": "铭功路258号"
+  }, 
+  {
+    "hotelId": "4500065", 
+    "hotelName": "宜必思郑州陇海西路地铁站酒店", 
+    "hotelAddressShort": "郑州市中原区桐柏南路20号"
+  }, 
+  {
+    "hotelId": "9018673", 
+    "hotelName": "汉庭郑州金水路大石桥地铁站酒店", 
+    "hotelAddressShort": "金水区金水路85号"
+  }, 
+  {
+    "hotelId": "4500071", 
+    "hotelName": "全季郑州建设路酒店", 
+    "hotelAddressShort": "建设西路9号"
+  }, 
+  {
+    "hotelId": "9002516", 
+    "hotelName": "全季郑州高新区莲花街酒店", 
+    "hotelAddressShort": "莲花街5号C座"
+  }, 
+  {
+    "hotelId": "9007611", 
+    "hotelName": "全季郑州东站东广场酒店", 
+    "hotelAddressShort": "郑州市商鼎路华润新时代广场3号楼"
+  }, 
+  {
+    "hotelId": "9000816", 
+    "hotelName": "宜必思郑州东明路酒店", 
+    "hotelAddressShort": "河南省郑州市管城回族区商城东路146号（距商城路东明路公交站80米）"
+  }, 
+  {
+    "hotelId": "9007634", 
+    "hotelName": "星程郑州高新区瑞达路酒店", 
+    "hotelAddressShort": "瑞达路10号（瑞达路与农业路高架交叉口西北角彩虹城）"
+  }, 
+  {
+    "hotelId": "9020143", 
+    "hotelName": "海友郑州黄河路海滩寺地铁站酒店", 
+    "hotelAddressShort": "河南省郑州市金水区黄河路81号附2号"
+  }, 
+  {
+    "hotelId": "9002300", 
+    "hotelName": "全季郑州火车东站心怡路酒店", 
+    "hotelAddressShort": "商都路心怡路交叉口中晟伟业国际广场C座18层"
+  }, 
+  {
+    "hotelId": "4500121", 
+    "hotelName": "汉庭郑州金水路二店", 
+    "hotelAddressShort": "金水区健康路77号"
+  }, 
+  {
+    "hotelId": "4500007", 
+    "hotelName": "星程郑州郑东新区红专路酒店", 
+    "hotelAddressShort": "红专路117号（红专路与东明路交叉口向东50米路南）"
+  }, 
+  {
+    "hotelId": "9011725", 
+    "hotelName": "汉庭荥阳市政府酒店", 
+    "hotelAddressShort": "荥阳市兴华路与汜河路交叉口"
+  }, 
+  {
+    "hotelId": "9014808", 
+    "hotelName": "汉庭郑州金水路酒店", 
+    "hotelAddressShort": "河南省郑州市金水区金水路经二路口北50米"
+  }, 
+  {
+    "hotelId": "9003191", 
+    "hotelName": "怡莱郑州桐淮地铁站酒店", 
+    "hotelAddressShort": "中原区桐柏路与淮河路交叉口东100米路南"
+  }, 
+  {
+    "hotelId": "4500091", 
+    "hotelName": "汉庭郑州航海东路酒店", 
+    "hotelAddressShort": "管城区石化路69号"
+  }, 
+  {
+    "hotelId": "9009231", 
+    "hotelName": "你好郑州经三路省人民医院地铁站酒店", 
+    "hotelAddressShort": "河南省郑州市金水区经三路9号（经三路与红旗路交叉口向北100米路东）"
+  }, 
+  {
+    "hotelId": "4500035", 
+    "hotelName": "全季郑州紫荆山花园路酒店", 
+    "hotelAddressShort": "纬五路39号"
+  }, 
+  {
+    "hotelId": "9012654", 
+    "hotelName": "桔子郑州金水路曼哈顿酒店", 
+    "hotelAddressShort": "河南省郑州市金水区未来路与沈庄路交叉口向东50米路北（金水府5号楼院内）"
+  }, 
+  {
+    "hotelId": "9007429", 
+    "hotelName": "全季郑州会展中心未来路酒店", 
+    "hotelAddressShort": "未来路60号"
+  }, 
+  {
+    "hotelId": "9015025", 
+    "hotelName": "汉庭郑州黄河路地铁站酒店", 
+    "hotelAddressShort": "黄河路9号附1号"
+  }, 
+  {
+    "hotelId": "8000044", 
+    "hotelName": "汉庭郑州商鼎路酒店", 
+    "hotelAddressShort": "郑州市郑东新区农业南路与商鼎路交叉口西南角"
+  }, 
+  {
+    "hotelId": "4500029", 
+    "hotelName": "桔子郑州郑东新区会展中心酒店", 
+    "hotelAddressShort": "郑州市金水区红专路119号"
+  }, 
+  {
+    "hotelId": "9006782", 
+    "hotelName": "星程郑州二七广场酒店", 
+    "hotelAddressShort": "铭功路258号(铭功路与五彩路交叉口西南侧)"
+  }, 
+  {
+    "hotelId": "8000034", 
+    "hotelName": "汉庭郑州高新区瑞达路酒店", 
+    "hotelAddressShort": "高新技术开发区瑞达路近科学大道"
+  }, 
+  {
+    "hotelId": "9007162", 
+    "hotelName": "汉庭郑州高新区冬青街酒店", 
+    "hotelAddressShort": "高新技术产业开发区龙柏里8号"
+  }, 
+  {
+    "hotelId": "4500533", 
+    "hotelName": "汉庭郑州沙口路酒店", 
+    "hotelAddressShort": "郑州市金水区沙口路103号（沙口路与农业路交叉口向南50米路西）"
+  }, 
+  {
+    "hotelId": "4500001", 
+    "hotelName": "汉庭郑州二七广场酒店", 
+    "hotelAddressShort": "管城区商城路231号"
+  }, 
+  {
+    "hotelId": "9010522", 
+    "hotelName": "全季郑州东站金水东路酒店", 
+    "hotelAddressShort": "郑州市金水东路109号（金水东路与圃田西路交汇处美侨世纪广场A座1层，临金水东路）"
+  }, 
+  {
+    "hotelId": "9006393", 
+    "hotelName": "汉庭郑州郑东新区中州大道酒店", 
+    "hotelAddressShort": "郑州市郑东新区商都路十里铺街12号诚工大厦东塔"
+  }, 
+  {
+    "hotelId": "9002455", 
+    "hotelName": "汉庭郑州新郑机场长安路酒店", 
+    "hotelAddressShort": "航空港区长安路与云港路交叉口向北300米路西"
+  }, 
+  {
+    "hotelId": "4500028", 
+    "hotelName": "全季郑州金水路酒店", 
+    "hotelAddressShort": "金水路7号"
+  }, 
+  {
+    "hotelId": "8000032", 
+    "hotelName": "全季郑州火车东站酒店", 
+    "hotelAddressShort": "商鼎路89号"
+  }, 
+  {
+    "hotelId": "9002075", 
+    "hotelName": "汉庭优佳郑州花园路国贸中心酒店", 
+    "hotelAddressShort": "金水区花园路33号嘉辰时代广场"
+  }, 
+  {
+    "hotelId": "9009444", 
+    "hotelName": "全季郑州二七广场德化街酒店", 
+    "hotelAddressShort": "大同路38号"
+  }, 
+  {
+    "hotelId": "9020019", 
+    "hotelName": "全季郑州二七万达京广南路酒店", 
+    "hotelAddressShort": "航海中路81号"
+  }, 
+  {
+    "hotelId": "4500003", 
+    "hotelName": "汉庭郑州花园北路酒店", 
+    "hotelAddressShort": "金水区花园北路79号"
+  }, 
+  {
+    "hotelId": "9021636", 
+    "hotelName": "全季郑州郑东商业中心东风南路酒店", 
+    "hotelAddressShort": "郑州市东风南路与列里路交叉口"
+  }, 
+  {
+    "hotelId": "9021835", 
+    "hotelName": "汉庭郑州商都路酒店", 
+    "hotelAddressShort": "郑东新区白沙镇商都路248号"
+  }, 
+  {
+    "hotelId": "4500045", 
+    "hotelName": "汉庭郑州省人民医院酒店", 
+    "hotelAddressShort": "金水区东明路与红旗路口向东200米路南"
+  }, 
+  {
+    "hotelId": "4500464", 
+    "hotelName": "全季郑州郑东新区黄河南路酒店", 
+    "hotelAddressShort": "宏图街31号"
+  }, 
+  {
+    "hotelId": "9021144", 
+    "hotelName": "郑州花园北路美仑酒店", 
+    "hotelAddressShort": "郑州市惠济区花园北路218号惠达金苑1号楼"
+  }, 
+  {
+    "hotelId": "4500993", 
+    "hotelName": "星程郑州未来路酒店", 
+    "hotelAddressShort": "商城东路8号（未来路与商城路交叉口东500米路北武警幼儿园旁边）"
+  }, 
+  {
+    "hotelId": "4511621", 
+    "hotelName": "汉庭郑州新郑机场酒店", 
+    "hotelAddressShort": "航空港区巡航路与凌空街交叉口向南200米山顶时代广场"
+  }, 
+  {
+    "hotelId": "4500522", 
+    "hotelName": "汉庭郑州绿城广场酒店", 
+    "hotelAddressShort": "二七区兴华北街与桃源路西北角"
+  }, 
+  {
+    "hotelId": "9004585", 
+    "hotelName": "星程郑州荥阳新区酒店", 
+    "hotelAddressShort": "荥泽大道与康泰路交叉路口向东100米"
+  }, 
+  {
+    "hotelId": "9000029", 
+    "hotelName": "全季郑州城东南路酒店", 
+    "hotelAddressShort": "紫辰路9号"
+  }, 
+  {
+    "hotelId": "9015927", 
+    "hotelName": "你好郑州郑密路齐礼阎地铁站酒店", 
+    "hotelAddressShort": "郑密路16号（航海西路与郑密路交叉口北650米路西）"
+  }, 
+  {
+    "hotelId": "9006390", 
+    "hotelName": "星程郑州嵩山路二七万达酒店", 
+    "hotelAddressShort": "嵩山南路226-1号（嵩山路与航海路交叉口向南500米路西）"
+  }, 
+  {
+    "hotelId": "4500182", 
+    "hotelName": "全季郑州会展中心中州大道酒店", 
+    "hotelAddressShort": "白庄街6号"
+  }, 
+  {
+    "hotelId": "9007765", 
+    "hotelName": "桔子郑州东站金水路酒店", 
+    "hotelAddressShort": "河南省郑州市金水东路与圃田西路交叉口 美侨世纪广场A座"
+  }, 
+  {
+    "hotelId": "9007784", 
+    "hotelName": "星程郑州登封少林大道酒店", 
+    "hotelAddressShort": "少林大道东段1398号（少林大道与天中路交汇处东北角）"
+  }, 
+  {
+    "hotelId": "4500471", 
+    "hotelName": "汉庭优佳郑州火车东站心怡路酒店", 
+    "hotelAddressShort": "管城回族区商都路与心怡路交叉口"
+  }, 
+  {
+    "hotelId": "4500021", 
+    "hotelName": "汉庭郑州科技市场酒店", 
+    "hotelAddressShort": "金水区文化路84号"
+  }, 
+  {
+    "hotelId": "9001738", 
+    "hotelName": "汉庭优佳郑州经北六路酒店", 
+    "hotelAddressShort": "经北六路与第一大街交叉口向西300米路北"
+  }, 
+  {
+    "hotelId": "9023012", 
+    "hotelName": "全季郑州航海西路酒店", 
+    "hotelAddressShort": "河南省郑州市中原区沁河路文化宫路啟福铭都6号楼1001号"
+  }, 
+  {
+    "hotelId": "9000976", 
+    "hotelName": "汉庭优佳郑州省体育中心酒店", 
+    "hotelAddressShort": "惠济区长虹路与宏达街交叉口向北100米路西"
+  }, 
+  {
+    "hotelId": "9014651", 
+    "hotelName": "郑州东站CBD会展中心美仑酒店", 
+    "hotelAddressShort": "十里铺街12号诚工大厦东塔"
+  }, 
+  {
+    "hotelId": "9001333", 
+    "hotelName": "星程巩义万洋商贸城酒店", 
+    "hotelAddressShort": "杜甫路143号万洋商贸城9号楼"
+  }, 
+  {
+    "hotelId": "8000070", 
+    "hotelName": "汉庭郑州高新区总部企业基地酒店", 
+    "hotelAddressShort": "高新区总部企业基地二期90栋"
+  }, 
+  {
+    "hotelId": "4500008", 
+    "hotelName": "汉庭郑州农业南路酒店", 
+    "hotelAddressShort": "农业南路与永平路交叉口向东20米路南"
+  }, 
+  {
+    "hotelId": "4500022", 
+    "hotelName": "汉庭郑州花园路正弘城酒店", 
+    "hotelAddressShort": "金水区花园路117号"
+  }, 
+  {
+    "hotelId": "4500034", 
+    "hotelName": "汉庭郑州郑汴路酒店", 
+    "hotelAddressShort": "郑东新区郑汴路与英协路交叉口向南500米"
+  }, 
+  {
+    "hotelId": "4500162", 
+    "hotelName": "星程郑州经开区福塔东地铁站酒店", 
+    "hotelAddressShort": "经北一路30-5号（经开第三大街与经北一路交叉口西100米）"
+  }, 
+  {
+    "hotelId": "9005905", 
+    "hotelName": "汉庭郑州经三路酒店", 
+    "hotelAddressShort": "金水区东风路19号"
+  }, 
+  {
+    "hotelId": "4511521", 
+    "hotelName": "全季郑州新郑机场酒店", 
+    "hotelAddressShort": "华夏大道西侧2号"
+  }, 
+  {
+    "hotelId": "4500152", 
+    "hotelName": "汉庭郑州京广南路地铁站酒店", 
+    "hotelAddressShort": "郑州市二七区京广南路与航海路交叉口南300米路东 京广南路15号"
+  }, 
+  {
+    "hotelId": "9001236", 
+    "hotelName": "汉庭郑州火车站德化街酒店（质量整改）", 
+    "hotelAddressShort": "管城回族区乾元街51号"
+  }, 
+  {
+    "hotelId": "9006409", 
+    "hotelName": "怡莱郑州新郑机场酒店", 
+    "hotelAddressShort": "河南省郑州市航空港新港大道与空港二路交叉口向北200米路西"
+  }, 
+  {
+    "hotelId": "9002321", 
+    "hotelName": "郑州中原福塔美仑酒店", 
+    "hotelAddressShort": "商英街69号"
+  }, 
+  {
+    "hotelId": "4500183", 
+    "hotelName": "汉庭郑州火车东站酒店", 
+    "hotelAddressShort": "郑东新区东站南街与普惠路交叉口东南角"
+  }
+]

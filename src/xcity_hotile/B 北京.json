@@ -1,8 +1,23 @@
 [
   {
+    "hotelId": "9002323", 
+    "hotelName": "北京后海鼓楼四合院漫心府", 
+    "hotelAddressShort": "西绦胡同2号，近鼓楼大街地铁站"
+  }, 
+  {
     "hotelId": "9002101", 
     "hotelName": "桔子水晶北京天安门王府井酒店", 
     "hotelAddressShort": "东华门街道柏树胡同30、32号1幢3层、2幢1-6层"
+  }, 
+  {
+    "hotelId": "9001142", 
+    "hotelName": "北京天安门美居酒店", 
+    "hotelAddressShort": "北京市西城区煤市街77号"
+  }, 
+  {
+    "hotelId": "9020025", 
+    "hotelName": "北京北清路永丰产业园漫心酒店", 
+    "hotelAddressShort": "北京市海淀区丰润东路6号（永丰产业园内，近中关村壹号、航天城）"
   }, 
   {
     "hotelId": "1000106", 
@@ -15,9 +30,24 @@
     "hotelAddressShort": "东安门大街18号"
   }, 
   {
+    "hotelId": "1000065", 
+    "hotelName": "北京前门四合院漫心府", 
+    "hotelAddressShort": "前门东路大江胡同120号，近刘老根大舞台。"
+  }, 
+  {
+    "hotelId": "9005119", 
+    "hotelName": "北京天安门王府井合院漫心府", 
+    "hotelAddressShort": "甘雨胡同甲20号（地铁5号线灯市口A口、8号线金鱼胡同B口银泰in88口）"
+  }, 
+  {
     "hotelId": "9000384", 
     "hotelName": "桔子北京前门酒店", 
     "hotelAddressShort": "北京市西城区珠市口西大街131号"
+  }, 
+  {
+    "hotelId": "1000506", 
+    "hotelName": "桔子水晶北京前门酒店", 
+    "hotelAddressShort": "香厂路41号"
   }, 
   {
     "hotelId": "9006370", 
@@ -25,9 +55,39 @@
     "hotelAddressShort": "经海七路100号院10号楼4-5层"
   }, 
   {
-    "hotelId": "1000506", 
-    "hotelName": "桔子水晶北京前门酒店", 
-    "hotelAddressShort": "香厂路41号"
+    "hotelId": "1000067", 
+    "hotelName": "北京天安门王府井漫心酒店", 
+    "hotelAddressShort": "东安门大街53号"
+  }, 
+  {
+    "hotelId": "9016099", 
+    "hotelName": "北京天安门前门大街漫心酒店", 
+    "hotelAddressShort": " 前门大街58号"
+  }, 
+  {
+    "hotelId": "9001756", 
+    "hotelName": "北京南锣鼓巷古韵漫心府", 
+    "hotelAddressShort": "北京市东城区交道口南大街菊儿胡同33号"
+  }, 
+  {
+    "hotelId": "9012608", 
+    "hotelName": "海友北京大兴星光影视园酒店", 
+    "hotelAddressShort": "北京市大兴区春和路39号院1号楼A座"
+  }, 
+  {
+    "hotelId": "9011903", 
+    "hotelName": "北京西直门漫心酒店", 
+    "hotelAddressShort": "北京市海淀区文慧园西路索家坟20号院5号楼"
+  }, 
+  {
+    "hotelId": "9001137", 
+    "hotelName": "北京天坛漫心酒店", 
+    "hotelAddressShort": "北京市东城区天坛东路76-1号"
+  }, 
+  {
+    "hotelId": "9002964", 
+    "hotelName": "宜必思北京大兴星光影视城酒店", 
+    "hotelAddressShort": "北京市大兴区盛坊路1号院1号楼1-3单元（星光影视园南侧100米））"
   }, 
   {
     "hotelId": "9012492", 
@@ -40,9 +100,29 @@
     "hotelAddressShort": "北京市东城区幸福大街甲39-2号"
   }, 
   {
+    "hotelId": "1022006", 
+    "hotelName": "北京北七家温都水城漫心府", 
+    "hotelAddressShort": "北清路TBD云集中心3A座"
+  }, 
+  {
     "hotelId": "9013832", 
     "hotelName": "桔子北京天安门大栅栏酒店", 
     "hotelAddressShort": "大栅栏街道西街11号"
+  }, 
+  {
+    "hotelId": "9016682", 
+    "hotelName": "北京天安门CitiGO欢阁酒店", 
+    "hotelAddressShort": "前门大街112号"
+  }, 
+  {
+    "hotelId": "9010653", 
+    "hotelName": "北京中关村五道口漫心酒店", 
+    "hotelAddressShort": "知春路甲20号"
+  }, 
+  {
+    "hotelId": "9000388", 
+    "hotelName": "北京花间堂·后海", 
+    "hotelAddressShort": "北京市西城区羊房胡同9号"
   }, 
   {
     "hotelId": "9009238", 
@@ -50,14 +130,19 @@
     "hotelAddressShort": "北京市大兴区苑景西二路2号院2号楼1-5层"
   }, 
   {
-    "hotelId": "9002288", 
-    "hotelName": "桔子水晶北京国贸合生汇酒店", 
-    "hotelAddressShort": "西大望路15号外企大厦D座"
-  }, 
-  {
     "hotelId": "8915608", 
     "hotelName": "桔子北京大兴黄村清源路地铁站酒店", 
     "hotelAddressShort": "北京市大兴区黄村清源路38号"
+  }, 
+  {
+    "hotelId": "9014748", 
+    "hotelName": "北京中关村苏州街漫心酒店", 
+    "hotelAddressShort": "北京市海淀区三义庙2号院11号楼"
+  }, 
+  {
+    "hotelId": "9002288", 
+    "hotelName": "桔子水晶北京国贸合生汇酒店", 
+    "hotelAddressShort": "西大望路15号外企大厦D座"
   }, 
   {
     "hotelId": "8000205", 
@@ -65,14 +150,19 @@
     "hotelAddressShort": "建国门外永安里中街25号2幢"
   }, 
   {
+    "hotelId": "9000340", 
+    "hotelName": "桔子水晶北京朝阳公园酒店", 
+    "hotelAddressShort": "朝阳北路145号院13号楼"
+  }, 
+  {
     "hotelId": "9002251", 
     "hotelName": "全季北京前门大街珠市口酒店", 
     "hotelAddressShort": "北京市东城区珠市口东大街16号"
   }, 
   {
-    "hotelId": "9000340", 
-    "hotelName": "桔子水晶北京朝阳公园酒店", 
-    "hotelAddressShort": "朝阳北路145号院13号楼"
+    "hotelId": "9006558", 
+    "hotelName": "北京中关村理工大学漫心酒店", 
+    "hotelAddressShort": "魏公村路8号院6号楼"
   }, 
   {
     "hotelId": "1000621", 
@@ -80,34 +170,49 @@
     "hotelAddressShort": "崇文门外大街114号"
   }, 
   {
+    "hotelId": "9011148", 
+    "hotelName": "北京朝阳路大悦城漫心酒店", 
+    "hotelAddressShort": "北京市朝阳区高碑店兴隆西街2号兴隆小区综合楼1层B101号F1005、7层701号F7039"
+  }, 
+  {
+    "hotelId": "9012835", 
+    "hotelName": "北京温都水城秀水湖温泉漫心府", 
+    "hotelAddressShort": "上承路秀水湖东门"
+  }, 
+  {
+    "hotelId": "9003855", 
+    "hotelName": "北京建国门漫心酒店", 
+    "hotelAddressShort": "朝外头条甲93号3号楼"
+  }, 
+  {
+    "hotelId": "1000098", 
+    "hotelName": "北京南锣鼓巷CitiGO欢阁酒店", 
+    "hotelAddressShort": "地安门东大街89号"
+  }, 
+  {
+    "hotelId": "1000365", 
+    "hotelName": "北京西长安美居酒店", 
+    "hotelAddressShort": "复兴路65号"
+  }, 
+  {
+    "hotelId": "1011003", 
+    "hotelName": "北京亦庄经济开发区漫心酒店", 
+    "hotelAddressShort": "嘉创二路55号（北投台湖产业园内）"
+  }, 
+  {
+    "hotelId": "9018431", 
+    "hotelName": "北京南站天坛漫心酒店", 
+    "hotelAddressShort": "北京市丰台区南三环东路中北商务楼21号"
+  }, 
+  {
     "hotelId": "9012850", 
     "hotelName": "桔子北京五棵松体育馆酒店", 
     "hotelAddressShort": "北京市海淀区复兴路24号院118号楼（距解放军301医院直线距离620米）"
   }, 
   {
-    "hotelId": "9014955", 
-    "hotelName": "汉庭北京朝阳八里桥地铁站酒店", 
-    "hotelAddressShort": "朝阳区司辛庄路26号康泉小区9号楼"
-  }, 
-  {
-    "hotelId": "1000297", 
-    "hotelName": "桔子水晶北京安贞酒店", 
-    "hotelAddressShort": "小黄庄北街2号2幢"
-  }, 
-  {
-    "hotelId": "9003639", 
-    "hotelName": "桔子北京延庆八达岭长城酒店", 
-    "hotelAddressShort": "西拨子村"
-  }, 
-  {
-    "hotelId": "1000205", 
-    "hotelName": "汉庭北京安贞酒店", 
-    "hotelAddressShort": "北京市朝阳区安贞西里五区1号楼"
-  }, 
-  {
-    "hotelId": "9008367", 
-    "hotelName": "桔子水晶北京丽泽商务区天坛医院酒店", 
-    "hotelAddressShort": "纪家庙路188号"
+    "hotelId": "9019455", 
+    "hotelName": "北京鸟巢国家会议中心漫心酒店", 
+    "hotelAddressShort": "北四环东路133号(惠新西街北口地铁站A西北口步行390米)"
   }, 
   {
     "hotelId": "9004990", 
@@ -115,19 +220,29 @@
     "hotelAddressShort": "常惠路6号楼北辰福第V中心E座2层"
   }, 
   {
-    "hotelId": "9005322", 
-    "hotelName": "桔子北京天安门酒店", 
-    "hotelAddressShort": "正义路东交民巷28号"
-  }, 
-  {
     "hotelId": "9010334", 
     "hotelName": "全季北京南站地铁站酒店", 
     "hotelAddressShort": "北京市丰台区开阳里一街2号楼"
   }, 
   {
-    "hotelId": "8000552", 
-    "hotelName": "汉庭优佳北京大兴新城新媒体产业基地酒店", 
-    "hotelAddressShort": "北京市大兴区金星路24号"
+    "hotelId": "9014955", 
+    "hotelName": "汉庭北京朝阳八里桥地铁站酒店", 
+    "hotelAddressShort": "朝阳区司辛庄路26号康泉小区9号楼"
+  }, 
+  {
+    "hotelId": "9006368", 
+    "hotelName": "北京黄花城水长城漫心府", 
+    "hotelAddressShort": "北京市怀柔区九渡河镇石湖峪201号院13号楼1层101"
+  }, 
+  {
+    "hotelId": "9000921", 
+    "hotelName": "北京总部基地CitiGO欢阁酒店", 
+    "hotelAddressShort": "南四环西路188号16区2号楼（9号线A西北口/向西行300米/汉威国际2号楼正对面）"
+  }, 
+  {
+    "hotelId": "8000418", 
+    "hotelName": "北京中关村美居酒店", 
+    "hotelAddressShort": "中关村南大街31号美居酒店"
   }, 
   {
     "hotelId": "9003215", 
@@ -135,9 +250,14 @@
     "hotelAddressShort": "北京市东城区王府井西街9号"
   }, 
   {
-    "hotelId": "1000532", 
-    "hotelName": "汉庭北京牛街酒店", 
-    "hotelAddressShort": "西城区牛街14号(毗邻牛街聚宝源、清真超市）"
+    "hotelId": "1000205", 
+    "hotelName": "汉庭北京安贞酒店", 
+    "hotelAddressShort": "北京市朝阳区安贞西里五区1号楼"
+  }, 
+  {
+    "hotelId": "1000297", 
+    "hotelName": "桔子水晶北京安贞酒店", 
+    "hotelAddressShort": "小黄庄北街2号2幢"
   }, 
   {
     "hotelId": "9012797", 
@@ -150,29 +270,34 @@
     "hotelAddressShort": "丰台区马家堡东路57-1"
   }, 
   {
+    "hotelId": "1026061", 
+    "hotelName": "汉庭北京大兴采育酒店", 
+    "hotelAddressShort": "北京市大兴区采育镇采和路1号"
+  }, 
+  {
+    "hotelId": "8000552", 
+    "hotelName": "汉庭优佳北京大兴新城新媒体产业基地酒店", 
+    "hotelAddressShort": "北京市大兴区金星路24号"
+  }, 
+  {
+    "hotelId": "9003639", 
+    "hotelName": "桔子北京延庆八达岭长城酒店", 
+    "hotelAddressShort": "西拨子村"
+  }, 
+  {
+    "hotelId": "9010338", 
+    "hotelName": "北京欢乐谷工业大学漫心酒店", 
+    "hotelAddressShort": "北京市朝阳区南磨坊乡广渠门外南大山子8号漫心酒店"
+  }, 
+  {
     "hotelId": "1000063", 
     "hotelName": "汉庭北京天安门酒店", 
     "hotelAddressShort": "北京市东城区南池子大街102号"
   }, 
   {
-    "hotelId": "9000670", 
-    "hotelName": "全季北京前门四合院酒店", 
-    "hotelAddressShort": "北京东城区北芦草园胡同33号"
-  }, 
-  {
-    "hotelId": "1000062", 
-    "hotelName": "汉庭北京王府井酒店", 
-    "hotelAddressShort": "北京市东城区甘雨胡同31号"
-  }, 
-  {
-    "hotelId": "1026005", 
-    "hotelName": "汉庭北京大兴新城金星桥酒店", 
-    "hotelAddressShort": "大兴区金苑路17号 (距离星光影视园1.5公里）"
-  }, 
-  {
-    "hotelId": "9009128", 
-    "hotelName": "全季北京安定门安德里北街酒店", 
-    "hotelAddressShort": "安德里北街8号"
+    "hotelId": "9005322", 
+    "hotelName": "桔子北京天安门酒店", 
+    "hotelAddressShort": "正义路东交民巷28号"
   }, 
   {
     "hotelId": "9022126", 
@@ -180,9 +305,14 @@
     "hotelAddressShort": "北京市西城区国英1号楼二层"
   }, 
   {
-    "hotelId": "9005286", 
-    "hotelName": "全季北京平谷区政府酒店", 
-    "hotelAddressShort": "北京市平谷区新平北路33号"
+    "hotelId": "1000062", 
+    "hotelName": "汉庭北京王府井酒店", 
+    "hotelAddressShort": "北京市东城区甘雨胡同31号"
+  }, 
+  {
+    "hotelId": "1000532", 
+    "hotelName": "汉庭北京牛街酒店", 
+    "hotelAddressShort": "西城区牛街14号(毗邻牛街聚宝源、清真超市）"
   }, 
   {
     "hotelId": "9004656", 
@@ -190,19 +320,14 @@
     "hotelAddressShort": "北京市东城区白桥大街2号"
   }, 
   {
-    "hotelId": "1000715", 
-    "hotelName": "桔子水晶北京五棵松京荟广场酒店", 
-    "hotelAddressShort": "小屯村梅市口路133号京荟广场A座"
+    "hotelId": "1026005", 
+    "hotelName": "汉庭北京大兴新城金星桥酒店", 
+    "hotelAddressShort": "大兴区金苑路17号 (距离星光影视园1.5公里）"
   }, 
   {
-    "hotelId": "9000766", 
-    "hotelName": "桔子北京四惠高碑店文化园酒店", 
-    "hotelAddressShort": "北京市朝阳区高碑店乡高碑店村民俗文化街1702号"
-  }, 
-  {
-    "hotelId": "9021511", 
-    "hotelName": "全季北京甘家口酒店", 
-    "hotelAddressShort": "海淀区增光路30号（距第六医学院中心500米，首都师范大学东校区400米）"
+    "hotelId": "9000670", 
+    "hotelName": "全季北京前门四合院酒店", 
+    "hotelAddressShort": "北京东城区北芦草园胡同33号"
   }, 
   {
     "hotelId": "8000062", 
@@ -215,24 +340,19 @@
     "hotelAddressShort": "青春路21号"
   }, 
   {
+    "hotelId": "9009128", 
+    "hotelName": "全季北京安定门安德里北街酒店", 
+    "hotelAddressShort": "安德里北街8号"
+  }, 
+  {
     "hotelId": "1000066", 
     "hotelName": "桔子北京王府井酒店", 
     "hotelAddressShort": "灯市口大街57号"
   }, 
   {
-    "hotelId": "1000352", 
-    "hotelName": "全季北京广渠门酒店", 
-    "hotelAddressShort": "北京市东城区广渠门外大街41号"
-  }, 
-  {
-    "hotelId": "1026061", 
-    "hotelName": "汉庭北京大兴采育酒店", 
-    "hotelAddressShort": "北京市大兴区采育镇采和路1号"
-  }, 
-  {
-    "hotelId": "1000821", 
-    "hotelName": "桔子北京西直门北酒店", 
-    "hotelAddressShort": "西直门红联南村44号"
+    "hotelId": "9005286", 
+    "hotelName": "全季北京平谷区政府酒店", 
+    "hotelAddressShort": "北京市平谷区新平北路33号"
   }, 
   {
     "hotelId": "9008361", 
@@ -240,19 +360,24 @@
     "hotelAddressShort": "北京市丰台区丰桥路七号院16号楼"
   }, 
   {
-    "hotelId": "9014691", 
-    "hotelName": "全季北京通州环球度假区酒店", 
-    "hotelAddressShort": "颐瑞东里163号楼"
+    "hotelId": "9021511", 
+    "hotelName": "全季北京甘家口酒店", 
+    "hotelAddressShort": "海淀区增光路30号（距第六医学院中心500米，首都师范大学东校区400米）"
   }, 
   {
-    "hotelId": "9002290", 
-    "hotelName": "全季北京国贸金台路酒店", 
-    "hotelAddressShort": "北京市朝阳区红庙北里36号楼"
+    "hotelId": "9000766", 
+    "hotelName": "桔子北京四惠高碑店文化园酒店", 
+    "hotelAddressShort": "北京市朝阳区高碑店乡高碑店村民俗文化街1702号"
   }, 
   {
-    "hotelId": "9011327", 
-    "hotelName": "桔子北京总部基地科技园酒店", 
-    "hotelAddressShort": "北京市丰台区科技园区外环西路26号院59号楼（超大免费停车场，临近万达广场，汉威国际，世界公园）"
+    "hotelId": "1000352", 
+    "hotelName": "全季北京广渠门酒店", 
+    "hotelAddressShort": "北京市东城区广渠门外大街41号"
+  }, 
+  {
+    "hotelId": "9014196", 
+    "hotelName": "北京朝阳门工体美居酒店", 
+    "hotelAddressShort": "日坛北路17号"
   }, 
   {
     "hotelId": "9008043", 
@@ -260,44 +385,54 @@
     "hotelAddressShort": "王府井大街帅府园胡同20号北楼"
   }, 
   {
+    "hotelId": "1013993", 
+    "hotelName": "星程北京顺义马坡酒店", 
+    "hotelAddressShort": "马坡镇顺城大街29号"
+  }, 
+  {
+    "hotelId": "9011327", 
+    "hotelName": "桔子北京总部基地科技园酒店", 
+    "hotelAddressShort": "北京市丰台区科技园区外环西路26号院59号楼（超大免费停车场，临近万达广场，汉威国际，世界公园）"
+  }, 
+  {
+    "hotelId": "9008367", 
+    "hotelName": "桔子水晶北京丽泽商务区天坛医院酒店", 
+    "hotelAddressShort": "纪家庙路188号"
+  }, 
+  {
+    "hotelId": "1000821", 
+    "hotelName": "桔子北京西直门北酒店", 
+    "hotelAddressShort": "西直门红联南村44号"
+  }, 
+  {
+    "hotelId": "9002290", 
+    "hotelName": "全季北京国贸金台路酒店", 
+    "hotelAddressShort": "北京市朝阳区红庙北里36号楼"
+  }, 
+  {
+    "hotelId": "9014691", 
+    "hotelName": "全季北京通州环球度假区酒店", 
+    "hotelAddressShort": "颐瑞东里163号楼"
+  }, 
+  {
+    "hotelId": "9016718", 
+    "hotelName": "海友北京欢乐谷联合大学酒店", 
+    "hotelAddressShort": "化工路垡头西街20号 距欢乐谷地铁站（7号线）900m"
+  }, 
+  {
+    "hotelId": "1000715", 
+    "hotelName": "桔子水晶北京五棵松京荟广场酒店", 
+    "hotelAddressShort": "小屯村梅市口路133号京荟广场A座"
+  }, 
+  {
     "hotelId": "9015570", 
     "hotelName": "全季北京潘家园酒店", 
     "hotelAddressShort": " 华威西里55号"
   }, 
   {
-    "hotelId": "1000533", 
-    "hotelName": "汉庭北京长椿街酒店", 
-    "hotelAddressShort": "西城区长椿街甲18号(毗邻宣武医院仅200米；距离地铁2号线长椿街站600米）"
-  }, 
-  {
-    "hotelId": "9000284", 
-    "hotelName": "桔子水晶北京顺义中心酒店", 
-    "hotelAddressShort": "站前街8号院1号楼"
-  }, 
-  {
-    "hotelId": "9009424", 
-    "hotelName": "桔子水晶北京亦庄京东总部酒店", 
-    "hotelAddressShort": "科创十三街29号院"
-  }, 
-  {
-    "hotelId": "9001558", 
-    "hotelName": "桔子水晶北京南站木樨园酒店", 
-    "hotelAddressShort": "东罗园9号楼"
-  }, 
-  {
-    "hotelId": "1000555", 
-    "hotelName": "桔子水晶北京西站南广场酒店", 
-    "hotelAddressShort": "莲花池南里22号"
-  }, 
-  {
-    "hotelId": "1000381", 
-    "hotelName": "汉庭北京军博酒店", 
-    "hotelAddressShort": "海淀区北蜂窝路20号（毗邻地铁1号线军博站C出来800米即到、距离北京西站1公里即到）"
-  }, 
-  {
-    "hotelId": "9009164", 
-    "hotelName": "桔子水晶北京国贸中心酒店", 
-    "hotelAddressShort": "东三环中路10号南航大厦"
+    "hotelId": "9008515", 
+    "hotelName": "北京总部基地漫心酒店", 
+    "hotelAddressShort": "南四环西路188号总部基地十六区12号"
   }, 
   {
     "hotelId": "9016969", 
@@ -305,14 +440,64 @@
     "hotelAddressShort": "北京市海淀区中关村南大街甲8号"
   }, 
   {
+    "hotelId": "9005943", 
+    "hotelName": "海友北京牛街地铁站酒店", 
+    "hotelAddressShort": "北京市西城区牛街14号楼2层"
+  }, 
+  {
+    "hotelId": "1013126", 
+    "hotelName": "宜必思尚品北京首都机场酒店", 
+    "hotelAddressShort": "北京市顺义区天竺镇府前一街32号"
+  }, 
+  {
+    "hotelId": "1000314", 
+    "hotelName": "北京天安门广场漫心酒店", 
+    "hotelAddressShort": "北京市西城区前门西大街甲10号"
+  }, 
+  {
+    "hotelId": "9015723", 
+    "hotelName": "北京通州环球万达广场美居酒店", 
+    "hotelAddressShort": "北京市通州区新华西街57号"
+  }, 
+  {
+    "hotelId": "1000533", 
+    "hotelName": "汉庭北京长椿街酒店", 
+    "hotelAddressShort": "西城区长椿街甲18号(毗邻宣武医院仅200米；距离地铁2号线长椿街站600米）"
+  }, 
+  {
     "hotelId": "9008742", 
     "hotelName": "全季北京大郊亭南街酒店", 
     "hotelAddressShort": "北京市朝阳区大郊亭南街5号院1号楼"
   }, 
   {
-    "hotelId": "9011169", 
-    "hotelName": "全季北京三里屯工体西门酒店", 
-    "hotelAddressShort": "北京市东城区王家园胡同16号"
+    "hotelId": "9002112", 
+    "hotelName": "桔子水晶北京国贸商务区四惠酒店", 
+    "hotelAddressShort": "建国路37号1号楼"
+  }, 
+  {
+    "hotelId": "1000555", 
+    "hotelName": "桔子水晶北京西站南广场酒店", 
+    "hotelAddressShort": "莲花池南里22号"
+  }, 
+  {
+    "hotelId": "9005418", 
+    "hotelName": "桔子北京雍和宫和平里北街地铁站酒店", 
+    "hotelAddressShort": "和平里中街17号"
+  }, 
+  {
+    "hotelId": "9000284", 
+    "hotelName": "桔子水晶北京顺义中心酒店", 
+    "hotelAddressShort": "站前街8号院1号楼"
+  }, 
+  {
+    "hotelId": "9000915", 
+    "hotelName": "宜必思北京王府井协和医院酒店", 
+    "hotelAddressShort": "北京市灯市口大街14号"
+  }, 
+  {
+    "hotelId": "1000381", 
+    "hotelName": "汉庭北京军博酒店", 
+    "hotelAddressShort": "海淀区北蜂窝路20号（毗邻地铁1号线军博站C出来800米即到、距离北京西站1公里即到）"
   }, 
   {
     "hotelId": "9016861", 
@@ -320,9 +505,9 @@
     "hotelAddressShort": "北京市顺义区李桥镇李天路17号院"
   }, 
   {
-    "hotelId": "1013125", 
-    "hotelName": "全季北京首都机场酒店", 
-    "hotelAddressShort": "北京市顺义区天竺镇天竺大街12号院2幢"
+    "hotelId": "1000734", 
+    "hotelName": "北京西站漫心酒店", 
+    "hotelAddressShort": "太平桥中里20号楼（电力医院东门斜对面）"
   }, 
   {
     "hotelId": "9005736", 
@@ -330,24 +515,49 @@
     "hotelAddressShort": "朝阳区东方东路甲11号"
   }, 
   {
-    "hotelId": "9014015", 
-    "hotelName": "全季北京首都经济贸易大学酒店", 
-    "hotelAddressShort": " 丰台东路9号"
+    "hotelId": "9009424", 
+    "hotelName": "桔子水晶北京亦庄京东总部酒店", 
+    "hotelAddressShort": "科创十三街29号院"
   }, 
   {
-    "hotelId": "1000398", 
-    "hotelName": "桔子北京五棵松青塔东里酒店", 
-    "hotelAddressShort": "北京市丰台区青塔东里28号（超大免费停车场，距离301医院1公里，毗邻京荟广场、水魔方）"
+    "hotelId": "9009101", 
+    "hotelName": "海友北京北七家酒店", 
+    "hotelAddressShort": "北京市昌平区北七家镇北七家建材城北侧100米"
   }, 
   {
-    "hotelId": "9008165", 
-    "hotelName": "汉庭北京南站木樨园酒店", 
-    "hotelAddressShort": "北京市丰台区海户屯165号"
+    "hotelId": "9001454", 
+    "hotelName": "海友北京旧宫酒店", 
+    "hotelAddressShort": "北京市大兴区旧宫镇旧忠路16号会所1号"
   }, 
   {
-    "hotelId": "1000216", 
-    "hotelName": "汉庭北京工业大学酒店（原劲松店）", 
-    "hotelAddressShort": "北京市朝阳区松榆东里37号楼"
+    "hotelId": "1013125", 
+    "hotelName": "全季北京首都机场酒店", 
+    "hotelAddressShort": "北京市顺义区天竺镇天竺大街12号院2幢"
+  }, 
+  {
+    "hotelId": "9011169", 
+    "hotelName": "全季北京三里屯工体西门酒店", 
+    "hotelAddressShort": "北京市东城区王家园胡同16号"
+  }, 
+  {
+    "hotelId": "9009164", 
+    "hotelName": "桔子水晶北京国贸中心酒店", 
+    "hotelAddressShort": "东三环中路10号南航大厦"
+  }, 
+  {
+    "hotelId": "9000788", 
+    "hotelName": "汉庭优佳北京农业大学学清路酒店", 
+    "hotelAddressShort": "海淀区学清路16号"
+  }, 
+  {
+    "hotelId": "1000895", 
+    "hotelName": "北京上地清河高铁站CitiGO欢阁酒店", 
+    "hotelAddressShort": "上地五街16号"
+  }, 
+  {
+    "hotelId": "9001558", 
+    "hotelName": "桔子水晶北京南站木樨园酒店", 
+    "hotelAddressShort": "东罗园9号楼"
   }, 
   {
     "hotelId": "1000553", 
@@ -355,9 +565,24 @@
     "hotelAddressShort": "北京市西城区广莲路甲5号"
   }, 
   {
-    "hotelId": "1000285", 
-    "hotelName": "桔子北京三元桥酒店", 
-    "hotelAddressShort": "静安里30号楼"
+    "hotelId": "1000216", 
+    "hotelName": "汉庭北京工业大学酒店（原劲松店）", 
+    "hotelAddressShort": "北京市朝阳区松榆东里37号楼"
+  }, 
+  {
+    "hotelId": "9014015", 
+    "hotelName": "全季北京首都经济贸易大学酒店", 
+    "hotelAddressShort": " 丰台东路9号"
+  }, 
+  {
+    "hotelId": "9008165", 
+    "hotelName": "汉庭北京南站木樨园酒店", 
+    "hotelAddressShort": "北京市丰台区海户屯165号"
+  }, 
+  {
+    "hotelId": "1014071", 
+    "hotelName": "星程北京雁栖湖开发区酒店", 
+    "hotelAddressShort": "雁栖开发区杨雁路33号"
   }, 
   {
     "hotelId": "1000164", 
@@ -365,29 +590,44 @@
     "hotelAddressShort": "酒仙桥路13号"
   }, 
   {
-    "hotelId": "9003211", 
-    "hotelName": "桔子北京大兴高米店南地铁站酒店", 
-    "hotelAddressShort": "北京市大兴区兴业大街67号"
-  }, 
-  {
     "hotelId": "9001618", 
     "hotelName": "汉庭北京东四路口酒店（质量整改）", 
     "hotelAddressShort": "北京市东城区朝内大街271号"
   }, 
   {
-    "hotelId": "1001014", 
-    "hotelName": "全季北京奥体公园酒店", 
-    "hotelAddressShort": "北京市朝阳区南沙滩路8号"
-  }, 
-  {
-    "hotelId": "9002976", 
-    "hotelName": "桔子北京首都机场孙河酒店", 
-    "hotelAddressShort": "桔子酒店(首都机场孙河店)"
+    "hotelId": "1000398", 
+    "hotelName": "桔子北京五棵松青塔东里酒店", 
+    "hotelAddressShort": "北京市丰台区青塔东里28号（超大免费停车场，距离301医院1公里，毗邻京荟广场、水魔方）"
   }, 
   {
     "hotelId": "1000112", 
     "hotelName": "汉庭北京马甸桥酒店", 
     "hotelAddressShort": "西城区北三环中路18号(距离北医三院，安贞医院，2.0公里，鸟巢，水立方，北师大，3.0公里，临近八达岭高速）"
+  }, 
+  {
+    "hotelId": "9021101", 
+    "hotelName": "星程北京北苑立水桥南地铁站酒店", 
+    "hotelAddressShort": "北苑路18号院4号楼首层局部、二层局部、三至六层整层"
+  }, 
+  {
+    "hotelId": "1000752", 
+    "hotelName": "汉庭北京南站公益东桥酒店", 
+    "hotelAddressShort": "丰台区大红门集美家居西门(前台登记车牌 停车免费）"
+  }, 
+  {
+    "hotelId": "1000285", 
+    "hotelName": "桔子北京三元桥酒店", 
+    "hotelAddressShort": "静安里30号楼"
+  }, 
+  {
+    "hotelId": "9017555", 
+    "hotelName": "桔子北京中关村人民大学酒店", 
+    "hotelAddressShort": "北京市海淀区 苏州街55号名商大厦（桔子北京中关村人民大学酒店）"
+  }, 
+  {
+    "hotelId": "9004945", 
+    "hotelName": "全季北京首都机场T3航站楼酒店", 
+    "hotelAddressShort": "北京首都机场3号航站楼2层到达大厅C口最西侧"
   }, 
   {
     "hotelId": "1026111", 
@@ -400,14 +640,19 @@
     "hotelAddressShort": "北京市大兴区祥和街48号院189号楼"
   }, 
   {
-    "hotelId": "1000752", 
-    "hotelName": "汉庭北京南站公益东桥酒店", 
-    "hotelAddressShort": "丰台区大红门集美家居西门(前台登记车牌 停车免费）"
+    "hotelId": "1001026", 
+    "hotelName": "桔子北京望京酒店", 
+    "hotelAddressShort": "北京市朝阳区望京湖光中街8号"
   }, 
   {
-    "hotelId": "9004945", 
-    "hotelName": "全季北京首都机场T3航站楼酒店", 
-    "hotelAddressShort": "北京首都机场3号航站楼2层到达大厅C口最西侧"
+    "hotelId": "9011047", 
+    "hotelName": "北京安贞奥体中心美居酒店", 
+    "hotelAddressShort": "东城区安定路22号"
+  }, 
+  {
+    "hotelId": "9000499", 
+    "hotelName": "桔子水晶北京南站酒店", 
+    "hotelAddressShort": "北京市西城区白纸坊西街10-3号"
   }, 
   {
     "hotelId": "1000008", 
@@ -415,9 +660,14 @@
     "hotelAddressShort": "北京市东城区北京站东街8号"
   }, 
   {
-    "hotelId": "9004314", 
-    "hotelName": "全季北京建国门白桥大街酒店", 
-    "hotelAddressShort": "北京市东城区白桥大街2号"
+    "hotelId": "1001014", 
+    "hotelName": "全季北京奥体公园酒店", 
+    "hotelAddressShort": "北京市朝阳区南沙滩路8号"
+  }, 
+  {
+    "hotelId": "9005941", 
+    "hotelName": "海友北京蒲黄榆地铁站酒店", 
+    "hotelAddressShort": "北京市丰台区刘家窑小区蒲安里4号楼"
   }, 
   {
     "hotelId": "9022187", 
@@ -425,79 +675,29 @@
     "hotelAddressShort": "北京市首都机场T2航站楼公共区域地下一层、国内国际两侧大堂、客房"
   }, 
   {
-    "hotelId": "9000788", 
-    "hotelName": "汉庭优佳北京农业大学学清路酒店", 
-    "hotelAddressShort": "海淀区学清路16号"
+    "hotelId": "9013827", 
+    "hotelName": "北京三里屯工体CitiGO欢阁酒店", 
+    "hotelAddressShort": "新东路12号院3号楼"
   }, 
   {
-    "hotelId": "9005156", 
-    "hotelName": "桔子北京中关村苏州桥酒店", 
-    "hotelAddressShort": "北京市海淀区万柳中路29号院3、4号楼底商首层1-07,2-01~2-06号"
+    "hotelId": "9002265", 
+    "hotelName": "怡莱北京安贞医院酒店", 
+    "hotelAddressShort": "北京市朝阳区安贞里三区26号楼"
   }, 
   {
-    "hotelId": "9000499", 
-    "hotelName": "桔子水晶北京南站酒店", 
-    "hotelAddressShort": "白纸坊西街10-3号"
+    "hotelId": "9002976", 
+    "hotelName": "桔子北京首都机场孙河酒店", 
+    "hotelAddressShort": "桔子酒店(首都机场孙河店)"
   }, 
   {
-    "hotelId": "9014579", 
-    "hotelName": "汉庭北京中关村海淀黄庄地铁站酒店", 
-    "hotelAddressShort": "大泥湾15号(地铁B口步行.北大附中南门,近颐和园,圆明园)"
+    "hotelId": "9015675", 
+    "hotelName": "星程北京广渠门外地铁站酒店", 
+    "hotelAddressShort": "广渠门外大街41号（广渠门外地铁站100米）"
   }, 
   {
-    "hotelId": "1013121", 
-    "hotelName": "汉庭优佳北京首都机场酒店", 
-    "hotelAddressShort": "北京市顺义区天竺镇府前二街1号"
-  }, 
-  {
-    "hotelId": "9013363", 
-    "hotelName": "汉庭北京回龙观华北电力大学酒店", 
-    "hotelAddressShort": "回龙观龙泽园街道回南路9号院28号楼"
-  }, 
-  {
-    "hotelId": "9010308", 
-    "hotelName": "全季北京中关村学院南路酒店", 
-    "hotelAddressShort": "学院南路15号院5号楼"
-  }, 
-  {
-    "hotelId": "9015792", 
-    "hotelName": "汉庭北京五棵松定慧桥酒店", 
-    "hotelAddressShort": " 阜成路甲75号院"
-  }, 
-  {
-    "hotelId": "1000364", 
-    "hotelName": "汉庭北京五棵松体育馆酒店", 
-    "hotelAddressShort": "海淀区西翠路17号院24号楼（近301医院、北京大学肿瘤医院、空军特色医学中心，地铁1号线五棵松站，五棵松体育馆凯迪拉克中心)"
-  }, 
-  {
-    "hotelId": "1000242", 
-    "hotelName": "汉庭北京传媒大学酒店", 
-    "hotelAddressShort": "北京朝阳区定福庄西里1号"
-  }, 
-  {
-    "hotelId": "9001220", 
-    "hotelName": "桔子北京怀柔中心万达广场酒店", 
-    "hotelAddressShort": "迎宾路2号"
-  }, 
-  {
-    "hotelId": "9015153", 
-    "hotelName": "全季北京奥体国家会议中心酒店", 
-    "hotelAddressShort": "安慧北里逸园1号楼"
-  }, 
-  {
-    "hotelId": "1000153", 
-    "hotelName": "全季北京798艺术区酒店", 
-    "hotelAddressShort": "北京市朝阳区大山子彩虹路6号"
-  }, 
-  {
-    "hotelId": "9004252", 
-    "hotelName": "桔子北京昌平未来科学城酒店", 
-    "hotelAddressShort": "立汤路58号"
-  }, 
-  {
-    "hotelId": "1000316", 
-    "hotelName": "全季北京西单酒店", 
-    "hotelAddressShort": "北京市西城区西单兴隆街5号（紧邻大悦城丶距天安门和故宫步行仅需二十分钟）"
+    "hotelId": "1000287", 
+    "hotelName": "北京三元桥CitiGO欢阁酒店", 
+    "hotelAddressShort": "北京市朝阳区曙光西里甲5号17号楼"
   }, 
   {
     "hotelId": "9017468", 
@@ -505,39 +705,69 @@
     "hotelAddressShort": "北京市朝阳区十八里店周家庄323号"
   }, 
   {
-    "hotelId": "9014619", 
-    "hotelName": "全季北京南站北广场酒店", 
-    "hotelAddressShort": "北京市东城区永定门外街道彭庄甲58号 距地铁北京南站（4号线/14号线）800米"
+    "hotelId": "1000364", 
+    "hotelName": "汉庭北京五棵松体育馆酒店", 
+    "hotelAddressShort": "海淀区西翠路17号院24号楼（近301医院、北京大学肿瘤医院、空军特色医学中心，地铁1号线五棵松站，五棵松体育馆凯迪拉克中心)"
   }, 
   {
-    "hotelId": "9005380", 
-    "hotelName": "桔子北京上地清河酒店", 
-    "hotelAddressShort": "清河一街60号(近东升科技园，上地产业园)"
+    "hotelId": "9005156", 
+    "hotelName": "桔子北京中关村苏州桥酒店", 
+    "hotelAddressShort": "北京市海淀区万柳中路29号院3、4号楼底商首层1-07,2-01~2-06号"
   }, 
   {
-    "hotelId": "9007968", 
-    "hotelName": "全季北京燕莎三元桥酒店", 
-    "hotelAddressShort": "北京市朝阳区东三环北路1号"
+    "hotelId": "9014579", 
+    "hotelName": "汉庭北京中关村海淀黄庄地铁站酒店", 
+    "hotelAddressShort": "大泥湾15号(地铁B口步行.北大附中南门,近颐和园,圆明园)"
   }, 
   {
-    "hotelId": "1000202", 
-    "hotelName": "汉庭北京三里屯SOHO太古里酒店", 
-    "hotelAddressShort": "北京市朝阳区工体中纺里20号"
+    "hotelId": "9003211", 
+    "hotelName": "桔子北京大兴高米店南地铁站酒店", 
+    "hotelAddressShort": "北京市大兴区兴业大街67号"
   }, 
   {
-    "hotelId": "1006212", 
-    "hotelName": "全季北京望京酒店", 
-    "hotelAddressShort": "朝阳区湖光中街8号"
+    "hotelId": "1000242", 
+    "hotelName": "汉庭北京传媒大学酒店", 
+    "hotelAddressShort": "北京朝阳区定福庄西里1号"
   }, 
   {
-    "hotelId": "9006556", 
-    "hotelName": "桔子北京西站酒店", 
-    "hotelAddressShort": "太平桥东里16号"
+    "hotelId": "1013121", 
+    "hotelName": "汉庭优佳北京首都机场酒店", 
+    "hotelAddressShort": "北京市顺义区天竺镇府前二街1号"
   }, 
   {
-    "hotelId": "8000131", 
-    "hotelName": "汉庭北京管庄地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区京通苑46号楼"
+    "hotelId": "9011855", 
+    "hotelName": "星程北京国展柳芳地铁站酒店", 
+    "hotelAddressShort": "西坝河南路3号"
+  }, 
+  {
+    "hotelId": "9004314", 
+    "hotelName": "全季北京建国门白桥大街酒店", 
+    "hotelAddressShort": "北京市东城区白桥大街2号"
+  }, 
+  {
+    "hotelId": "9010308", 
+    "hotelName": "全季北京中关村学院南路酒店", 
+    "hotelAddressShort": "学院南路15号院5号楼"
+  }, 
+  {
+    "hotelId": "9001220", 
+    "hotelName": "桔子北京怀柔中心万达广场酒店", 
+    "hotelAddressShort": "迎宾路2号"
+  }, 
+  {
+    "hotelId": "1000153", 
+    "hotelName": "全季北京798艺术区酒店", 
+    "hotelAddressShort": "北京市朝阳区大山子彩虹路6号"
+  }, 
+  {
+    "hotelId": "9015013", 
+    "hotelName": "海友北京青云店南大红门酒店", 
+    "hotelAddressShort": "北京市大兴区青云店镇垡上104国道与二干路交汇处"
+  }, 
+  {
+    "hotelId": "1000316", 
+    "hotelName": "全季北京西单酒店", 
+    "hotelAddressShort": "北京市西城区西单兴隆街5号（紧邻大悦城丶距天安门和故宫步行仅需二十分钟）"
   }, 
   {
     "hotelId": "1000246", 
@@ -545,24 +775,24 @@
     "hotelAddressShort": "北京市朝阳区双桥路甲1号"
   }, 
   {
-    "hotelId": "1000292", 
-    "hotelName": "汉庭北京亚运村水立方酒店", 
-    "hotelAddressShort": "北京市朝阳区裕民路3号1号楼"
+    "hotelId": "9007968", 
+    "hotelName": "全季北京燕莎三元桥酒店", 
+    "hotelAddressShort": "北京市朝阳区东三环北路1号"
   }, 
   {
-    "hotelId": "9001227", 
-    "hotelName": "全季北京三里屯太古里酒店", 
-    "hotelAddressShort": "北京市朝阳区幸福一村55号1号楼"
+    "hotelId": "1006212", 
+    "hotelName": "全季北京望京酒店", 
+    "hotelAddressShort": "朝阳区湖光中街8号"
   }, 
   {
-    "hotelId": "9008310", 
-    "hotelName": "全季北京西直门酒店", 
-    "hotelAddressShort": "北京市西城区西直门内大街南草厂街11号"
+    "hotelId": "9015792", 
+    "hotelName": "汉庭北京五棵松定慧桥酒店", 
+    "hotelAddressShort": " 阜成路甲75号院"
   }, 
   {
-    "hotelId": "9017700", 
-    "hotelName": "汉庭北京崇文门天坛北门酒店", 
-    "hotelAddressShort": "北京市东城区天坛街道天坛路89号"
+    "hotelId": "9013363", 
+    "hotelName": "汉庭北京回龙观华北电力大学酒店", 
+    "hotelAddressShort": "回龙观龙泽园街道回南路9号院28号楼"
   }, 
   {
     "hotelId": "9008176", 
@@ -570,14 +800,34 @@
     "hotelAddressShort": "北京市丰台区洋桥西里40号"
   }, 
   {
-    "hotelId": "9006120", 
-    "hotelName": "汉庭北京雍和宫和平里地铁站酒店", 
-    "hotelAddressShort": "北京市东城区兴化东里28号楼"
+    "hotelId": "1000107", 
+    "hotelName": "北京广渠门漫心酒店", 
+    "hotelAddressShort": "广渠门外南4巷-甲12号"
   }, 
   {
-    "hotelId": "1001027", 
-    "hotelName": "桔子北京国贸劲松地铁站酒店", 
-    "hotelAddressShort": "农光东里34号楼4层"
+    "hotelId": "9019233", 
+    "hotelName": "北京通州环球度假区美居酒店", 
+    "hotelAddressShort": "梨园云景东路339号8号"
+  }, 
+  {
+    "hotelId": "8000131", 
+    "hotelName": "汉庭北京管庄地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区京通苑46号汉庭酒店"
+  }, 
+  {
+    "hotelId": "9008310", 
+    "hotelName": "全季北京西直门酒店", 
+    "hotelAddressShort": "北京市西城区西直门内大街南草厂街11号"
+  }, 
+  {
+    "hotelId": "9001227", 
+    "hotelName": "全季北京三里屯太古里酒店", 
+    "hotelAddressShort": "北京市朝阳区幸福一村55号1号楼"
+  }, 
+  {
+    "hotelId": "9006556", 
+    "hotelName": "桔子北京西站酒店", 
+    "hotelAddressShort": "太平桥东里16号"
   }, 
   {
     "hotelId": "9019599", 
@@ -585,14 +835,74 @@
     "hotelAddressShort": "回龙观镇中关村生命科学园生命园路8号院3号楼5号楼"
   }, 
   {
-    "hotelId": "1000165", 
-    "hotelName": "桔子北京新国展酒店", 
-    "hotelAddressShort": "京顺东街6号院2号楼"
+    "hotelId": "1000292", 
+    "hotelName": "汉庭北京亚运村水立方酒店", 
+    "hotelAddressShort": "北京市朝阳区裕民路3号1号楼"
+  }, 
+  {
+    "hotelId": "9006120", 
+    "hotelName": "汉庭北京雍和宫和平里地铁站酒店", 
+    "hotelAddressShort": "北京市东城区兴化东里28号楼"
+  }, 
+  {
+    "hotelId": "9006984", 
+    "hotelName": "汉庭北京火箭万源五福堂地铁站酒店", 
+    "hotelAddressShort": "大兴区旧宫镇西广德村菊园商厦北侧"
+  }, 
+  {
+    "hotelId": "9014864", 
+    "hotelName": "海友北京对外经济贸易大学酒店", 
+    "hotelAddressShort": "高原街11号"
+  }, 
+  {
+    "hotelId": "9004252", 
+    "hotelName": "桔子北京昌平未来科学城酒店", 
+    "hotelAddressShort": "立汤路58号"
+  }, 
+  {
+    "hotelId": "9009342", 
+    "hotelName": "汉庭北京西站丽泽商务区酒店", 
+    "hotelAddressShort": "丰台区太平桥路15号楼"
+  }, 
+  {
+    "hotelId": "9005206", 
+    "hotelName": "北京雍和宫漫心酒店", 
+    "hotelAddressShort": "和平里东街22号"
+  }, 
+  {
+    "hotelId": "9017700", 
+    "hotelName": "汉庭北京崇文门天坛北门酒店", 
+    "hotelAddressShort": "北京市东城区天坛街道天坛路89号"
   }, 
   {
     "hotelId": "9004873", 
     "hotelName": "汉庭北京天坛酒店", 
     "hotelAddressShort": "北京市东城区永定门东街2号南楼"
+  }, 
+  {
+    "hotelId": "9005380", 
+    "hotelName": "桔子北京上地清河酒店", 
+    "hotelAddressShort": "清河一街60号(近东升科技园，上地产业园)"
+  }, 
+  {
+    "hotelId": "1001027", 
+    "hotelName": "桔子北京国贸劲松地铁站酒店", 
+    "hotelAddressShort": "农光东里34号楼4层"
+  }, 
+  {
+    "hotelId": "1000202", 
+    "hotelName": "汉庭北京三里屯SOHO太古里酒店", 
+    "hotelAddressShort": "北京市朝阳区工体中纺里20号"
+  }, 
+  {
+    "hotelId": "9015153", 
+    "hotelName": "全季北京奥体国家会议中心酒店", 
+    "hotelAddressShort": "安慧北里逸园1号楼"
+  }, 
+  {
+    "hotelId": "1000354", 
+    "hotelName": "桔子北京西直门酒店", 
+    "hotelAddressShort": "北京市西城区南草厂街甲11号"
   }, 
   {
     "hotelId": "9004064", 
@@ -605,114 +915,9 @@
     "hotelAddressShort": "丰台区大红门南路158号"
   }, 
   {
-    "hotelId": "9006360", 
-    "hotelName": "全季北京大兴金星桥酒店", 
-    "hotelAddressShort": "北京市大兴区金星路16号"
-  }, 
-  {
-    "hotelId": "9001353", 
-    "hotelName": "桔子北京建国门酒店", 
-    "hotelAddressShort": "北京市朝阳区外交部南街10号万邦商贸大厦一楼"
-  }, 
-  {
-    "hotelId": "1000354", 
-    "hotelName": "桔子北京西直门酒店", 
-    "hotelAddressShort": "北京市西城区南草厂街甲11号"
-  }, 
-  {
-    "hotelId": "9009342", 
-    "hotelName": "汉庭北京西站丽泽商务区酒店", 
-    "hotelAddressShort": "丰台区太平桥路15号楼"
-  }, 
-  {
-    "hotelId": "9015976", 
-    "hotelName": "全季北京国贸四惠地铁站酒店", 
-    "hotelAddressShort": "建国路72号（四惠交通枢纽站西侧100米）"
-  }, 
-  {
     "hotelId": "9003431", 
     "hotelName": "全季北京岳各庄桥酒店", 
     "hotelAddressShort": "丰台区西四环南路8号D座"
-  }, 
-  {
-    "hotelId": "9020440", 
-    "hotelName": "桔子北京双桥万达广场酒店", 
-    "hotelAddressShort": "朝阳区双桥万达广场6层"
-  }, 
-  {
-    "hotelId": "1001026", 
-    "hotelName": "桔子北京望京酒店", 
-    "hotelAddressShort": "北京市朝阳区望京湖光中街8号"
-  }, 
-  {
-    "hotelId": "9019225", 
-    "hotelName": "全季北京望京花家地酒店", 
-    "hotelAddressShort": "北京市朝阳区望京花家地1号楼"
-  }, 
-  {
-    "hotelId": "9006984", 
-    "hotelName": "汉庭北京火箭万源五福堂地铁站酒店", 
-    "hotelAddressShort": "大兴区旧宫镇西广德村菊园商厦北侧"
-  }, 
-  {
-    "hotelId": "1001765", 
-    "hotelName": "全季北京亦庄经济开发区酒店", 
-    "hotelAddressShort": "北京经济技术开发区康定街18号院11号楼"
-  }, 
-  {
-    "hotelId": "1000732", 
-    "hotelName": "汉庭北京六里桥酒店", 
-    "hotelAddressShort": "北京市丰台区太平桥路华源一里甲9号"
-  }, 
-  {
-    "hotelId": "9011187", 
-    "hotelName": "汉庭北京前门天坛西门酒店", 
-    "hotelAddressShort": "北京市西城区留学路73号"
-  }, 
-  {
-    "hotelId": "1000535", 
-    "hotelName": "桔子北京广安门牛街酒店", 
-    "hotelAddressShort": "牛街20号楼"
-  }, 
-  {
-    "hotelId": "9002029", 
-    "hotelName": "全季北京军博地铁站酒店", 
-    "hotelAddressShort": "北京市海淀区羊坊店路11号"
-  }, 
-  {
-    "hotelId": "9014778", 
-    "hotelName": "桔子北京中日医院对外经贸大学酒店", 
-    "hotelAddressShort": "北京市朝阳区芍药居甲2号内12号楼(芍药居地铁10/13号线A口500米左右）"
-  }, 
-  {
-    "hotelId": "9000957", 
-    "hotelName": "桔子北京西单酒店", 
-    "hotelAddressShort": "西城区华远街15号置地星座D座（临近协和西院区500米丶儿童医院驱车仅需8分钟）"
-  }, 
-  {
-    "hotelId": "9000410", 
-    "hotelName": "桔子北京牛街地铁站酒店", 
-    "hotelAddressShort": "牛街西里1号商业楼"
-  }, 
-  {
-    "hotelId": "8915814", 
-    "hotelName": "全季北京广渠路酒店", 
-    "hotelAddressShort": "北京市朝阳区广渠路1347号"
-  }, 
-  {
-    "hotelId": "9010341", 
-    "hotelName": "汉庭北京传媒大学褡裢坡地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区三间房西路3号院1号楼"
-  }, 
-  {
-    "hotelId": "9016388", 
-    "hotelName": "汉庭北京北清路生命科学园酒店", 
-    "hotelAddressShort": " 北清路1号院8号楼"
-  }, 
-  {
-    "hotelId": "1000531", 
-    "hotelName": "汉庭北京白纸坊桥酒店", 
-    "hotelAddressShort": "西城区白纸坊西街甲3号(临近大观园、北京南站、广安门、陶然亭公园、天坛公园、天安门、牛街礼拜寺等)"
   }, 
   {
     "hotelId": "1000181", 
@@ -720,14 +925,39 @@
     "hotelAddressShort": "北京市朝阳区东坝中路28号"
   }, 
   {
-    "hotelId": "9005010", 
-    "hotelName": "桔子北京南站南广场酒店", 
-    "hotelAddressShort": "北京市丰台区马家堡东路海户西里34号楼"
+    "hotelId": "1000815", 
+    "hotelName": "海友北京中央财经大学酒店", 
+    "hotelAddressShort": "北京市海淀区学院南路甲51号"
   }, 
   {
-    "hotelId": "9004952", 
-    "hotelName": "全季北京会议中心酒店", 
-    "hotelAddressShort": "朝阳区来广营西路8号"
+    "hotelId": "9020440", 
+    "hotelName": "桔子北京双桥万达广场酒店", 
+    "hotelAddressShort": "朝阳区双桥万达广场6层"
+  }, 
+  {
+    "hotelId": "9011187", 
+    "hotelName": "汉庭北京前门天坛西门酒店", 
+    "hotelAddressShort": "北京市西城区留学路73号"
+  }, 
+  {
+    "hotelId": "1000165", 
+    "hotelName": "桔子北京新国展酒店", 
+    "hotelAddressShort": "京顺东街6号院2号楼"
+  }, 
+  {
+    "hotelId": "9006360", 
+    "hotelName": "全季北京大兴金星桥酒店", 
+    "hotelAddressShort": "北京市大兴区金星路16号"
+  }, 
+  {
+    "hotelId": "9014778", 
+    "hotelName": "桔子北京中日医院对外经贸大学酒店", 
+    "hotelAddressShort": "北京市朝阳区芍药居甲2号内12号楼(芍药居地铁10/13号线A口500米左右）"
+  }, 
+  {
+    "hotelId": "9010341", 
+    "hotelName": "汉庭北京传媒大学褡裢坡地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区三间房西路3号院1号楼"
   }, 
   {
     "hotelId": "9014066", 
@@ -735,19 +965,9 @@
     "hotelAddressShort": "北京市丰台区三路居113号"
   }, 
   {
-    "hotelId": "9000663", 
-    "hotelName": "全季北京亚运村小营酒店", 
-    "hotelAddressShort": "北京市朝阳区小营北路19号"
-  }, 
-  {
-    "hotelId": "8000207", 
-    "hotelName": "桔子水晶北京总部基地酒店", 
-    "hotelAddressShort": "南四环西路188号总部基地17区16号楼"
-  }, 
-  {
-    "hotelId": "9015333", 
-    "hotelName": "桔子北京南站酒店", 
-    "hotelAddressShort": "北京市丰台区马家堡路12号"
+    "hotelId": "1000507", 
+    "hotelName": "北京天坛北门漫心酒店", 
+    "hotelAddressShort": "北京市东城区西晓市街38号"
   }, 
   {
     "hotelId": "1000691", 
@@ -755,84 +975,44 @@
     "hotelAddressShort": "丰台区开阳里二街西巷4号（紧邻北京南站北出口800米即到，地铁4号线、14号线北京南站北出口步行800米）"
   }, 
   {
-    "hotelId": "9016865", 
-    "hotelName": "桔子北京交通大学酒店", 
-    "hotelAddressShort": " 上园村甲4号院2号楼"
+    "hotelId": "9005010", 
+    "hotelName": "桔子北京南站南广场酒店", 
+    "hotelAddressShort": "北京市丰台区马家堡东路海户西里34号楼"
   }, 
   {
-    "hotelId": "9003569", 
-    "hotelName": "汉庭北京东直门酒店", 
-    "hotelAddressShort": "东城区东直门外大街42号（距俄罗斯、澳大利亚、加拿大等使馆区950米）"
+    "hotelId": "1001765", 
+    "hotelName": "全季北京亦庄经济开发区酒店", 
+    "hotelAddressShort": "北京经济技术开发区康定街18号院11号楼"
   }, 
   {
-    "hotelId": "1000832", 
-    "hotelName": "桔子北京学院路酒店", 
-    "hotelAddressShort": "志新西路3-1号"
+    "hotelId": "9015333", 
+    "hotelName": "桔子北京南站酒店", 
+    "hotelAddressShort": "北京市丰台区马家堡路12号"
   }, 
   {
-    "hotelId": "9007791", 
-    "hotelName": "汉庭北京酒仙桥798酒店", 
-    "hotelAddressShort": "酒仙桥路13号"
+    "hotelId": "9015976", 
+    "hotelName": "全季北京国贸四惠地铁站酒店", 
+    "hotelAddressShort": "建国路72号（四惠交通枢纽站西侧100米）"
   }, 
   {
-    "hotelId": "1000061", 
-    "hotelName": "汉庭北京王府井步行街酒店", 
-    "hotelAddressShort": "北京市东城区王府井大街20号"
+    "hotelId": "9022800", 
+    "hotelName": "星程北京十里河酒店", 
+    "hotelAddressShort": "十八里店乡周家庄村323号一层大堂、二层、三层客房"
   }, 
   {
-    "hotelId": "1000682", 
-    "hotelName": "全季北京南站马家堡东路酒店", 
-    "hotelAddressShort": "北京市丰台区马家堡东路108号院4号楼"
+    "hotelId": "9001353", 
+    "hotelName": "桔子北京建国门酒店", 
+    "hotelAddressShort": "北京市朝阳区外交部南街10号万邦商贸大厦一楼"
   }, 
   {
-    "hotelId": "8916401", 
-    "hotelName": "桔子北京燕莎桥酒店", 
-    "hotelAddressShort": "新源南路8-2号（京城大厦西门斜对面、亮马河、临近中国国际展览中心）"
+    "hotelId": "9000957", 
+    "hotelName": "桔子北京西单酒店", 
+    "hotelAddressShort": "西城区华远街15号置地星座D座（临近协和西院区500米丶儿童医院驱车仅需8分钟）"
   }, 
   {
-    "hotelId": "9001634", 
-    "hotelName": "全季北京西站六里桥酒店", 
-    "hotelAddressShort": "北京市丰台区太平桥路17号1层"
-  }, 
-  {
-    "hotelId": "1000261", 
-    "hotelName": "汉庭北京长虹桥酒店（原北京团结湖地铁站店）", 
-    "hotelAddressShort": "朝阳区农展南里12号院"
-  }, 
-  {
-    "hotelId": "9016299", 
-    "hotelName": "桔子北京丰台站酒店", 
-    "hotelAddressShort": "北京市丰台区正阳大街127号"
-  }, 
-  {
-    "hotelId": "9016219", 
-    "hotelName": "汉庭北京展览馆阜外医院酒店", 
-    "hotelAddressShort": "西城区展览馆路14号（距阜外医院1000米,北京展览馆700米,北京动物园900米）"
-  }, 
-  {
-    "hotelId": "9004228", 
-    "hotelName": "全季北京奥体中心鸟巢酒店", 
-    "hotelAddressShort": "北京市朝阳区小关北里45号世纪嘉园5号楼"
-  }, 
-  {
-    "hotelId": "8916704", 
-    "hotelName": "汉庭优佳北京三元桥燕莎使馆区酒店", 
-    "hotelAddressShort": "东三环北路甲2号7幢 京信大厦 南配楼"
-  }, 
-  {
-    "hotelId": "1000931", 
-    "hotelName": "桔子北京中关村苏州街酒店", 
-    "hotelAddressShort": "北京市海淀区海淀南路15号楼"
-  }, 
-  {
-    "hotelId": "9015967", 
-    "hotelName": "桔子水晶北京天坛医院总部基地酒店", 
-    "hotelAddressShort": "樊羊路67号院1号楼"
-  }, 
-  {
-    "hotelId": "9008784", 
-    "hotelName": "汉庭北京阜成门阜外医院酒店", 
-    "hotelAddressShort": "西城区南礼士路3号海通大厦B座(距阜外医院446米，儿童医院900米）"
+    "hotelId": "9019225", 
+    "hotelName": "全季北京望京花家地酒店", 
+    "hotelAddressShort": "北京市朝阳区望京花家地1号楼"
   }, 
   {
     "hotelId": "9001541", 
@@ -840,14 +1020,144 @@
     "hotelAddressShort": "丰台区科学城中核路10号1幢1-6层"
   }, 
   {
-    "hotelId": "1000942", 
-    "hotelName": "桔子北京颐和园酒店", 
-    "hotelAddressShort": "天秀北路10号1号楼西门"
+    "hotelId": "9000663", 
+    "hotelName": "全季北京亚运村小营酒店", 
+    "hotelAddressShort": "北京市朝阳区小营北路19号"
   }, 
   {
-    "hotelId": "9009889", 
-    "hotelName": "桔子北京通州环球北运河酒店", 
-    "hotelAddressShort": "潞通大街191号"
+    "hotelId": "1000732", 
+    "hotelName": "汉庭北京六里桥酒店", 
+    "hotelAddressShort": "北京市丰台区太平桥路华源一里甲9号"
+  }, 
+  {
+    "hotelId": "8000335", 
+    "hotelName": "宜必思北京天坛东门地铁站酒店", 
+    "hotelAddressShort": "北京市东城区体育馆路街道天坛东路66号14号楼"
+  }, 
+  {
+    "hotelId": "9016865", 
+    "hotelName": "桔子北京交通大学酒店", 
+    "hotelAddressShort": " 上园村甲4号院2号楼"
+  }, 
+  {
+    "hotelId": "8916401", 
+    "hotelName": "桔子北京燕莎桥酒店", 
+    "hotelAddressShort": "新源南路8-2号（京城大厦西门斜对面、亮马河、临近中国国际展览中心）"
+  }, 
+  {
+    "hotelId": "9020109", 
+    "hotelName": "星程北京五道口清华园酒店", 
+    "hotelAddressShort": "双清路14号院7号楼东段"
+  }, 
+  {
+    "hotelId": "1000531", 
+    "hotelName": "汉庭北京白纸坊桥酒店", 
+    "hotelAddressShort": "西城区白纸坊西街甲3号(临近大观园、北京南站、广安门、陶然亭公园、天坛公园、天安门、牛街礼拜寺等)"
+  }, 
+  {
+    "hotelId": "9002029", 
+    "hotelName": "全季北京军博地铁站酒店", 
+    "hotelAddressShort": "北京市海淀区羊坊店路11号"
+  }, 
+  {
+    "hotelId": "1000535", 
+    "hotelName": "桔子北京广安门牛街酒店", 
+    "hotelAddressShort": "牛街20号楼"
+  }, 
+  {
+    "hotelId": "9008334", 
+    "hotelName": "汉庭北京回龙观地铁站酒店", 
+    "hotelAddressShort": "回龙观镇龙腾苑五区5号楼"
+  }, 
+  {
+    "hotelId": "9001344", 
+    "hotelName": "海友北京五棵松万寿路地铁站酒店", 
+    "hotelAddressShort": "北京市海淀区万寿路14-2"
+  }, 
+  {
+    "hotelId": "9016219", 
+    "hotelName": "汉庭北京展览馆阜外医院酒店", 
+    "hotelAddressShort": "西城区展览馆路14号（距阜外医院1000米,北京展览馆700米,北京动物园900米）"
+  }, 
+  {
+    "hotelId": "1000061", 
+    "hotelName": "汉庭北京王府井步行街酒店", 
+    "hotelAddressShort": "北京市东城区王府井大街20号"
+  }, 
+  {
+    "hotelId": "1000832", 
+    "hotelName": "桔子北京学院路酒店", 
+    "hotelAddressShort": "志新西路3-1号"
+  }, 
+  {
+    "hotelId": "9016299", 
+    "hotelName": "桔子北京丰台站酒店", 
+    "hotelAddressShort": "北京市丰台区正阳大街127号"
+  }, 
+  {
+    "hotelId": "1000783", 
+    "hotelName": "桔子北京天坛酒店", 
+    "hotelAddressShort": "蒲芳路9号院1号楼"
+  }, 
+  {
+    "hotelId": "9000410", 
+    "hotelName": "桔子北京牛街地铁站酒店", 
+    "hotelAddressShort": "牛街西里1号商业楼"
+  }, 
+  {
+    "hotelId": "9015453", 
+    "hotelName": "北京南站大观园漫心酒店", 
+    "hotelAddressShort": "南菜园街与右安门内西街交叉口西50米"
+  }, 
+  {
+    "hotelId": "9007791", 
+    "hotelName": "汉庭北京酒仙桥798酒店", 
+    "hotelAddressShort": "酒仙桥路13号"
+  }, 
+  {
+    "hotelId": "9019990", 
+    "hotelName": "海友北京王府井协和医院酒店", 
+    "hotelAddressShort": "内务部街26号"
+  }, 
+  {
+    "hotelId": "9016388", 
+    "hotelName": "汉庭北京北清路生命科学园酒店", 
+    "hotelAddressShort": " 北清路1号院8号楼"
+  }, 
+  {
+    "hotelId": "8915814", 
+    "hotelName": "全季北京广渠路酒店", 
+    "hotelAddressShort": "北京市朝阳区广渠路1347号"
+  }, 
+  {
+    "hotelId": "1000245", 
+    "hotelName": "海友北京常营朝阳路酒店", 
+    "hotelAddressShort": "北京市朝阳区朝阳路新天地7号院5号楼"
+  }, 
+  {
+    "hotelId": "9008784", 
+    "hotelName": "汉庭北京阜成门阜外医院酒店", 
+    "hotelAddressShort": "西城区南礼士路3号海通大厦B座(距阜外医院446米，儿童医院900米）"
+  }, 
+  {
+    "hotelId": "9001018", 
+    "hotelName": "汉庭优佳北京国贸酒店", 
+    "hotelAddressShort": "北京市朝阳区西大望路甲16号院5号楼"
+  }, 
+  {
+    "hotelId": "1000897", 
+    "hotelName": "汉庭优佳北京中关村人民大学酒店", 
+    "hotelAddressShort": "海淀区万泉庄小区10号10号楼1-3层（近人民大学，海淀医院，西苑医院）"
+  }, 
+  {
+    "hotelId": "8000207", 
+    "hotelName": "桔子水晶北京总部基地酒店", 
+    "hotelAddressShort": "南四环西路188号总部基地17区16号楼"
+  }, 
+  {
+    "hotelId": "9000777", 
+    "hotelName": "全季北京人民大学地铁站酒店", 
+    "hotelAddressShort": "北京市海淀区中关村南大街2号数码银座17层"
   }, 
   {
     "hotelId": "1000321", 
@@ -855,19 +1165,124 @@
     "hotelAddressShort": "北京市西城区东斜街14号（协和西院区、妇产儿童医院步行15分钟即到）"
   }, 
   {
+    "hotelId": "9004952", 
+    "hotelName": "全季北京会议中心酒店", 
+    "hotelAddressShort": "朝阳区来广营西路8号"
+  }, 
+  {
+    "hotelId": "1000682", 
+    "hotelName": "全季北京南站马家堡东路酒店", 
+    "hotelAddressShort": "北京市丰台区马家堡东路108号院4号楼"
+  }, 
+  {
+    "hotelId": "8916704", 
+    "hotelName": "汉庭优佳北京三元桥燕莎使馆区酒店", 
+    "hotelAddressShort": "东三环北路甲2号7幢 京信大厦 南配楼"
+  }, 
+  {
+    "hotelId": "9009171", 
+    "hotelName": "海友北京旧宫工业园酒店", 
+    "hotelAddressShort": "旧宫镇旧宫四村旧忠路西九条1、2号"
+  }, 
+  {
     "hotelId": "1000052", 
     "hotelName": "汉庭北京崇文门同仁医院酒店", 
     "hotelAddressShort": "北京市东城区船板胡同47号"
   }, 
   {
-    "hotelId": "8916424", 
-    "hotelName": "全季北京欢乐谷酒店", 
-    "hotelAddressShort": "北京市朝阳区金蝉西路甲一号酷车小镇"
+    "hotelId": "9003569", 
+    "hotelName": "汉庭北京东直门酒店", 
+    "hotelAddressShort": "东城区东直门外大街42号（距俄罗斯、澳大利亚、加拿大等使馆区950米）"
+  }, 
+  {
+    "hotelId": "9001634", 
+    "hotelName": "全季北京西站六里桥酒店", 
+    "hotelAddressShort": "北京市丰台区太平桥路17号1层"
+  }, 
+  {
+    "hotelId": "9009889", 
+    "hotelName": "桔子北京通州环球北运河酒店", 
+    "hotelAddressShort": "潞通大街191号"
+  }, 
+  {
+    "hotelId": "1000931", 
+    "hotelName": "桔子北京中关村苏州街酒店", 
+    "hotelAddressShort": "北京市海淀区海淀南路15号楼"
   }, 
   {
     "hotelId": "1011002", 
     "hotelName": "桔子北京通州环球万达广场酒店", 
     "hotelAddressShort": "北京市通州区新华大街256号"
+  }, 
+  {
+    "hotelId": "1000317", 
+    "hotelName": "海友北京天安门国家大剧院酒店", 
+    "hotelAddressShort": "北京市西城区后细瓦厂胡同31号"
+  }, 
+  {
+    "hotelId": "1000501", 
+    "hotelName": "汉庭北京前门大街酒店", 
+    "hotelAddressShort": "北京市西城区西经路1号（毗邻国家信访局，友谊医院，故宫天安门，前门，西单大悦城，金融街，天坛公园，王府井，SOGO购物中心）"
+  }, 
+  {
+    "hotelId": "9008597", 
+    "hotelName": "北京五棵松漫心酒店", 
+    "hotelAddressShort": "北京市海淀区永定路24号"
+  }, 
+  {
+    "hotelId": "1022993", 
+    "hotelName": "全季北京昌平龙水路酒店", 
+    "hotelAddressShort": "北京市昌平区龙水路12号"
+  }, 
+  {
+    "hotelId": "1000261", 
+    "hotelName": "汉庭北京长虹桥酒店（原北京团结湖地铁站店）", 
+    "hotelAddressShort": "朝阳区农展南里12号院"
+  }, 
+  {
+    "hotelId": "1000711", 
+    "hotelName": "汉庭北京丰益桥西国贸酒店", 
+    "hotelAddressShort": "丰台区丰管路甲28号(距离地铁10号线泥洼站步行800米）"
+  }, 
+  {
+    "hotelId": "9010903", 
+    "hotelName": "全季北京前门地铁站酒店", 
+    "hotelAddressShort": "大栅栏西街15号"
+  }, 
+  {
+    "hotelId": "9015967", 
+    "hotelName": "桔子水晶北京天坛医院总部基地酒店", 
+    "hotelAddressShort": "樊羊路67号院1号楼"
+  }, 
+  {
+    "hotelId": "9004228", 
+    "hotelName": "全季北京奥体中心鸟巢酒店", 
+    "hotelAddressShort": "北京市朝阳区小关北里45号世纪嘉园5号楼"
+  }, 
+  {
+    "hotelId": "9004662", 
+    "hotelName": "全季北京长楹天街酒店", 
+    "hotelAddressShort": "北京市朝阳区常营乡东方华瑞北区8号楼八层A801号至A813号，九层A901号至A913号"
+  }, 
+  {
+    "hotelId": "1000214", 
+    "hotelName": "汉庭北京潘家园酒店", 
+    "hotelAddressShort": "北京市朝阳区潘家园东里21号"
+  }, 
+  {
+    "hotelId": "9001002", 
+    "hotelName": "全季北京798艺术区酒仙桥路酒店", 
+    "hotelAddressShort": "北京市朝阳区酒仙桥路3号"
+  }, 
+  {
+    "hotelId": "9014530", 
+    "hotelName": "全季北京高米店北地铁站酒店", 
+    "hotelAddressShort": "兴华大街2号 1幢"
+  }, 
+  {
+    "hotelId": "9013603", 
+    "hotelName": "北京五棵松京荟广场美仑酒店", 
+    "hotelAddressShort": "梅市口路133号京荟广场C座"
   }, 
   {
     "hotelId": "1000452", 
@@ -880,34 +1295,9 @@
     "hotelAddressShort": "北京市丰台区马家堡路154号院3号楼"
   }, 
   {
-    "hotelId": "1000711", 
-    "hotelName": "汉庭北京丰益桥西国贸酒店", 
-    "hotelAddressShort": "丰台区丰管路甲28号(距离地铁10号线泥洼站步行800米）"
-  }, 
-  {
-    "hotelId": "9000777", 
-    "hotelName": "全季北京人民大学地铁站酒店", 
-    "hotelAddressShort": "北京市海淀区中关村南大街2号数码银座17层"
-  }, 
-  {
-    "hotelId": "9001631", 
-    "hotelName": "全季北京广安门酒店", 
-    "hotelAddressShort": "北京市西城区枣林前街37号"
-  }, 
-  {
-    "hotelId": "1000864", 
-    "hotelName": "汉庭北京中关村酒店", 
-    "hotelAddressShort": "海淀区中关村丹棱街16号海兴大厦B座（微软北京总部对面、中关村软件园内、步行可至地铁口、免费咖啡）"
-  }, 
-  {
-    "hotelId": "1000092", 
-    "hotelName": "汉庭北京鼓楼大街地铁站酒店", 
-    "hotelAddressShort": "北京市西城区西绦胡同15号后门"
-  }, 
-  {
-    "hotelId": "9015440", 
-    "hotelName": "全季北京回龙观西大街酒店", 
-    "hotelAddressShort": " 北京市昌平区回龙观西大街育知路1-1号南业务楼1、3、4层"
+    "hotelId": "8000081", 
+    "hotelName": "海友北京天坛东门酒店", 
+    "hotelAddressShort": "北京市东城区幸福大街福光路6号"
   }, 
   {
     "hotelId": "9001706", 
@@ -915,74 +1305,14 @@
     "hotelAddressShort": "福宜街9号院5号楼"
   }, 
   {
-    "hotelId": "1000111", 
-    "hotelName": "汉庭北京德胜门酒店", 
-    "hotelAddressShort": "北京市西城区六铺炕三区9号北楼"
+    "hotelId": "1000092", 
+    "hotelName": "汉庭北京鼓楼大街地铁站酒店", 
+    "hotelAddressShort": "北京市西城区西绦胡同15号后门"
   }, 
   {
-    "hotelId": "1022993", 
-    "hotelName": "全季北京昌平龙水路酒店", 
-    "hotelAddressShort": "北京市昌平区龙水路12号"
-  }, 
-  {
-    "hotelId": "9008334", 
-    "hotelName": "汉庭北京回龙观地铁站酒店", 
-    "hotelAddressShort": "回龙观镇龙腾苑五区5号楼"
-  }, 
-  {
-    "hotelId": "1000783", 
-    "hotelName": "桔子北京天坛酒店", 
-    "hotelAddressShort": "蒲芳路9号院1号楼"
-  }, 
-  {
-    "hotelId": "9010903", 
-    "hotelName": "全季北京前门地铁站酒店", 
-    "hotelAddressShort": "大栅栏西街15号"
-  }, 
-  {
-    "hotelId": "9000512", 
-    "hotelName": "汉庭北京西单中心酒店", 
-    "hotelAddressShort": "西城区太仆寺街甲71号"
-  }, 
-  {
-    "hotelId": "9003472", 
-    "hotelName": "桔子北京东单酒店", 
-    "hotelAddressShort": "东单北大街乙112号"
-  }, 
-  {
-    "hotelId": "1000214", 
-    "hotelName": "汉庭北京潘家园酒店", 
-    "hotelAddressShort": "北京市朝阳区潘家园东里21号"
-  }, 
-  {
-    "hotelId": "9017050", 
-    "hotelName": "全季北京昌平天通苑北枢纽站酒店", 
-    "hotelAddressShort": "立汤路天通苑北枢纽站南楼A座东区"
-  }, 
-  {
-    "hotelId": "9005717", 
-    "hotelName": "全季北京南站洋桥酒店", 
-    "hotelAddressShort": "北京市丰台区马家堡东路9号"
-  }, 
-  {
-    "hotelId": "9006727", 
-    "hotelName": "桔子北京大兴大悦城黄村西大街地铁站酒店", 
-    "hotelAddressShort": "大兴区黄村镇兴华中路9号"
-  }, 
-  {
-    "hotelId": "1000501", 
-    "hotelName": "汉庭北京前门大街酒店", 
-    "hotelAddressShort": "北京市西城区西经路1号（毗邻国家信访局，友谊医院，故宫天安门，前门，西单大悦城，金融街，天坛公园，王府井，SOGO购物中心）"
-  }, 
-  {
-    "hotelId": "1000102", 
-    "hotelName": "汉庭北京东四地铁站酒店", 
-    "hotelAddressShort": "北京市东城区东四北大街537号（隆福寺街7、9、11、13号）"
-  }, 
-  {
-    "hotelId": "9014530", 
-    "hotelName": "全季北京高米店北地铁站酒店", 
-    "hotelAddressShort": "兴华大街2号 1幢"
+    "hotelId": "8916424", 
+    "hotelName": "全季北京欢乐谷酒店", 
+    "hotelAddressShort": "北京市朝阳区金蝉西路甲一号酷车小镇"
   }, 
   {
     "hotelId": "9004505", 
@@ -990,9 +1320,14 @@
     "hotelAddressShort": "北京市西城区门框胡同30号"
   }, 
   {
-    "hotelId": "1000101", 
-    "hotelName": "全季北京朝阳门酒店", 
-    "hotelAddressShort": "北京市东城区朝阳门内大街130号"
+    "hotelId": "1000942", 
+    "hotelName": "桔子北京颐和园酒店", 
+    "hotelAddressShort": "天秀北路10号1号楼西门"
+  }, 
+  {
+    "hotelId": "9001631", 
+    "hotelName": "全季北京广安门酒店", 
+    "hotelAddressShort": "北京市西城区枣林前街37号"
   }, 
   {
     "hotelId": "9014442", 
@@ -1000,114 +1335,24 @@
     "hotelAddressShort": "丰台区丰桥路七号院8号楼（B段）"
   }, 
   {
-    "hotelId": "1000512", 
-    "hotelName": "汉庭北京广安门酒店", 
-    "hotelAddressShort": "北京市西城区南马道15号"
+    "hotelId": "9015440", 
+    "hotelName": "全季北京回龙观西大街酒店", 
+    "hotelAddressShort": " 北京市昌平区回龙观西大街育知路1-1号南业务楼1、3、4层"
   }, 
   {
-    "hotelId": "1000858", 
-    "hotelName": "桔子北京上地环岛酒店", 
-    "hotelAddressShort": "上地二街2号(临近上地产业园/中关村软件园）"
+    "hotelId": "1000102", 
+    "hotelName": "汉庭北京东四地铁站酒店", 
+    "hotelAddressShort": "北京市东城区东四北大街537号（隆福寺街7、9、11、13号）"
   }, 
   {
-    "hotelId": "9000010", 
-    "hotelName": "汉庭优佳北京总部基地科丰桥酒店", 
-    "hotelAddressShort": "丰台区中核路1号3号楼;北临西南四环科丰桥、时代财富天地大厦、中国印钞造币总公司技术中心、赛欧科园科技孵化中心，南距世界公园东门2公里，西临富丰桥、工商联大厦，东面是总部基地科技园区。"
+    "hotelId": "9017050", 
+    "hotelName": "全季北京昌平天通苑北枢纽站酒店", 
+    "hotelAddressShort": "立汤路天通苑北枢纽站南楼A座东区"
   }, 
   {
-    "hotelId": "1000315", 
-    "hotelName": "汉庭北京西单酒店", 
-    "hotelAddressShort": "北京市西城区佟麟阁路95号"
-  }, 
-  {
-    "hotelId": "9006699", 
-    "hotelName": "桔子北京亦庄桥地铁站酒店", 
-    "hotelAddressShort": "贵园南路6号"
-  }, 
-  {
-    "hotelId": "1001768", 
-    "hotelName": "桔子北京亦庄同济南路酒店", 
-    "hotelAddressShort": "北京市大兴区亦庄经济技术开发区康定街18号2号楼"
-  }, 
-  {
-    "hotelId": "9001018", 
-    "hotelName": "汉庭优佳北京国贸酒店", 
-    "hotelAddressShort": "北京市朝阳区西大望路甲16号院5号楼"
-  }, 
-  {
-    "hotelId": "1000273", 
-    "hotelName": "汉庭北京国展三元桥酒店", 
-    "hotelAddressShort": "北京市朝阳区三源里街14号"
-  }, 
-  {
-    "hotelId": "9002914", 
-    "hotelName": "桔子水晶北京朝阳门酒店", 
-    "hotelAddressShort": "神路街39号10幢"
-  }, 
-  {
-    "hotelId": "9012634", 
-    "hotelName": "汉庭北京新街口积水潭医院酒店", 
-    "hotelAddressShort": "西城区新街口南大街52号新太平胡同9号"
-  }, 
-  {
-    "hotelId": "1000855", 
-    "hotelName": "桔子北京西二旗酒店", 
-    "hotelAddressShort": "金达园小区10号楼"
-  }, 
-  {
-    "hotelId": "9010196", 
-    "hotelName": "全季北京大观园酒店", 
-    "hotelAddressShort": "菜户营东街甲69号"
-  }, 
-  {
-    "hotelId": "1000221", 
-    "hotelName": "汉庭北京国贸双井地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区东三环南路48号"
-  }, 
-  {
-    "hotelId": "9004662", 
-    "hotelName": "全季北京长楹天街酒店", 
-    "hotelAddressShort": "北京市朝阳区常营乡东方华瑞北区8号楼八层A801号至A813号，九层A901号至A913号"
-  }, 
-  {
-    "hotelId": "9002893", 
-    "hotelName": "全季北京丰台南路地铁站酒店", 
-    "hotelAddressShort": "北京市丰台区造甲街110号院43号楼"
-  }, 
-  {
-    "hotelId": "9001002", 
-    "hotelName": "全季北京798艺术区酒仙桥路酒店", 
-    "hotelAddressShort": "北京市朝阳区酒仙桥路3号"
-  }, 
-  {
-    "hotelId": "9007647", 
-    "hotelName": "全季北京西站莲宝路酒店", 
-    "hotelAddressShort": "北京市海淀区吴家村路6号"
-  }, 
-  {
-    "hotelId": "9003457", 
-    "hotelName": "全季北京木樨园地铁站酒店", 
-    "hotelAddressShort": "北京市丰台区南三环中路70号1-2层"
-  }, 
-  {
-    "hotelId": "9012863", 
-    "hotelName": "桔子北京五棵松石景山万达广场酒店", 
-    "hotelAddressShort": "鲁谷东街26号1号楼C座"
-  }, 
-  {
-    "hotelId": "9001120", 
-    "hotelName": "汉庭优佳北京广安门大观园酒店", 
-    "hotelAddressShort": "西城区广安门南街30号（距国家税务总局步行751米；距广安门中医院1.2公里）"
-  }, 
-  {
-    "hotelId": "9014949", 
-    "hotelName": "全季北京总部基地科技园地铁站酒店", 
-    "hotelAddressShort": " 南四环西路188号总部基地16区5号楼（距9号线丰台科技园地铁站A口向西300米）"
-  }, 
-  {
-    "hotelId": "1000051", 
-    "hotelName": "全季北京东单酒店", 
-    "hotelAddressShort": "北京市东城区北极阁头条32号东单地铁站A或F口出"
+    "hotelId": "9009602", 
+    "hotelName": "星程北京新国展空港工业园区酒店", 
+    "hotelAddressShort": "北京市顺义区后沙峪镇裕民大街32号院2号楼"
   }, 
   {
     "hotelId": "1000298", 
@@ -1115,19 +1360,99 @@
     "hotelAddressShort": "北京市朝阳区安苑东里1区4号(近地铁站安贞门站B口，地铁站惠新西街北口C口)"
   }, 
   {
-    "hotelId": "9000577", 
-    "hotelName": "全季北京国贸酒店", 
-    "hotelAddressShort": "北京市朝阳区西大望路甲12号"
+    "hotelId": "9012634", 
+    "hotelName": "汉庭北京新街口积水潭医院酒店", 
+    "hotelAddressShort": "西城区新街口南大街52号新太平胡同9号"
   }, 
   {
-    "hotelId": "1001016", 
-    "hotelName": "全季北京亚运村鸟巢酒店", 
-    "hotelAddressShort": "北京市朝阳区小营东路3号凯基伦大厦四层"
+    "hotelId": "9002893", 
+    "hotelName": "全季北京丰台南路地铁站酒店", 
+    "hotelAddressShort": "北京市丰台区造甲街110号院43号楼"
   }, 
   {
-    "hotelId": "1000694", 
-    "hotelName": "汉庭北京南站右安门酒店", 
-    "hotelAddressShort": "丰台区右安门东滨河路2号"
+    "hotelId": "9000512", 
+    "hotelName": "汉庭北京西单中心酒店", 
+    "hotelAddressShort": "西城区太仆寺街甲71号"
+  }, 
+  {
+    "hotelId": "1000858", 
+    "hotelName": "桔子北京上地环岛酒店", 
+    "hotelAddressShort": "上地二街2号(临近上地产业园/中关村软件园）"
+  }, 
+  {
+    "hotelId": "1000101", 
+    "hotelName": "全季北京朝阳门酒店", 
+    "hotelAddressShort": "北京市东城区朝阳门内大街130号"
+  }, 
+  {
+    "hotelId": "1000864", 
+    "hotelName": "汉庭北京中关村酒店", 
+    "hotelAddressShort": "海淀区中关村丹棱街16号海兴大厦B座（微软北京总部对面、中关村软件园内、步行可至地铁口、免费咖啡）"
+  }, 
+  {
+    "hotelId": "1000111", 
+    "hotelName": "汉庭北京德胜门酒店", 
+    "hotelAddressShort": "北京市西城区六铺炕三区9号北楼"
+  }, 
+  {
+    "hotelId": "9000010", 
+    "hotelName": "汉庭优佳北京总部基地科丰桥酒店", 
+    "hotelAddressShort": "丰台区中核路1号3号楼;北临西南四环科丰桥、时代财富天地大厦、中国印钞造币总公司技术中心、赛欧科园科技孵化中心，南距世界公园东门2公里，西临富丰桥、工商联大厦，东面是总部基地科技园区。"
+  }, 
+  {
+    "hotelId": "1001768", 
+    "hotelName": "桔子北京亦庄同济南路酒店", 
+    "hotelAddressShort": "北京市大兴区亦庄经济技术开发区康定街18号2号楼"
+  }, 
+  {
+    "hotelId": "9003795", 
+    "hotelName": "全季北京国展三元西桥酒店", 
+    "hotelAddressShort": "北京市朝阳区左家庄中街4号"
+  }, 
+  {
+    "hotelId": "9006727", 
+    "hotelName": "桔子北京大兴大悦城黄村西大街地铁站酒店", 
+    "hotelAddressShort": "大兴区黄村镇兴华中路9号"
+  }, 
+  {
+    "hotelId": "9010196", 
+    "hotelName": "全季北京大观园酒店", 
+    "hotelAddressShort": "菜户营东街甲69号"
+  }, 
+  {
+    "hotelId": "9003457", 
+    "hotelName": "全季北京木樨园地铁站酒店", 
+    "hotelAddressShort": "北京市丰台区南三环中路70号1-2层"
+  }, 
+  {
+    "hotelId": "1000855", 
+    "hotelName": "桔子北京西二旗酒店", 
+    "hotelAddressShort": "金达园小区10号楼"
+  }, 
+  {
+    "hotelId": "1000273", 
+    "hotelName": "汉庭北京国展三元桥酒店", 
+    "hotelAddressShort": "北京市朝阳区三源里街14号"
+  }, 
+  {
+    "hotelId": "9006699", 
+    "hotelName": "桔子北京亦庄桥地铁站酒店", 
+    "hotelAddressShort": "贵园南路6号"
+  }, 
+  {
+    "hotelId": "9003472", 
+    "hotelName": "桔子北京东单酒店", 
+    "hotelAddressShort": "东单北大街乙112号"
+  }, 
+  {
+    "hotelId": "1000221", 
+    "hotelName": "汉庭北京国贸双井地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区东三环南路48号"
+  }, 
+  {
+    "hotelId": "1000315", 
+    "hotelName": "汉庭北京西单酒店", 
+    "hotelAddressShort": "北京市西城区佟麟阁路95号"
   }, 
   {
     "hotelId": "9003615", 
@@ -1140,51 +1465,6 @@
     "hotelAddressShort": "团结湖北路2号2幢、11幢"
   }, 
   {
-    "hotelId": "9003795", 
-    "hotelName": "全季北京国展三元西桥酒店", 
-    "hotelAddressShort": "北京市朝阳区左家庄中街4号"
-  }, 
-  {
-    "hotelId": "9001155", 
-    "hotelName": "全季北京顺义燕京桥酒店", 
-    "hotelAddressShort": "北京市顺义区顺通路6号"
-  }, 
-  {
-    "hotelId": "9015818", 
-    "hotelName": "汉庭北京丰台火车站天坛医院酒店", 
-    "hotelAddressShort": "丰台区鸿业兴园二区1号楼"
-  }, 
-  {
-    "hotelId": "1000801", 
-    "hotelName": "汉庭北京中关村人大西门酒店", 
-    "hotelAddressShort": "海淀区万柳东路18号(地铁16号线苏州桥站、人民大学西门)"
-  }, 
-  {
-    "hotelId": "1001431", 
-    "hotelName": "桔子北京五棵松酒店", 
-    "hotelAddressShort": "北京市海淀区八里庄街道五孔桥35号（地铁六号线海淀五路居站A口对面，百得利汽车园东2门，免费停车）"
-  }, 
-  {
-    "hotelId": "1000521", 
-    "hotelName": "全季北京宣武门酒店", 
-    "hotelAddressShort": "北京市西城区宣武门外大街92号"
-  }, 
-  {
-    "hotelId": "1000064", 
-    "hotelName": "汉庭北京前门酒店", 
-    "hotelAddressShort": "北京市东城区长巷五条1号甲1号"
-  }, 
-  {
-    "hotelId": "1001201", 
-    "hotelName": "汉庭北京安贞桥西店", 
-    "hotelAddressShort": "朝阳区德胜门外黄寺大街12号（原北京安华桥酒店）"
-  }, 
-  {
-    "hotelId": "9000220", 
-    "hotelName": "汉庭北京良乡拱辰大街酒店", 
-    "hotelAddressShort": "房山区拱辰街道宜春里社区居委会南198米（月华大街2-1号中北生活港南门）紧邻龙湖天街，良乡医院，房山供电局，房山法院。"
-  }, 
-  {
     "hotelId": "9005927", 
     "hotelName": "汉庭北京金融街儿童医院酒店", 
     "hotelAddressShort": "复兴门外铁二区甲38号（距离儿童医院西门600米）"
@@ -1195,9 +1475,19 @@
     "hotelAddressShort": "北京市丰台区康辛路鸿业兴园3号楼3-2（距天坛医院800m，步行10分钟；距丰台火车站1.6km，打车约15元）"
   }, 
   {
-    "hotelId": "9011013", 
-    "hotelName": "全季北京军博酒店", 
-    "hotelAddressShort": "海淀区乔建里2号2号楼"
+    "hotelId": "1000051", 
+    "hotelName": "全季北京东单酒店", 
+    "hotelAddressShort": "北京市东城区北极阁头条32号东单地铁站A或F口出"
+  }, 
+  {
+    "hotelId": "9000220", 
+    "hotelName": "汉庭北京良乡拱辰大街酒店", 
+    "hotelAddressShort": "房山区拱辰街道宜春里社区居委会南198米（月华大街2-1号中北生活港南门）紧邻龙湖天街，良乡医院，房山供电局，房山法院。"
+  }, 
+  {
+    "hotelId": "9001120", 
+    "hotelName": "汉庭优佳北京广安门大观园酒店", 
+    "hotelAddressShort": "西城区广安门南街30号（距国家税务总局步行751米；距广安门中医院1.2公里）"
   }, 
   {
     "hotelId": "9005201", 
@@ -1205,19 +1495,79 @@
     "hotelAddressShort": "海淀区魏公街1号（靠近北京理工大学、北京口腔医院）"
   }, 
   {
+    "hotelId": "9002914", 
+    "hotelName": "桔子水晶北京朝阳门酒店", 
+    "hotelAddressShort": "神路街39号10幢"
+  }, 
+  {
+    "hotelId": "1000512", 
+    "hotelName": "汉庭北京广安门酒店", 
+    "hotelAddressShort": "北京市西城区南马道15号"
+  }, 
+  {
+    "hotelId": "9015818", 
+    "hotelName": "汉庭北京丰台火车站天坛医院酒店", 
+    "hotelAddressShort": "丰台区鸿业兴园二区1号楼"
+  }, 
+  {
+    "hotelId": "1001431", 
+    "hotelName": "桔子北京五棵松酒店", 
+    "hotelAddressShort": "北京市海淀区八里庄街道五孔桥35号（地铁六号线海淀五路居站A口对面，百得利汽车园东2门，免费停车）"
+  }, 
+  {
+    "hotelId": "9012863", 
+    "hotelName": "桔子北京五棵松石景山万达广场酒店", 
+    "hotelAddressShort": "鲁谷东街26号1号楼C座"
+  }, 
+  {
+    "hotelId": "1000521", 
+    "hotelName": "全季北京宣武门酒店", 
+    "hotelAddressShort": "北京市西城区宣武门外大街92号"
+  }, 
+  {
+    "hotelId": "9005717", 
+    "hotelName": "全季北京南站洋桥酒店", 
+    "hotelAddressShort": "北京市丰台区马家堡东路9号"
+  }, 
+  {
+    "hotelId": "1001016", 
+    "hotelName": "全季北京亚运村鸟巢酒店", 
+    "hotelAddressShort": "北京市朝阳区小营东路3号凯基伦大厦四层"
+  }, 
+  {
+    "hotelId": "9014949", 
+    "hotelName": "全季北京总部基地科技园地铁站酒店", 
+    "hotelAddressShort": " 南四环西路188号总部基地16区5号楼（距9号线丰台科技园地铁站A口向西300米）"
+  }, 
+  {
+    "hotelId": "9005910", 
+    "hotelName": "海友北京中关村人民大学酒店", 
+    "hotelAddressShort": "北京市海淀区双榆树西里10号（人民大学东门直行500米路南）"
+  }, 
+  {
     "hotelId": "9013357", 
     "hotelName": "汉庭北京房山长阳地铁站酒店", 
     "hotelAddressShort": "康泽路7号院12号楼"
   }, 
   {
-    "hotelId": "1000271", 
-    "hotelName": "全季北京东直门酒店", 
-    "hotelAddressShort": "北京市东城区东直门外斜街察慈小区16号楼"
+    "hotelId": "8000413", 
+    "hotelName": "全季北京南站角门东酒店", 
+    "hotelAddressShort": "北京市丰台区西马场北里甲13号"
   }, 
   {
-    "hotelId": "9013130", 
-    "hotelName": "汉庭北京积水潭小西天酒店", 
-    "hotelAddressShort": "海淀区志强北园小区甲22号楼(近北师大南院、积水潭医院、火箭军医院、京师科技大厦、枫蓝国际购物中心）"
+    "hotelId": "9017424", 
+    "hotelName": "星程北京望京东湖渠地铁站酒店", 
+    "hotelAddressShort": "广顺北大街利泽西园303号"
+  }, 
+  {
+    "hotelId": "9011013", 
+    "hotelName": "全季北京军博酒店", 
+    "hotelAddressShort": "海淀区乔建里2号2号楼"
+  }, 
+  {
+    "hotelId": "1000064", 
+    "hotelName": "汉庭北京前门酒店", 
+    "hotelAddressShort": "北京市东城区长巷五条1号甲1号"
   }, 
   {
     "hotelId": "9009129", 
@@ -1225,19 +1575,39 @@
     "hotelAddressShort": "北京市朝阳区南十里居28号楼1-5层"
   }, 
   {
+    "hotelId": "9000884", 
+    "hotelName": "全季北京回龙观酒店", 
+    "hotelAddressShort": "北京市昌平区回龙观镇西大街行知路77号院1号楼"
+  }, 
+  {
+    "hotelId": "9001155", 
+    "hotelName": "全季北京顺义燕京桥酒店", 
+    "hotelAddressShort": "北京市顺义区顺通路6号"
+  }, 
+  {
+    "hotelId": "1000801", 
+    "hotelName": "汉庭北京中关村人大西门酒店", 
+    "hotelAddressShort": "海淀区万柳东路18号(地铁16号线苏州桥站、人民大学西门)"
+  }, 
+  {
+    "hotelId": "9000961", 
+    "hotelName": "宜必思北京鼓楼大街地铁站酒店", 
+    "hotelAddressShort": "北京市东城区张旺胡同17号"
+  }, 
+  {
+    "hotelId": "1001201", 
+    "hotelName": "汉庭北京安贞桥西店", 
+    "hotelAddressShort": "朝阳区德胜门外黄寺大街12号（原北京安华桥酒店）"
+  }, 
+  {
+    "hotelId": "9007647", 
+    "hotelName": "全季北京西站莲宝路酒店", 
+    "hotelAddressShort": "北京市海淀区吴家村路6号"
+  }, 
+  {
     "hotelId": "1000096", 
     "hotelName": "全季北京安定门酒店", 
     "hotelAddressShort": "北京市东城区安定门内车辇店胡同甲11号"
-  }, 
-  {
-    "hotelId": "9008023", 
-    "hotelName": "汉庭北京黄村西大街地铁站酒店", 
-    "hotelAddressShort": "大兴区兴华中路9号（紧邻大兴四中，距大兴人名医院500米，北京印刷学院800米，）"
-  }, 
-  {
-    "hotelId": "9000749", 
-    "hotelName": "全季北京火箭万源地铁站酒店", 
-    "hotelAddressShort": "北京市丰台区南苑警备东路6号二区"
   }, 
   {
     "hotelId": "1000431", 
@@ -1245,19 +1615,104 @@
     "hotelAddressShort": "石景山区八角 南路1号古城东街京客隆超市东门"
   }, 
   {
+    "hotelId": "1026006", 
+    "hotelName": "汉庭北京旧宫酒店", 
+    "hotelAddressShort": "北京市大兴区科技路16号"
+  }, 
+  {
+    "hotelId": "9000577", 
+    "hotelName": "全季北京国贸酒店", 
+    "hotelAddressShort": "北京市朝阳区西大望路甲12号"
+  }, 
+  {
+    "hotelId": "1026004", 
+    "hotelName": "汉庭北京黄村高米店北店", 
+    "hotelAddressShort": "大兴区香园路香海园57号楼"
+  }, 
+  {
+    "hotelId": "1000694", 
+    "hotelName": "汉庭北京南站右安门酒店", 
+    "hotelAddressShort": "丰台区右安门东滨河路2号"
+  }, 
+  {
+    "hotelId": "8000513", 
+    "hotelName": "海友北京欢乐谷十八里店酒店", 
+    "hotelAddressShort": "北京市朝阳区十八里店乡老君堂村甲6号"
+  }, 
+  {
+    "hotelId": "1013991", 
+    "hotelName": "桔子北京顺义石园酒店", 
+    "hotelAddressShort": "北京市顺义区仓上街10号"
+  }, 
+  {
+    "hotelId": "1000719", 
+    "hotelName": "汉庭北京宋家庄酒店", 
+    "hotelAddressShort": "丰台区永外宋庄路11号1号楼3层（毗邻刘家窑中医院、宋家庄地铁、刘家窑地铁，临近十里河商区）"
+  }, 
+  {
+    "hotelId": "9015728", 
+    "hotelName": "海友北京国贸九龙山地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区广渠路28号甲217号楼             距平乐园（14东段号线）333m"
+  }, 
+  {
+    "hotelId": "9001068", 
+    "hotelName": "汉庭北京南站南广场酒店", 
+    "hotelAddressShort": "丰台区马家堡东路27号（距离地铁4号线及14号线北京南站约800米即到，中国评剧艺术中心约300米，南三环洋桥500米，）"
+  }, 
+  {
+    "hotelId": "9019129", 
+    "hotelName": "汉庭北京中关村学院桥地铁站酒店", 
+    "hotelAddressShort": "学院路31号6号楼1-3层"
+  }, 
+  {
+    "hotelId": "9006726", 
+    "hotelName": "汉庭北京五道口清华园酒店", 
+    "hotelAddressShort": "海淀区双清路14号院"
+  }, 
+  {
+    "hotelId": "9013130", 
+    "hotelName": "汉庭北京积水潭小西天酒店", 
+    "hotelAddressShort": "海淀区志强北园小区甲22号楼(近北师大南院、积水潭医院、火箭军医院、京师科技大厦、枫蓝国际购物中心）"
+  }, 
+  {
+    "hotelId": "9008787", 
+    "hotelName": "汉庭北京万丰路银座和谐广场酒店", 
+    "hotelAddressShort": "丰台区小井村甲690号（距离万开中心913米，解放军三〇七2.3公里，解放军第五医院2.2公里）"
+  }, 
+  {
+    "hotelId": "9008023", 
+    "hotelName": "汉庭北京黄村西大街地铁站酒店", 
+    "hotelAddressShort": "大兴区兴华中路9号（紧邻大兴四中，距大兴人名医院500米，北京印刷学院800米，）"
+  }, 
+  {
     "hotelId": "9014827", 
     "hotelName": "全季北京纪家庙地铁站酒店", 
     "hotelAddressShort": "郑王坟（纪家庙44号）"
   }, 
   {
-    "hotelId": "9019969", 
-    "hotelName": "汉庭北京大兴天宫院生物医药基地酒店", 
-    "hotelAddressShort": "永旺路6号院2号楼1至3层2-5、2-4、2-3、2-2、2-1"
+    "hotelId": "9014203", 
+    "hotelName": "汉庭北京国贸建国门酒店", 
+    "hotelAddressShort": "建外大街18号"
   }, 
   {
-    "hotelId": "9012365", 
-    "hotelName": "汉庭北京西站天宁寺酒店", 
-    "hotelAddressShort": "北小马厂6号华天大厦后侧配楼（距离北京西站直线800米）"
+    "hotelId": "1000708", 
+    "hotelName": "海友北京丰台火车站天坛医院酒店", 
+    "hotelAddressShort": "北京市丰台区丰台南路新村二里31号"
+  }, 
+  {
+    "hotelId": "9000749", 
+    "hotelName": "全季北京火箭万源地铁站酒店", 
+    "hotelAddressShort": "北京市丰台区南苑警备东路6号二区"
+  }, 
+  {
+    "hotelId": "9003263", 
+    "hotelName": "汉庭北京对外经贸大学酒店", 
+    "hotelAddressShort": "芍药居甲2号院1号楼(紧邻对外经贸大学东门、中日友好医院）"
+  }, 
+  {
+    "hotelId": "1000271", 
+    "hotelName": "全季北京东直门酒店", 
+    "hotelAddressShort": "北京市东城区东直门外斜街察慈小区16号楼"
   }, 
   {
     "hotelId": "9001112", 
@@ -1270,34 +1725,9 @@
     "hotelAddressShort": "北京市海淀区复兴路61号院东侧综合楼"
   }, 
   {
-    "hotelId": "9014203", 
-    "hotelName": "汉庭北京国贸建国门酒店", 
-    "hotelAddressShort": "建外大街18号"
-  }, 
-  {
-    "hotelId": "9006726", 
-    "hotelName": "汉庭北京五道口清华园酒店", 
-    "hotelAddressShort": "海淀区双清路14号院"
-  }, 
-  {
-    "hotelId": "8000413", 
-    "hotelName": "全季北京南站角门东酒店", 
-    "hotelAddressShort": "北京市丰台区西马场北里甲13号"
-  }, 
-  {
-    "hotelId": "1013991", 
-    "hotelName": "桔子北京顺义石园酒店", 
-    "hotelAddressShort": "北京市顺义区仓上街10号"
-  }, 
-  {
-    "hotelId": "1026004", 
-    "hotelName": "汉庭北京黄村高米店北店", 
-    "hotelAddressShort": "大兴区香园路香海园57号楼"
-  }, 
-  {
-    "hotelId": "9019129", 
-    "hotelName": "汉庭北京中关村学院桥地铁站酒店", 
-    "hotelAddressShort": "学院路31号6号楼1-3层"
+    "hotelId": "1000341", 
+    "hotelName": "海友北京金融街酒店", 
+    "hotelAddressShort": "北京市西城区西四南大街36号"
   }, 
   {
     "hotelId": "1000696", 
@@ -1305,59 +1735,9 @@
     "hotelAddressShort": "北京市丰台区右安门外大街56号楼2号楼"
   }, 
   {
-    "hotelId": "9013221", 
-    "hotelName": "全季北京六里桥酒店", 
-    "hotelAddressShort": "西三环南路甲6号"
-  }, 
-  {
-    "hotelId": "9005418", 
-    "hotelName": "桔子北京雍和宫和平里北街地铁站酒店", 
-    "hotelAddressShort": "和平里中街17号"
-  }, 
-  {
-    "hotelId": "9000884", 
-    "hotelName": "全季北京回龙观酒店", 
-    "hotelAddressShort": "北京市昌平区回龙观镇西大街行知路77号院1号楼"
-  }, 
-  {
-    "hotelId": "9008787", 
-    "hotelName": "汉庭北京万丰路银座和谐广场酒店", 
-    "hotelAddressShort": "丰台区小井村甲690号（距离万开中心913米，解放军三〇七2.3公里，解放军第五医院2.2公里）"
-  }, 
-  {
-    "hotelId": "9001068", 
-    "hotelName": "汉庭北京南站南广场酒店", 
-    "hotelAddressShort": "丰台区马家堡东路27号（距离地铁4号线及14号线北京南站约800米即到，中国评剧艺术中心约300米，南三环洋桥500米，）"
-  }, 
-  {
-    "hotelId": "1000701", 
-    "hotelName": "汉庭北京总部基地永旺梦乐城酒店", 
-    "hotelAddressShort": "北京市丰台区丰葆路19号（永旺梦乐城正对面，顺峰后面，顺峰左右两侧进入，距世界公园700米）"
-  }, 
-  {
-    "hotelId": "9000784", 
-    "hotelName": "桔子北京亦庄荣京西街酒店", 
-    "hotelAddressShort": "北京市大兴区亦庄经济技术开发区天宝北街1号"
-  }, 
-  {
-    "hotelId": "1011992", 
-    "hotelName": "桔子北京通州环球运河商务区酒店", 
-    "hotelAddressShort": "北京市通州区车站路8号"
-  }, 
-  {
-    "hotelId": "9015478", 
-    "hotelName": "汉庭北京上地中心酒店", 
-    "hotelAddressShort": "海淀区上地信息路19号2层北侧（近颐和园、圆明园、中关村软件园）"
-  }, 
-  {
-    "hotelId": "1000719", 
-    "hotelName": "汉庭北京宋家庄酒店", 
-    "hotelAddressShort": "丰台区永外宋庄路11号1号楼3层（毗邻刘家窑中医院、宋家庄地铁、刘家窑地铁，临近十里河商区）"
-  }, 
-  {
-    "hotelId": "1022091", 
-    "hotelName": "汉庭北京北七家未来科技城酒店", 
-    "hotelAddressShort": "北京市昌平区北七家镇北七家工业园A座"
+    "hotelId": "9016889", 
+    "hotelName": "汉庭北京七里庄万丰路酒店", 
+    "hotelAddressShort": "丰台区万丰路300号（距离万开中心800米，解放军三0七医院995米）"
   }, 
   {
     "hotelId": "9003877", 
@@ -1365,89 +1745,9 @@
     "hotelAddressShort": "北京市朝阳区左安门外左安路东口路北C座一层至二层587号"
   }, 
   {
-    "hotelId": "9020098", 
-    "hotelName": "桔子北京大兴生物医药基地龙湖天街酒店", 
-    "hotelAddressShort": "永旺路1号院18号楼"
-  }, 
-  {
-    "hotelId": "9002112", 
-    "hotelName": "桔子水晶北京国贸商务区四惠酒店", 
-    "hotelAddressShort": "建国路37号1号楼"
-  }, 
-  {
-    "hotelId": "1000491", 
-    "hotelName": "汉庭北京石景山万达酒店", 
-    "hotelAddressShort": "石景山区鲁谷大街51号"
-  }, 
-  {
-    "hotelId": "9007621", 
-    "hotelName": "汉庭北京五棵松大成路酒店", 
-    "hotelAddressShort": "北京市丰台区大成路19号院（临近解放军301医院，地铁玉泉路站）"
-  }, 
-  {
-    "hotelId": "9016889", 
-    "hotelName": "汉庭北京七里庄万丰路酒店", 
-    "hotelAddressShort": "丰台区万丰路300号（距离万开中心800米，解放军三0七医院995米）"
-  }, 
-  {
-    "hotelId": "9001528", 
-    "hotelName": "全季北京传媒大学朝阳北路酒店", 
-    "hotelAddressShort": "北京市朝阳区朝阳北路60号"
-  }, 
-  {
-    "hotelId": "1000232", 
-    "hotelName": "全季北京大兴绿地缤纷城酒店", 
-    "hotelAddressShort": "北京市大兴区乐园路4号院1号楼"
-  }, 
-  {
-    "hotelId": "9008571", 
-    "hotelName": "全季北京大兴大悦城酒店", 
-    "hotelAddressShort": "北京市大兴区黄村镇兴丰大街185号"
-  }, 
-  {
-    "hotelId": "1000412", 
-    "hotelName": "全季北京石景山万达西店(质量整改店)", 
-    "hotelAddressShort": "北京市石景山区石景山路33号"
-  }, 
-  {
-    "hotelId": "9007200", 
-    "hotelName": "桔子水晶北京天坛酒店", 
-    "hotelAddressShort": "安乐林路10号13幢"
-  }, 
-  {
-    "hotelId": "9017628", 
-    "hotelName": "汉庭北京会议中心望京来广营酒店", 
-    "hotelAddressShort": "来广营西路18号"
-  }, 
-  {
-    "hotelId": "1001017", 
-    "hotelName": "桔子北京亚运村鸟巢酒店", 
-    "hotelAddressShort": "安慧东里19号"
-  }, 
-  {
-    "hotelId": "1000442", 
-    "hotelName": "汉庭北京西直门酒店", 
-    "hotelAddressShort": "北京市海淀区联慧路88号（临近鼓楼/北京师范大学/人民医院/积水潭医院/新街口医院/火箭军医院）"
-  }, 
-  {
-    "hotelId": "9007478", 
-    "hotelName": "汉庭北京三里屯工体酒店", 
-    "hotelAddressShort": "朝阳区吉庆里1号楼（毗邻佳汇中心、工体夜店一条街、朝阳医院、富国海底世界"
-  }, 
-  {
-    "hotelId": "9007609", 
-    "hotelName": "全季北京西站南路酒店", 
-    "hotelAddressShort": "北京市丰台区莲花池南里26号中铁国资大厦东门"
-  }, 
-  {
-    "hotelId": "9002993", 
-    "hotelName": "全季北京中关村苏州桥酒店", 
-    "hotelAddressShort": "北京市海淀区长春桥路5号7号楼"
-  }, 
-  {
-    "hotelId": "9001156", 
-    "hotelName": "汉庭优佳北京动物园展览馆酒店", 
-    "hotelAddressShort": "西城区车公庄北里55号6号楼；距阜外医院和人民医院步行约15分钟。"
+    "hotelId": "9015478", 
+    "hotelName": "汉庭北京上地中心酒店", 
+    "hotelAddressShort": "海淀区上地信息路19号2层北侧（近颐和园、圆明园、中关村软件园）"
   }, 
   {
     "hotelId": "9005555", 
@@ -1455,39 +1755,119 @@
     "hotelAddressShort": "团结湖路甲17号院1号楼（距离北京妇产医院直行450米，距离团结湖地铁站和呼家楼地铁站均1公里）"
   }, 
   {
+    "hotelId": "1000701", 
+    "hotelName": "汉庭北京总部基地永旺梦乐城酒店", 
+    "hotelAddressShort": "北京市丰台区丰葆路19号（永旺梦乐城正对面，顺峰后面，顺峰左右两侧进入，距世界公园700米）"
+  }, 
+  {
+    "hotelId": "9007621", 
+    "hotelName": "汉庭北京五棵松大成路酒店", 
+    "hotelAddressShort": "北京市丰台区大成路19号院（临近解放军301医院，地铁玉泉路站）"
+  }, 
+  {
+    "hotelId": "9013221", 
+    "hotelName": "全季北京六里桥酒店", 
+    "hotelAddressShort": "西三环南路甲6号"
+  }, 
+  {
+    "hotelId": "9012365", 
+    "hotelName": "汉庭北京西站天宁寺酒店", 
+    "hotelAddressShort": "北小马厂6号华天大厦后侧配楼（距离北京西站直线800米）"
+  }, 
+  {
+    "hotelId": "9019969", 
+    "hotelName": "汉庭北京大兴天宫院生物医药基地酒店", 
+    "hotelAddressShort": "永旺路6号院2号楼1至3层2-5、2-4、2-3、2-2、2-1"
+  }, 
+  {
+    "hotelId": "9018018", 
+    "hotelName": "海友北京东升科技园西小口地铁站酒店", 
+    "hotelAddressShort": "北京市海淀区文龙家园二里8号楼11层1单元1-2层部分"
+  }, 
+  {
+    "hotelId": "9008571", 
+    "hotelName": "全季北京大兴大悦城酒店", 
+    "hotelAddressShort": "北京市大兴区黄村镇兴丰大街185号"
+  }, 
+  {
+    "hotelId": "9009652", 
+    "hotelName": "海友北京大兴生物医药基地酒店", 
+    "hotelAddressShort": "北京市大兴区天华大街5号院绿地起航国际8号楼"
+  }, 
+  {
+    "hotelId": "9001528", 
+    "hotelName": "全季北京传媒大学朝阳北路酒店", 
+    "hotelAddressShort": "北京市朝阳区朝阳北路60号"
+  }, 
+  {
+    "hotelId": "1000491", 
+    "hotelName": "汉庭北京石景山万达酒店", 
+    "hotelAddressShort": "石景山区鲁谷大街51号"
+  }, 
+  {
+    "hotelId": "9000784", 
+    "hotelName": "桔子北京亦庄荣京西街酒店", 
+    "hotelAddressShort": "北京市大兴区亦庄经济技术开发区天宝北街1号"
+  }, 
+  {
+    "hotelId": "1022994", 
+    "hotelName": "宜必思北京昌平地铁站酒店", 
+    "hotelAddressShort": "北京市昌平区政府街11号（政府街与鼓楼南街交叉口东北角100米）昌平地铁站C出口对面100米"
+  }, 
+  {
+    "hotelId": "9017628", 
+    "hotelName": "汉庭北京会议中心望京来广营酒店", 
+    "hotelAddressShort": "来广营西路18号"
+  }, 
+  {
+    "hotelId": "9020098", 
+    "hotelName": "桔子北京大兴生物医药基地龙湖天街酒店", 
+    "hotelAddressShort": "永旺路1号院18号楼"
+  }, 
+  {
+    "hotelId": "1011992", 
+    "hotelName": "桔子北京通州环球运河商务区酒店", 
+    "hotelAddressShort": "北京市通州区车站路8号"
+  }, 
+  {
+    "hotelId": "1000412", 
+    "hotelName": "全季北京石景山万达西店(质量整改店)", 
+    "hotelAddressShort": "北京市石景山区石景山路33号"
+  }, 
+  {
     "hotelId": "9019759", 
     "hotelName": "全季北京门头沟上岸地铁站酒店", 
     "hotelAddressShort": "金沙西街17号院1号楼一层108大堂、二楼202、203、204、205、206、207、208"
   }, 
   {
-    "hotelId": "9010612", 
-    "hotelName": "汉庭北京顺义中心酒店", 
-    "hotelAddressShort": "东兴路绿港家园一区10号楼"
+    "hotelId": "9007200", 
+    "hotelName": "桔子水晶北京天坛酒店", 
+    "hotelAddressShort": "安乐林路10号13幢"
   }, 
   {
-    "hotelId": "9000009", 
-    "hotelName": "汉庭优佳北京国贸劲松地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区农光里117号"
+    "hotelId": "9007478", 
+    "hotelName": "汉庭北京三里屯工体酒店", 
+    "hotelAddressShort": "朝阳区吉庆里1号楼（毗邻佳汇中心、工体夜店一条街、朝阳医院、富国海底世界"
   }, 
   {
-    "hotelId": "1001242", 
-    "hotelName": "汉庭北京国贸四惠酒店", 
-    "hotelAddressShort": "北京市朝阳区深沟村1号院"
+    "hotelId": "9003845", 
+    "hotelName": "海友北京上地西二旗酒店", 
+    "hotelAddressShort": "北京市昌平区龙域西一路1号院3号楼（距离积水潭医院新龙泽院区500米）"
   }, 
   {
-    "hotelId": "9001027", 
-    "hotelName": "汉庭北京中关村白石桥酒店", 
-    "hotelAddressShort": "海淀区中关村南大街31号（距北京舞蹈学院步行5分钟，北京大学口腔医院8分钟）"
+    "hotelId": "1001017", 
+    "hotelName": "桔子北京亚运村鸟巢酒店", 
+    "hotelAddressShort": "安慧东里19号"
   }, 
   {
-    "hotelId": "1026006", 
-    "hotelName": "汉庭北京旧宫酒店", 
-    "hotelAddressShort": "北京市大兴区科技路16号"
+    "hotelId": "1022091", 
+    "hotelName": "汉庭北京北七家未来科技城酒店", 
+    "hotelAddressShort": "北京市昌平区北七家镇北七家工业园A座"
   }, 
   {
-    "hotelId": "8000094", 
-    "hotelName": "汉庭北京东坝机场二高速酒店", 
-    "hotelAddressShort": "北京市朝阳区朝新嘉园东里一区"
+    "hotelId": "9014255", 
+    "hotelName": "怡莱北京成寿寺酒店", 
+    "hotelAddressShort": "北京市朝阳区小红门成寿寺路185号1号楼"
   }, 
   {
     "hotelId": "8000050", 
@@ -1495,34 +1875,69 @@
     "hotelAddressShort": "北京市朝阳区八里庄北里118号"
   }, 
   {
-    "hotelId": "1001202", 
-    "hotelName": "汉庭优佳北京德胜门酒店", 
-    "hotelAddressShort": "北京市西城区六铺炕三区9号楼院3、5、6、9号楼"
-  }, 
-  {
     "hotelId": "9006853", 
     "hotelName": "桔子北京中关村清华大学酒店", 
     "hotelAddressShort": "展春园西路2号院"
   }, 
   {
-    "hotelId": "9000188", 
-    "hotelName": "桔子北京永丰航天城酒店", 
-    "hotelAddressShort": "海淀区西北旺友谊路105号（五院正门20m，近永丰基地，生命科学园，中关村软件园）"
+    "hotelId": "1000232", 
+    "hotelName": "全季北京大兴绿地缤纷城酒店", 
+    "hotelAddressShort": "北京市大兴区乐园路4号院1号楼"
   }, 
   {
-    "hotelId": "1000152", 
-    "hotelName": "汉庭北京望京798艺术区酒店", 
-    "hotelAddressShort": "北京市朝阳区酒仙桥路1号"
+    "hotelId": "9000009", 
+    "hotelName": "汉庭优佳北京国贸劲松地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区农光里117号"
   }, 
   {
-    "hotelId": "1000257", 
-    "hotelName": "汉庭北京朝阳站火车站酒店（原朝阳公园桥东店）", 
-    "hotelAddressShort": "北京市朝阳区石佛营东里甲1号"
+    "hotelId": "1000442", 
+    "hotelName": "汉庭北京西直门酒店", 
+    "hotelAddressShort": "北京市海淀区联慧路88号（临近鼓楼/北京师范大学/人民医院/积水潭医院/新街口医院/火箭军医院）"
   }, 
   {
-    "hotelId": "1000522", 
-    "hotelName": "汉庭北京陶然亭酒店", 
-    "hotelAddressShort": "北京市西城区陶然亭黑窑厂18号楼(毗邻冀北电力公司、国家信访局、友谊医院、西单购物中心）"
+    "hotelId": "9007609", 
+    "hotelName": "全季北京西站南路酒店", 
+    "hotelAddressShort": "北京市丰台区莲花池南里26号中铁国资大厦东门"
+  }, 
+  {
+    "hotelId": "9008455", 
+    "hotelName": "星程北京国贸酒店", 
+    "hotelAddressShort": "朝阳区建国路106号"
+  }, 
+  {
+    "hotelId": "8000094", 
+    "hotelName": "汉庭北京东坝机场二高速酒店", 
+    "hotelAddressShort": "北京市朝阳区朝新嘉园东里一区8号楼底商"
+  }, 
+  {
+    "hotelId": "9003148", 
+    "hotelName": "海友北京五棵松301医院酒店", 
+    "hotelAddressShort": "北京市丰台区青塔西路12号"
+  }, 
+  {
+    "hotelId": "9001156", 
+    "hotelName": "汉庭优佳北京动物园展览馆酒店", 
+    "hotelAddressShort": "西城区车公庄北里55号6号楼；距阜外医院和人民医院步行约15分钟。"
+  }, 
+  {
+    "hotelId": "1001242", 
+    "hotelName": "汉庭北京国贸四惠酒店", 
+    "hotelAddressShort": "北京市朝阳区深沟村1号院"
+  }, 
+  {
+    "hotelId": "9010612", 
+    "hotelName": "汉庭北京顺义中心酒店", 
+    "hotelAddressShort": "东兴路绿港家园一区10号楼"
+  }, 
+  {
+    "hotelId": "9001027", 
+    "hotelName": "汉庭北京中关村白石桥酒店", 
+    "hotelAddressShort": "海淀区中关村南大街31号（距北京舞蹈学院步行5分钟，北京大学口腔医院8分钟）"
+  }, 
+  {
+    "hotelId": "9002993", 
+    "hotelName": "全季北京中关村苏州桥酒店", 
+    "hotelAddressShort": "北京市海淀区长春桥路5号7号楼"
   }, 
   {
     "hotelId": "9004611", 
@@ -1530,14 +1945,119 @@
     "hotelAddressShort": "大兴区黄村镇滨河坊5号楼（交通运输学院300米，黄村中医院400米，仁和医院（大兴）600米，印刷学院1公里）"
   }, 
   {
-    "hotelId": "9014009", 
-    "hotelName": "汉庭北京回龙观东大街地铁站酒店", 
-    "hotelAddressShort": "回龙观东大街3号楼01号"
+    "hotelId": "1000152", 
+    "hotelName": "汉庭北京望京798艺术区酒店", 
+    "hotelAddressShort": "北京市朝阳区酒仙桥路1号"
   }, 
   {
-    "hotelId": "1000395", 
-    "hotelName": "汉庭北京五棵松永定路酒店", 
-    "hotelAddressShort": "海淀区金沟河路10号院（航天中心医院、航天二院北门、中科信会议中心）"
+    "hotelId": "1000771", 
+    "hotelName": "海友北京南站南广场酒店", 
+    "hotelAddressShort": "北京市丰台区洋桥北里24号楼"
+  }, 
+  {
+    "hotelId": "9012653", 
+    "hotelName": "你好北京天通苑地铁站酒店", 
+    "hotelAddressShort": "东小口镇天通西苑三区26号楼"
+  }, 
+  {
+    "hotelId": "9008210", 
+    "hotelName": "你好北京传媒大学酒店", 
+    "hotelAddressShort": "北京市朝阳区花园闸北里12号楼"
+  }, 
+  {
+    "hotelId": "1001202", 
+    "hotelName": "汉庭优佳北京德胜门酒店", 
+    "hotelAddressShort": "北京市西城区六铺炕三区9号楼院3、5、6、9号楼"
+  }, 
+  {
+    "hotelId": "9008963", 
+    "hotelName": "你好北京第二外国语学院酒店", 
+    "hotelAddressShort": "北京市定福庄路定福庄北里1号院25号"
+  }, 
+  {
+    "hotelId": "9024654", 
+    "hotelName": "海友北京雍和宫地铁站酒店", 
+    "hotelAddressShort": "和平里西街乙79号（距离雍和宫、国子监300米）提供自选早餐"
+  }, 
+  {
+    "hotelId": "9017215", 
+    "hotelName": "汉庭北京五棵松北太平路酒店", 
+    "hotelAddressShort": "海淀区北太平路18号(毗邻地铁一号线玉泉路站C口出来500米即到、距离301解放军总医院2公里）"
+  }, 
+  {
+    "hotelId": "1000114", 
+    "hotelName": "海友北京双桥酒店", 
+    "hotelAddressShort": "北京市朝阳区双柳北街1号院14号楼"
+  }, 
+  {
+    "hotelId": "9000188", 
+    "hotelName": "桔子北京永丰航天城酒店", 
+    "hotelAddressShort": "海淀区西北旺友谊路105号（五院正门20m，近永丰基地，生命科学园，中关村软件园）"
+  }, 
+  {
+    "hotelId": "9001805", 
+    "hotelName": "汉庭北京昌平沙河巩华城酒店", 
+    "hotelAddressShort": "昌平区沙河镇巩华城大街88号（京藏高速G6辅路沙河北大桥公交站前）"
+  }, 
+  {
+    "hotelId": "1000257", 
+    "hotelName": "汉庭北京朝阳站火车站酒店（原朝阳公园桥东店）", 
+    "hotelAddressShort": "北京市朝阳区石佛营东里甲1号"
+  }, 
+  {
+    "hotelId": "9007954", 
+    "hotelName": "全季北京五棵松欢乐水魔方酒店", 
+    "hotelAddressShort": "北京市丰台区小屯路9号"
+  }, 
+  {
+    "hotelId": "9014619", 
+    "hotelName": "全季北京南站北广场酒店", 
+    "hotelAddressShort": "北京市东城区永定门外街道彭庄甲58号 距地铁北京南站（4号线/14号线）800米"
+  }, 
+  {
+    "hotelId": "8916676", 
+    "hotelName": "全季北京石景山万达台湾街酒店", 
+    "hotelAddressShort": "北京市石景山区石景山路2号北京台湾街C-02区11号楼11-4-A至Z"
+  }, 
+  {
+    "hotelId": "1000522", 
+    "hotelName": "汉庭北京陶然亭酒店", 
+    "hotelAddressShort": "北京市西城区陶然亭黑窑厂18号楼(毗邻冀北电力公司、友谊医院、西单购物中心）"
+  }, 
+  {
+    "hotelId": "9022372", 
+    "hotelName": "海友北京回龙观霍营地铁站酒店", 
+    "hotelAddressShort": "昌平区科星西路106号院(霍营地铁站E西北口步行100米)"
+  }, 
+  {
+    "hotelId": "9001983", 
+    "hotelName": "汉庭北京欢乐谷垡头地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区垡头翠成馨园125号楼"
+  }, 
+  {
+    "hotelId": "9012490", 
+    "hotelName": "海友北京回龙观龙泽地铁站酒店", 
+    "hotelAddressShort": "北京市昌平区回龙观镇龙泽苑1号楼（ 近积水潭医院新龙泽院区、华北电力大学）"
+  }, 
+  {
+    "hotelId": "8000206", 
+    "hotelName": "桔子北京总部基地酒店", 
+    "hotelAddressShort": "北京市丰台区南四环西路188号总部基地17区七号楼"
+  }, 
+  {
+    "hotelId": "9008509", 
+    "hotelName": "桔子北京国贸酒店", 
+    "hotelAddressShort": "建国路南郞家园甲1号楼"
+  }, 
+  {
+    "hotelId": "9023639", 
+    "hotelName": "北京总部基地美居酒店", 
+    "hotelAddressShort": "北京市丰台区南四环西路188号十六区16号楼"
+  }, 
+  {
+    "hotelId": "9006983", 
+    "hotelName": "北京大兴黄村西大街地铁站漫心酒店", 
+    "hotelAddressShort": "北京市大兴区黄村兴华中路34号"
   }, 
   {
     "hotelId": "1000097", 
@@ -1550,44 +2070,9 @@
     "hotelAddressShort": "北京市朝阳区王四营乡官悦欣园B区2号楼"
   }, 
   {
-    "hotelId": "9012672", 
-    "hotelName": "汉庭北京门头沟小园地铁站酒店", 
-    "hotelAddressShort": "紫金路5号院1号楼"
-  }, 
-  {
-    "hotelId": "9000471", 
-    "hotelName": "汉庭北京四海桥酒店", 
-    "hotelAddressShort": "北京市海淀区北四环西路89号37楼"
-  }, 
-  {
-    "hotelId": "8000206", 
-    "hotelName": "桔子北京总部基地酒店", 
-    "hotelAddressShort": "北京市丰台区南四环西路188号总部基地17区七号楼"
-  }, 
-  {
-    "hotelId": "8916676", 
-    "hotelName": "全季北京石景山万达台湾街酒店", 
-    "hotelAddressShort": "北京市石景山区石景山路2号北京台湾街C-02区11号楼11-4-A至Z"
-  }, 
-  {
-    "hotelId": "1000254", 
-    "hotelName": "汉庭北京朝阳大悦城酒店", 
-    "hotelAddressShort": "北京市朝阳区朝阳北路十里堡北里甲34号（十里堡地铁站B口出向东步行300米）"
-  }, 
-  {
-    "hotelId": "9006677", 
-    "hotelName": "桔子北京丽泽商务区天坛医院酒店", 
-    "hotelAddressShort": "夏家胡同128号"
-  }, 
-  {
-    "hotelId": "1000299", 
-    "hotelName": "汉庭北京欢乐谷王四营桥酒店", 
-    "hotelAddressShort": "朝阳区王四营乡观音堂文化大道东街C115 室（王四营桥北50米东侧）"
-  }, 
-  {
-    "hotelId": "9001983", 
-    "hotelName": "汉庭北京欢乐谷垡头地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区垡头翠成馨园125号楼"
+    "hotelId": "1000552", 
+    "hotelName": "汉庭北京西站酒店", 
+    "hotelAddressShort": "丰台区莲花池东路126号A座（临近北京西站北广场、六里桥、中华世纪坛，中央电视塔，军事博物馆等）"
   }, 
   {
     "hotelId": "1000551", 
@@ -1595,19 +2080,19 @@
     "hotelAddressShort": "丰台区莲花池东路120-2号（毗邻北京西站、莲花池公园、世纪坛医院）"
   }, 
   {
-    "hotelId": "9016379", 
-    "hotelName": "汉庭北京燕莎使馆区麦子店街酒店", 
-    "hotelAddressShort": "枣营北里34号楼3、4层"
+    "hotelId": "9001369", 
+    "hotelName": "海友北京西站北广场酒店", 
+    "hotelAddressShort": "北京市海淀区羊坊店路甲8号"
   }, 
   {
-    "hotelId": "9007954", 
-    "hotelName": "全季北京五棵松欢乐水魔方酒店", 
-    "hotelAddressShort": "北京市丰台区小屯路9号"
+    "hotelId": "9014009", 
+    "hotelName": "汉庭北京回龙观东大街地铁站酒店", 
+    "hotelAddressShort": "回龙观东大街3号楼01号"
   }, 
   {
-    "hotelId": "9008509", 
-    "hotelName": "桔子北京国贸酒店", 
-    "hotelAddressShort": "建国路南郞家园甲1号楼"
+    "hotelId": "1000254", 
+    "hotelName": "汉庭北京朝阳大悦城酒店", 
+    "hotelAddressShort": "北京市朝阳区朝阳北路十里堡北里甲34号（十里堡地铁站B口出向东步行300米）"
   }, 
   {
     "hotelId": "9003236", 
@@ -1615,44 +2100,9 @@
     "hotelAddressShort": "北京市丰台区赵公口甲13号2号楼"
   }, 
   {
-    "hotelId": "1000353", 
-    "hotelName": "桔子北京官园桥酒店", 
-    "hotelAddressShort": "北京市西城区育幼胡同22号"
-  }, 
-  {
-    "hotelId": "9010646", 
-    "hotelName": "汉庭北京南站北广场酒店", 
-    "hotelAddressShort": "丰台区北京南站北广场F1楼1001室"
-  }, 
-  {
-    "hotelId": "9017215", 
-    "hotelName": "汉庭北京五棵松北太平路酒店", 
-    "hotelAddressShort": "海淀区北太平路18号(毗邻地铁一号线玉泉路站C口出来500米即到、距离301解放军总医院2公里）"
-  }, 
-  {
-    "hotelId": "9013104", 
-    "hotelName": "全季北京中关村人民大学酒店", 
-    "hotelAddressShort": "北三环西路三义庙新华服装厂大华衬衫厂宿舍9号楼，7号楼"
-  }, 
-  {
-    "hotelId": "9010117", 
-    "hotelName": "全季北京五棵松万寿路酒店", 
-    "hotelAddressShort": "北京市海淀区太平路乙23号"
-  }, 
-  {
-    "hotelId": "9003153", 
-    "hotelName": "全季北京十里河地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区左安门外左安路东口路北C座一层186号"
-  }, 
-  {
-    "hotelId": "1000286", 
-    "hotelName": "全季北京国展三元桥酒店", 
-    "hotelAddressShort": "北京市朝阳区尚家楼路2号"
-  }, 
-  {
-    "hotelId": "1000716", 
-    "hotelName": "全季北京丰台站丰管路店（原丽泽商务区店）", 
-    "hotelAddressShort": "北京市丰台区丰管路16号-12号楼"
+    "hotelId": "1012001", 
+    "hotelName": "汉庭北京平谷世纪广场酒店", 
+    "hotelAddressShort": "北京市平谷区新平北路57号"
   }, 
   {
     "hotelId": "9023081", 
@@ -1660,24 +2110,9 @@
     "hotelAddressShort": "北京市朝阳区朝阳路38号院万东科技文创园3号楼"
   }, 
   {
-    "hotelId": "9002497", 
-    "hotelName": "桔子北京通州宋庄艺术区酒店", 
-    "hotelAddressShort": "北京市通州区宋庄镇168号"
-  }, 
-  {
-    "hotelId": "9012022", 
-    "hotelName": "汉庭北京志新路科技大学酒店", 
-    "hotelAddressShort": "志新路乙16号"
-  }, 
-  {
-    "hotelId": "1012001", 
-    "hotelName": "汉庭北京平谷世纪广场酒店", 
-    "hotelAddressShort": "北京市平谷区新平北路57号"
-  }, 
-  {
-    "hotelId": "1026008", 
-    "hotelName": "汉庭北京黄村枣园地铁站酒店", 
-    "hotelAddressShort": "大兴区黄村镇枣园路4-25号（枣园地铁站B口向东200米）"
+    "hotelId": "1001018", 
+    "hotelName": "汉庭优佳北京亚运村鸟巢酒店", 
+    "hotelAddressShort": "朝阳区北苑路88号（距离国家会议中心、鸟巢、水立方2.5公里）"
   }, 
   {
     "hotelId": "1000534", 
@@ -1685,24 +2120,79 @@
     "hotelAddressShort": "西城区广义街甲10号（距离广安门中医院，北京宣武医院，儿童医院，800米，地铁7号线步行100米，临近牛街，长椿街，菜百百货）"
   }, 
   {
-    "hotelId": "9003592", 
-    "hotelName": "全季北京大兴生物医药基地地铁站酒店", 
-    "hotelAddressShort": "北京市大兴区新源大街金科天籁城15号楼"
+    "hotelId": "1000395", 
+    "hotelName": "汉庭北京五棵松永定路酒店", 
+    "hotelAddressShort": "海淀区金沟河路10号院（航天中心医院、航天二院北门、中科信会议中心）"
   }, 
   {
-    "hotelId": "1022005", 
-    "hotelName": "桔子北京昌平西关酒店", 
-    "hotelAddressShort": "城角西路1-5号"
+    "hotelId": "9012672", 
+    "hotelName": "汉庭北京门头沟小园地铁站酒店", 
+    "hotelAddressShort": "紫金路5号院1号楼"
   }, 
   {
-    "hotelId": "1000552", 
-    "hotelName": "汉庭北京西站酒店", 
-    "hotelAddressShort": "丰台区莲花池东路126号A座（临近北京西站北广场、六里桥、中华世纪坛，中央电视塔，军事博物馆等）"
+    "hotelId": "1026008", 
+    "hotelName": "汉庭北京黄村枣园地铁站酒店", 
+    "hotelAddressShort": "大兴区黄村镇枣园路4-25号（枣园地铁站B口向东200米）"
   }, 
   {
-    "hotelId": "1001224", 
-    "hotelName": "桔子北京十里河酒店", 
-    "hotelAddressShort": "北京市朝阳区西大望南路周庄嘉园南里1号楼"
+    "hotelId": "9010117", 
+    "hotelName": "全季北京五棵松万寿路酒店", 
+    "hotelAddressShort": "北京市海淀区太平路乙23号"
+  }, 
+  {
+    "hotelId": "9012022", 
+    "hotelName": "汉庭北京志新路科技大学酒店", 
+    "hotelAddressShort": "志新路乙16号"
+  }, 
+  {
+    "hotelId": "1000299", 
+    "hotelName": "汉庭北京欢乐谷王四营桥酒店", 
+    "hotelAddressShort": "朝阳区王四营乡观音堂文化大道东街C115 室（王四营桥北50米东侧）"
+  }, 
+  {
+    "hotelId": "9016379", 
+    "hotelName": "汉庭北京燕莎使馆区麦子店街酒店", 
+    "hotelAddressShort": "枣营北里34号楼3、4层"
+  }, 
+  {
+    "hotelId": "9000471", 
+    "hotelName": "汉庭北京四海桥酒店", 
+    "hotelAddressShort": "北京市海淀区北四环西路89号37楼"
+  }, 
+  {
+    "hotelId": "8000106", 
+    "hotelName": "宜必思北京三里屯东大桥酒店", 
+    "hotelAddressShort": "北京市朝阳区中纺街30号"
+  }, 
+  {
+    "hotelId": "1001231", 
+    "hotelName": "宜必思北京朝阳大悦城酒店", 
+    "hotelAddressShort": "北京市朝阳区黄杉木店路9号"
+  }, 
+  {
+    "hotelId": "9006677", 
+    "hotelName": "桔子北京丽泽商务区天坛医院酒店", 
+    "hotelAddressShort": "夏家胡同128号"
+  }, 
+  {
+    "hotelId": "9010646", 
+    "hotelName": "汉庭北京南站北广场酒店", 
+    "hotelAddressShort": "丰台区北京南站北广场F1楼1001室"
+  }, 
+  {
+    "hotelId": "9020339", 
+    "hotelName": "你好北京园博园杜家坎酒店", 
+    "hotelAddressShort": "北京市丰台区杜家坎南路24号（陆军装甲兵学院、园博园、卢沟桥、北宫森林公园、房车世界）"
+  }, 
+  {
+    "hotelId": "1001221", 
+    "hotelName": "海友北京十里河酒店", 
+    "hotelAddressShort": "北京市十里河家具大道8号佰汇广场A座4层"
+  }, 
+  {
+    "hotelId": "1000854", 
+    "hotelName": "海友北京上地安宁庄酒店", 
+    "hotelAddressShort": "北京市海淀区安宁庄东路18号院-3号楼"
   }, 
   {
     "hotelId": "9004352", 
@@ -1710,64 +2200,14 @@
     "hotelAddressShort": "怀柔区南小街13号"
   }, 
   {
-    "hotelId": "9011485", 
-    "hotelName": "汉庭北京西站六里桥东地铁站酒店", 
-    "hotelAddressShort": "北京市丰台区太平桥街道水口子村51号院（距北京西站1km、六里桥东地铁E口直行100m、电力医院对面）"
+    "hotelId": "1000286", 
+    "hotelName": "全季北京国展三元桥酒店", 
+    "hotelAddressShort": "北京市朝阳区尚家楼路2号"
   }, 
   {
-    "hotelId": "9001175", 
-    "hotelName": "桔子北京奥体会议中心酒店（原北京亚运村水立方酒店）", 
-    "hotelAddressShort": "北苑路200号（近地铁5号线惠新西街北口站A口，奥体中心环宇荟）"
-  }, 
-  {
-    "hotelId": "1001018", 
-    "hotelName": "汉庭优佳北京亚运村鸟巢酒店", 
-    "hotelAddressShort": "朝阳区北苑路88号（距离国家会议中心、鸟巢、水立方2.5公里）"
-  }, 
-  {
-    "hotelId": "1011111", 
-    "hotelName": "汉庭北京亦庄北神树地铁站酒店", 
-    "hotelAddressShort": "北京市通州区次渠嘉创路10号"
-  }, 
-  {
-    "hotelId": "9010897", 
-    "hotelName": "汉庭北京回龙观酒店", 
-    "hotelAddressShort": "回龙观镇行知路77号院1号楼"
-  }, 
-  {
-    "hotelId": "9001926", 
-    "hotelName": "汉庭优佳北京草桥地铁站酒店", 
-    "hotelAddressShort": "北京市丰台区草桥欣园一区5号楼(距草桥地铁站600米，近大兴机场线)"
-  }, 
-  {
-    "hotelId": "9008871", 
-    "hotelName": "全季北京通州环球运河商务区酒店", 
-    "hotelAddressShort": "北京市通州区通胡大街25号"
-  }, 
-  {
-    "hotelId": "9008591", 
-    "hotelName": "汉庭北京总部基地世界公园店", 
-    "hotelAddressShort": "大兴区优龙路明春东路25号院1栋1-3层"
-  }, 
-  {
-    "hotelId": "9003396", 
-    "hotelName": "汉庭优佳北京丰台火车站北广场酒店", 
-    "hotelAddressShort": "丰台区西国贸恒福北街汉庭优佳（距离地铁10号线泥洼站步行700米）"
-  }, 
-  {
-    "hotelId": "9000321", 
-    "hotelName": "汉庭优佳北京望京酒店", 
-    "hotelAddressShort": "北京市朝阳区望京广泽路6号院13号楼商业三层"
-  }, 
-  {
-    "hotelId": "9016611", 
-    "hotelName": "全季北京亦庄开发区万源街地铁站酒店", 
-    "hotelAddressShort": " 文化园东路6号院3号楼南侧"
-  }, 
-  {
-    "hotelId": "1000201", 
-    "hotelName": "汉庭优佳北京工体酒店", 
-    "hotelAddressShort": "朝阳门朝阳外大街吉祥里206号"
+    "hotelId": "1000353", 
+    "hotelName": "桔子北京官园桥酒店", 
+    "hotelAddressShort": "北京市西城区育幼胡同22号"
   }, 
   {
     "hotelId": "9000547", 
@@ -1775,29 +2215,79 @@
     "hotelAddressShort": "海淀区永丰科技园丰智东路5号（距用友产业园899m，近航天城步行15分钟）"
   }, 
   {
-    "hotelId": "8916575", 
-    "hotelName": "全季北京南站公益西桥酒店", 
-    "hotelAddressShort": "北京市丰台区城南嘉园益城园甲8号楼"
+    "hotelId": "1000056", 
+    "hotelName": "海友良品北京东四地铁站酒店", 
+    "hotelAddressShort": "北京市东城区东四南大街33号"
   }, 
   {
-    "hotelId": "9003710", 
-    "hotelName": "桔子北京会议中心酒店", 
-    "hotelAddressShort": "北京市朝阳区北苑中街11号"
+    "hotelId": "1022005", 
+    "hotelName": "桔子北京昌平西关酒店", 
+    "hotelAddressShort": "城角西路1-5号"
   }, 
   {
-    "hotelId": "9014821", 
-    "hotelName": "汉庭北京五棵松玉泉路酒店", 
-    "hotelAddressShort": "丰台区小屯路4号院(临近解放军301总医院和武警医院，地铁玉泉路站)"
+    "hotelId": "9022165", 
+    "hotelName": "海友北京西三旗育新地铁站酒店", 
+    "hotelAddressShort": "北京市昌平区建材城西路9号（金燕龙办公楼右侧）"
   }, 
   {
-    "hotelId": "9000472", 
-    "hotelName": "汉庭优佳北京花园桥酒店", 
-    "hotelAddressShort": "海淀区北洼路26号北洼东街(首都师范大学北校区西侧）距304医院2km;距空军总医院1.8km"
+    "hotelId": "9003153", 
+    "hotelName": "全季北京十里河地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区左安门外左安路东口路北C座一层186号"
   }, 
   {
-    "hotelId": "8915415", 
-    "hotelName": "桔子北京亦庄经济开发区酒店", 
-    "hotelAddressShort": "北京市通州区科创五街9号东创大厦"
+    "hotelId": "1001224", 
+    "hotelName": "桔子北京十里河酒店", 
+    "hotelAddressShort": "北京市朝阳区西大望南路周庄嘉园南里1号楼"
+  }, 
+  {
+    "hotelId": "9001926", 
+    "hotelName": "汉庭优佳北京草桥地铁站酒店", 
+    "hotelAddressShort": "北京市丰台区草桥欣园一区5号楼(距草桥地铁站600米，近大兴机场线)"
+  }, 
+  {
+    "hotelId": "9012435", 
+    "hotelName": "海友北京大兴黄村火车站地铁站酒店", 
+    "hotelAddressShort": "黄村镇林校北路22号（距大兴一中800米。旅游管理干部学院300米。北京印刷学院1公里。交通学院2.5公里）"
+  }, 
+  {
+    "hotelId": "9008871", 
+    "hotelName": "全季北京通州环球运河商务区酒店", 
+    "hotelAddressShort": "北京市通州区通胡大街25号"
+  }, 
+  {
+    "hotelId": "1000716", 
+    "hotelName": "全季北京丰台站丰管路店（原丽泽商务区店）", 
+    "hotelAddressShort": "北京市丰台区丰管路16号-12号楼"
+  }, 
+  {
+    "hotelId": "9002497", 
+    "hotelName": "桔子北京通州宋庄艺术区酒店", 
+    "hotelAddressShort": "北京市通州区宋庄镇168号"
+  }, 
+  {
+    "hotelId": "1011111", 
+    "hotelName": "汉庭北京亦庄北神树地铁站酒店", 
+    "hotelAddressShort": "北京市通州区次渠嘉创路10号"
+  }, 
+  {
+    "hotelId": "9008591", 
+    "hotelName": "汉庭北京总部基地世界公园店", 
+    "hotelAddressShort": "大兴区优龙路明春东路25号院1栋1-3层"
+  }, 
+  {
+    "hotelId": "9010897", 
+    "hotelName": "汉庭北京回龙观酒店", 
+    "hotelAddressShort": "回龙观镇行知路77号院1号楼"
+  }, 
+  {
+    "hotelId": "9013104", 
+    "hotelName": "全季北京中关村人民大学酒店", 
+    "hotelAddressShort": "北三环西路三义庙新华服装厂大华衬衫厂宿舍9号楼，7号楼"
+  }, 
+  {
+    "hotelId": "1022001", 
+    "hotelName": "海友北京昌平府学路酒店", 
+    "hotelAddressShort": "北京昌平区府学路33号（近政法大学、石油大学，自驾昌赤路6公里）"
   }, 
   {
     "hotelId": "9003452", 
@@ -1805,39 +2295,24 @@
     "hotelAddressShort": "北京市海淀区北洼西里甲22号院1号楼"
   }, 
   {
-    "hotelId": "9011834", 
-    "hotelName": "桔子北京石景山古城地铁站酒店", 
-    "hotelAddressShort": "北京市石景山区古城南里45号（距离地铁1号线100米）"
+    "hotelId": "9001175", 
+    "hotelName": "桔子北京奥体会议中心酒店（原北京亚运村水立方酒店）", 
+    "hotelAddressShort": "北苑路200号（近地铁5号线惠新西街北口站A口，奥体中心环宇荟）"
   }, 
   {
-    "hotelId": "1000857", 
-    "hotelName": "全季北京上地安宁庄酒店", 
-    "hotelAddressShort": "北京市海淀区小营安宁庄后街北1号1号楼"
+    "hotelId": "1000782", 
+    "hotelName": "海友北京方庄地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区左安门外饮马井45号"
   }, 
   {
-    "hotelId": "9001017", 
-    "hotelName": "桔子北京通州环球度假区酒店", 
-    "hotelAddressShort": "北京市通州区九棵树西路174号"
+    "hotelId": "9003592", 
+    "hotelName": "全季北京大兴生物医药基地地铁站酒店", 
+    "hotelAddressShort": "北京市大兴区新源大街金科天籁城15号楼"
   }, 
   {
-    "hotelId": "9006643", 
-    "hotelName": "汉庭北京五棵松万寿路酒店", 
-    "hotelAddressShort": "北京市海淀区翠微南里6号楼西侧"
-  }, 
-  {
-    "hotelId": "1000612", 
-    "hotelName": "全季北京天坛酒店", 
-    "hotelAddressShort": "北京市东城区东四块玉南街11号"
-  }, 
-  {
-    "hotelId": "9022647", 
-    "hotelName": "全季北京亦庄创意生活广场北环东路酒店", 
-    "hotelAddressShort": "北京市北京经济技术开发区文化园东路6号院3号楼北侧"
-  }, 
-  {
-    "hotelId": "9006626", 
-    "hotelName": "全季北京昌平西关环岛酒店", 
-    "hotelAddressShort": "北京市昌平区政府街西路8号"
+    "hotelId": "9001147", 
+    "hotelName": "星程北京上地酒店", 
+    "hotelAddressShort": "信息路与上地七街环岛交叉口西北角"
   }, 
   {
     "hotelId": "9009501", 
@@ -1845,9 +2320,64 @@
     "hotelAddressShort": "北京市海淀区吴家场路45号"
   }, 
   {
-    "hotelId": "9015726", 
-    "hotelName": "汉庭北京石景山大悦城酒店", 
-    "hotelAddressShort": "石景山区杨庄路70号"
+    "hotelId": "8916575", 
+    "hotelName": "全季北京南站公益西桥酒店", 
+    "hotelAddressShort": "北京市丰台区城南嘉园益城园甲8号楼"
+  }, 
+  {
+    "hotelId": "1000857", 
+    "hotelName": "全季北京上地安宁庄酒店", 
+    "hotelAddressShort": "北京市海淀区小营安宁庄后街北1号1号楼"
+  }, 
+  {
+    "hotelId": "8915415", 
+    "hotelName": "桔子北京亦庄经济开发区酒店", 
+    "hotelAddressShort": "北京市通州区科创五街9号东创大厦"
+  }, 
+  {
+    "hotelId": "9009918", 
+    "hotelName": "北京通州环球度假区美仑国际酒店", 
+    "hotelAddressShort": "梨园镇云景东路347号C座"
+  }, 
+  {
+    "hotelId": "9013701", 
+    "hotelName": "海友北京站前广场酒店", 
+    "hotelAddressShort": "北京市东城区老钱局胡同14号"
+  }, 
+  {
+    "hotelId": "9009388", 
+    "hotelName": "星程北京雍和宫和平里北街地铁站店", 
+    "hotelAddressShort": "和平里北街地铁站A2出口化工社区南门直走25号楼（在社区大院内）"
+  }, 
+  {
+    "hotelId": "9011485", 
+    "hotelName": "汉庭北京西站六里桥东地铁站酒店", 
+    "hotelAddressShort": "北京市丰台区太平桥街道水口子村51号院（距北京西站1km、六里桥东地铁E口直行100m、电力医院对面）"
+  }, 
+  {
+    "hotelId": "9006718", 
+    "hotelName": "海友北京管庄传媒大学酒店", 
+    "hotelAddressShort": "管庄西里65号"
+  }, 
+  {
+    "hotelId": "9003710", 
+    "hotelName": "桔子北京会议中心酒店", 
+    "hotelAddressShort": "北京市朝阳区北苑中街11号"
+  }, 
+  {
+    "hotelId": "9016611", 
+    "hotelName": "全季北京亦庄开发区万源街地铁站酒店", 
+    "hotelAddressShort": " 文化园东路6号院3号楼南侧"
+  }, 
+  {
+    "hotelId": "9000321", 
+    "hotelName": "汉庭优佳北京望京酒店", 
+    "hotelAddressShort": "北京市朝阳区望京广泽路6号院13号楼商业三层"
+  }, 
+  {
+    "hotelId": "9013704", 
+    "hotelName": "海友北京大兴枣园地铁站酒店", 
+    "hotelAddressShort": "北京市大兴区黄村镇兴华路206号正光天和商业广场4层4009"
   }, 
   {
     "hotelId": "8000260", 
@@ -1855,14 +2385,14 @@
     "hotelAddressShort": "北京市朝阳区西大望路27号"
   }, 
   {
-    "hotelId": "9006577", 
-    "hotelName": "汉庭北京清河永泰庄地铁站酒店", 
-    "hotelAddressShort": "海淀区清河永泰庄西路6号楼"
+    "hotelId": "9012495", 
+    "hotelName": "星程北京朝阳门雅宝路酒店", 
+    "hotelAddressShort": "北京市朝阳区雅宝路6号1号楼一层1004室、三层至六层"
   }, 
   {
-    "hotelId": "9004802", 
-    "hotelName": "桔子北京金融街月坛酒店", 
-    "hotelAddressShort": "北京市西城区月坛南街71号1幢1层、3层至6层"
+    "hotelId": "9011834", 
+    "hotelName": "桔子北京石景山古城地铁站酒店", 
+    "hotelAddressShort": "北京市石景山区古城南里45号（距离地铁1号线100米）"
   }, 
   {
     "hotelId": "8000569", 
@@ -1870,14 +2400,84 @@
     "hotelAddressShort": "北京市海淀区永定路68号"
   }, 
   {
-    "hotelId": "9002886", 
-    "hotelName": "全季北京中关村苏州街酒店", 
-    "hotelAddressShort": "北京市海淀区苏州街18号院3号楼"
+    "hotelId": "9015144", 
+    "hotelName": "星程北京酒仙桥朝阳站酒店", 
+    "hotelAddressShort": "朝阳区东风南路9号院2栋"
   }, 
   {
-    "hotelId": "1000402", 
-    "hotelName": "汉庭北京石景山万达台湾街酒店", 
-    "hotelAddressShort": "石景山路2号北京台湾街"
+    "hotelId": "1000896", 
+    "hotelName": "海友北京中关村五道口酒店", 
+    "hotelAddressShort": "北京市海淀区展春园西路1号"
+  }, 
+  {
+    "hotelId": "9000472", 
+    "hotelName": "汉庭优佳北京花园桥酒店", 
+    "hotelAddressShort": "海淀区北洼路26号北洼东街(首都师范大学北校区西侧）距304医院2km;距空军总医院1.8km"
+  }, 
+  {
+    "hotelId": "9006643", 
+    "hotelName": "汉庭北京五棵松万寿路酒店", 
+    "hotelAddressShort": "北京市海淀区翠微南里6号楼西侧"
+  }, 
+  {
+    "hotelId": "9006626", 
+    "hotelName": "全季北京昌平西关环岛酒店", 
+    "hotelAddressShort": "北京市昌平区政府街西路8号"
+  }, 
+  {
+    "hotelId": "9001017", 
+    "hotelName": "桔子北京通州环球度假区酒店", 
+    "hotelAddressShort": "北京市通州区九棵树西路174号"
+  }, 
+  {
+    "hotelId": "9014821", 
+    "hotelName": "汉庭北京五棵松玉泉路酒店", 
+    "hotelAddressShort": "丰台区小屯路4号院(临近解放军301总医院和武警医院，地铁玉泉路站)"
+  }, 
+  {
+    "hotelId": "1000244", 
+    "hotelName": "宜必思北京长楹天街酒店", 
+    "hotelAddressShort": "北京市朝阳区常营中路与管庄路交叉口"
+  }, 
+  {
+    "hotelId": "9015726", 
+    "hotelName": "汉庭北京石景山大悦城酒店", 
+    "hotelAddressShort": "石景山区杨庄路70号"
+  }, 
+  {
+    "hotelId": "9006577", 
+    "hotelName": "汉庭北京清河永泰庄地铁站酒店", 
+    "hotelAddressShort": "海淀区清河永泰庄西路6号楼"
+  }, 
+  {
+    "hotelId": "1000612", 
+    "hotelName": "全季北京天坛酒店", 
+    "hotelAddressShort": "北京市东城区东四块玉南街11号"
+  }, 
+  {
+    "hotelId": "9016253", 
+    "hotelName": "海友北京望京SOHO新荟城酒店", 
+    "hotelAddressShort": "朝阳区望京东园1区120号楼新荟城购物中心6层"
+  }, 
+  {
+    "hotelId": "1026009", 
+    "hotelName": "海友北京大兴龙湖天街生物基地地铁站酒店", 
+    "hotelAddressShort": "北京市大兴区永大路1号院8号楼(坐落龙湖天街商圈，距北京邮政学校100米，绿地起航600米。）"
+  }, 
+  {
+    "hotelId": "9004286", 
+    "hotelName": "星程北京南站大红门南苑路酒店", 
+    "hotelAddressShort": "大红门南路158号"
+  }, 
+  {
+    "hotelId": "1001412", 
+    "hotelName": "海友北京五棵松青塔西路酒店", 
+    "hotelAddressShort": "丰台区大成南里二区3号楼二层"
+  }, 
+  {
+    "hotelId": "1000293", 
+    "hotelName": "星程北京芍药居酒店", 
+    "hotelAddressShort": "文学馆路芍药居甲31号院内"
   }, 
   {
     "hotelId": "1000383", 
@@ -1885,44 +2485,29 @@
     "hotelAddressShort": "海淀区羊坊店路21号（紧邻北京西站、世纪坛医院，中华世纪坛、中央电视塔"
   }, 
   {
-    "hotelId": "1000251", 
-    "hotelName": "汉庭北京华贸远洋中心酒店", 
-    "hotelAddressShort": "北京市朝阳区延静里中街3号院11号楼"
+    "hotelId": "9022647", 
+    "hotelName": "全季北京亦庄创意生活广场北环东路酒店", 
+    "hotelAddressShort": "北京市北京经济技术开发区文化园东路6号院3号楼北侧"
   }, 
   {
-    "hotelId": "9004153", 
-    "hotelName": "全季北京五棵松京荟广场酒店", 
-    "hotelAddressShort": "北京丰台区小屯路89号"
+    "hotelId": "1000201", 
+    "hotelName": "汉庭优佳北京工体酒店", 
+    "hotelAddressShort": "朝阳门朝阳外大街吉祥里206号"
   }, 
   {
-    "hotelId": "9004273", 
-    "hotelName": "桔子北京上地安宁庄酒店", 
-    "hotelAddressShort": "北京市海淀区安宁庄东路安宁华庭一区2号楼（近小米产业园与清河火车站步行可至，近上地创新区与中关村软件园）"
+    "hotelId": "9011186", 
+    "hotelName": "星程北京回龙观酒店", 
+    "hotelAddressShort": "回南北路9号院28号楼（回南路与行知路交叉口向西行100米，距离北京积水潭医院700米）"
   }, 
   {
-    "hotelId": "8916212", 
-    "hotelName": "全季北京南站木樨园酒店", 
-    "hotelAddressShort": "北京市丰台区西罗园南里甲45号院-1号楼"
+    "hotelId": "9004802", 
+    "hotelName": "桔子北京金融街月坛酒店", 
+    "hotelAddressShort": "北京市西城区月坛南街71号1幢1层、3层至6层"
   }, 
   {
-    "hotelId": "9003907", 
-    "hotelName": "桔子北京园博园杜家坎酒店", 
-    "hotelAddressShort": "北京市丰台区杜家坎南路9号"
-  }, 
-  {
-    "hotelId": "9009055", 
-    "hotelName": "桔子北京中关村学院桥酒店", 
-    "hotelAddressShort": "学院路29号2区92号楼"
-  }, 
-  {
-    "hotelId": "9019890", 
-    "hotelName": "全季北京北清路永丰产业园酒店", 
-    "hotelAddressShort": "北京市海淀区丰润东路6号（地处永丰基地内，航天城北侧；近中关村壹号，生命科学园）"
-  }, 
-  {
-    "hotelId": "1000397", 
-    "hotelName": "全季北京五棵松酒店", 
-    "hotelAddressShort": "北京市丰台区大成路3号"
+    "hotelId": "1000402", 
+    "hotelName": "汉庭北京石景山万达台湾街酒店", 
+    "hotelAddressShort": "石景山路2号北京台湾街"
   }, 
   {
     "hotelId": "1024884", 
@@ -1930,39 +2515,19 @@
     "hotelAddressShort": "房山区良乡西路11号邮政院内（ 良乡医院 妇幼保健院  龙湖天街 京港澳高速 广播电视台 中大瑞祥 中医医院 ）"
   }, 
   {
-    "hotelId": "1026291", 
-    "hotelName": "全季北京大兴生物医药基地酒店", 
-    "hotelAddressShort": "北京市大兴区庆祥北路3号院2号楼"
+    "hotelId": "9014599", 
+    "hotelName": "海友北京西直门交通大学酒店", 
+    "hotelAddressShort": "北京市海淀区高梁桥斜街59号"
   }, 
   {
-    "hotelId": "9011506", 
-    "hotelName": "桔子北京五棵松大成路酒店", 
-    "hotelAddressShort": "丰台区大成路21号（临近解放军301医院、京荟广场、水魔方、凯迪拉克中心）"
+    "hotelId": "9003396", 
+    "hotelName": "汉庭优佳北京丰台火车站北广场酒店", 
+    "hotelAddressShort": "丰台区西国贸恒福北街汉庭优佳（距离地铁10号线泥洼站步行700米）"
   }, 
   {
-    "hotelId": "9010142", 
-    "hotelName": "汉庭北京西三旗东升科技园酒店", 
-    "hotelAddressShort": "永泰东路8号 宝盛里37号楼"
-  }, 
-  {
-    "hotelId": "1000981", 
-    "hotelName": "全季北京中关村联想桥酒店", 
-    "hotelAddressShort": "北京市海淀区四道口1号53号楼3-6层"
-  }, 
-  {
-    "hotelId": "9014086", 
-    "hotelName": "汉庭北京望京万科时代中心酒店", 
-    "hotelAddressShort": "朝阳区望京街9号望京国际商业中心E座4层"
-  }, 
-  {
-    "hotelId": "9016387", 
-    "hotelName": "汉庭北京园博园杜家坎酒店", 
-    "hotelAddressShort": "丰台区杜家坎南路33号（卢沟桥、北宫森林公园、房车世界、陆军装甲兵学院。）"
-  }, 
-  {
-    "hotelId": "1000133", 
-    "hotelName": "汉庭北京柳芳地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区东土城路12号"
+    "hotelId": "9009055", 
+    "hotelName": "桔子北京中关村学院桥酒店", 
+    "hotelAddressShort": "学院路29号2区92号楼"
   }, 
   {
     "hotelId": "1024883", 
@@ -1970,9 +2535,104 @@
     "hotelAddressShort": "房山区荷园东街1号院（北京中医药大学 经贸大学 工商大学 理工大学 良乡医院）"
   }, 
   {
+    "hotelId": "8916212", 
+    "hotelName": "全季北京南站木樨园酒店", 
+    "hotelAddressShort": "北京市丰台区西罗园南里甲45号院-1号楼"
+  }, 
+  {
+    "hotelId": "1000397", 
+    "hotelName": "全季北京五棵松酒店", 
+    "hotelAddressShort": "北京市丰台区大成路3号"
+  }, 
+  {
+    "hotelId": "9014070", 
+    "hotelName": "北京亚运村鸟巢美仑酒店", 
+    "hotelAddressShort": "惠新东街4号（国药集团广场5层）"
+  }, 
+  {
+    "hotelId": "9004153", 
+    "hotelName": "全季北京五棵松京荟广场酒店", 
+    "hotelAddressShort": "北京丰台区小屯路89号"
+  }, 
+  {
+    "hotelId": "1000251", 
+    "hotelName": "汉庭北京华贸远洋中心酒店", 
+    "hotelAddressShort": "北京市朝阳区延静里中街3号院11号楼"
+  }, 
+  {
+    "hotelId": "1000757", 
+    "hotelName": "海友北京赵公口酒店", 
+    "hotelAddressShort": "北京市丰台区定安东路12号"
+  }, 
+  {
+    "hotelId": "1000833", 
+    "hotelName": "汉庭优佳北京五道口清华东门酒店", 
+    "hotelAddressShort": "海淀区王庄路27号城建四公司院内（距清华大学东门步行15分钟）"
+  }, 
+  {
     "hotelId": "9018958", 
     "hotelName": "全季北京通州环球会议中心酒店", 
     "hotelAddressShort": "永顺镇焦王庄陈列馆路90号楼"
+  }, 
+  {
+    "hotelId": "9002886", 
+    "hotelName": "全季北京中关村苏州街酒店", 
+    "hotelAddressShort": "北京市海淀区苏州街18号院3号楼"
+  }, 
+  {
+    "hotelId": "9020189", 
+    "hotelName": "海友北京西三旗东升科技园酒店", 
+    "hotelAddressShort": "文晟家园2号楼一层部分、二层整层"
+  }, 
+  {
+    "hotelId": "9016485", 
+    "hotelName": "海友北京黄村大悦城酒店", 
+    "hotelAddressShort": "黄村镇兴政街3号(大兴一中北门对面)"
+  }, 
+  {
+    "hotelId": "9004273", 
+    "hotelName": "桔子北京上地安宁庄酒店", 
+    "hotelAddressShort": "北京市海淀区安宁庄东路安宁华庭一区2号楼（近小米产业园与清河火车站步行可至，近上地创新区与中关村软件园）"
+  }, 
+  {
+    "hotelId": "9003907", 
+    "hotelName": "桔子北京园博园杜家坎酒店", 
+    "hotelAddressShort": "北京市丰台区杜家坎南路9号"
+  }, 
+  {
+    "hotelId": "9011851", 
+    "hotelName": "海友北京顺义地铁站酒店", 
+    "hotelAddressShort": "新顺南大街9号"
+  }, 
+  {
+    "hotelId": "1000058", 
+    "hotelName": "海友北京崇文门同仁医院酒店", 
+    "hotelAddressShort": "北京市东城区西镇江胡同4号"
+  }, 
+  {
+    "hotelId": "9014086", 
+    "hotelName": "汉庭北京望京万科时代中心酒店", 
+    "hotelAddressShort": "朝阳区望京街9号望京国际商业中心E座4层"
+  }, 
+  {
+    "hotelId": "9021143", 
+    "hotelName": "北京天安门王府井美仑酒店", 
+    "hotelAddressShort": "王府井大街277号43号楼"
+  }, 
+  {
+    "hotelId": "1000324", 
+    "hotelName": "海友北京马连道酒店", 
+    "hotelAddressShort": "北京市西城区马连道东街15-1号"
+  }, 
+  {
+    "hotelId": "9019890", 
+    "hotelName": "全季北京北清路永丰产业园酒店", 
+    "hotelAddressShort": "北京市海淀区丰润东路6号（地处永丰基地内，航天城北侧；近中关村壹号，生命科学园）"
+  }, 
+  {
+    "hotelId": "9015003", 
+    "hotelName": "海友北京通州环球运河商务区酒店", 
+    "hotelAddressShort": "北京市通州区通胡大街25号院10号楼1-5层5层219号"
   }, 
   {
     "hotelId": "9001655", 
@@ -1980,14 +2640,39 @@
     "hotelAddressShort": "北京通州区通胡大街15号院"
   }, 
   {
-    "hotelId": "9022565", 
-    "hotelName": "桔子北京石景山大悦城酒店", 
-    "hotelAddressShort": "杨庄路70号1号楼地上第三至六层"
+    "hotelId": "9001003", 
+    "hotelName": "怡莱北京建国门酒店", 
+    "hotelAddressShort": "北京市朝阳区建华南路19号"
   }, 
   {
-    "hotelId": "1000833", 
-    "hotelName": "汉庭优佳北京五道口清华东门酒店", 
-    "hotelAddressShort": "海淀区王庄路27号城建四公司院内（距清华大学东门步行15分钟）"
+    "hotelId": "9004106", 
+    "hotelName": "怡莱精品北京欢乐谷王四营桥酒店(升级中)", 
+    "hotelAddressShort": "北京市朝阳区王四营乡观音堂文化大道东街C115 室一至四层"
+  }, 
+  {
+    "hotelId": "1001414", 
+    "hotelName": "宜必思北京五棵松大成路酒店", 
+    "hotelAddressShort": "北京市丰台区大成路19号"
+  }, 
+  {
+    "hotelId": "9010142", 
+    "hotelName": "汉庭北京西三旗东升科技园酒店", 
+    "hotelAddressShort": "永泰东路8号 宝盛里37号楼"
+  }, 
+  {
+    "hotelId": "9016387", 
+    "hotelName": "汉庭北京园博园杜家坎酒店", 
+    "hotelAddressShort": "丰台区杜家坎南路33号（卢沟桥、北宫森林公园、房车世界、陆军装甲兵学院。）"
+  }, 
+  {
+    "hotelId": "1000981", 
+    "hotelName": "全季北京中关村联想桥酒店", 
+    "hotelAddressShort": "北京市海淀区四道口1号53号楼3-6层"
+  }, 
+  {
+    "hotelId": "9001318", 
+    "hotelName": "汉庭优佳北京酒仙桥朝阳站酒店（质量整改）", 
+    "hotelAddressShort": "北京市朝阳区东风南路9号院"
   }, 
   {
     "hotelId": "9000809", 
@@ -2000,39 +2685,9 @@
     "hotelAddressShort": "昌平区永安路38号（科技园区北控大厦对面）"
   }, 
   {
-    "hotelId": "8916126", 
-    "hotelName": "汉庭优佳北京石景山游乐园酒店", 
-    "hotelAddressShort": "石景山区杨庄东路126号（距首钢园3公里，八大处外科整形医院3公里，未来儿童医院300米）"
-  }, 
-  {
-    "hotelId": "8916539", 
-    "hotelName": "桔子北京大兴生物医药基地酒店", 
-    "hotelAddressShort": "生物医药基地天华大街绿地启航5号院1号楼"
-  }, 
-  {
-    "hotelId": "9001317", 
-    "hotelName": "桔子北京中关村软件园酒店", 
-    "hotelAddressShort": "西北旺付家窑丁2号(距软件园2km，距永丰产业基地4km)"
-  }, 
-  {
-    "hotelId": "9003745", 
-    "hotelName": "桔子北京丽泽商务区酒店", 
-    "hotelAddressShort": "北京丰台区丰管路乙1号"
-  }, 
-  {
-    "hotelId": "9001318", 
-    "hotelName": "汉庭优佳北京酒仙桥朝阳站酒店（质量整改）", 
-    "hotelAddressShort": "北京市朝阳区东风南路9号院"
-  }, 
-  {
-    "hotelId": "9022670", 
-    "hotelName": "汉庭北京北清路中关村环保园酒店", 
-    "hotelAddressShort": "龙柏路2号院3号楼，1-5层"
-  }, 
-  {
-    "hotelId": "9006118", 
-    "hotelName": "全季北京草桥酒店", 
-    "hotelAddressShort": "北京市丰台区草桥东路2号院"
+    "hotelId": "9008539", 
+    "hotelName": "宜必思北京北七家温都水城酒店", 
+    "hotelAddressShort": "北京市昌平区北七家镇北七路42号院3号楼"
   }, 
   {
     "hotelId": "9005073", 
@@ -2040,14 +2695,34 @@
     "hotelAddressShort": "北京市通州区环科中路10号院3号楼1至7层01"
   }, 
   {
-    "hotelId": "8000068", 
-    "hotelName": "汉庭北京华贸平乐园地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区西大望路34号"
+    "hotelId": "9022670", 
+    "hotelName": "汉庭北京北清路中关村环保园酒店", 
+    "hotelAddressShort": "龙柏路2号院3号楼，1-5层"
   }, 
   {
-    "hotelId": "9002929", 
-    "hotelName": "桔子北京西三旗小米科技园酒店", 
-    "hotelAddressShort": "建材城西路50号2号楼(原桔子北京西三旗桥酒店）"
+    "hotelId": "9003967", 
+    "hotelName": "海友北京朝阳门酒店（升级中）", 
+    "hotelAddressShort": "北京市东城区朝阳门内大街豆瓣胡同2-5号"
+  }, 
+  {
+    "hotelId": "9011506", 
+    "hotelName": "桔子北京五棵松大成路酒店", 
+    "hotelAddressShort": "丰台区大成路21号（临近301医院、京荟广场、水魔方、凯迪拉克中心）"
+  }, 
+  {
+    "hotelId": "9014736", 
+    "hotelName": "海友北京通州环球度假区酒店", 
+    "hotelAddressShort": "北京市通州区张家湾镇光华路西侧\n距北京环球度假区8公里，约20分钟车程"
+  }, 
+  {
+    "hotelId": "9004051", 
+    "hotelName": "北京华腾国贸美居酒店", 
+    "hotelAddressShort": "西大望路甲16号院"
+  }, 
+  {
+    "hotelId": "9022565", 
+    "hotelName": "桔子北京石景山大悦城酒店", 
+    "hotelAddressShort": "杨庄路70号1号楼地上第三至六层"
   }, 
   {
     "hotelId": "9007148", 
@@ -2055,9 +2730,69 @@
     "hotelAddressShort": "北京市西城区广安门内大街104号"
   }, 
   {
+    "hotelId": "1026291", 
+    "hotelName": "全季北京大兴生物医药基地酒店", 
+    "hotelAddressShort": "北京市大兴区庆祥北路3号院2号楼"
+  }, 
+  {
+    "hotelId": "8916539", 
+    "hotelName": "桔子北京大兴生物医药基地酒店", 
+    "hotelAddressShort": "生物医药基地天华大街绿地启航5号院1号楼"
+  }, 
+  {
+    "hotelId": "9006118", 
+    "hotelName": "全季北京草桥酒店", 
+    "hotelAddressShort": "北京市丰台区草桥东路2号院"
+  }, 
+  {
+    "hotelId": "1011213", 
+    "hotelName": "海友北京通州环球度假区土桥地铁站酒店", 
+    "hotelAddressShort": "北京市通州区九棵树东路甲442号"
+  }, 
+  {
+    "hotelId": "1000133", 
+    "hotelName": "汉庭北京柳芳地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区东土城路12号"
+  }, 
+  {
+    "hotelId": "9003745", 
+    "hotelName": "桔子北京丽泽商务区酒店", 
+    "hotelAddressShort": "北京丰台区丰管路乙1号"
+  }, 
+  {
+    "hotelId": "1013002", 
+    "hotelName": "海友北京新国展酒店", 
+    "hotelAddressShort": "北京市顺义区后沙峪地区裕祥花园甲20号"
+  }, 
+  {
+    "hotelId": "8000068", 
+    "hotelName": "汉庭北京华贸平乐园地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区西大望路34号"
+  }, 
+  {
     "hotelId": "9002378", 
     "hotelName": "汉庭优佳北京马各庄地铁站酒店", 
     "hotelAddressShort": "房山区马各庄村西南东方1956文化创意园区内"
+  }, 
+  {
+    "hotelId": "1000283", 
+    "hotelName": "海友北京左家庄酒店", 
+    "hotelAddressShort": "北京市朝阳区左家庄东街静安里41号楼配楼"
+  }, 
+  {
+    "hotelId": "9001317", 
+    "hotelName": "桔子北京中关村软件园酒店", 
+    "hotelAddressShort": "西北旺付家窑丁2号(距软件园2km，距永丰产业基地4km)"
+  }, 
+  {
+    "hotelId": "9016352", 
+    "hotelName": "你好北京昌平鼓楼北街酒店", 
+    "hotelAddressShort": "昌平镇鼓楼北街12号（华住旗下新品你好、免费咖啡、房间智能设备）"
+  }, 
+  {
+    "hotelId": "1001012", 
+    "hotelName": "海友北京鸟巢酒店", 
+    "hotelAddressShort": "北京市朝阳区育慧北路8号"
   }, 
   {
     "hotelId": "9003927", 
@@ -2065,24 +2800,19 @@
     "hotelAddressShort": "通州区华业东方玫瑰A12底商玫瑰SOHO写字楼1层111号(距环球影城3.5公里）"
   }, 
   {
-    "hotelId": "1000454", 
-    "hotelName": "全季北京复兴门白云路酒店", 
-    "hotelAddressShort": "北京市西城区白云路甲4号"
-  }, 
-  {
     "hotelId": "9011517", 
     "hotelName": "汉庭北京门头沟石担路新桥大街酒店", 
     "hotelAddressShort": "石龙北路3号院鸿坤七星长安A座"
   }, 
   {
-    "hotelId": "1000272", 
-    "hotelName": "汉庭北京国展新源里酒店", 
-    "hotelAddressShort": "北京市朝阳区新源街18号"
+    "hotelId": "9003116", 
+    "hotelName": "海友北京通州环球度假区南门酒店", 
+    "hotelAddressShort": "通州区梨园镇群芳南街399号荟萃园小区A座3-4层"
   }, 
   {
-    "hotelId": "9006574", 
-    "hotelName": "汉庭北京通州会议中心酒店", 
-    "hotelAddressShort": "通州区永顺镇焦王庄村陈列馆路东潞苑90号102（临近友谊医院北京通州院区）"
+    "hotelId": "1001413", 
+    "hotelName": "海友良品北京中关村学院桥酒店", 
+    "hotelAddressShort": "北京市海淀区北四环中路265号"
   }, 
   {
     "hotelId": "9009440", 
@@ -2090,34 +2820,14 @@
     "hotelAddressShort": "振兴路9号"
   }, 
   {
-    "hotelId": "1000793", 
-    "hotelName": "全季北京刘家窑酒店", 
-    "hotelAddressShort": "北京市丰台区贾家花园15院7号楼"
+    "hotelId": "8916126", 
+    "hotelName": "汉庭优佳北京石景山游乐园酒店", 
+    "hotelAddressShort": "石景山区杨庄东路126号（距首钢园3公里，八大处外科整形医院3公里，未来儿童医院300米）"
   }, 
   {
-    "hotelId": "1000812", 
-    "hotelName": "汉庭北京师范大学积水潭酒店", 
-    "hotelAddressShort": "北京市海淀区学院南路4号（北京师范大学对面、紧临火箭军医院、安定医院、新街口医院、京师科技大厦，靠近地铁2号、19号线出行方便，让您的商务行程，旅游观光更加轻松便捷）"
-  }, 
-  {
-    "hotelId": "1000536", 
-    "hotelName": "汉庭北京牛街礼拜寺酒店", 
-    "hotelAddressShort": "西城区牛街西里二区8号楼(毗邻北京宣武医院、回民医院、地铁牛街19号线、牛街礼拜寺）"
-  }, 
-  {
-    "hotelId": "1000208", 
-    "hotelName": "桔子北京欢乐谷富力又一城酒店", 
-    "hotelAddressShort": "北京市朝阳区黄厂南里3号院29号楼"
-  }, 
-  {
-    "hotelId": "9023571", 
-    "hotelName": "全季北京南站西铁营酒店", 
-    "hotelAddressShort": "福宜街5号院1号楼B座第104、205、304、404、504号"
-  }, 
-  {
-    "hotelId": "9007446", 
-    "hotelName": "桔子北京三里屯太古里酒店", 
-    "hotelAddressShort": "三里屯街道工人体育场北路8号院三里屯SOHO 3号商场5层"
+    "hotelId": "9002929", 
+    "hotelName": "桔子北京西三旗小米科技园酒店", 
+    "hotelAddressShort": "建材城西路50号2号楼(原桔子北京西三旗桥酒店）"
   }, 
   {
     "hotelId": "1000213", 
@@ -2125,39 +2835,49 @@
     "hotelAddressShort": "北京市朝阳区劲松九区907号楼、东二环辅路路东"
   }, 
   {
+    "hotelId": "9006574", 
+    "hotelName": "汉庭北京通州会议中心酒店", 
+    "hotelAddressShort": "通州区永顺镇焦王庄村陈列馆路东潞苑90号102（临近友谊医院北京通州院区）"
+  }, 
+  {
+    "hotelId": "1000272", 
+    "hotelName": "汉庭北京国展新源里酒店", 
+    "hotelAddressShort": "北京市朝阳区新源街18号"
+  }, 
+  {
     "hotelId": "1000972", 
     "hotelName": "汉庭北京世纪金源酒店", 
     "hotelAddressShort": "海淀区远大路1号B区三层世纪金源购物中心后楼"
   }, 
   {
-    "hotelId": "9019408", 
-    "hotelName": "汉庭北京亦庄科创五街酒店", 
-    "hotelAddressShort": "中关村科技园区通州园光机电一体化产业基地科创五街政府路10号1号楼6号楼"
+    "hotelId": "1000812", 
+    "hotelName": "汉庭北京师范大学积水潭酒店", 
+    "hotelAddressShort": "北京市海淀区学院南路4号（北京师范大学对面、紧临火箭军医院、安定医院、新街口医院、京师科技大厦，靠近地铁2号、19号线出行方便，让您的商务行程，旅游观光更加轻松便捷）"
   }, 
   {
-    "hotelId": "1000231", 
-    "hotelName": "汉庭北京欢乐谷周家庄地铁站酒店", 
-    "hotelAddressShort": "北京市朝阳区十八里店乡周家庄村308号"
+    "hotelId": "9003752", 
+    "hotelName": "怡莱北京纪家庙地铁站酒店", 
+    "hotelAddressShort": "北京市丰台区纪家庙8号23号楼"
   }, 
   {
-    "hotelId": "1001767", 
-    "hotelName": "桔子北京亦庄万源街酒店", 
-    "hotelAddressShort": "北京市大兴区亦庄开发区隆庆街12号"
+    "hotelId": "1000454", 
+    "hotelName": "全季北京复兴门白云路酒店", 
+    "hotelAddressShort": "北京市西城区白云路甲4号"
   }, 
   {
-    "hotelId": "1000834", 
-    "hotelName": "全季北京中关村科技大学酒店", 
-    "hotelAddressShort": "北京市海淀区志新东路14-4号"
+    "hotelId": "9013437", 
+    "hotelName": "你好北京天坛东门地铁站酒店", 
+    "hotelAddressShort": "天坛东里甲48号1号楼2号"
   }, 
   {
-    "hotelId": "1000941", 
-    "hotelName": "汉庭北京北清路永丰科技园酒店", 
-    "hotelAddressShort": "海淀区永丰嘉园一区22号楼（近中关村壹号,航天城,集成电路设计园）"
+    "hotelId": "1000793", 
+    "hotelName": "全季北京刘家窑酒店", 
+    "hotelAddressShort": "北京市丰台区贾家花园15院7号楼"
   }, 
   {
-    "hotelId": "1011015", 
-    "hotelName": "全季北京通州环球运河大街酒店", 
-    "hotelAddressShort": "北京市通州区运河西大街172号"
+    "hotelId": "1000208", 
+    "hotelName": "桔子北京欢乐谷富力又一城酒店", 
+    "hotelAddressShort": "北京市朝阳区黄厂南里3号院29号楼"
   }, 
   {
     "hotelId": "1000882", 
@@ -2165,19 +2885,34 @@
     "hotelAddressShort": "北京市海淀区马甸南路2号"
   }, 
   {
-    "hotelId": "9017171", 
-    "hotelName": "全季北京北清路中关村环保园酒店", 
-    "hotelAddressShort": "白家疃观麓园17号楼(距中关村环保科技园1.4km,距永丰产业基地6km）"
+    "hotelId": "1000834", 
+    "hotelName": "全季北京中关村科技大学酒店", 
+    "hotelAddressShort": "北京市海淀区志新东路14-4号"
   }, 
   {
-    "hotelId": "9003430", 
-    "hotelName": "全季北京房山商业街酒店", 
-    "hotelAddressShort": "北京市房山区企业街2号"
+    "hotelId": "9019408", 
+    "hotelName": "汉庭北京亦庄科创五街酒店", 
+    "hotelAddressShort": "中关村科技园区通州园光机电一体化产业基地科创五街政府路10号1号楼6号楼"
   }, 
   {
-    "hotelId": "1013122", 
-    "hotelName": "汉庭北京新国展酒店", 
-    "hotelAddressShort": "北京市顺义区空港工业园A区天柱西路24号"
+    "hotelId": "9007446", 
+    "hotelName": "桔子北京三里屯太古里酒店", 
+    "hotelAddressShort": "三里屯街道工人体育场北路8号院三里屯SOHO 3号商场5层"
+  }, 
+  {
+    "hotelId": "1022992", 
+    "hotelName": "海友北京昌平万科广场酒店", 
+    "hotelAddressShort": "北京市昌平区永安路10-2号"
+  }, 
+  {
+    "hotelId": "9023571", 
+    "hotelName": "全季北京南站西铁营酒店", 
+    "hotelAddressShort": "福宜街5号院1号楼B座第104、205、304、404、504号"
+  }, 
+  {
+    "hotelId": "1000941", 
+    "hotelName": "汉庭北京北清路永丰科技园酒店", 
+    "hotelAddressShort": "海淀区永丰嘉园一区22号楼（近中关村壹号,航天城,集成电路设计园）"
   }, 
   {
     "hotelId": "1001761", 
@@ -2185,9 +2920,79 @@
     "hotelAddressShort": "北京市通州区次渠科创五街3号"
   }, 
   {
+    "hotelId": "1011015", 
+    "hotelName": "全季北京通州环球运河大街酒店", 
+    "hotelAddressShort": "北京市通州区运河西大街172号"
+  }, 
+  {
+    "hotelId": "1000536", 
+    "hotelName": "汉庭北京牛街礼拜寺酒店", 
+    "hotelAddressShort": "西城区牛街西里二区8号楼(毗邻北京宣武医院、回民医院、地铁牛街19号线、牛街礼拜寺）"
+  }, 
+  {
+    "hotelId": "9017171", 
+    "hotelName": "全季北京北清路中关村环保园酒店", 
+    "hotelAddressShort": "白家疃观麓园17号楼(距中关村环保科技园1.4km,距永丰产业基地6km）"
+  }, 
+  {
+    "hotelId": "1001767", 
+    "hotelName": "桔子北京亦庄万源街酒店", 
+    "hotelAddressShort": "北京市大兴区亦庄开发区隆庆街12号"
+  }, 
+  {
+    "hotelId": "1000231", 
+    "hotelName": "汉庭北京欢乐谷周家庄地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区十八里店乡周家庄村308号"
+  }, 
+  {
+    "hotelId": "9002344", 
+    "hotelName": "海友北京金台路地铁站酒店", 
+    "hotelAddressShort": "北京市朝阳区朝阳北路延静里9号楼"
+  }, 
+  {
+    "hotelId": "9006158", 
+    "hotelName": "怡莱北京首都机场林河开发区酒店（升级中）", 
+    "hotelAddressShort": "北京市顺义区仁和镇顺通路32号"
+  }, 
+  {
+    "hotelId": "9008549", 
+    "hotelName": "怡莱北京温都水城酒店", 
+    "hotelAddressShort": "北京市昌平区北七家镇王府街21号-2"
+  }, 
+  {
+    "hotelId": "1013122", 
+    "hotelName": "汉庭北京新国展酒店", 
+    "hotelAddressShort": "北京市顺义区空港工业园A区天柱西路24号"
+  }, 
+  {
+    "hotelId": "1000813", 
+    "hotelName": "海友北京蓟门桥酒店", 
+    "hotelAddressShort": "北京市海淀区蓟门桥北三环中路明光北里2号"
+  }, 
+  {
     "hotelId": "9014398", 
     "hotelName": "汉庭北京石景山苹果园地铁站酒店", 
     "hotelAddressShort": "石景山区苹果园南路甲11号（距八大处外科整形医院1.7公里；距离石景山区文化中心400米）"
+  }, 
+  {
+    "hotelId": "9000600", 
+    "hotelName": "海友北京良乡大学城酒店", 
+    "hotelAddressShort": "北京市房山区辰光东路16号院"
+  }, 
+  {
+    "hotelId": "9003430", 
+    "hotelName": "全季北京房山商业街酒店", 
+    "hotelAddressShort": "北京市房山区企业街2号"
+  }, 
+  {
+    "hotelId": "9009740", 
+    "hotelName": "怡莱北京双桥地铁站万达广场酒店", 
+    "hotelAddressShort": "北京市朝阳区双桥路3号"
+  }, 
+  {
+    "hotelId": "9006391", 
+    "hotelName": "你好北京立水桥地铁站酒店", 
+    "hotelAddressShort": "朝阳区立水桥甲3号3号院"
   }, 
   {
     "hotelId": "9012976", 
@@ -2200,14 +3005,19 @@
     "hotelAddressShort": "西城区莲花河胡同1号（七号线湾子A口直梯左转150米再左转50米）"
   }, 
   {
+    "hotelId": "9016729", 
+    "hotelName": "桔子水晶北京上地中关村软件园酒店", 
+    "hotelAddressShort": "上地二街2号龙泉湖写字楼"
+  }, 
+  {
     "hotelId": "9019387", 
     "hotelName": "汉庭北京怀柔滨湖路酒店", 
     "hotelAddressShort": "怀柔区滨湖南街12号楼"
   }, 
   {
-    "hotelId": "9008283", 
-    "hotelName": "汉庭北京顺义燕京桥石园酒店", 
-    "hotelAddressShort": "顺义区顺通路29号(近双平西街）"
+    "hotelId": "9004893", 
+    "hotelName": "海友北京五棵松西翠路店", 
+    "hotelAddressShort": "北京市海淀区万寿路1号院15幢附2号"
   }, 
   {
     "hotelId": "1023001", 
@@ -2215,14 +3025,24 @@
     "hotelAddressShort": "门头沟区 近郊滨河路87号"
   }, 
   {
-    "hotelId": "9016729", 
-    "hotelName": "桔子水晶北京上地中关村软件园酒店", 
-    "hotelAddressShort": "上地二街2号龙泉湖写字楼"
+    "hotelId": "9005942", 
+    "hotelName": "海友北京师范大学积水潭酒店", 
+    "hotelAddressShort": "北京市海淀区志强北园甲3号(临近师范大学、积水潭医院、火箭军医院、京师大厦、安定医院、小西天）"
   }, 
   {
     "hotelId": "9004208", 
     "hotelName": "汉庭北京丰台火车站北大地酒店", 
     "hotelAddressShort": "西四环南路66号（距离三〇七医院1.6公里，解放军第五医院1.5公里）"
+  }, 
+  {
+    "hotelId": "9008449", 
+    "hotelName": "海友北京清华大学五道口地铁站酒店", 
+    "hotelAddressShort": "北京海淀区成府路29号"
+  }, 
+  {
+    "hotelId": "9008283", 
+    "hotelName": "汉庭北京顺义燕京桥石园酒店", 
+    "hotelAddressShort": "顺义区顺通路29号(近双平西街）"
   }, 
   {
     "hotelId": "9000236", 
@@ -2235,14 +3055,19 @@
     "hotelAddressShort": "北京市朝阳区八里庄东里1号"
   }, 
   {
+    "hotelId": "9005611", 
+    "hotelName": "汉庭北京云岗路酒店", 
+    "hotelAddressShort": "丰台区王佐镇云岗路132号（临近中国航天科工七三一医院，中国航天三院）"
+  }, 
+  {
     "hotelId": "9022982", 
     "hotelName": "汉庭北京亦庄创意生活广场文化园酒店", 
     "hotelAddressShort": "北京市大兴区东环北路1号"
   }, 
   {
-    "hotelId": "9005611", 
-    "hotelName": "汉庭北京云岗路酒店", 
-    "hotelAddressShort": "丰台区王佐镇云岗路132号（临近中国航天科工七三一医院，中国航天三院）"
+    "hotelId": "9011894", 
+    "hotelName": "汉庭北京西站南广场酒店", 
+    "hotelAddressShort": "西城区广莲路莲花河胡同2号院1号楼（紧邻北京西站南广场、建工大厦、白云观、世纪坛医院）"
   }, 
   {
     "hotelId": "9008262", 
@@ -2255,14 +3080,14 @@
     "hotelAddressShort": "北京市房山区福泽路1号院1号楼"
   }, 
   {
-    "hotelId": "1000851", 
-    "hotelName": "汉庭北京上地酒店", 
-    "hotelAddressShort": "海淀区上地六街17号(距中关村软件园1.9公里）"
+    "hotelId": "1001613", 
+    "hotelName": "海友北京万丰路酒店", 
+    "hotelAddressShort": "北京市丰台区万丰路302号"
   }, 
   {
-    "hotelId": "9011894", 
-    "hotelName": "汉庭北京西站南广场酒店", 
-    "hotelAddressShort": "西城区广莲路莲花河胡同2号院1号楼（紧邻北京西站南广场、建工大厦、白云观、世纪坛医院）"
+    "hotelId": "9021685", 
+    "hotelName": "海友北京亦庄科创九街酒店", 
+    "hotelAddressShort": "北京市通州区台湖镇定海园三里10号楼底商"
   }, 
   {
     "hotelId": "9015588", 
@@ -2270,9 +3095,39 @@
     "hotelAddressShort": "大灰厂东路8号院东润隆兴万家商城一期建筑"
   }, 
   {
+    "hotelId": "1000851", 
+    "hotelName": "汉庭北京上地酒店", 
+    "hotelAddressShort": "海淀区上地六街17号(距中关村软件园1.9公里）"
+  }, 
+  {
+    "hotelId": "9008231", 
+    "hotelName": "海友北京上地体育大学酒店", 
+    "hotelAddressShort": "中关村北大街18号（中关村北大街与滨河路交叉口东南180米）"
+  }, 
+  {
+    "hotelId": "9004395", 
+    "hotelName": "怡莱北京前门大街酒店", 
+    "hotelAddressShort": "北京市西城区大栅栏蔡家胡同9号"
+  }, 
+  {
+    "hotelId": "9006546", 
+    "hotelName": "海友北京交通大学西门酒店", 
+    "hotelAddressShort": "北京市海淀区高梁桥斜街15号"
+  }, 
+  {
     "hotelId": "1000853", 
     "hotelName": "汉庭北京清河小营西路酒店", 
     "hotelAddressShort": "海淀区阳光北里6幢"
+  }, 
+  {
+    "hotelId": "3500015", 
+    "hotelName": "星程北京马甸桥酒店", 
+    "hotelAddressShort": "马甸南路2号院3号楼"
+  }, 
+  {
+    "hotelId": "1000444", 
+    "hotelName": "海友北京交通大学酒店", 
+    "hotelAddressShort": "北京市海淀区交大东路36号"
   }, 
   {
     "hotelId": "9017479", 
@@ -2285,6 +3140,26 @@
     "hotelAddressShort": "北京市大兴区旧宫镇旧忠路北东甲10号"
   }, 
   {
+    "hotelId": "1000401", 
+    "hotelName": "海友北京石景山苹果园酒店", 
+    "hotelAddressShort": "北京市石景山区西井路19号院1号楼"
+  }, 
+  {
+    "hotelId": "9005392", 
+    "hotelName": "怡莱北京清河永泰庄地铁站酒店", 
+    "hotelAddressShort": "北京市海淀区永泰庄路甲6号院1号楼"
+  }, 
+  {
+    "hotelId": "1000513", 
+    "hotelName": "海友北京前门大栅栏酒店", 
+    "hotelAddressShort": "北京市西城区大力胡同20号"
+  }, 
+  {
+    "hotelId": "1000163", 
+    "hotelName": "怡莱北京酒仙桥酒店", 
+    "hotelAddressShort": "北京市朝阳区酒仙桥路39号A区久隆百货商场四层"
+  }, 
+  {
     "hotelId": "1000258", 
     "hotelName": "汉庭北京国贸四惠东地铁站酒店", 
     "hotelAddressShort": "北京市朝阳区康家沟145号院内"
@@ -2295,8 +3170,133 @@
     "hotelAddressShort": "海淀区北下关大柳树15号（临近铁科院、交通大学、北大口腔医院）"
   }, 
   {
+    "hotelId": "1022181", 
+    "hotelName": "海友北京立水桥酒店", 
+    "hotelAddressShort": "北京市立水桥北路与中东路交叉口（龙德广场东门对面）"
+  }, 
+  {
+    "hotelId": "9002590", 
+    "hotelName": "怡莱北京昌平石油大学酒店", 
+    "hotelAddressShort": "北京市昌平区昌盛路6号一幢"
+  }, 
+  {
+    "hotelId": "1001921", 
+    "hotelName": "星程北京奥林匹克公园酒店", 
+    "hotelAddressShort": "清河永泰东里36号楼(近东升科技园、上地产业园、鸟巢、水立方、国家会议中心）"
+  }, 
+  {
     "hotelId": "9020691", 
     "hotelName": "汉庭北京昌平政府街酒店", 
     "hotelAddressShort": "北京市昌平区政府街西路19号"
+  }, 
+  {
+    "hotelId": "1000253", 
+    "hotelName": "汉庭北京朝阳公园酒店", 
+    "hotelAddressShort": "北京市朝阳区姚家园北路产业园C座（北京朝阳站东出口往东约1000米）"
+  }, 
+  {
+    "hotelId": "9013365", 
+    "hotelName": "怡莱北京广安门酒店", 
+    "hotelAddressShort": "广安门内大街319号广信嘉园2层203室"
+  }, 
+  {
+    "hotelId": "9018013", 
+    "hotelName": "北京日坛馨乐庭公寓酒店", 
+    "hotelAddressShort": "日坛北路17号"
+  }, 
+  {
+    "hotelId": "C0200007", 
+    "hotelName": "员宿北京大兴生物医药基地二店", 
+    "hotelAddressShort": "北京市大兴区天富街9号"
+  }, 
+  {
+    "hotelId": "6684", 
+    "hotelName": "北京西单美爵酒店", 
+    "hotelAddressShort": "宣武门内大街6号 西城区"
+  }, 
+  {
+    "hotelId": "6826", 
+    "hotelName": "北京万商花园美居酒店", 
+    "hotelAddressShort": "银河大街一号 石景山区"
+  }, 
+  {
+    "hotelId": "1000814", 
+    "hotelName": "海友北京明光桥酒店", 
+    "hotelAddressShort": "北京市海淀区学院南路40号"
+  }, 
+  {
+    "hotelId": "1001411", 
+    "hotelName": "海友北京五棵松大成路酒店", 
+    "hotelAddressShort": "北京市丰台区大成路甲10号"
+  }, 
+  {
+    "hotelId": "C0100011", 
+    "hotelName": "城家公寓北京北工大欢乐谷地铁站店", 
+    "hotelAddressShort": "北京市朝阳区金蝉西路甲1号"
+  }, 
+  {
+    "hotelId": "3115", 
+    "hotelName": "北京诺富特和平宾馆", 
+    "hotelAddressShort": "金鱼胡同3号 王府井"
+  }, 
+  {
+    "hotelId": "C0600004", 
+    "hotelName": "励业公寓北京垡头地铁站店", 
+    "hotelAddressShort": "北京市朝阳区垡头西里24号楼"
+  }, 
+  {
+    "hotelId": "C0100125", 
+    "hotelName": "城家公寓北京万丰路店", 
+    "hotelAddressShort": "北京市丰台区万丰路526号南侧3-5号（距地铁9/14号七里庄站B出口约500米）"
+  }, 
+  {
+    "hotelId": "C0100140", 
+    "hotelName": "城家公寓北京十里河地铁站店", 
+    "hotelAddressShort": "北京市朝阳区左安东路1号B座距离地铁10/14/17号线十里河站E口约300米"
+  }, 
+  {
+    "hotelId": "C0100013", 
+    "hotelName": "城家公寓北京总部基地海鹰路店", 
+    "hotelAddressShort": "北京市丰台区总部基地海鹰路6号院31栋（距地铁9号线丰台科技园站1.2km；16号线富丰桥站1.3km）"
+  }, 
+  {
+    "hotelId": "C0100012", 
+    "hotelName": "城家公寓北京安贞安华桥地铁站店", 
+    "hotelAddressShort": "北京市朝阳区安贞西里三区26楼（距地铁8号线安华桥站C口约700米；10号线站安贞门站D口约1.4公里）"
+  }, 
+  {
+    "hotelId": "9001972", 
+    "hotelName": "桔子北京天坛北门酒店（升级中）", 
+    "hotelAddressShort": "北京市东城区西晓市街38号"
+  }, 
+  {
+    "hotelId": "9001810", 
+    "hotelName": "全季北京丽泽商务区万丰路酒店", 
+    "hotelAddressShort": "北京市丰台区丰台北路73号"
+  }, 
+  {
+    "hotelId": "8909", 
+    "hotelName": "北京东方美爵酒店", 
+    "hotelAddressShort": "交道口东大街101号 东城区"
+  }, 
+  {
+    "hotelId": "3641", 
+    "hotelName": "北京新侨诺富特饭店", 
+    "hotelAddressShort": "北京市东城区崇文门西大街1号"
+  }, 
+  {
+    "hotelId": "6280", 
+    "hotelName": "北京诺富特三元酒店", 
+    "hotelAddressShort": "北京市 朝阳区 中国北京"
+  }, 
+  {
+    "hotelId": "C0400002", 
+    "hotelName": "北京上地CitiGO欢阁公寓酒店", 
+    "hotelAddressShort": "北京市海淀区上地五街16号"
+  }, 
+  {
+    "hotelId": "C0400003", 
+    "hotelName": "北京南锣鼓巷CitiGO欢阁公寓酒店", 
+    "hotelAddressShort": "北京市东城区地安门东大街89号"
   }
 ]

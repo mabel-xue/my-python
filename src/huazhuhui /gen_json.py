@@ -51,9 +51,9 @@ HotelStyle = {
 }
 
 param = {
-    'checkInDate': '2023-09-20',
-    'checkOutDate': '2023-09-21',
-    'cityName': '重庆',
+    'checkInDate': '2023-09-02',
+    'checkOutDate': '2023-09-04',
+    'cityName': '洛阳',
     # 'hotelStyle': '2',
     # 'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0

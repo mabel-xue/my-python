@@ -42,12 +42,12 @@ HotelStyle = {
     'htyj': 18,
     'hy': 5,
 }
-month = '0808'
-date = '2627'
+month = '0909'
+date = '0103'
 hotelList = get_data(request_url, {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[:2]+'-'+date[:2],
-    'cityName': '通辽',
+    'cityName': '湖州',
     'hotelStyle': HotelStyle['qj'],
     # 'sortBy':0
     'pageSize': 20,

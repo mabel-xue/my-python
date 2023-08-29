@@ -1,0 +1,502 @@
+[
+  {
+    "hotelId": "5180005", 
+    "hotelName": "深圳坤宜美居酒店", 
+    "hotelAddressShort": "龙岗区平湖街道凤凰大道33号坤宜福苑11号楼"
+  }, 
+  {
+    "hotelId": "9002829", 
+    "hotelName": "深圳南山深圳湾美居酒店", 
+    "hotelAddressShort": "蛇口街道后海路4号前进大厦"
+  }, 
+  {
+    "hotelId": "9012993", 
+    "hotelName": "深圳光明美爵酒店", 
+    "hotelAddressShort": "光明区光明大道与观光路交汇处乐府广场1A"
+  }, 
+  {
+    "hotelId": "9014102", 
+    "hotelName": "深圳福田皇岗城际酒店", 
+    "hotelAddressShort": "福民路28号"
+  }, 
+  {
+    "hotelId": "9005765", 
+    "hotelName": "深圳南山蛇口邮轮中心CitiGO欢阁酒店", 
+    "hotelAddressShort": "海运路1号邮轮中心8楼"
+  }, 
+  {
+    "hotelId": "8916274", 
+    "hotelName": "桔子水晶深圳宝安国际会展中心酒店", 
+    "hotelAddressShort": "广东省深圳市宝安区和秀西路44号"
+  }, 
+  {
+    "hotelId": "9001349", 
+    "hotelName": "深圳前海宝安中心CitiGO RESERVE欢阁臻选酒店", 
+    "hotelAddressShort": "深圳市宝安区新安街道兴华一路19号"
+  }, 
+  {
+    "hotelId": "9000636", 
+    "hotelName": "深圳福田华强北世杰美居酒店", 
+    "hotelAddressShort": "红岭北路3001-1号"
+  }, 
+  {
+    "hotelId": "5180544", 
+    "hotelName": "深圳南山科技园CitiGO欢阁酒店", 
+    "hotelAddressShort": "高新南十道91-1号软件产业基地2A栋一楼"
+  }, 
+  {
+    "hotelId": "9004465", 
+    "hotelName": "汉庭深圳龙华地铁站酒店", 
+    "hotelAddressShort": "深圳市龙华区大浪街道龙胜社区工业西路龙胜时代大厦旁"
+  }, 
+  {
+    "hotelId": "9013517", 
+    "hotelName": "深圳龙岗漫心酒店", 
+    "hotelAddressShort": "广东省深圳市龙岗区龙城街道黄阁坑社区清林路龙城工业园1号宿舍楼101"
+  }, 
+  {
+    "hotelId": "9010720", 
+    "hotelName": "桔子深圳宝安国际会展中心酒店", 
+    "hotelAddressShort": "沙井街道大王山村兴业西路2-12号雅迪大厦"
+  }, 
+  {
+    "hotelId": "9009905", 
+    "hotelName": "桔子水晶深圳南山新豪方酒店", 
+    "hotelAddressShort": "深圳市南山区深南大道10188号"
+  }, 
+  {
+    "hotelId": "9017083", 
+    "hotelName": "汉庭深圳观澜富士康酒店", 
+    "hotelAddressShort": "福城街道章阁塘前西区44号201"
+  }, 
+  {
+    "hotelId": "9008862", 
+    "hotelName": "全季深圳宝安国际会展中心福海酒店", 
+    "hotelAddressShort": "福海街道塘尾社区和沙路48号1层"
+  }, 
+  {
+    "hotelId": "9016309", 
+    "hotelName": "桔子水晶深圳罗湖口岸国贸酒店", 
+    "hotelAddressShort": "广东省深圳市罗湖区春风路3001号"
+  }, 
+  {
+    "hotelId": "9014103", 
+    "hotelName": "全季深圳福田会展中心皇岗酒店", 
+    "hotelAddressShort": "福民路18号皇安大厦(福民站C出口）"
+  }, 
+  {
+    "hotelId": "5181054", 
+    "hotelName": "汉庭深圳松岗天虹酒店", 
+    "hotelAddressShort": "宝安区松岗街道平安路13号"
+  }, 
+  {
+    "hotelId": "9010075", 
+    "hotelName": "桔子深圳宝安国际会展中心沙井酒店", 
+    "hotelAddressShort": "广东省深圳市宝安区沙井街道南环路306号"
+  }, 
+  {
+    "hotelId": "9017549", 
+    "hotelName": "桔子深圳清湖地铁站酒店", 
+    "hotelAddressShort": "龙华街道和平路132号"
+  }, 
+  {
+    "hotelId": "9013362", 
+    "hotelName": "汉庭深圳宝安国际会展中心酒店", 
+    "hotelAddressShort": "沙井南环路1018号"
+  }, 
+  {
+    "hotelId": "9001040", 
+    "hotelName": "汉庭深圳北站龙华汽车站酒店", 
+    "hotelAddressShort": "深圳市龙华区建辉路2号"
+  }, 
+  {
+    "hotelId": "9003345", 
+    "hotelName": "桔子水晶深圳南山科技园酒店", 
+    "hotelAddressShort": "深圳市南山区科技中三路科兴科学园D3栋"
+  }, 
+  {
+    "hotelId": "9008408", 
+    "hotelName": "你好深圳北站酒店", 
+    "hotelAddressShort": "龙华区民治街道民康路324号你好酒店"
+  }, 
+  {
+    "hotelId": "9001598", 
+    "hotelName": "汉庭深圳宝安灵芝地铁站酒店", 
+    "hotelAddressShort": "深圳市宝安区宝民一路120号福安大厦"
+  }, 
+  {
+    "hotelId": "9004867", 
+    "hotelName": "桔子深圳龙华地铁站酒店", 
+    "hotelAddressShort": "深圳市龙华区人民路252号"
+  }, 
+  {
+    "hotelId": "9001094", 
+    "hotelName": "全季深圳北站酒店", 
+    "hotelAddressShort": "深圳市龙华区民治大道637号"
+  }, 
+  {
+    "hotelId": "9014840", 
+    "hotelName": "全季深圳南油西地铁站酒店", 
+    "hotelAddressShort": "东滨路4074-1号乐群楼"
+  }, 
+  {
+    "hotelId": "5181051", 
+    "hotelName": "汉庭深圳宝安松岗地铁站酒店(原宝安松岗酒店)", 
+    "hotelAddressShort": "宝安区松岗街道松河北路12号盛华大厦B栋"
+  }, 
+  {
+    "hotelId": "9001229", 
+    "hotelName": "深圳南山中成美爵酒店", 
+    "hotelAddressShort": "深圳市南山区南新路1177号 （距离南山地铁站11号线/机场线500米）"
+  }, 
+  {
+    "hotelId": "5180004", 
+    "hotelName": "汉庭深圳大鹏佳兆业酒店", 
+    "hotelAddressShort": "广东省深圳市大鹏新区大鹏街道新园街12号"
+  }, 
+  {
+    "hotelId": "9015951", 
+    "hotelName": "桔子深圳福田会展中心酒店", 
+    "hotelAddressShort": "彩田南路2032号海天综合大厦"
+  }, 
+  {
+    "hotelId": "9000610", 
+    "hotelName": "全季深圳宝安国际会展中心酒店", 
+    "hotelAddressShort": "广东省深圳市宝安区福海街道和平社区永和路45号全季酒店"
+  }, 
+  {
+    "hotelId": "9010957", 
+    "hotelName": "桔子深圳北站酒店", 
+    "hotelAddressShort": "民治街道民治社区民治大道302号"
+  }, 
+  {
+    "hotelId": "9017899", 
+    "hotelName": "全季深圳坂田华为基地酒店", 
+    "hotelAddressShort": "坂田街道五和大道4008号"
+  }, 
+  {
+    "hotelId": "9007068", 
+    "hotelName": "桔子深圳南山地铁站酒店", 
+    "hotelAddressShort": "南山大道1112-1"
+  }, 
+  {
+    "hotelId": "9010845", 
+    "hotelName": "全季深圳会展中心岗厦地铁站酒店", 
+    "hotelAddressShort": "深圳市福田区福田街道岗厦社区彩田南路3016号彩天名苑"
+  }, 
+  {
+    "hotelId": "9008961", 
+    "hotelName": "全季深圳福田沙尾地铁站酒店", 
+    "hotelAddressShort": "深圳市福田区沙头街道金地社区金地一路金地工业区145栋"
+  }, 
+  {
+    "hotelId": "9001391", 
+    "hotelName": "汉庭深圳观澜五和大道酒店", 
+    "hotelAddressShort": "五和大道327号（兴万和商业广场一楼），深圳有轨电车【下围站】下车环观南路转五和大道走500米"
+  }, 
+  {
+    "hotelId": "9005319", 
+    "hotelName": "汉庭深圳海岸城南油服装城酒店", 
+    "hotelAddressShort": "华明路（南油站A出口）"
+  }, 
+  {
+    "hotelId": "5180491", 
+    "hotelName": "海友深圳上梅林地铁站酒店", 
+    "hotelAddressShort": "凯丰路凯丰花园综合楼"
+  }, 
+  {
+    "hotelId": "9001484", 
+    "hotelName": "汉庭优佳深圳宝安国际会展中心酒店", 
+    "hotelAddressShort": "深圳市宝安区福海街道桥头社区蚝业路1号"
+  }, 
+  {
+    "hotelId": "9000662", 
+    "hotelName": "海友深圳宝安石岩石龙仔酒店", 
+    "hotelAddressShort": "深圳市宝安区石岩街道石龙新村3区33-35号"
+  }, 
+  {
+    "hotelId": "5181032", 
+    "hotelName": "汉庭深圳宝安海雅缤纷城酒店", 
+    "hotelAddressShort": "深圳市宝安区新安街道建安一路龙江一巷6号（新安公园地铁站C2出口）"
+  }, 
+  {
+    "hotelId": "9008973", 
+    "hotelName": "汉庭深圳太安地铁站酒店（原爱国路店）", 
+    "hotelAddressShort": "深圳市罗湖区太安路47号"
+  }, 
+  {
+    "hotelId": "9000591", 
+    "hotelName": "全季深圳光明天汇城酒店", 
+    "hotelAddressShort": "广东省深圳市光明区红花南路红花丽苑A座"
+  }, 
+  {
+    "hotelId": "5180011", 
+    "hotelName": "汉庭深圳东门步行街酒店(原东门乐园路店)", 
+    "hotelAddressShort": "深圳市罗湖区中兴路88号"
+  }, 
+  {
+    "hotelId": "9011761", 
+    "hotelName": "你好深圳北清湖地铁站酒店", 
+    "hotelAddressShort": "龙华街道和联社区富泉新村北区34号清泉路246号（硅谷大院斜对面）"
+  }, 
+  {
+    "hotelId": "9000517", 
+    "hotelName": "桔子深圳前海碧海湾酒店", 
+    "hotelAddressShort": "广东省深圳市宝安区西乡街道西乡大道296"
+  }, 
+  {
+    "hotelId": "9013655", 
+    "hotelName": "汉庭深圳北站酒店", 
+    "hotelAddressShort": "深圳市龙华区民治大道500号"
+  }, 
+  {
+    "hotelId": "9015578", 
+    "hotelName": "汉庭深圳龙华地铁站东店", 
+    "hotelAddressShort": "和平路186号（大润发斜对面）"
+  }, 
+  {
+    "hotelId": "9015925", 
+    "hotelName": "全季深圳华强北电子大厦酒店", 
+    "hotelAddressShort": "深南中路2072号电子大厦（赛格广场旁；地铁华强北站2/7/8号线D1出口）"
+  }, 
+  {
+    "hotelId": "5180312", 
+    "hotelName": "汉庭深圳华强北振兴路酒店", 
+    "hotelAddressShort": "深圳市福田区华富路1048号"
+  }, 
+  {
+    "hotelId": "9000602", 
+    "hotelName": "汉庭优佳深圳海上世界蛇口大厦酒店", 
+    "hotelAddressShort": "南山区蛇口街道荣村工业园H栋"
+  }, 
+  {
+    "hotelId": "9010750", 
+    "hotelName": "全季深圳坂田天安云谷酒店", 
+    "hotelAddressShort": "坂田街道雪象中浩一路科尔达大厦17-22层 地铁10号线雪象D出口30米"
+  }, 
+  {
+    "hotelId": "5180001", 
+    "hotelName": "海友深圳南油地铁站酒店(原南山创业路店）(升级中)", 
+    "hotelAddressShort": "深圳市南山区南商路80号钜建大大厦龙珠阁"
+  }, 
+  {
+    "hotelId": "5181101", 
+    "hotelName": "全季深圳宝安国际会展中心福永酒店", 
+    "hotelAddressShort": "深圳市宝安区广深路福永段109号锦灏大厦"
+  }, 
+  {
+    "hotelId": "9008792", 
+    "hotelName": "汉庭深圳燕罗湿地公园酒店", 
+    "hotelAddressShort": "燕罗街道塘下涌社区众福路7号101"
+  }, 
+  {
+    "hotelId": "9023930", 
+    "hotelName": "深圳观澜高尔夫美仑酒店", 
+    "hotelAddressShort": "深圳市龙华区观澜街道桂花社区观光路1144号A栋101"
+  }, 
+  {
+    "hotelId": "9017864", 
+    "hotelName": "汉庭深圳坂田北五和地铁站酒店", 
+    "hotelAddressShort": "龙岗区坂田街道吉华路665号（坂田北地铁A出口，步行200米）(华为坂田基地500米)"
+  }, 
+  {
+    "hotelId": "9019632", 
+    "hotelName": "全季深圳南山科技园长园酒店", 
+    "hotelAddressShort": "高新中一道长园新材料港9栋"
+  }, 
+  {
+    "hotelId": "9009678", 
+    "hotelName": "星程深圳北站壹城中心酒店", 
+    "hotelAddressShort": "广东省深圳市龙华区民治大道866号华侨新苑首层"
+  }, 
+  {
+    "hotelId": "9014041", 
+    "hotelName": "全季深圳宝安坪洲地铁站酒店", 
+    "hotelAddressShort": "深圳市宝安区宝源路与海城路交汇处泰逸大厦235号"
+  }, 
+  {
+    "hotelId": "8916519", 
+    "hotelName": "汉庭优佳深圳宝安万达广场酒店", 
+    "hotelAddressShort": "新安四路313号云顶嘉园二楼（流塘地铁站G出口）（上川地铁站C出口）"
+  }, 
+  {
+    "hotelId": "9023438", 
+    "hotelName": "桔子深圳上李朗地铁站酒店", 
+    "hotelAddressShort": "平吉大道66号2号楼"
+  }, 
+  {
+    "hotelId": "5180006", 
+    "hotelName": "桔子深圳东门酒店", 
+    "hotelAddressShort": "罗湖区深南东路2023号广深大厦(距2号线湖贝站A出口10米)"
+  }, 
+  {
+    "hotelId": "9014792", 
+    "hotelName": "全季深圳北站东广场酒店", 
+    "hotelAddressShort": "新区大道352号"
+  }, 
+  {
+    "hotelId": "5181022", 
+    "hotelName": "汉庭深圳宝安西乡桃源地铁站酒店", 
+    "hotelAddressShort": "前进二路147号"
+  }, 
+  {
+    "hotelId": "5180401", 
+    "hotelName": "汉庭深圳竹子林地铁站酒店", 
+    "hotelAddressShort": "深圳市福田区竹子林竹林五路竹林花园2号楼（1号地铁线竹子林站B2）"
+  }, 
+  {
+    "hotelId": "9011852", 
+    "hotelName": "桔子深圳南山万科云城酒店", 
+    "hotelAddressShort": "广东省深圳市南山区西丽镇茶光路旁文光工业区2栋101"
+  }, 
+  {
+    "hotelId": "5180281", 
+    "hotelName": "汉庭深圳华强中心公园酒店", 
+    "hotelAddressShort": "深圳市福田区振华西路田面新村设计之都3-4幢（华强北站C出口）"
+  }, 
+  {
+    "hotelId": "9019856", 
+    "hotelName": "桔子深圳大浪商业中心酒店", 
+    "hotelAddressShort": "大浪商业中心后浪新天地22栋"
+  }, 
+  {
+    "hotelId": "9000168", 
+    "hotelName": "汉庭优佳深圳海上世界地铁站酒店", 
+    "hotelAddressShort": "南山区太子路59号华达大厦"
+  }, 
+  {
+    "hotelId": "9001035", 
+    "hotelName": "汉庭深圳坪山火车站酒店", 
+    "hotelAddressShort": "广东省深圳市坪山区龙坪路127号"
+  }, 
+  {
+    "hotelId": "5180381", 
+    "hotelName": "全季深圳福田会展中心酒店", 
+    "hotelAddressShort": "深圳市福田区福中路17号国际人才大厦"
+  }, 
+  {
+    "hotelId": "5180283", 
+    "hotelName": "汉庭深圳华强北燕南地铁站酒店", 
+    "hotelAddressShort": "福田区华强北燕南路96号阁林网苑（距离会展中心5公里）"
+  }, 
+  {
+    "hotelId": "5180542", 
+    "hotelName": "汉庭深圳南油地铁站酒店(原南山创业路店)", 
+    "hotelAddressShort": "南商路97号华英大厦"
+  }, 
+  {
+    "hotelId": "9002858", 
+    "hotelName": "桔子水晶深圳宝安机场碧海湾酒店", 
+    "hotelAddressShort": "宝安区西乡街道固戍海滨新村一区一巷英翔大厦"
+  }, 
+  {
+    "hotelId": "5180171", 
+    "hotelName": "汉庭深圳会展中心酒店", 
+    "hotelAddressShort": "深圳市福田区新洲南路世纪工艺品广场307栋"
+  }, 
+  {
+    "hotelId": "9012117", 
+    "hotelName": "汉庭深圳国贸地铁站酒店", 
+    "hotelAddressShort": "罗湖区春风路3006号五矿大厦"
+  }, 
+  {
+    "hotelId": "5180332", 
+    "hotelName": "海友深圳华强路地铁站酒店", 
+    "hotelAddressShort": "深圳市福田区福虹路华强花园D座"
+  }, 
+  {
+    "hotelId": "9008278", 
+    "hotelName": "全季深圳南山科技园酒店", 
+    "hotelAddressShort": "科发路2号30区3栋文峥鑫大厦3楼全季酒店"
+  }, 
+  {
+    "hotelId": "9004848", 
+    "hotelName": "汉庭深圳万科云城西丽地铁站酒店", 
+    "hotelAddressShort": "深圳市南山区西丽镇新高路旺棠大厦1楼"
+  }, 
+  {
+    "hotelId": "9011407", 
+    "hotelName": "全季深圳南山万科云城酒店", 
+    "hotelAddressShort": "茶文路与18号路交汇处砃枫科技大厦"
+  }, 
+  {
+    "hotelId": "5180311", 
+    "hotelName": "汉庭深圳华强北地铁站酒店", 
+    "hotelAddressShort": "深圳市福田区振华路122号"
+  }, 
+  {
+    "hotelId": "9007709", 
+    "hotelName": "全季深圳西丽地铁站酒店", 
+    "hotelAddressShort": "西丽新围村旺棠工业区25栋"
+  }, 
+  {
+    "hotelId": "9017081", 
+    "hotelName": "你好深圳坂田北地铁站酒店", 
+    "hotelAddressShort": "坂田街道坂田社区和东街23号"
+  }, 
+  {
+    "hotelId": "5180672", 
+    "hotelName": "汉庭深圳海上世界招商路酒店", 
+    "hotelAddressShort": "南山区招商路63号"
+  }, 
+  {
+    "hotelId": "9004456", 
+    "hotelName": "汉庭深圳南山南新路酒店", 
+    "hotelAddressShort": "南山区南新路1133-2号"
+  }, 
+  {
+    "hotelId": "5180482", 
+    "hotelName": "海友深圳会展中心酒店", 
+    "hotelAddressShort": "深圳市福田区福强路吉龙三街1038-3号"
+  }, 
+  {
+    "hotelId": "9007682", 
+    "hotelName": "汉庭深圳华强北科学馆地铁站酒店", 
+    "hotelAddressShort": "深圳市福田区深南中路2093号；1号线（华强路D口）；7号线（华强南B口）；8号线或者2号线（华强北D1口）"
+  }, 
+  {
+    "hotelId": "8000643", 
+    "hotelName": "宜必思深圳南新路酒店", 
+    "hotelAddressShort": "广东省深圳市南山区南新路3020号"
+  }, 
+  {
+    "hotelId": "9005191", 
+    "hotelName": "汉庭深圳南山地铁站二店", 
+    "hotelAddressShort": "南山大道2008号（南山地铁站F出口）（机场线/国际会展线/福田会展线）"
+  }, 
+  {
+    "hotelId": "5181161", 
+    "hotelName": "汉庭深圳龙岗南联地铁站酒店", 
+    "hotelAddressShort": "深圳市龙岗区龙岗大道6010号"
+  }, 
+  {
+    "hotelId": "5181012", 
+    "hotelName": "汉庭深圳宝安西乡客运站酒店", 
+    "hotelAddressShort": "广东省深圳市宝安区宝安大道4006"
+  }, 
+  {
+    "hotelId": "5180543", 
+    "hotelName": "汉庭深圳南山地铁站酒店", 
+    "hotelAddressShort": "南山大道2011号（南山站G出口）"
+  }, 
+  {
+    "hotelId": "8916674", 
+    "hotelName": "全季深圳南油地铁站酒店", 
+    "hotelAddressShort": "广东省深圳市南山区南海大道2536号"
+  }, 
+  {
+    "hotelId": "5180521", 
+    "hotelName": "海友深圳深大酒店", 
+    "hotelAddressShort": "学府路168号（南山地铁H出口）宝安国际机场线,/国际会展线/福田会展线）"
+  }, 
+  {
+    "hotelId": "9002685", 
+    "hotelName": "全季深圳南山地铁站酒店", 
+    "hotelAddressShort": "深圳市南山区常兴路13号"
+  }, 
+  {
+    "hotelId": "5180161", 
+    "hotelName": "汉庭深圳皇岗酒店（原福田口岸店）", 
+    "hotelAddressShort": "福田区滨河大道6033号（福民地铁站B出口）直行200米右拐"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "hotelId": "9008627", 
+    "hotelName": "星程延吉公园西市场酒店（原延吉宾馆）", 
+    "hotelAddressShort": "烟集街169号"
+  }, 
+  {
+    "hotelId": "9016845", 
+    "hotelName": "海友延吉西市场酒店", 
+    "hotelAddressShort": "海兰路171-3号延吉豪柏购物广场11-13层"
+  }, 
+  {
+    "hotelId": "9020669", 
+    "hotelName": "汉庭延吉延边大学城酒店", 
+    "hotelAddressShort": "延吉市延西街35号"
+  }, 
+  {
+    "hotelId": "9015776", 
+    "hotelName": "汉庭长白山二道白河酒店", 
+    "hotelAddressShort": "长白山保护开发区池北区森达民心商业街第9幢101号房"
+  }, 
+  {
+    "hotelId": "8916656", 
+    "hotelName": "桔子长白山二道白河酒店", 
+    "hotelAddressShort": "美人松家园14号楼"
+  }, 
+  {
+    "hotelId": "1330993", 
+    "hotelName": "汉庭优佳延吉西市场酒店", 
+    "hotelAddressShort": "吉林省延边朝鲜族自治州延吉市新兴街道新华街57-2号"
+  }, 
+  {
+    "hotelId": "1330011", 
+    "hotelName": "全季延吉火车站酒店", 
+    "hotelAddressShort": "吉林省延边朝鲜族自治州延吉市铁北路439号"
+  }, 
+  {
+    "hotelId": "9020734", 
+    "hotelName": "星程延吉爱丹路百货大楼酒店", 
+    "hotelAddressShort": "延边朝鲜族自治州-延吉市-爱丹路1180号"
+  }, 
+  {
+    "hotelId": "9021719", 
+    "hotelName": "宜必思尚品长白山北坡集散中心酒店", 
+    "hotelAddressShort": "二道白河池北区长白山大街231号"
+  }, 
+  {
+    "hotelId": "9000038", 
+    "hotelName": "宜必思延吉人民公园酒店", 
+    "hotelAddressShort": "吉林省延边朝鲜族自治州延吉市参花街130号"
+  }, 
+  {
+    "hotelId": "9013973", 
+    "hotelName": "星程延吉西站万达广场酒店", 
+    "hotelAddressShort": "延吉市公园路271号"
+  }, 
+  {
+    "hotelId": "1330991", 
+    "hotelName": "汉庭延吉水上市场酒店（原爱丹路酒店）", 
+    "hotelAddressShort": "延吉市爱丹路139-1号"
+  }, 
+  {
+    "hotelId": "9020552", 
+    "hotelName": "汉庭敦化翰章大街酒店", 
+    "hotelAddressShort": "翰章大街1385号中关村电子城一期（英博科技园）2号楼"
+  }, 
+  {
+    "hotelId": "8916390", 
+    "hotelName": "汉庭珲春火车站酒店", 
+    "hotelAddressShort": "吉林省延边朝鲜族自治州珲春市龙达金街森林山广场附近"
+  }, 
+  {
+    "hotelId": "1330003", 
+    "hotelName": "汉庭敦化火车站酒店", 
+    "hotelAddressShort": "敦化市红旗大街501号"
+  }, 
+  {
+    "hotelId": "1330002", 
+    "hotelName": "全季长白山二道白河酒店", 
+    "hotelAddressShort": "吉林省延边朝鲜族自治州安图县二道白河镇美人松路西出口"
+  }, 
+  {
+    "hotelId": "9011842", 
+    "hotelName": "全季敦化六鼎山敖东大街酒店", 
+    "hotelAddressShort": "吉林省敦化市敖东大街2566号"
+  }, 
+  {
+    "hotelId": "1333001", 
+    "hotelName": "汉庭珲春商业街酒店", 
+    "hotelAddressShort": "珲春市沿河西街南洋购物广场"
+  }, 
+  {
+    "hotelId": "9009052", 
+    "hotelName": "汉庭长白山二道白河网红街酒店", 
+    "hotelAddressShort": "安图县二道白河镇白山大街与五角枫路交汇处"
+  }, 
+  {
+    "hotelId": "1337001", 
+    "hotelName": "桔子敦化翰章大街酒店", 
+    "hotelAddressShort": "吉林省敦化市民主街道翰章大街1431号"
+  }
+]
