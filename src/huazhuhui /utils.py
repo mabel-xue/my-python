@@ -15,3 +15,4 @@ def get_data(url, params=None, headers=None):
     except requests.exceptions.RequestException as e:
         # 处理请求异常
         print(e)
+

@@ -47,7 +47,7 @@ date = '0103'
 hotelList = get_data(request_url, {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[:2]+'-'+date[:2],
-    'cityName': '湖州',
+    'cityName': '常州',
     'hotelStyle': HotelStyle['qj'],
     # 'sortBy':0
     'pageSize': 20,
@@ -59,8 +59,8 @@ data = [{
     'hotelId': item['hotelId'],
     'hotelName': item['hotelName'],
     'hotelAddressShort': item['hotelAddressShort'],
-    'lowestMaretPrice': item['lowestMaretPrice'],
-    'hotelLowestPrice': item['hotelLowestPrice']
+    # 'lowestMaretPrice': item['lowestMaretPrice'],
+    # 'hotelLowestPrice': item['hotelLowestPrice']
 } for item in hotelList['content']['hotelList']]
 
 
