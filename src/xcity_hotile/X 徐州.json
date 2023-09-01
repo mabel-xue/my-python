@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "9015415", 
+    "hotelName": "徐州回龙窝花间府·伴云亭", 
+    "hotelAddressShort": "徐州市云龙区回龙窝历史文化街区1-2号院"
+  }, 
+  {
+    "hotelId": "9018757", 
+    "hotelName": "全季徐州贾汪万达广场酒店", 
+    "hotelAddressShort": "将军大街278号，百大西门对面（近万达广场、贾汪区政府、人民医院、贾汪工业园）"
+  }, 
+  {
+    "hotelId": "9000620", 
+    "hotelName": "桔子水晶徐州苏宁广场酒店", 
+    "hotelAddressShort": "徐州市鼓楼区黄楼街道大马路99号（近苏宁广场，黄河古道，免费停车场）"
+  }, 
+  {
+    "hotelId": "8916702", 
+    "hotelName": "徐州湖心涟舍漫心府", 
+    "hotelAddressShort": "徐州经济技术开发区金龙湖新天地1号楼"
+  }, 
+  {
+    "hotelId": "9008944", 
+    "hotelName": "徐州龙湖沁园漫心府", 
+    "hotelAddressShort": "沁水湾商业广场55（原w15）号楼"
+  }, 
+  {
+    "hotelId": "9008949", 
+    "hotelName": "桔子徐州云龙万达广场酒店", 
+    "hotelAddressShort": "云龙区和平大道提香湾27号楼(近万达广场、新淮中心、医科大学、免费停车场)"
+  }, 
+  {
+    "hotelId": "9009561", 
+    "hotelName": "徐州云龙万达广场漫心酒店", 
+    "hotelAddressShort": "和平大道提香湾27号楼(近万达广场、新淮中心、医科大学，免费地下停车场)"
+  }, 
+  {
+    "hotelId": "2214991", 
+    "hotelName": "桔子水晶新沂中心酒店", 
+    "hotelAddressShort": "市府路1号"
+  }, 
+  {
+    "hotelId": "9001565", 
+    "hotelName": "桔子水晶徐州解放路矿业大学酒店", 
+    "hotelAddressShort": "解放南路南都国际商务中心5号楼"
+  }, 
+  {
+    "hotelId": "9017019", 
+    "hotelName": "全季新沂南站酒店", 
+    "hotelAddressShort": "新安街道新华南路8号巨融国际豪园43号楼"
+  }, 
+  {
+    "hotelId": "8000556", 
+    "hotelName": "宜必思尚品徐州贾汪吾悦广场酒店", 
+    "hotelAddressShort": "徐州市贾汪区大泉路9号（贾汪人民医院向南100米，吾悦广场向东800米）"
+  }, 
+  {
+    "hotelId": "9005498", 
+    "hotelName": "汉庭徐州贾汪区酒店", 
+    "hotelAddressShort": "贾汪区徐矿路94号"
+  }, 
+  {
+    "hotelId": "9006608", 
+    "hotelName": "汉庭徐州大学路怡和广场酒店", 
+    "hotelAddressShort": "铜山区大学路299号怡和广场3A楼"
+  }, 
+  {
+    "hotelId": "9000573", 
+    "hotelName": "全季徐州万科新淮中心酒店（原医科大学店）", 
+    "hotelAddressShort": "云龙区彭旅路11号（免费高铁接送及停车、近医科大学、新淮中心、宜家、环球港、云龙万达）"
+  }, 
+  {
+    "hotelId": "9002946", 
+    "hotelName": "全季徐州大学路怡和广场酒店", 
+    "hotelAddressShort": "徐州市大学路299号怡和广场A座"
+  }, 
+  {
+    "hotelId": "2210092", 
+    "hotelName": "全季徐州户部山地铁站酒店", 
+    "hotelAddressShort": "江苏省徐州市云龙区解放路43号(距地铁2号线户部山站直线约20米）"
+  }, 
+  {
+    "hotelId": "9011892", 
+    "hotelName": "汉庭徐州睢宁政务中心酒店", 
+    "hotelAddressShort": "睢宁县睢河北路199号"
+  }, 
+  {
+    "hotelId": "2211421", 
+    "hotelName": "全季徐州铜山万达广场酒店", 
+    "hotelAddressShort": "徐州市泉山区北京路与欣欣路交汇处澳东印象城A座"
+  }, 
+  {
+    "hotelId": "2216001", 
+    "hotelName": "汉庭徐州沛县酒店", 
+    "hotelAddressShort": "沛县汤沐西路2号"
+  }, 
+  {
+    "hotelId": "9009239", 
+    "hotelName": "全季徐州鼓楼区政府酒店", 
+    "hotelAddressShort": "江苏省徐州市鼓楼区中山北路延长段261号马场综合楼"
+  }, 
+  {
+    "hotelId": "9006054", 
+    "hotelName": "全季徐州东站酒店", 
+    "hotelAddressShort": "徐州市经济技术开发区鸿运路2号"
+  }, 
+  {
+    "hotelId": "9019649", 
+    "hotelName": "你好徐州贾汪桃源路店", 
+    "hotelAddressShort": "桃源路东侧紫金雅苑4号楼(近贾汪区政府，吾悦广场，徐州第七中学，人民医院）"
+  }, 
+  {
+    "hotelId": "9009559", 
+    "hotelName": "汉庭徐州沛县县政府酒店", 
+    "hotelAddressShort": "沛县正阳大道香樟苑10号楼1-201号（汽车北站南）香樟苑小区西门"
+  }, 
+  {
+    "hotelId": "2216011", 
+    "hotelName": "汉庭优佳徐州沛县汽车站酒店", 
+    "hotelAddressShort": "沛县汤沐路6号"
+  }, 
+  {
+    "hotelId": "9000390", 
+    "hotelName": "全季徐州市政府酒店", 
+    "hotelAddressShort": "江苏省徐州市云龙区丽水路星尚广场2号楼"
+  }, 
+  {
+    "hotelId": "9003850", 
+    "hotelName": "怡莱徐州利国酒店", 
+    "hotelAddressShort": "江苏省徐州市铜山区利国镇（原利国宾馆）"
+  }, 
+  {
+    "hotelId": "9019648", 
+    "hotelName": "汉庭徐州丰县老东关酒店", 
+    "hotelAddressShort": "解放东路168号老东关步行街院内"
+  }, 
+  {
+    "hotelId": "9016459", 
+    "hotelName": "全季新沂体育场酒店", 
+    "hotelAddressShort": " 建邺路136号"
+  }, 
+  {
+    "hotelId": "2210045", 
+    "hotelName": "全季徐州云龙万达广场酒店", 
+    "hotelAddressShort": "徐州市云龙区汉景大道35号(近万达广场、新淮中心、医科大学)"
+  }, 
+  {
+    "hotelId": "2210062", 
+    "hotelName": "海友徐州医科大学附属医院市二院酒店", 
+    "hotelAddressShort": "泉山区杨家路28号（邮电大厦北100米，徐州医学院对面100米，十三中旁）"
+  }, 
+  {
+    "hotelId": "9003797", 
+    "hotelName": "全季徐州市行政中心地铁站酒店", 
+    "hotelAddressShort": "江苏省徐州市云龙区昆仑大道8号永嘉新城中心广场A座一楼（停车场：负二层A区）"
+  }, 
+  {
+    "hotelId": "9000599", 
+    "hotelName": "星程徐州丰县汽车站酒店", 
+    "hotelAddressShort": "解放中路龙乡苑23号"
+  }, 
+  {
+    "hotelId": "9010767", 
+    "hotelName": "汉庭徐州工程学院酒店", 
+    "hotelAddressShort": "云龙区清风路20号星尚广场3号楼"
+  }, 
+  {
+    "hotelId": "9008851", 
+    "hotelName": "全季徐州丰县刘邦广场酒店", 
+    "hotelAddressShort": " 向阳北路西侧、北苑路北侧（原民族商厦）"
+  }, 
+  {
+    "hotelId": "2212001", 
+    "hotelName": "汉庭徐州睢宁县酒店", 
+    "hotelAddressShort": "睢宁县八一路万象天地"
+  }, 
+  {
+    "hotelId": "9003919", 
+    "hotelName": "汉庭徐州大成物流园酒店", 
+    "hotelAddressShort": "泉山区欣欣路38号29，30号楼"
+  }, 
+  {
+    "hotelId": "9016493", 
+    "hotelName": "汉庭徐州奥体中心酒店", 
+    "hotelAddressShort": "汉风街道奥都花园北一区"
+  }, 
+  {
+    "hotelId": "8000558", 
+    "hotelName": "星程徐州苏宁广场店（质量整改）", 
+    "hotelAddressShort": "复兴南路98号"
+  }, 
+  {
+    "hotelId": "9022317", 
+    "hotelName": "汉庭徐州环球港高铁站酒店", 
+    "hotelAddressShort": "经济开发区君庭湖畔小区商业4#楼，1层局部、3-4层"
+  }, 
+  {
+    "hotelId": "9001525", 
+    "hotelName": "全季沛县中金广场酒店", 
+    "hotelAddressShort": "江苏省徐州市沛县经济开发区汉兴路19号"
+  }, 
+  {
+    "hotelId": "2214003", 
+    "hotelName": "星程新沂南京路雨润广场酒店", 
+    "hotelAddressShort": "南京路49号"
+  }, 
+  {
+    "hotelId": "9004558", 
+    "hotelName": "桔子徐州火车东站酒店", 
+    "hotelAddressShort": "徐州市经济技术开发区振兴大道48号（近徐州东站、环球港、宜家、免费停车场）"
+  }, 
+  {
+    "hotelId": "2211162", 
+    "hotelName": "汉庭徐州铜山万达广场酒店", 
+    "hotelAddressShort": "铜山区北京南路12号港鑫城"
+  }, 
+  {
+    "hotelId": "9013481", 
+    "hotelName": "汉庭新沂市钟吾路酒店", 
+    "hotelAddressShort": "钟吾路178号"
+  }, 
+  {
+    "hotelId": "2210051", 
+    "hotelName": "汉庭徐州复兴北路酒店", 
+    "hotelAddressShort": "鼓楼区复兴北路156号"
+  }, 
+  {
+    "hotelId": "9013957", 
+    "hotelName": "怡莱徐州睢宁青年路酒店", 
+    "hotelAddressShort": "睢宁县睢城镇青年路与中山路交汇处徐沙河新天地6号楼"
+  }, 
+  {
+    "hotelId": "9013376", 
+    "hotelName": "你好徐州汉文化景区酒店", 
+    "hotelAddressShort": "三环东路狮南小区路口（佑宁医院旁）"
+  }, 
+  {
+    "hotelId": "9003888", 
+    "hotelName": "怡莱徐州睢宁火车站酒店", 
+    "hotelAddressShort": "江苏省徐州市睢宁县睢河街道环宇西路光华汇金广场8号楼"
+  }, 
+  {
+    "hotelId": "9006611", 
+    "hotelName": "桔子徐州睢宁国际酒店", 
+    "hotelAddressShort": "江苏省徐州市睢宁县八一东路9号"
+  }, 
+  {
+    "hotelId": "8000155", 
+    "hotelName": "海友徐州市政府酒店", 
+    "hotelAddressShort": "新城区元和路中央公元B3-8"
+  }, 
+  {
+    "hotelId": "9009512", 
+    "hotelName": "怡莱新沂南京路酒店", 
+    "hotelAddressShort": "南京路31号。 （ 城区）"
+  }, 
+  {
+    "hotelId": "2211401", 
+    "hotelName": "汉庭徐州极地海洋世界酒店", 
+    "hotelAddressShort": "鼓楼区汉城东路怡乐家园一号楼"
+  }, 
+  {
+    "hotelId": "2210031", 
+    "hotelName": "汉庭徐州苏宁广场酒店(原徐州解放路酒店)", 
+    "hotelAddressShort": "云龙区解放路2号"
+  }, 
+  {
+    "hotelId": "2210005", 
+    "hotelName": "汉庭徐州云龙万达广场酒店", 
+    "hotelAddressShort": "云龙区万达广场民祥大厦"
+  }, 
+  {
+    "hotelId": "9020327", 
+    "hotelName": "海友徐州睢宁火车站酒店", 
+    "hotelAddressShort": "睢宁县天虹大道刘场十字路口（淮徐高速出口向北500米，睢宁高铁站2公里）"
+  }, 
+  {
+    "hotelId": "2210034", 
+    "hotelName": "海友徐州苏宁广场酒店", 
+    "hotelAddressShort": "云龙区彭城街道青年路132号（老街坊北门斜对面）"
+  }, 
+  {
+    "hotelId": "8916208", 
+    "hotelName": "全季徐州睢宁中山路酒店", 
+    "hotelAddressShort": "江苏省徐州市睢宁县永安路6号丽晶新城"
+  }, 
+  {
+    "hotelId": "2210053", 
+    "hotelName": "全季徐州苏宁广场酒店", 
+    "hotelAddressShort": "徐州鼓楼区淮海东路71号"
+  }, 
+  {
+    "hotelId": "9006808", 
+    "hotelName": "汉庭徐州德基广场酒店", 
+    "hotelAddressShort": "江苏省徐州市泉山区建国西路1-3号"
+  }, 
+  {
+    "hotelId": "2211311", 
+    "hotelName": "汉庭徐州火车东站西出口酒店", 
+    "hotelAddressShort": "火车东站站南路131号"
+  }
+]

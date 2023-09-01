@@ -7,37 +7,48 @@ import math
 
 request_url = 'https://hweb-hotel.huazhu.com/hotels/hotel/detail'
 
-alreadyBook = {
-    '重庆': ['0830'],
-    '济南': ['0902'],
-    '洛阳': ['0902'],
-    '西安': ['0831', '0901', '0902'],
-    '阜新': ['0930', '1001', '1002', '1003',  '1004'],
-    '淄博': ['0901'],
-    '上海': ['0901', '0904', '0905'],
-    '连云港': ['0902'],
-    '烟台': ['0902', '0903'],
-    '宜昌': ['0903'],
-    '大连': ['0904', '0905', '0906', '0907'],
-    '长沙': ['0915'],
-    '延边': ['0915', '0916'],
-    '杭州': ['1004']
-}
+alreadyBook = [
+    "杭州",
+    "西安",
+    "淄博",
+    "北京",
+    "上海",
+    "连云港",
+    "济南",
+    "洛阳",
+    "烟台",
+    "广州",
+    "大连",
+    "贵阳",
+    "长沙",
+    "杭州",
+    "舟山",
+    "曲阜",
+    "宜昌",
+    "诸暨",
+    "延边",
+    "桐乡",
+    "阜新",
+    "常州"
+]
 
-month = '1010'
-date = '0607'
+# 全季诸暨国际珠宝城酒店 8915743
+
+month = '0909'
+date = '0103'
 params = {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '9008531',
+    'hotelId': '2013157',
 }
 
 hotelList = get_data(request_url, params, constant.headers)
 
 list = []
 city = hotelList['content']['cityName']
-booked = True if city in alreadyBook.values() else False
-print(hotelList['content']['hotelName']+' '+hotelList['content']['hotelId']+' '+str(booked))
+# booked = city in alreadyBook
+print(json.dumps(hotelList['content']['hotelName']+' ' +
+      hotelList['content']['hotelId'], ensure_ascii=False, indent=4).encode('utf-8'))
 for item in hotelList['content']['roomPriceList']['roomList']:
     if item['isRoomOpenResv'] == True:
         bb = str(item['ratePlanCodeList']
