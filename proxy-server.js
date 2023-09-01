@@ -1,11 +1,15 @@
 const express = require("express");
 const axios = require("axios");
+const cors = require("cors");
 
 const app = express();
+// 启用跨域中间件
+app.use(cors());
+
 const port = process.env.PORT || 5500;
 
 // 添加你的代理路由
-app.get("/get-h-detail", async (req, res) => {
+app.get("/api", async (req, res) => {
   try {
     // 向目标服务器发出请求
     const response = await axios.get(
