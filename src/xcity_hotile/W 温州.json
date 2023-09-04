@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "9021463", 
+    "hotelName": "汉庭温州茶山大学城酒店", 
+    "hotelAddressShort": "温州市瓯海区茶山街道卧龙路632号"
+  }, 
+  {
+    "hotelId": "9012926", 
+    "hotelName": "汉庭温州瓯北堡一大厦酒店", 
+    "hotelAddressShort": "温州市永嘉瓯北街道双塔路2660号"
+  }, 
+  {
+    "hotelId": "3256043", 
+    "hotelName": "全季温州柳市酒店", 
+    "hotelAddressShort": "车站路198号"
+  }, 
+  {
+    "hotelId": "3250271", 
+    "hotelName": "汉庭优佳温州学院西路酒店", 
+    "hotelAddressShort": "浙江省温州市鹿城区学院西路2-1号"
+  }, 
+  {
+    "hotelId": "9020106", 
+    "hotelName": "桔子温州瓯北酒店", 
+    "hotelAddressShort": "瓯北街道东瓯工业区王家圩路惠利玛产业园2号楼北幢1/2-5层"
+  }, 
+  {
+    "hotelId": "9016604", 
+    "hotelName": "全季温州仰义酒店", 
+    "hotelAddressShort": "仰义街道新二代城市科创园9号楼"
+  }, 
+  {
+    "hotelId": "9019575", 
+    "hotelName": "全季温州永嘉瓯北中心酒店", 
+    "hotelAddressShort": "瓯北街道东瓯工业区王家圩路惠利玛产业数字园2号楼南幢1/2-5层"
+  }, 
+  {
+    "hotelId": "9004506", 
+    "hotelName": "汉庭温州永嘉站酒店", 
+    "hotelAddressShort": "永嘉县黄田街道东联中路与黄田大道交叉路口"
+  }, 
+  {
+    "hotelId": "9000764", 
+    "hotelName": "汉庭温州车站大道酒店", 
+    "hotelAddressShort": "温州市鹿城区车站大道759号"
+  }, 
+  {
+    "hotelId": "9016407", 
+    "hotelName": "汉庭温州南站酒店", 
+    "hotelAddressShort": "潘桥街道横塘家园2幢(距离动车南站步行10分钟)"
+  }, 
+  {
+    "hotelId": "9010386", 
+    "hotelName": "汉庭温州永嘉上塘酒店", 
+    "hotelAddressShort": "浙江省温州市永嘉县县前路858号"
+  }, 
+  {
+    "hotelId": "9010128", 
+    "hotelName": "汉庭温州瓯海区政府酒店", 
+    "hotelAddressShort": "温州市瓯海区娄桥街道龙跃街40号华韵嘉园11幢"
+  }, 
+  {
+    "hotelId": "8916091", 
+    "hotelName": "全季温州雪山路酒店", 
+    "hotelAddressShort": "温州市鹿城区雪山路69号(原瓯昌饭店)"
+  }, 
+  {
+    "hotelId": "9006698", 
+    "hotelName": "你好温州瑞安酒店", 
+    "hotelAddressShort": "浙江省温州市瑞安市安阳街道隆山东路88号（距瑞安市中医院800米，近瑞安服装商贸城）"
+  }, 
+  {
+    "hotelId": "9010074", 
+    "hotelName": "全季温州瓯海区政府酒店", 
+    "hotelAddressShort": "娄桥街道龙跃街40号"
+  }, 
+  {
+    "hotelId": "9012364", 
+    "hotelName": "全季平阳鳌江银泰城酒店", 
+    "hotelAddressShort": "温州市平阳县鳌江镇车站大道42号中联影视商业大厦"
+  }, 
+  {
+    "hotelId": "9013179", 
+    "hotelName": "汉庭温州瓯海梧田酒店", 
+    "hotelAddressShort": "经济开发区梧慈路251号"
+  }, 
+  {
+    "hotelId": "9004338", 
+    "hotelName": "汉庭温州泰顺新城大道酒店", 
+    "hotelAddressShort": "温州市泰顺县罗阳镇华鸿中心广场12幢（酒店步行50米为泰顺小吃一条街）"
+  }, 
+  {
+    "hotelId": "3258041", 
+    "hotelName": "宜必思尚品温州滨海园区酒店", 
+    "hotelAddressShort": "浙江省温州经济技术开发区滨海一道1787号"
+  }, 
+  {
+    "hotelId": "9000239", 
+    "hotelName": "汉庭优佳温州龙湾海城酒店", 
+    "hotelAddressShort": "温州市龙湾区海城街道人民北路189号"
+  }, 
+  {
+    "hotelId": "3250242", 
+    "hotelName": "全季温州龙湾万达酒店", 
+    "hotelAddressShort": "温州市龙湾区永中街道永中西路799号"
+  }, 
+  {
+    "hotelId": "3256001", 
+    "hotelName": "汉庭优佳温州乐清乐成酒店", 
+    "hotelAddressShort": "浙江省温州市乐清市城南街道双雁路2号"
+  }, 
+  {
+    "hotelId": "3250003", 
+    "hotelName": "汉庭温州龙湾永强大道酒店", 
+    "hotelAddressShort": "温州市龙湾区镇标路37号"
+  }, 
+  {
+    "hotelId": "3256003", 
+    "hotelName": "全季温州乐清酒店", 
+    "hotelAddressShort": "汇丰路２号"
+  }, 
+  {
+    "hotelId": "9003657", 
+    "hotelName": "汉庭温州状元酒店", 
+    "hotelAddressShort": "浙江省温州市龙湾区机场大道4079号"
+  }, 
+  {
+    "hotelId": "9004419", 
+    "hotelName": "星程温州瑞安塘下酒店", 
+    "hotelAddressShort": "塘下镇塘下大道五洲汽车大厦（亿嘉广场正对面）"
+  }, 
+  {
+    "hotelId": "9021575", 
+    "hotelName": "桔子温州龙湾万达酒店", 
+    "hotelAddressShort": "浙江省温州市龙湾区永中街道永中西路1199号尚都锦园30、31幢301室等 "
+  }, 
+  {
+    "hotelId": "3250061", 
+    "hotelName": "全季温州上江路酒店", 
+    "hotelAddressShort": "瓯海区三垟街道温州大道1607号（近吾悦广场）"
+  }, 
+  {
+    "hotelId": "9000228", 
+    "hotelName": "星程温州瑞安万松路酒店", 
+    "hotelAddressShort": "万松路32号"
+  }, 
+  {
+    "hotelId": "9007648", 
+    "hotelName": "全季温州飞霞南路酒店", 
+    "hotelAddressShort": "飞霞南路916号（人民东路与飞霞南路交叉口交运置业公司公交站旁）"
+  }, 
+  {
+    "hotelId": "3252993", 
+    "hotelName": "全季温州瑞安瑞祥酒店", 
+    "hotelAddressShort": "安阳街道安阳路和文庄路交叉口"
+  }, 
+  {
+    "hotelId": "9001106", 
+    "hotelName": "宜必思温州科技园酒店（原万象城酒店）", 
+    "hotelAddressShort": "温州市瓯海经济开发区凤坊路89号1号楼（距离万象城1.5公里）"
+  }, 
+  {
+    "hotelId": "9006235", 
+    "hotelName": "全季温州平阳解放街酒店", 
+    "hotelAddressShort": "温州市平阳县解放街408号"
+  }, 
+  {
+    "hotelId": "3250034", 
+    "hotelName": "全季温州五马街酒店", 
+    "hotelAddressShort": "飞霞北路88号（与垟儿路交叉口）"
+  }, 
+  {
+    "hotelId": "9019289", 
+    "hotelName": "汉庭温州乐清虹桥酒店", 
+    "hotelAddressShort": "浙江温州虹桥镇创新东路1-111号2幢（天元广场北面）"
+  }, 
+  {
+    "hotelId": "9001304", 
+    "hotelName": "全季温州经济开发区滨海园区酒店", 
+    "hotelAddressShort": "龙湾区温州经济技术开发区滨海六路1777号（置信立体公园）"
+  }, 
+  {
+    "hotelId": "3251001", 
+    "hotelName": "全季温州瓯北酒店", 
+    "hotelAddressShort": "永嘉县报喜鸟和田工业园"
+  }, 
+  {
+    "hotelId": "3252992", 
+    "hotelName": "汉庭温州瑞安万松路酒店", 
+    "hotelAddressShort": "浙江省温州市瑞安市万松东路207号"
+  }, 
+  {
+    "hotelId": "9007764", 
+    "hotelName": "怡莱温州瑞安塘下葡京酒店", 
+    "hotelAddressShort": "浙江省瑞安市塘下镇广场西路"
+  }, 
+  {
+    "hotelId": "3256002", 
+    "hotelName": "汉庭温州乐清柳市酒店", 
+    "hotelAddressShort": "温州市乐清市柳市镇三里一路352号"
+  }, 
+  {
+    "hotelId": "9012888", 
+    "hotelName": "桔子温州大道酒店", 
+    "hotelAddressShort": "温州市鹿城区温州大道2279号（S1路惠民路轻轨往东300米）"
+  }, 
+  {
+    "hotelId": "9009788", 
+    "hotelName": "桔子温州鹿城广化桥路酒店", 
+    "hotelAddressShort": "广化桥路150号"
+  }, 
+  {
+    "hotelId": "9014539", 
+    "hotelName": "全季温州瑞安东山酒店", 
+    "hotelAddressShort": "东山街道陈虬路758号"
+  }, 
+  {
+    "hotelId": "3250621", 
+    "hotelName": "宜必思温州大学城酒店", 
+    "hotelAddressShort": "浙江省温州市瓯海区创荣广场（距离温州大学南校区800米）"
+  }, 
+  {
+    "hotelId": "9009515", 
+    "hotelName": "星程温州瑞安镇府路酒店", 
+    "hotelAddressShort": "镇府路莘塍大厦"
+  }, 
+  {
+    "hotelId": "3258003", 
+    "hotelName": "全季温州龙港酒店", 
+    "hotelAddressShort": "龙港大道76号"
+  }, 
+  {
+    "hotelId": "9006429", 
+    "hotelName": "怡莱温州火车站酒店", 
+    "hotelAddressShort": "温州市鹿城区站前东小区锦源路1-2号"
+  }, 
+  {
+    "hotelId": "3250002", 
+    "hotelName": "全季温州机场大道酒店", 
+    "hotelAddressShort": "鹿城区机场大道5136号（近汤家桥转盘）"
+  }, 
+  {
+    "hotelId": "9016821", 
+    "hotelName": "你好温州欧洲城酒店", 
+    "hotelAddressShort": "温州市鹿城区株浦路东明锦园"
+  }, 
+  {
+    "hotelId": "3250004", 
+    "hotelName": "全季温州南站酒店", 
+    "hotelAddressShort": "瓯海区秀浦路1199号（大西洋银泰城百老汇对面）"
+  }, 
+  {
+    "hotelId": "9001693", 
+    "hotelName": "怡莱精品温州龙湾海城酒店", 
+    "hotelAddressShort": "湖北"
+  }, 
+  {
+    "hotelId": "3250001", 
+    "hotelName": "汉庭温州苍南龙港酒店", 
+    "hotelAddressShort": "温州市龙港镇镇前路138号"
+  }, 
+  {
+    "hotelId": "3252994", 
+    "hotelName": "怡莱精品温州瑞安酒店(升级中)", 
+    "hotelAddressShort": "浙江省温州市瑞安市玉海街道瑞湖路35号"
+  }, 
+  {
+    "hotelId": "9001439", 
+    "hotelName": "怡莱精品温州乐清酒店", 
+    "hotelAddressShort": "乐成镇宁康西路378号(近朋岙路口)"
+  }, 
+  {
+    "hotelId": "3250005", 
+    "hotelName": "宜必思尚品温州文昌路心工场酒店", 
+    "hotelAddressShort": "浙江省温州市龙湾区文昌路166号"
+  }, 
+  {
+    "hotelId": "9013498", 
+    "hotelName": "你好温州黎明西路酒店", 
+    "hotelAddressShort": "温州市鹿城区黎明西路251号"
+  }, 
+  {
+    "hotelId": "3250021", 
+    "hotelName": "全季温州车站大道酒店", 
+    "hotelAddressShort": "车站大道733号"
+  }, 
+  {
+    "hotelId": "9013064", 
+    "hotelName": "你好温州望江西路酒店", 
+    "hotelAddressShort": "浙江省温州市鹿城区望江西路时代海景D幢138号"
+  }, 
+  {
+    "hotelId": "3254001", 
+    "hotelName": "怡莱温州平阳火车站银泰城酒店", 
+    "hotelAddressShort": "浙江省温州市平阳县鳌江镇车站大道瓯南御园南首"
+  }, 
+  {
+    "hotelId": "3250111", 
+    "hotelName": "全季温州大道酒店", 
+    "hotelAddressShort": "温州市鹿城区温州大道1702号（金富大厦）"
+  }
+]

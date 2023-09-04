@@ -1,0 +1,202 @@
+[
+  {
+    "hotelId": "9011174", 
+    "hotelName": "全季临海崇和门酒店", 
+    "hotelAddressShort": "浙江省台州临海市古城街道崇和路248-252号崇和大厦7-12层"
+  }, 
+  {
+    "hotelId": "9000347", 
+    "hotelName": "汉庭优佳台州黄岩酒店", 
+    "hotelAddressShort": "浙江省台州市黄岩区新前街道新城路111号"
+  }, 
+  {
+    "hotelId": "3170992", 
+    "hotelName": "汉庭临海崇和门酒店（质量整改）", 
+    "hotelAddressShort": "临海市回浦路47号"
+  }, 
+  {
+    "hotelId": "9008999", 
+    "hotelName": "汉庭温岭横峰酒店", 
+    "hotelAddressShort": "温岭市横峰街道祝家洋村横牧路288号"
+  }, 
+  {
+    "hotelId": "9017117", 
+    "hotelName": "海友台州椒江酒店", 
+    "hotelAddressShort": " 台州市椒江区白云山西路845，847号（葭沚医院斜对面）)"
+  }, 
+  {
+    "hotelId": "9010907", 
+    "hotelName": "全季台州椒江七号码头酒店", 
+    "hotelAddressShort": "台州市椒江区解放北路93号"
+  }, 
+  {
+    "hotelId": "9014591", 
+    "hotelName": "你好台州玉环沙门酒店", 
+    "hotelAddressShort": "台州市玉环市环沙北路501号（沙门高速公路口往前300米，近滨港工业区）"
+  }, 
+  {
+    "hotelId": "9008184", 
+    "hotelName": "全季临海客运中心酒店", 
+    "hotelAddressShort": "柏叶东路1161号"
+  }, 
+  {
+    "hotelId": "9007713", 
+    "hotelName": "全季台州天台山酒店", 
+    "hotelAddressShort": "台州市天台县始丰街道济公大道718号"
+  }, 
+  {
+    "hotelId": "9015729", 
+    "hotelName": "汉庭温岭松门酒店", 
+    "hotelAddressShort": "浙江省台州市温岭市松门镇海逸路33号"
+  }, 
+  {
+    "hotelId": "9019183", 
+    "hotelName": "台州晶琪美仑酒店", 
+    "hotelAddressShort": "东环大道460号"
+  }, 
+  {
+    "hotelId": "3172052", 
+    "hotelName": "宜必思尚品台州天台酒店", 
+    "hotelAddressShort": "浙江省台州市天台县寒山路99号"
+  }, 
+  {
+    "hotelId": "9014237", 
+    "hotelName": "你好台州玉环万达广场酒店", 
+    "hotelAddressShort": "浙江省台州市玉环市芦浦镇银湖大道国贸大厦B座（东50米）"
+  }, 
+  {
+    "hotelId": "9000539", 
+    "hotelName": "汉庭温岭大溪酒店", 
+    "hotelAddressShort": "温岭市大溪镇大石路辅路下村村综合楼"
+  }, 
+  {
+    "hotelId": "9014998", 
+    "hotelName": "你好临海崇和门酒店", 
+    "hotelAddressShort": "台州市临海市东湖小商品城2号楼"
+  }, 
+  {
+    "hotelId": "3176051", 
+    "hotelName": "汉庭台州玉环楚门酒店", 
+    "hotelAddressShort": "浙江省台州市玉环市楚门镇泽坎路598号环宇大厦16-17"
+  }, 
+  {
+    "hotelId": "9007617", 
+    "hotelName": "全季台州玉环楚门酒店", 
+    "hotelAddressShort": "玉环楚门镇胡新工业区亿展大厦"
+  }, 
+  {
+    "hotelId": "9017588", 
+    "hotelName": "汉庭台州天台山酒店", 
+    "hotelAddressShort": "浙江省天台县始丰街道宝通路68号"
+  }, 
+  {
+    "hotelId": "3175002", 
+    "hotelName": "全季台州温岭酒店", 
+    "hotelAddressShort": "中华路502-514号（S1轻轨万昌路站B出口）"
+  }, 
+  {
+    "hotelId": "9000989", 
+    "hotelName": "汉庭台州椒江宝龙城酒店", 
+    "hotelAddressShort": "浙江省台州市椒江区中山西路408号（椒江体育馆斜对面）"
+  }, 
+  {
+    "hotelId": "9015778", 
+    "hotelName": "全季台州黄岩酒店", 
+    "hotelAddressShort": "西城街道祺祥街97号"
+  }, 
+  {
+    "hotelId": "9013442", 
+    "hotelName": "全季台州椒江商业街酒店", 
+    "hotelAddressShort": "台州市椒江区经中路398号（塘岸小区对面）"
+  }, 
+  {
+    "hotelId": "3180012", 
+    "hotelName": "全季台州椒江酒店", 
+    "hotelAddressShort": "东环大道290-12，290-13号"
+  }, 
+  {
+    "hotelId": "3176001", 
+    "hotelName": "汉庭玉环吾悦广场酒店", 
+    "hotelAddressShort": "浙江省台州市玉环市广陵南路296-302号"
+  }, 
+  {
+    "hotelId": "9000998", 
+    "hotelName": "台州仙居美仑酒店", 
+    "hotelAddressShort": "穿城中路16号"
+  }, 
+  {
+    "hotelId": "9000129", 
+    "hotelName": "汉庭台州椒江商业街酒店", 
+    "hotelAddressShort": "浙江省台州市椒江区商业街开元路192号（实验小学隔壁100米）"
+  }, 
+  {
+    "hotelId": "3180011", 
+    "hotelName": "汉庭台州椒江酒店", 
+    "hotelAddressShort": "浙江省台州市椒江区白云山南路99号（教育局隔壁100米）"
+  }, 
+  {
+    "hotelId": "9008181", 
+    "hotelName": "星程临海杜桥宝龙广场酒店", 
+    "hotelAddressShort": "杜桥镇牌门路651号（宝龙广场旁）"
+  }, 
+  {
+    "hotelId": "3175001", 
+    "hotelName": "汉庭优佳温岭万昌中路九龙酒店", 
+    "hotelAddressShort": "浙江省台州市温岭万昌中路818号建联大厦"
+  }, 
+  {
+    "hotelId": "3180501", 
+    "hotelName": "汉庭台州国际会展中心酒店", 
+    "hotelAddressShort": "台州市路桥区西路桥大道266号（东方理想学校正对面）"
+  }, 
+  {
+    "hotelId": "9007191", 
+    "hotelName": "汉庭台州黄岩区政府酒店", 
+    "hotelAddressShort": "台州市黄岩区劳动北路39号"
+  }, 
+  {
+    "hotelId": "9020991", 
+    "hotelName": "全季台州杜桥宝龙城酒店", 
+    "hotelAddressShort": "台州市临海市杜桥镇滨海路623号"
+  }, 
+  {
+    "hotelId": "9005141", 
+    "hotelName": "怡莱温岭万昌中路酒店", 
+    "hotelAddressShort": "浙江省温岭市万昌中路九龙商业街359号万昌中路浦东发展银行后面"
+  }, 
+  {
+    "hotelId": "3180503", 
+    "hotelName": "汉庭台州路桥酒店", 
+    "hotelAddressShort": "台州市路桥区西路桥大道85-93号"
+  }, 
+  {
+    "hotelId": "9000865", 
+    "hotelName": "星程临海银泰城酒店", 
+    "hotelAddressShort": "柏叶西路175号（柏叶西路与立发路路口）"
+  }, 
+  {
+    "hotelId": "3172051", 
+    "hotelName": "怡莱精品台州天台客运中心酒店", 
+    "hotelAddressShort": "浙江省天台县茅导师综合楼（济公大道和溪林路交叉口）"
+  }, 
+  {
+    "hotelId": "9009255", 
+    "hotelName": "怡莱台州黄岩悦华酒店", 
+    "hotelAddressShort": "西城街道新城路2号"
+  }, 
+  {
+    "hotelId": "9007411", 
+    "hotelName": "怡莱台州三门大湖塘新区酒店", 
+    "hotelAddressShort": "浙江省台州市三门县海游街道梧桐路4号"
+  }, 
+  {
+    "hotelId": "9009087", 
+    "hotelName": "怡莱温岭深兰雅居酒店", 
+    "hotelAddressShort": "浙江省温岭市太平街道人民西路316号"
+  }, 
+  {
+    "hotelId": "9007582", 
+    "hotelName": "怡莱台州椒江七号码头酒店", 
+    "hotelAddressShort": "中山西路137号（中山广场旁）"
+  }
+]

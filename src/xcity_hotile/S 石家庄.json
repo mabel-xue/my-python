@@ -1,0 +1,302 @@
+[
+  {
+    "hotelId": "9010833", 
+    "hotelName": "汉庭石家庄正定新区会展中心酒店", 
+    "hotelAddressShort": "河北省石家庄市正定新区新城大道5号宝能中心3号楼汉庭酒店"
+  }, 
+  {
+    "hotelId": "0503001", 
+    "hotelName": "汉庭石家庄井陉微新路酒店", 
+    "hotelAddressShort": "河北省石家庄市井陉县微新路双星商住楼底商微新路陉山大道交口南行100米路西"
+  }, 
+  {
+    "hotelId": "9018372", 
+    "hotelName": "汉庭石家庄开发区丰产路酒店", 
+    "hotelAddressShort": "石家庄经济技术开发区丰产路51号"
+  }, 
+  {
+    "hotelId": "9003875", 
+    "hotelName": "汉庭石家庄西三庄大街酒店", 
+    "hotelAddressShort": "西三庄大街145号和谐家园底商 地铁三号线西三庄站B口北行550米路东"
+  }, 
+  {
+    "hotelId": "9008559", 
+    "hotelName": "汉庭石家庄正定古城南城门酒店", 
+    "hotelAddressShort": "正定县旺泉南街81号"
+  }, 
+  {
+    "hotelId": "0500911", 
+    "hotelName": "汉庭石家庄火车站西广场酒店", 
+    "hotelAddressShort": "石家庄桥西区中华南大街493号（天鹅湖酒店对面，中华南大街与华星路交口东北角)"
+  }, 
+  {
+    "hotelId": "0523601", 
+    "hotelName": "汉庭石家庄辛集市府大街酒店", 
+    "hotelAddressShort": "河北省石家庄市辛集市兴华北路333号（市府街与兴华路交口东北角）"
+  }, 
+  {
+    "hotelId": "0508002", 
+    "hotelName": "汉庭优佳石家庄正定机场酒店", 
+    "hotelAddressShort": "石家庄正定县机场北路8号"
+  }, 
+  {
+    "hotelId": "9005456", 
+    "hotelName": "全季石家庄正定国际机场酒店", 
+    "hotelAddressShort": "机场迎宾路5号"
+  }, 
+  {
+    "hotelId": "9000126", 
+    "hotelName": "石家庄人民广场美居酒店", 
+    "hotelAddressShort": "中山东路195号"
+  }, 
+  {
+    "hotelId": "0500261", 
+    "hotelName": "汉庭石家庄翟营北大街酒店", 
+    "hotelAddressShort": "河北省石家庄市长安区翟营北大街3号(翟营北大街与中山路交口北行50米路东)"
+  }, 
+  {
+    "hotelId": "9009403", 
+    "hotelName": "汉庭石家庄开发区创业路酒店", 
+    "hotelAddressShort": "河北省石家庄市藁城区创业路7号"
+  }, 
+  {
+    "hotelId": "9007070", 
+    "hotelName": "汉庭石家庄井陉矿区酒店", 
+    "hotelAddressShort": "河北省石家庄市井陉矿区南纬路62号（矿市街与南纬路交叉口东行100米）"
+  }, 
+  {
+    "hotelId": "9003238", 
+    "hotelName": "全季石家庄学院北校区酒店", 
+    "hotelAddressShort": "裕华东路与珠峰大街交口南行30米"
+  }, 
+  {
+    "hotelId": "9011550", 
+    "hotelName": "汉庭石家庄正定机场酒店", 
+    "hotelAddressShort": "河北省石家庄市藁城区增村镇杨马村303省道与机场路交口西行100米路南"
+  }, 
+  {
+    "hotelId": "9000325", 
+    "hotelName": "桔子石家庄富强大街永昌里酒店", 
+    "hotelAddressShort": "富强大街与塔北路交口西南角（塔冢站C口30米）"
+  }, 
+  {
+    "hotelId": "9014611", 
+    "hotelName": "汉庭石家庄火车北站酒店", 
+    "hotelAddressShort": "市庄路286号泰华街与市庄路交口东行150米路南"
+  }, 
+  {
+    "hotelId": "9002865", 
+    "hotelName": "汉庭石家庄和平西路酒店", 
+    "hotelAddressShort": "石家庄和平西路100号(省二院南门对面)"
+  }, 
+  {
+    "hotelId": "0500004", 
+    "hotelName": "汉庭石家庄联盟路酒店", 
+    "hotelAddressShort": "石家庄市新华区联盟路与中华大街交口西南角"
+  }, 
+  {
+    "hotelId": "9001467", 
+    "hotelName": "汉庭石家庄中山西路酒店", 
+    "hotelAddressShort": "河北省石家庄市桥西区中山西路364号（中山西路与友谊大街交口东行100米路南、近和平医院、54所）"
+  }, 
+  {
+    "hotelId": "9010783", 
+    "hotelName": "汉庭石家庄深泽向阳街酒店", 
+    "hotelAddressShort": "河北省石家庄市深泽县向阳街126号与建设路交叉口西南角（老电影院）"
+  }, 
+  {
+    "hotelId": "0508991", 
+    "hotelName": "汉庭石家庄正定恒山西路酒店", 
+    "hotelAddressShort": "石家庄市正定县恒山西路89号"
+  }, 
+  {
+    "hotelId": "8915554", 
+    "hotelName": "汉庭石家庄栾城河北传媒大学酒店", 
+    "hotelAddressShort": "河北省石家庄市栾城区兴安大街与宏远路交口西行50米路南"
+  }, 
+  {
+    "hotelId": "9006931", 
+    "hotelName": "星程石家庄中山西路酒店", 
+    "hotelAddressShort": "河北省石家庄市桥西区中山西路491号（和平医院对面54所生活区门口）"
+  }, 
+  {
+    "hotelId": "0500231", 
+    "hotelName": "全季石家庄大剧院酒店", 
+    "hotelAddressShort": "塔南路72号"
+  }, 
+  {
+    "hotelId": "9001414", 
+    "hotelName": "汉庭石家庄河北师范大学酒店", 
+    "hotelAddressShort": "河北省石家庄市裕华区裕翔街与仓盛路交叉口西南角锦绣商业广场东区1-106"
+  }, 
+  {
+    "hotelId": "0502001", 
+    "hotelName": "汉庭石家庄鹿泉海山南大街酒店", 
+    "hotelAddressShort": "河北省石家庄市鹿泉市海山南大街和站前路交叉口西北角"
+  }, 
+  {
+    "hotelId": "9017920", 
+    "hotelName": "汉庭石家庄辛集市万达广场酒店", 
+    "hotelAddressShort": "辛集市教育路北段A133号路西百合SOHOB座(教育路西侧、古城大街北侧百合御景城B座)"
+  }, 
+  {
+    "hotelId": "9001855", 
+    "hotelName": "汉庭石家庄行唐龙州西大街酒店", 
+    "hotelAddressShort": "河北省石家庄市行唐县龙州西大街213号"
+  }, 
+  {
+    "hotelId": "0500001", 
+    "hotelName": "汉庭石家庄中华北大街酒店", 
+    "hotelAddressShort": "石家庄新华区中华北大街53号，中华北大街与新华路交叉口北行50米路东"
+  }, 
+  {
+    "hotelId": "9000224", 
+    "hotelName": "汉庭石家庄天山大街留村地铁站店", 
+    "hotelAddressShort": "河北省石家庄市裕华区天山大街湘江道与天山大街交口南行200米路西 省四院东院对面"
+  }, 
+  {
+    "hotelId": "9021394", 
+    "hotelName": "全季石家庄槐安东路恒大绿洲酒店", 
+    "hotelAddressShort": "石家庄市蒿城区经济技术开发区丰产路3号"
+  }, 
+  {
+    "hotelId": "0500561", 
+    "hotelName": "汉庭石家庄火车站槐安西路酒店", 
+    "hotelAddressShort": "河北省石家庄市桥西区槐安西路与中华南大街交叉口西行200米路北"
+  }, 
+  {
+    "hotelId": "9017015", 
+    "hotelName": "汉庭石家庄晋州人民医院酒店", 
+    "hotelAddressShort": "世纪大街与朝阳路交叉口东行120米路南"
+  }, 
+  {
+    "hotelId": "0500213", 
+    "hotelName": "宜必思石家庄建设南大街酒店", 
+    "hotelAddressShort": "河北省石家庄市裕华区建设南大街235号"
+  }, 
+  {
+    "hotelId": "9015807", 
+    "hotelName": "星程石家庄建设大街裕华路地铁站酒店", 
+    "hotelAddressShort": "裕华东路66号河北大戏院"
+  }, 
+  {
+    "hotelId": "0500211", 
+    "hotelName": "汉庭石家庄建和桥地铁站酒店（原建设北大街店）", 
+    "hotelAddressShort": "石家庄市长安区光华路135号(建设北大街与光华路交叉口东行300米路北）"
+  }, 
+  {
+    "hotelId": "9008909", 
+    "hotelName": "石家庄裕华东路美居酒店", 
+    "hotelAddressShort": "裕华东路116号"
+  }, 
+  {
+    "hotelId": "9011269", 
+    "hotelName": "汉庭石家庄槐安东路酒店", 
+    "hotelAddressShort": "槐安东路166号"
+  }, 
+  {
+    "hotelId": "9016394", 
+    "hotelName": "星程石家庄解放大街乐汇城酒店", 
+    "hotelAddressShort": "正东路5号新源发商贸城"
+  }, 
+  {
+    "hotelId": "0500904", 
+    "hotelName": "汉庭石家庄中华南大街酒店", 
+    "hotelAddressShort": "河北省石家庄市桥西区中华南大街210号"
+  }, 
+  {
+    "hotelId": "0500192", 
+    "hotelName": "汉庭石家庄中山东路酒店", 
+    "hotelAddressShort": "河北省石家庄市桥西区中山东路48号（中山东路与大经街交叉口西行100米路南）"
+  }, 
+  {
+    "hotelId": "9007982", 
+    "hotelName": "汉庭石家庄建华城市广场酒店", 
+    "hotelAddressShort": "北宋路与煤机街交口西南角"
+  }, 
+  {
+    "hotelId": "0500461", 
+    "hotelName": "全季石家庄建设北大街酒店", 
+    "hotelAddressShort": "建设北大街256号"
+  }, 
+  {
+    "hotelId": "0500312", 
+    "hotelName": "汉庭石家庄槐中路酒店", 
+    "hotelAddressShort": "河北省石家庄市裕华区富强大街与槐中路交口东行100米路南汉庭酒店190号（石门公园对面）"
+  }, 
+  {
+    "hotelId": "9003912", 
+    "hotelName": "汉庭石家庄天山海世界酒店", 
+    "hotelAddressShort": "河北省石家庄市高新区长江街道中山东路989号尚郡广场1号楼"
+  }, 
+  {
+    "hotelId": "9004766", 
+    "hotelName": "全季石家庄中山西路酒店", 
+    "hotelAddressShort": "中山西路499号"
+  }, 
+  {
+    "hotelId": "9008390", 
+    "hotelName": "星程石家庄火车站东广场酒店", 
+    "hotelAddressShort": "金利街28号(金利街与建通街交口东南角）"
+  }, 
+  {
+    "hotelId": "0522601", 
+    "hotelName": "汉庭石家庄新华路酒店", 
+    "hotelAddressShort": "石家庄市桥西区新华路302号"
+  }, 
+  {
+    "hotelId": "9009037", 
+    "hotelName": "汉庭石家庄建华北大街酒店", 
+    "hotelAddressShort": "石家庄长安区光华路321号居然之家底商北通道"
+  }, 
+  {
+    "hotelId": "0504001", 
+    "hotelName": "汉庭石家庄平山冶河东路酒店", 
+    "hotelAddressShort": "石家庄市平山县城冶河东路20号"
+  }, 
+  {
+    "hotelId": "9004622", 
+    "hotelName": "全季石家庄天山海世界酒店", 
+    "hotelAddressShort": "天山大街199号"
+  }, 
+  {
+    "hotelId": "0500193", 
+    "hotelName": "全季石家庄裕华东路酒店", 
+    "hotelAddressShort": "裕华东路116-2"
+  }, 
+  {
+    "hotelId": "0500241", 
+    "hotelName": "汉庭石家庄汇通路地铁站酒店（原石家庄汇通路店）", 
+    "hotelAddressShort": "河北省石家庄市裕华区石栾路2号副1号（石栾路与汇通路交口东南角）"
+  }, 
+  {
+    "hotelId": "9003878", 
+    "hotelName": "海友石家庄宁安路铁运学院店", 
+    "hotelAddressShort": "宁安街道永泰中街83号"
+  }, 
+  {
+    "hotelId": "9017568", 
+    "hotelName": "星程石家庄省博物院地铁站酒店", 
+    "hotelAddressShort": "中山东路306号"
+  }, 
+  {
+    "hotelId": "9004014", 
+    "hotelName": "星程石家庄北国商城酒店", 
+    "hotelAddressShort": "建设北大街20号蜂巢购物中心写字楼一层"
+  }, 
+  {
+    "hotelId": "0500311", 
+    "hotelName": "汉庭石家庄建华南大街北宋地铁站酒店", 
+    "hotelAddressShort": "石家庄市长安区建华南大街18号(北宋地铁站C出口步行到建华南大街南行50米路西)"
+  }, 
+  {
+    "hotelId": "9016294", 
+    "hotelName": "汉庭石家庄和平西路友谊北大街酒店", 
+    "hotelAddressShort": "和平西路448号和平西路与泰华街交口西行300米路南"
+  }, 
+  {
+    "hotelId": "0500321", 
+    "hotelName": "汉庭石家庄北国商城地铁站酒店（原北国商城店）", 
+    "hotelAddressShort": "石家庄市长安区中山东路189号燕春饭店正门"
+  }
+]

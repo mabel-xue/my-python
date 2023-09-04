@@ -1,0 +1,402 @@
+[
+  {
+    "hotelId": "9014916", 
+    "hotelName": "无锡雪浪宋品酒店", 
+    "hotelAddressShort": "无锡市滨湖区融创文化旅游城1号"
+  }, 
+  {
+    "hotelId": "8000491", 
+    "hotelName": "无锡阳山花间堂·桃花岛", 
+    "hotelAddressShort": "无锡市惠山区阳山镇桃园南路中段"
+  }, 
+  {
+    "hotelId": "9003128", 
+    "hotelName": "无锡南长古韵漫心府", 
+    "hotelAddressShort": "无锡市梁溪区南下塘花园弄1号（无锡古运河景区内）"
+  }, 
+  {
+    "hotelId": "9000297", 
+    "hotelName": "无锡南长街古运河漫心酒店", 
+    "hotelAddressShort": "北塘大街188号（位于市中心，紧邻南长街古运河景区、欧风街美食街，茂业百货、三阳广场、惠山古镇，酒店距离无锡火车站约1公里，距离胜利门地铁站约6分钟）"
+  }, 
+  {
+    "hotelId": "2140019", 
+    "hotelName": "桔子水晶无锡南长街酒店", 
+    "hotelAddressShort": "解放南路727号"
+  }, 
+  {
+    "hotelId": "2140021", 
+    "hotelName": "汉庭无锡南禅寺地铁站酒店", 
+    "hotelAddressShort": "梁溪区中山路10号"
+  }, 
+  {
+    "hotelId": "9001327", 
+    "hotelName": "无锡太湖融创文旅城美居酒店", 
+    "hotelAddressShort": "锦溪路100号2号楼B栋"
+  }, 
+  {
+    "hotelId": "2140291", 
+    "hotelName": "汉庭无锡新加坡工业园酒店", 
+    "hotelAddressShort": "新区高浪路新加坡工业园行创六路6号-1"
+  }, 
+  {
+    "hotelId": "9004786", 
+    "hotelName": "全季无锡苏宁广场酒店", 
+    "hotelAddressShort": "无锡市梁溪区解放东路851号"
+  }, 
+  {
+    "hotelId": "8000653", 
+    "hotelName": "无锡南长街三阳广场漫心酒店", 
+    "hotelAddressShort": "解放西路323号（市中心大成巷美食街旁，近恒隆广场、南长街古运河、惠山古镇）"
+  }, 
+  {
+    "hotelId": "9003903", 
+    "hotelName": "汉庭宜兴张渚镇酒店", 
+    "hotelAddressShort": "江苏省无锡市宜兴市张渚镇新东路新东桥"
+  }, 
+  {
+    "hotelId": "9003293", 
+    "hotelName": "汉庭优佳江阴夏港酒店", 
+    "hotelAddressShort": "江阴市夏港镇新长江路299号"
+  }, 
+  {
+    "hotelId": "2140372", 
+    "hotelName": "海友无锡藕塘职教园酒店", 
+    "hotelAddressShort": "江苏省无锡市惠山区文良路50号"
+  }, 
+  {
+    "hotelId": "9001750", 
+    "hotelName": "星程江阴人民路步行街店", 
+    "hotelAddressShort": "环城南路498号"
+  }, 
+  {
+    "hotelId": "9002161", 
+    "hotelName": "汉庭优佳无锡洛社融创银城酒店", 
+    "hotelAddressShort": "惠山区洛社镇洛南大道与钱洛路交汇处"
+  }, 
+  {
+    "hotelId": "2140373", 
+    "hotelName": "汉庭无锡钱桥大街酒店", 
+    "hotelAddressShort": "惠山区钱桥大街336号"
+  }, 
+  {
+    "hotelId": "9022151", 
+    "hotelName": "汉庭无锡火车站广瑞路酒店", 
+    "hotelAddressShort": "无锡市广瑞路1188号 1层局部 2层-7层全部"
+  }, 
+  {
+    "hotelId": "2141003", 
+    "hotelName": "全季无锡惠山风景区职教园酒店", 
+    "hotelAddressShort": "钱桥青春商业中心A1楼五层至六层以及一层部分"
+  }, 
+  {
+    "hotelId": "9017101", 
+    "hotelName": "全季无锡锡沪路八佰伴柏庄地铁站酒店", 
+    "hotelAddressShort": " 锡沪中路168号"
+  }, 
+  {
+    "hotelId": "9011616", 
+    "hotelName": "汉庭无锡火车站北广场酒店", 
+    "hotelAddressShort": "梁溪区广瑞路400号"
+  }, 
+  {
+    "hotelId": "9013575", 
+    "hotelName": "无锡南长街胜利门CitiGO欢阁酒店", 
+    "hotelAddressShort": "工运路8号"
+  }, 
+  {
+    "hotelId": "9018453", 
+    "hotelName": "桔子无锡三阳广场南长街酒店", 
+    "hotelAddressShort": "县前东街88号"
+  }, 
+  {
+    "hotelId": "9001948", 
+    "hotelName": "汉庭江阴申港酒店", 
+    "hotelAddressShort": "江阴市镇澄路1529号"
+  }, 
+  {
+    "hotelId": "9010424", 
+    "hotelName": "桔子无锡火车站北广场酒店", 
+    "hotelAddressShort": "通江大道118号"
+  }, 
+  {
+    "hotelId": "9007293", 
+    "hotelName": "汉庭无锡国家软件园酒店", 
+    "hotelAddressShort": "无锡市新吴区和风路19号启迪协信中心"
+  }, 
+  {
+    "hotelId": "9020565", 
+    "hotelName": "海友无锡梅里古镇酒店", 
+    "hotelAddressShort": "泰伯大道438号"
+  }, 
+  {
+    "hotelId": "2140251", 
+    "hotelName": "宜必思无锡南长街太湖广场地铁站店", 
+    "hotelAddressShort": "无锡梁溪区清扬路89号"
+  }, 
+  {
+    "hotelId": "9003292", 
+    "hotelName": "汉庭优佳无锡惠山古镇酒店", 
+    "hotelAddressShort": "梁溪区惠景家园钱皋路1号"
+  }, 
+  {
+    "hotelId": "9007991", 
+    "hotelName": "星程无锡灵山景区酒店", 
+    "hotelAddressShort": "梅梁路29号（梅梁中学西侧）"
+  }, 
+  {
+    "hotelId": "9010570", 
+    "hotelName": "桔子无锡硕放机场酒店", 
+    "hotelAddressShort": "硕放街道香梅商业广场3号楼南星路与通详路交口香梅硕放商业广场3栋"
+  }, 
+  {
+    "hotelId": "9012543", 
+    "hotelName": "全季江阴人民路步行街酒店", 
+    "hotelAddressShort": "澄江街道体育场路8号"
+  }, 
+  {
+    "hotelId": "8000396", 
+    "hotelName": "全季无锡三阳广场酒店", 
+    "hotelAddressShort": "无锡市梁溪区人民中路210号"
+  }, 
+  {
+    "hotelId": "2140921", 
+    "hotelName": "汉庭无锡灵山景区酒店", 
+    "hotelAddressShort": "滨湖区马山镇乐山路23号"
+  }, 
+  {
+    "hotelId": "9008075", 
+    "hotelName": "全季江阴高新区石山路酒店", 
+    "hotelAddressShort": "长山镇石山路258号"
+  }, 
+  {
+    "hotelId": "2140012", 
+    "hotelName": "汉庭无锡火车站南广场酒店", 
+    "hotelAddressShort": "梁溪区汉昌北街60号"
+  }, 
+  {
+    "hotelId": "2140283", 
+    "hotelName": "汉庭无锡新区长江路酒店", 
+    "hotelAddressShort": "无锡市新吴区长江路10号"
+  }, 
+  {
+    "hotelId": "9015204", 
+    "hotelName": "你好江阴华士镇陆东大街酒店", 
+    "hotelAddressShort": "华士镇陆桥陆东大街31号"
+  }, 
+  {
+    "hotelId": "8000634", 
+    "hotelName": "宜必思尚品无锡南长街店", 
+    "hotelAddressShort": "江苏省无锡市梁溪区羊腰湾52号"
+  }, 
+  {
+    "hotelId": "9000820", 
+    "hotelName": "全季无锡古运河火车站酒店", 
+    "hotelAddressShort": "江苏省无锡市兴源北路车站广场88号"
+  }, 
+  {
+    "hotelId": "9023021", 
+    "hotelName": "星程江阴高新区砂山路酒店", 
+    "hotelAddressShort": "砂山路100号"
+  }, 
+  {
+    "hotelId": "2141122", 
+    "hotelName": "桔子无锡梅里古都酒店", 
+    "hotelAddressShort": "江苏省无锡市新吴区梅村锡义中路388号"
+  }, 
+  {
+    "hotelId": "8000523", 
+    "hotelName": "汉庭无锡太湖国际博览中心酒店", 
+    "hotelAddressShort": "滨湖区华庄镇苏锡西路288号"
+  }, 
+  {
+    "hotelId": "8000223", 
+    "hotelName": "桔子无锡湖滨商业街酒店", 
+    "hotelAddressShort": "无锡市中南西路88号"
+  }, 
+  {
+    "hotelId": "2141991", 
+    "hotelName": "汉庭无锡东港红豆万花城酒店", 
+    "hotelAddressShort": "锡山区东港镇兴港南路83号"
+  }, 
+  {
+    "hotelId": "9007246", 
+    "hotelName": "汉庭宜兴体育中心酒店", 
+    "hotelAddressShort": "宜兴市荆邑南路8号"
+  }, 
+  {
+    "hotelId": "8916314", 
+    "hotelName": "汉庭优佳无锡荡口古镇酒店", 
+    "hotelAddressShort": "锡山区鹅湖镇蘅芳路53-15"
+  }, 
+  {
+    "hotelId": "9007422", 
+    "hotelName": "全季无锡三阳广场南长街酒店（原中山路八佰伴酒店）", 
+    "hotelAddressShort": "江苏省无锡市梁溪区新生路109号"
+  }, 
+  {
+    "hotelId": "9010205", 
+    "hotelName": "汉庭无锡湖滨路酒店", 
+    "hotelAddressShort": "滨湖区湖滨路653号"
+  }, 
+  {
+    "hotelId": "9002032", 
+    "hotelName": "全季无锡惠山万达广场酒店", 
+    "hotelAddressShort": "惠源路15号"
+  }, 
+  {
+    "hotelId": "2141611", 
+    "hotelName": "汉庭无锡胡埭酒店", 
+    "hotelAddressShort": "无锡市滨湖区胡埭镇芙蓉北路15号"
+  }, 
+  {
+    "hotelId": "8000244", 
+    "hotelName": "汉庭无锡小桃源地铁站酒店", 
+    "hotelAddressShort": "滨湖区梁溪路小桃源8号"
+  }, 
+  {
+    "hotelId": "9008885", 
+    "hotelName": "汉庭无锡三阳广场地铁站酒店", 
+    "hotelAddressShort": "北禅寺巷15号"
+  }, 
+  {
+    "hotelId": "9013670", 
+    "hotelName": "全季无锡三阳广场胜利门酒店（原中山路胜利门酒店）", 
+    "hotelAddressShort": "江苏省无锡市梁溪区解放东路1008号"
+  }, 
+  {
+    "hotelId": "2141252", 
+    "hotelName": "全季无锡江南大学酒店", 
+    "hotelAddressShort": "锦溪路100号创业园2号楼B栋"
+  }, 
+  {
+    "hotelId": "9021403", 
+    "hotelName": "汉庭江阴万达广场店", 
+    "hotelAddressShort": "青山路76号（1层部分，3-5层全部）"
+  }, 
+  {
+    "hotelId": "9009887", 
+    "hotelName": "桔子江阴人民路步行街酒店", 
+    "hotelAddressShort": "澄江街道文定路77-79号"
+  }, 
+  {
+    "hotelId": "9010526", 
+    "hotelName": "你好无锡南长街长江路酒店", 
+    "hotelAddressShort": "无锡市新吴区永乐东路锡城一街"
+  }, 
+  {
+    "hotelId": "9007075", 
+    "hotelName": "海友无锡欧风街惠山古镇酒店（原吴桥地铁站店）", 
+    "hotelAddressShort": "无锡市梁溪区中山路嘉德大厦A座10楼"
+  }, 
+  {
+    "hotelId": "2140017", 
+    "hotelName": "汉庭无锡恒隆广场酒店", 
+    "hotelAddressShort": "梁溪区前西溪1-4号"
+  }, 
+  {
+    "hotelId": "8000582", 
+    "hotelName": "全季无锡南长街酒店", 
+    "hotelAddressShort": "永乐路29号新天地休闲广场3号楼"
+  }, 
+  {
+    "hotelId": "2142031", 
+    "hotelName": "宜必思宜兴龙背山森林公园酒店", 
+    "hotelAddressShort": "宜兴宜城街道人民南路龙背山森林公园商业街4幢"
+  }, 
+  {
+    "hotelId": "9010070", 
+    "hotelName": "全季江阴临港红豆万花城酒店", 
+    "hotelAddressShort": " 临港新城万花城A2幢"
+  }, 
+  {
+    "hotelId": "8915657", 
+    "hotelName": "汉庭优佳无锡梅村梅里古镇酒店", 
+    "hotelAddressShort": "新吴区梅村街道新友北路36-115"
+  }, 
+  {
+    "hotelId": "9012248", 
+    "hotelName": "汉庭无锡东绛酒店", 
+    "hotelAddressShort": "滨湖区太湖街道周新西路75号"
+  }, 
+  {
+    "hotelId": "9007796", 
+    "hotelName": "全季宜兴环科园酒店", 
+    "hotelAddressShort": "环科园绿园路41号"
+  }, 
+  {
+    "hotelId": "8000314", 
+    "hotelName": "全季无锡硕放机场酒店", 
+    "hotelAddressShort": "通祥路63号"
+  }, 
+  {
+    "hotelId": "2141351", 
+    "hotelName": "汉庭无锡太湖国际科技园酒店", 
+    "hotelAddressShort": "新区菱湖大道99号"
+  }, 
+  {
+    "hotelId": "9016967", 
+    "hotelName": "海友无锡人民医院地铁站酒店", 
+    "hotelAddressShort": "无锡市梁溪区金城路507号"
+  }, 
+  {
+    "hotelId": "2141041", 
+    "hotelName": "汉庭无锡查桥商业广场酒店", 
+    "hotelAddressShort": "锡山区安镇街道查桥商业广场香港街"
+  }, 
+  {
+    "hotelId": "9014774", 
+    "hotelName": "海友无锡江南大学融创文旅城酒店", 
+    "hotelAddressShort": "无锡市滨湖区雪浪街道锡南路157号"
+  }, 
+  {
+    "hotelId": "9012506", 
+    "hotelName": "你好无锡硕放机场酒店", 
+    "hotelAddressShort": "新吴区硕放街道香梅商业广场3号楼1068号"
+  }, 
+  {
+    "hotelId": "9008817", 
+    "hotelName": "全季无锡梅里古都酒店", 
+    "hotelAddressShort": "新吴区吴音水岸109-207号"
+  }, 
+  {
+    "hotelId": "9000383", 
+    "hotelName": "桔子无锡火车站酒店", 
+    "hotelAddressShort": "梁溪区兴源北路800号"
+  }, 
+  {
+    "hotelId": "2141871", 
+    "hotelName": "汉庭无锡洛社天奇城酒店", 
+    "hotelAddressShort": "惠山区人民南路128号"
+  }, 
+  {
+    "hotelId": "9007409", 
+    "hotelName": "全季江阴高新区长江路酒店", 
+    "hotelAddressShort": "长江路205号"
+  }, 
+  {
+    "hotelId": "9008090", 
+    "hotelName": "星程无锡五洲国际工业博览城酒店", 
+    "hotelAddressShort": "五洲国际工业博览城295-1022号(金城东路与坊城大道交叉路口东侧)"
+  }, 
+  {
+    "hotelId": "2140285", 
+    "hotelName": "宜必思无锡新区新光路地铁站酒店", 
+    "hotelAddressShort": "无锡市新区新光路303号"
+  }, 
+  {
+    "hotelId": "9015538", 
+    "hotelName": "星程无锡新区长江路酒店", 
+    "hotelAddressShort": "长江北路10号"
+  }, 
+  {
+    "hotelId": "9007940", 
+    "hotelName": "怡莱无锡苏南硕放国际机场酒店", 
+    "hotelAddressShort": "新区硕放墙宅路533号"
+  }, 
+  {
+    "hotelId": "9009998", 
+    "hotelName": "怡莱宜兴汽车客运站酒店", 
+    "hotelAddressShort": "江苏省宜兴市氿滨北路320号"
+  }
+]
