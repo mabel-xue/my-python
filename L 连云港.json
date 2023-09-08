@@ -1,0 +1,232 @@
+[
+  {
+    "hotelId": "9012345", 
+    "hotelName": "连云港花果山花间岭 · 悟云空", 
+    "hotelAddressShort": "连云港市海州区花果山街道花果山南天门"
+  }, 
+  {
+    "hotelId": "9015172", 
+    "hotelName": "全季连云港火车东站酒店", 
+    "hotelAddressShort": "连云区五羊路5号核电专家二村商业综合楼"
+  }, 
+  {
+    "hotelId": "9014078", 
+    "hotelName": "桔子水晶连云港万达广场酒店", 
+    "hotelAddressShort": "东盐河路10号（市区中心近万达广场、江苏海洋大学、巨龙路、苏宁广场、第二人民医院、盐河巷）"
+  }, 
+  {
+    "hotelId": "2220051", 
+    "hotelName": "汉庭连云港苍梧路海洋大学酒店", 
+    "hotelAddressShort": "海州区苍梧路47-18号（同科汇丰国际南门向西100米）"
+  }, 
+  {
+    "hotelId": "9006610", 
+    "hotelName": "汉庭连云港海州古城酒店", 
+    "hotelAddressShort": "海州区幸福南路1号（鼓楼转盘东南侧）"
+  }, 
+  {
+    "hotelId": "2220008", 
+    "hotelName": "汉庭连云港新浦公园东门酒店", 
+    "hotelAddressShort": "海州区南极北路40号(盐河巷美食街南侧100米）"
+  }, 
+  {
+    "hotelId": "8000570", 
+    "hotelName": "全季连云港火车站酒店", 
+    "hotelAddressShort": "人民东路88号1-3-36号"
+  }, 
+  {
+    "hotelId": "9008893", 
+    "hotelName": "全季连云港吾悦广场瀛洲路酒店", 
+    "hotelAddressShort": "连云港海州区郁洲南路167号"
+  }, 
+  {
+    "hotelId": "9009360", 
+    "hotelName": "全季连云港万达壹品国际酒店", 
+    "hotelAddressShort": "连云港市海州区科苑路88号"
+  }, 
+  {
+    "hotelId": "9020560", 
+    "hotelName": "桔子连云港灌云县政府酒店", 
+    "hotelAddressShort": "灌云县经济开发区幸福大道389-2号  "
+  }, 
+  {
+    "hotelId": "9016372", 
+    "hotelName": "汉庭连云港墟沟海鲜城酒店", 
+    "hotelAddressShort": "连云区海棠中路66-8号(海鲜城对面）"
+  }, 
+  {
+    "hotelId": "9020716", 
+    "hotelName": "你好连云港文峰广场酒店", 
+    "hotelAddressShort": "凌州4路16号-1"
+  }, 
+  {
+    "hotelId": "9014962", 
+    "hotelName": "全季连云港苏宁广场酒店", 
+    "hotelAddressShort": "海州区瀛洲路26号（连云港苏欣汽车客运站旁）"
+  }, 
+  {
+    "hotelId": "2220691", 
+    "hotelName": "全季连云港墟沟酒店", 
+    "hotelAddressShort": "连云港市海棠路3号"
+  }, 
+  {
+    "hotelId": "9005041", 
+    "hotelName": "汉庭连云港火车东站酒店", 
+    "hotelAddressShort": "连云区五羊路28号(五羊路BRT口往南300米）"
+  }, 
+  {
+    "hotelId": "9005756", 
+    "hotelName": "汉庭连云港通灌南路酒店", 
+    "hotelAddressShort": "海州区通灌南路219号(海洋大学南侧100米）"
+  }, 
+  {
+    "hotelId": "9004763", 
+    "hotelName": "全季连云港海州区文峰广场酒店", 
+    "hotelAddressShort": "连云港市海州区陇海东路58号"
+  }, 
+  {
+    "hotelId": "2220012", 
+    "hotelName": "全季连云港吾悦广场海宁中路酒店", 
+    "hotelAddressShort": "海昌南路130号"
+  }, 
+  {
+    "hotelId": "9019728", 
+    "hotelName": "汉庭连云港海州区政府酒店", 
+    "hotelAddressShort": "新孔南路37号（海州公园向南100米，茗馨大厦楼下）"
+  }, 
+  {
+    "hotelId": "2220429", 
+    "hotelName": "星程连云港墟沟中山西路酒店", 
+    "hotelAddressShort": "中山西路267号"
+  }, 
+  {
+    "hotelId": "2220009", 
+    "hotelName": "桔子连云港苏宁广场酒店", 
+    "hotelAddressShort": "海连中路90号（市中心，近盐河巷、步行街）"
+  }, 
+  {
+    "hotelId": "9009043", 
+    "hotelName": "汉庭连云港灌云振兴中路酒店", 
+    "hotelAddressShort": "灌云县振兴中路228号广源小区13幢(距灌云县站4.5km;距仁济医院1.0km)"
+  }, 
+  {
+    "hotelId": "9009124", 
+    "hotelName": "宜必思尚品连云港灌云县清和园酒店", 
+    "hotelAddressShort": "连云港市灌云县振兴北路1号（近富园广场步行街，大伊山风景区）"
+  }, 
+  {
+    "hotelId": "2220061", 
+    "hotelName": "全季连云港利群广场朝阳东路酒店", 
+    "hotelAddressShort": "连云港市海州区朝阳东路27号（原市政府店）"
+  }, 
+  {
+    "hotelId": "8000594", 
+    "hotelName": "汉庭优佳连云港火车站酒店", 
+    "hotelAddressShort": "海州区人民路66号（连云港站出站口东南侧300米）"
+  }, 
+  {
+    "hotelId": "2221991", 
+    "hotelName": "汉庭连云港赣榆汽车站酒店", 
+    "hotelAddressShort": "赣榆区华中南路29号（汽车南站对面）"
+  }, 
+  {
+    "hotelId": "9013347", 
+    "hotelName": "全季连云港东海水晶城酒店", 
+    "hotelAddressShort": "江苏省东海县中华路88号"
+  }, 
+  {
+    "hotelId": "2223001", 
+    "hotelName": "汉庭优佳连云港东海水晶城酒店", 
+    "hotelAddressShort": "东海县牛山镇幸福北路166号（建设局斜对面）"
+  }, 
+  {
+    "hotelId": "9004471", 
+    "hotelName": "桔子连云港高铁站酒店", 
+    "hotelAddressShort": "连云港市海州区人民东路88号（近盐河巷美食街  步行街）"
+  }, 
+  {
+    "hotelId": "9001382", 
+    "hotelName": "全季连云港灌云县政府酒店", 
+    "hotelAddressShort": "江苏省连云港市灌云县幸福大道320号"
+  }, 
+  {
+    "hotelId": "9014984", 
+    "hotelName": "宜必思尚品连云港赣榆吾悦广场酒店", 
+    "hotelAddressShort": "赣榆区青口镇海城路8-51号（美麟海韵天城28号楼）导航至[悠仙美地赣榆店]"
+  }, 
+  {
+    "hotelId": "9017937", 
+    "hotelName": "汉庭连云港东海人民广场酒店", 
+    "hotelAddressShort": "牛山镇利民西路8号新天地商业广场1栋综合楼"
+  }, 
+  {
+    "hotelId": "2222002", 
+    "hotelName": "宜必思连云港灌云县酒店", 
+    "hotelAddressShort": "灌云县九龙港水街16栋近人民西路与树云南路（体育馆西门对面）"
+  }, 
+  {
+    "hotelId": "9009682", 
+    "hotelName": "全季连云港赣榆汽车总站酒店", 
+    "hotelAddressShort": "江苏省连云港市赣榆区徐福路1号（徐福路与东关路交汇处）"
+  }, 
+  {
+    "hotelId": "9012040", 
+    "hotelName": "汉庭连云港灌南县酒店", 
+    "hotelAddressShort": "灌南县人民中路14号（乐购超市旁）"
+  }, 
+  {
+    "hotelId": "9019680", 
+    "hotelName": "你好连云港赣榆时代广场酒店", 
+    "hotelAddressShort": "青口镇东关路28号（原汉庭酒店）"
+  }, 
+  {
+    "hotelId": "9015601", 
+    "hotelName": "全季连云港赣榆万达广场酒店", 
+    "hotelAddressShort": " 青口镇华中南路32号"
+  }, 
+  {
+    "hotelId": "9012049", 
+    "hotelName": "全季连云港灌南县政府酒店", 
+    "hotelAddressShort": "全季连云港灌南县政府东侧人民路北100米"
+  }, 
+  {
+    "hotelId": "2220026", 
+    "hotelName": "汉庭连云港文峰广场酒店（原解放东路万润街酒店）", 
+    "hotelAddressShort": "海州区解放东路152-8号（捷安快客向东70米）"
+  }, 
+  {
+    "hotelId": "2220006", 
+    "hotelName": "桔子连云港巨龙路酒店", 
+    "hotelAddressShort": "海州巨龙南路59号"
+  }, 
+  {
+    "hotelId": "2220001", 
+    "hotelName": "汉庭优佳连云港苏宁广场酒店", 
+    "hotelAddressShort": "海州区解放中路6号(老第一人民医院南门对面)"
+  }, 
+  {
+    "hotelId": "2222001", 
+    "hotelName": "海友连云港灌云县酒店", 
+    "hotelAddressShort": "灌云县伊山中路2号(毗邻灌云新汽车站）"
+  }, 
+  {
+    "hotelId": "2220024", 
+    "hotelName": "宜必思连云港市中心酒店", 
+    "hotelAddressShort": "连云港解放中路22号汇金广场（近民主路老街、陇海步行街；苏宁广场）"
+  }, 
+  {
+    "hotelId": "2220411", 
+    "hotelName": "星程连云港苏宁广场酒店", 
+    "hotelAddressShort": "通灌北路101号(国际商务大厦)"
+  }, 
+  {
+    "hotelId": "9003138", 
+    "hotelName": "怡莱连云港中央国际步行街酒店", 
+    "hotelAddressShort": "江苏省连云港市解放中路11号九龙中心大酒店（老百姓大药房对面100米）"
+  }, 
+  {
+    "hotelId": "9007127", 
+    "hotelName": "怡莱连云港海滨浴场嘉瑞宝广场酒店(质量整改)", 
+    "hotelAddressShort": "连云区东园路9号（嘉瑞宝北侧30米）"
+  }
+]

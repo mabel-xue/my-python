@@ -53,7 +53,7 @@ HotelStyle = {
 param = {
     'checkInDate': '2023-09-13',
     'checkOutDate': '2023-09-14',
-    'cityName': '无锡',
+    'cityName': '连云港',
     # 'hotelStyle': '2',
     # 'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0
@@ -67,9 +67,9 @@ allH = []
 
 totalPage = int(math.ceil((float(hotelList['content']['totalCount'])+1)/20.0))
 
-print(totalPage)
+print(hotelList['content']['totalCount'], totalPage)
 
-for item in range(1, totalPage):
+for item in range(1, totalPage+1):
     print(item)
     param['pageIndex'] = item
     list = get_data(request_url, param)

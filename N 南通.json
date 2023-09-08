@@ -1,0 +1,682 @@
+[
+  {
+    "hotelId": "2265021", 
+    "hotelName": "南通如皋泛华美居酒店", 
+    "hotelAddressShort": "益寿路1号"
+  }, 
+  {
+    "hotelId": "2260007", 
+    "hotelName": "桔子水晶南通姚港路檀墅酒店", 
+    "hotelAddressShort": "姚港路20号，酒店大堂位于21楼！"
+  }, 
+  {
+    "hotelId": "9010766", 
+    "hotelName": "南通濠河风景区工农路漫心酒店", 
+    "hotelAddressShort": "工农路219号"
+  }, 
+  {
+    "hotelId": "2260081", 
+    "hotelName": "汉庭南通金飞达广场酒店", 
+    "hotelAddressShort": "崇川区工农路515号"
+  }, 
+  {
+    "hotelId": "9013790", 
+    "hotelName": "桔子水晶南通文峰广场酒店", 
+    "hotelAddressShort": "虹桥路1号南通文峰城市广场6号楼"
+  }, 
+  {
+    "hotelId": "2263992", 
+    "hotelName": "桔子水晶南通通州奥邦广场酒店", 
+    "hotelAddressShort": "银河东路8号（奥邦商业广场主楼）"
+  }, 
+  {
+    "hotelId": "2262993", 
+    "hotelName": "桔子水晶南通淘宝城钟秀路酒店", 
+    "hotelAddressShort": "钟秀中路128号"
+  }, 
+  {
+    "hotelId": "9004095", 
+    "hotelName": "汉庭南通如皋港酒店", 
+    "hotelAddressShort": "如皋市长江镇光泽路325号"
+  }, 
+  {
+    "hotelId": "9018831", 
+    "hotelName": "南通北大街万象城美居酒店", 
+    "hotelAddressShort": "崇川区北城一品158号8幢"
+  }, 
+  {
+    "hotelId": "2260068", 
+    "hotelName": "南通三德美居酒店", 
+    "hotelAddressShort": "段家坝路1号"
+  }, 
+  {
+    "hotelId": "2262003", 
+    "hotelName": "桔子水晶启东红星生活广场酒店", 
+    "hotelAddressShort": "惠萍红星生活广场7号楼"
+  }, 
+  {
+    "hotelId": "9013789", 
+    "hotelName": "南通人民路漫心酒店", 
+    "hotelAddressShort": "人港街道孩儿巷南路50号凯旋楼"
+  }, 
+  {
+    "hotelId": "2260014", 
+    "hotelName": "汉庭优佳南通濠河游客中心酒店", 
+    "hotelAddressShort": "崇川区濠西路78号"
+  }, 
+  {
+    "hotelId": "9019647", 
+    "hotelName": "全季启东南阳酒店", 
+    "hotelAddressShort": "协兴河桥西南(221省道北)"
+  }, 
+  {
+    "hotelId": "9019676", 
+    "hotelName": "宜必思尚品南通火车站酒店", 
+    "hotelAddressShort": "崇川区秦灶街道港盛路528号兴和家园10幢"
+  }, 
+  {
+    "hotelId": "9000711", 
+    "hotelName": "全季南通濠河风景区酒店", 
+    "hotelAddressShort": "江苏省南通市崇川区濠南路28号"
+  }, 
+  {
+    "hotelId": "9009743", 
+    "hotelName": "桔子水晶海门文峰大世界酒店", 
+    "hotelAddressShort": "长江路608号"
+  }, 
+  {
+    "hotelId": "9019929", 
+    "hotelName": "桔子海门城中解放路酒店", 
+    "hotelAddressShort": "海门街道解放中路211号"
+  }, 
+  {
+    "hotelId": "9000282", 
+    "hotelName": "全季南通江海大道酒店", 
+    "hotelAddressShort": "南通市港闸区江海大道820号"
+  }, 
+  {
+    "hotelId": "9013912", 
+    "hotelName": "桔子水晶南通火车站万象城酒店", 
+    "hotelAddressShort": "崇川区江海大道458号"
+  }, 
+  {
+    "hotelId": "2260009", 
+    "hotelName": "宜必思海门长江南路龙信广场酒店", 
+    "hotelAddressShort": "海门市南海路南，长江路西侧"
+  }, 
+  {
+    "hotelId": "2260041", 
+    "hotelName": "星程南通中央商务区酒店", 
+    "hotelAddressShort": "城山路129号"
+  }, 
+  {
+    "hotelId": "9009601", 
+    "hotelName": "桔子南通如皋白蒲酒店", 
+    "hotelAddressShort": "白蒲镇蒲东社区18组12号楼"
+  }, 
+  {
+    "hotelId": "9016357", 
+    "hotelName": "宜必思南通通州湾酒店", 
+    "hotelAddressShort": "南通市通州区三余镇通州湾江海联动开发示范区黄河路207号"
+  }, 
+  {
+    "hotelId": "9016844", 
+    "hotelName": "桔子如东行政中心酒店", 
+    "hotelAddressShort": "江苏省南通市如东县掘港镇城中街道长江路300号"
+  }, 
+  {
+    "hotelId": "2260071", 
+    "hotelName": "汉庭南通濠河风景区酒店", 
+    "hotelAddressShort": "崇川区青年中路90号"
+  }, 
+  {
+    "hotelId": "9015092", 
+    "hotelName": "全季南通先锋新时代广场酒店", 
+    "hotelAddressShort": "江苏省南通市通州区先锋街道富锋路398号先锋新时代广场"
+  }, 
+  {
+    "hotelId": "9020193", 
+    "hotelName": "汉庭如东汽车站酒店", 
+    "hotelAddressShort": "如东客运站向西米500米（南环路与虹南路交汇处）"
+  }, 
+  {
+    "hotelId": "9016002", 
+    "hotelName": "桔子启东吕四港酒店", 
+    "hotelAddressShort": "吕四港镇延寿北路200号盈港市场西门"
+  }, 
+  {
+    "hotelId": "9014072", 
+    "hotelName": "汉庭海门人民西路酒店", 
+    "hotelAddressShort": "南通市海门区人民西路1668号"
+  }, 
+  {
+    "hotelId": "9000617", 
+    "hotelName": "汉庭南通东景国际五一路酒店", 
+    "hotelAddressShort": "崇川区五一路399号（靠近圆融广场、汽车东站）"
+  }, 
+  {
+    "hotelId": "9001339", 
+    "hotelName": "桔子启东文峰大世界酒店", 
+    "hotelAddressShort": "启东市人民中路650号"
+  }, 
+  {
+    "hotelId": "9016110", 
+    "hotelName": "全季南通通州湾酒店", 
+    "hotelAddressShort": "南通市通州区通州湾江海联动示范区滨海大道185号"
+  }, 
+  {
+    "hotelId": "9008071", 
+    "hotelName": "汉庭南通火车站野生动物园酒店", 
+    "hotelAddressShort": "崇川区幸福街道幸福新居41幢1楼"
+  }, 
+  {
+    "hotelId": "9010769", 
+    "hotelName": "汉庭南通圆融广场酒店", 
+    "hotelAddressShort": "崇川区青年中路83号1幢南通大饭店老楼（地铁1号线文峰站5A口往北步行50米）"
+  }, 
+  {
+    "hotelId": "2260065", 
+    "hotelName": "怡莱南通金海岸广场电竞酒店", 
+    "hotelAddressShort": "南通市港闸区永怡路江海佳苑北门"
+  }, 
+  {
+    "hotelId": "9010370", 
+    "hotelName": "星程南通濠河风景区酒店", 
+    "hotelAddressShort": "人民中路56号南通电视塔旁"
+  }, 
+  {
+    "hotelId": "2260066", 
+    "hotelName": "宜必思南通青年路酒店", 
+    "hotelAddressShort": "崇川区青年中路55-3号（青年中路与城山路交叉口）"
+  }, 
+  {
+    "hotelId": "2262001", 
+    "hotelName": "汉庭启东文峰大世界酒店", 
+    "hotelAddressShort": "江海中路680号、市中心商圈"
+  }, 
+  {
+    "hotelId": "9010589", 
+    "hotelName": "汉庭南通石港富港商业街酒店", 
+    "hotelAddressShort": "石港镇渔湾中路39号盛港大楼"
+  }, 
+  {
+    "hotelId": "9007432", 
+    "hotelName": "全季南通通州高新区酒店", 
+    "hotelAddressShort": "江苏省南通市通州区希望路8号"
+  }, 
+  {
+    "hotelId": "2262991", 
+    "hotelName": "星程启东江海中路酒店", 
+    "hotelAddressShort": "江海中路681号(文峰大世界对面30米）"
+  }, 
+  {
+    "hotelId": "2263001", 
+    "hotelName": "汉庭南通通州奥邦广场酒店", 
+    "hotelAddressShort": "通州区金霞路900号润和大厦"
+  }, 
+  {
+    "hotelId": "9017713", 
+    "hotelName": "星程启东吕四港酒店", 
+    "hotelAddressShort": "品海路2号仙渔美食广场1幢、2幢"
+  }, 
+  {
+    "hotelId": "2260031", 
+    "hotelName": "汉庭优佳南通火车站酒店", 
+    "hotelAddressShort": "港闸区北大街300号"
+  }, 
+  {
+    "hotelId": "9002166", 
+    "hotelName": "汉庭启东汽车站酒店", 
+    "hotelAddressShort": "江苏省南通市启东市汇龙镇长龙街555号"
+  }, 
+  {
+    "hotelId": "9011779", 
+    "hotelName": "海友海门步行街酒店", 
+    "hotelAddressShort": "南通市海门区商业步行街1520-1529、1533号"
+  }, 
+  {
+    "hotelId": "9011580", 
+    "hotelName": "汉庭南通中央商务狼山景区酒店", 
+    "hotelAddressShort": "城山路218-11号"
+  }, 
+  {
+    "hotelId": "8000599", 
+    "hotelName": "汉庭如皋经济开发区益寿路酒店", 
+    "hotelAddressShort": "益寿路801号"
+  }, 
+  {
+    "hotelId": "9011890", 
+    "hotelName": "海友启东滨海工业园区酒店", 
+    "hotelAddressShort": "启东市近海镇南海路653号"
+  }, 
+  {
+    "hotelId": "9010752", 
+    "hotelName": "全季启东吕四港酒店", 
+    "hotelAddressShort": "吕四港镇环城北路272号"
+  }, 
+  {
+    "hotelId": "9011984", 
+    "hotelName": "全季如东珠江路酒店", 
+    "hotelAddressShort": "江苏省南通市如东县掘港镇珠江路79号"
+  }, 
+  {
+    "hotelId": "9001458", 
+    "hotelName": "全季如东行政中心酒店", 
+    "hotelAddressShort": "江苏省南通市如东县泰山路53号"
+  }, 
+  {
+    "hotelId": "9017120", 
+    "hotelName": "全季南通理工学院永兴大道酒店", 
+    "hotelAddressShort": "南通市崇川区永兴路288号"
+  }, 
+  {
+    "hotelId": "9008628", 
+    "hotelName": "汉庭南通国际会展中心酒店", 
+    "hotelAddressShort": "南通工业博览城2幢108号"
+  }, 
+  {
+    "hotelId": "9009118", 
+    "hotelName": "你好南通濠河景区孩儿巷地铁站酒店", 
+    "hotelAddressShort": "崇川区人民西路73号1幢（孩儿巷地铁站4号口出口步行20米）"
+  }, 
+  {
+    "hotelId": "9019788", 
+    "hotelName": "汉庭南通西站韩通路酒店", 
+    "hotelAddressShort": "五接镇天后宫村江景花园9幢商铺一层部分，二层，三层"
+  }, 
+  {
+    "hotelId": "9012178", 
+    "hotelName": "全季南通如皋港汽车站酒店", 
+    "hotelAddressShort": "长江镇光泽路180号"
+  }, 
+  {
+    "hotelId": "2260006", 
+    "hotelName": "全季南通火车站酒店", 
+    "hotelAddressShort": "南通市崇川区石桥路盛和九里香堤韵城商务中心1号楼"
+  }, 
+  {
+    "hotelId": "9019931", 
+    "hotelName": "全季南通火车站南广场酒店", 
+    "hotelAddressShort": "北大街300号(南通联邦大厦1幢)"
+  }, 
+  {
+    "hotelId": "9016646", 
+    "hotelName": "汉庭南通濠河景区佳利秀水酒店", 
+    "hotelAddressShort": "北朱家园路3-1号1-4层"
+  }, 
+  {
+    "hotelId": "9007387", 
+    "hotelName": "星程海门国际家纺城酒店", 
+    "hotelAddressShort": "三星镇叠港路789号(张謇铜像旁)"
+  }, 
+  {
+    "hotelId": "2262411", 
+    "hotelName": "汉庭优佳启东吕四港酒店", 
+    "hotelAddressShort": "府前路530号"
+  }, 
+  {
+    "hotelId": "9019700", 
+    "hotelName": "海友南通濠河游客中心酒店", 
+    "hotelAddressShort": "山芝庄新苑17幢（万象北路50号），距离地铁1号线孩儿巷站步行15分钟，距离南通站直行6.0km，毗邻南通第一人民医院老院"
+  }, 
+  {
+    "hotelId": "9020372", 
+    "hotelName": "全季海门港发展大道酒店", 
+    "hotelAddressShort": "南通市海门区包场镇发展大道2057号申港工业园2#楼"
+  }, 
+  {
+    "hotelId": "2262994", 
+    "hotelName": "全季启东申港城酒店", 
+    "hotelAddressShort": "人民西路1668号申港城美食街17号楼"
+  }, 
+  {
+    "hotelId": "9011636", 
+    "hotelName": "汉庭南通人民路中医院酒店", 
+    "hotelAddressShort": "南通市崇川区人民中路12-1号"
+  }, 
+  {
+    "hotelId": "9009000", 
+    "hotelName": "汉庭如东珠江路酒店", 
+    "hotelAddressShort": "如东县掘港镇珠江路97号"
+  }, 
+  {
+    "hotelId": "9015420", 
+    "hotelName": "汉庭南通城市之光酒店", 
+    "hotelAddressShort": "人民路288号万科城市之光花园商业街"
+  }, 
+  {
+    "hotelId": "9004023", 
+    "hotelName": "宜必思尚品南通濠河风景区濠西路酒店", 
+    "hotelAddressShort": "南通市崇川区濠西路98号"
+  }, 
+  {
+    "hotelId": "9001976", 
+    "hotelName": "汉庭如皋宝利广场福寿路酒店", 
+    "hotelAddressShort": "如皋福寿路379号"
+  }, 
+  {
+    "hotelId": "9002548", 
+    "hotelName": "汉庭南通工农北路酒店", 
+    "hotelAddressShort": "南通市港闸区永怡路429号"
+  }, 
+  {
+    "hotelId": "9007044", 
+    "hotelName": "桔子如东中央广场酒店", 
+    "hotelAddressShort": "城中街道江海东路10号"
+  }, 
+  {
+    "hotelId": "9004292", 
+    "hotelName": "怡莱精品如东汽车站酒店", 
+    "hotelAddressShort": "江苏省南通市如东县友谊东路8-1号"
+  }, 
+  {
+    "hotelId": "9015870", 
+    "hotelName": "全季南通星湖101酒店", 
+    "hotelAddressShort": "中央路29号星湖大厦"
+  }, 
+  {
+    "hotelId": "2263611", 
+    "hotelName": "汉庭南通平潮西站酒店", 
+    "hotelAddressShort": "通州区平潮镇通杨南路29号"
+  }, 
+  {
+    "hotelId": "9012030", 
+    "hotelName": "全季南通叠石桥家纺城酒店", 
+    "hotelAddressShort": "川姜镇五洲路99号罗缦广场1号楼"
+  }, 
+  {
+    "hotelId": "9002024", 
+    "hotelName": "全季如皋吾悦广场酒店", 
+    "hotelAddressShort": "如皋市惠政东路168号"
+  }, 
+  {
+    "hotelId": "9008249", 
+    "hotelName": "汉庭海安人民西路酒店", 
+    "hotelAddressShort": "海安市人民西路7号"
+  }, 
+  {
+    "hotelId": "9012981", 
+    "hotelName": "汉庭如皋万都广场中山西路酒店", 
+    "hotelAddressShort": "江苏省南通市如皋市中山西路109号（红星市场旁）"
+  }, 
+  {
+    "hotelId": "9008427", 
+    "hotelName": "全季海门文峰大世界酒店", 
+    "hotelAddressShort": "人民中路346号"
+  }, 
+  {
+    "hotelId": "9007455", 
+    "hotelName": "南通火车站江海大道漫心酒店", 
+    "hotelAddressShort": "江海大道819号"
+  }, 
+  {
+    "hotelId": "9010899", 
+    "hotelName": "汉庭如东文峰大世界酒店", 
+    "hotelAddressShort": "青园北路21号华荣上海城（文峰大世界向北200米）"
+  }, 
+  {
+    "hotelId": "9015034", 
+    "hotelName": "汉庭南通唐闸古镇酒店", 
+    "hotelAddressShort": " 江苏省南通市崇川区唐闸镇街道资生路268号公园南苑32幢105室"
+  }, 
+  {
+    "hotelId": "9005291", 
+    "hotelName": "全季海安党校酒店", 
+    "hotelAddressShort": "南通市海安市高新区隆安路409号"
+  }, 
+  {
+    "hotelId": "9003618", 
+    "hotelName": "全季启东人民中路酒店", 
+    "hotelAddressShort": "人民中路890号"
+  }, 
+  {
+    "hotelId": "9008932", 
+    "hotelName": "汉庭海安宁海南路酒店", 
+    "hotelAddressShort": "城东镇宁海南路207号"
+  }, 
+  {
+    "hotelId": "9000725", 
+    "hotelName": "全季南通濠河风景区跃龙路酒店", 
+    "hotelAddressShort": "跃龙路29号"
+  }, 
+  {
+    "hotelId": "9009867", 
+    "hotelName": "海友启东文峰大世界酒店", 
+    "hotelAddressShort": "汇龙镇人民中路623号"
+  }, 
+  {
+    "hotelId": "9008065", 
+    "hotelName": "你好南通如皋港酒店", 
+    "hotelAddressShort": "如皋市长江镇光泽路东方华冠1号楼1号铺（碧桂园对面）"
+  }, 
+  {
+    "hotelId": "9010489", 
+    "hotelName": "桔子南通圆融广场酒店", 
+    "hotelAddressShort": "青年中路83号1幢南通大饭店老楼（地铁1号线文峰站5A出口向北步行50米）"
+  }, 
+  {
+    "hotelId": "9012762", 
+    "hotelName": "海友如皋大润发酒店", 
+    "hotelAddressShort": "如城街道海阳南路300号皋南新村新都国际名品城"
+  }, 
+  {
+    "hotelId": "8000470", 
+    "hotelName": "全季南通东景国际酒店", 
+    "hotelAddressShort": "南通市崇川区人民东路885号"
+  }, 
+  {
+    "hotelId": "9012823", 
+    "hotelName": "宜必思尚品南通如皋港酒店", 
+    "hotelAddressShort": "长江镇海坝新村百盛园6幢商业116室"
+  }, 
+  {
+    "hotelId": "8000303", 
+    "hotelName": "宜必思南通东景国际酒店", 
+    "hotelAddressShort": "崇川区人民中路209号(京扬广场A幢，校西汽车站向西步行200米即达)"
+  }, 
+  {
+    "hotelId": "9011794", 
+    "hotelName": "全季南通通州南山湖酒店", 
+    "hotelAddressShort": "南通市通州区金新街道湘江南路99号湖滨商业坊1号"
+  }, 
+  {
+    "hotelId": "9010496", 
+    "hotelName": "星程海安开发区高铁站酒店", 
+    "hotelAddressShort": "城东镇长江东路1号"
+  }, 
+  {
+    "hotelId": "9018140", 
+    "hotelName": "你好如皋水绘园安定广场酒店", 
+    "hotelAddressShort": "海阳路336号金荣广场"
+  }, 
+  {
+    "hotelId": "9005758", 
+    "hotelName": "全季南通学田地铁站酒店", 
+    "hotelAddressShort": "江苏省南通市崇川区工农路259号（学田地铁站2号口直行约500米，京东电器路口右外50米）"
+  }, 
+  {
+    "hotelId": "9004269", 
+    "hotelName": "星程南通先锋金融街酒店", 
+    "hotelAddressShort": "先锋街道金融街201号（中国工商银行向北150米）"
+  }, 
+  {
+    "hotelId": "9001329", 
+    "hotelName": "汉庭南通通州金鹰广场酒店", 
+    "hotelAddressShort": "为民路交通路交汇毗邻区商业街，交通路188号"
+  }, 
+  {
+    "hotelId": "2260062", 
+    "hotelName": "汉庭南通永兴酒店", 
+    "hotelAddressShort": "崇川区城港路36号"
+  }, 
+  {
+    "hotelId": "2266011", 
+    "hotelName": "汉庭海安文峰大世界酒店", 
+    "hotelAddressShort": "海安县宁海南路20号"
+  }, 
+  {
+    "hotelId": "9011637", 
+    "hotelName": "汉庭南通万达广场酒店", 
+    "hotelAddressShort": "钟秀西路88号珑府28幢"
+  }, 
+  {
+    "hotelId": "9020040", 
+    "hotelName": "汉庭南通通州区政府酒店", 
+    "hotelAddressShort": "南通市通州区金沙镇金通路266号江海艺墅12栋101室"
+  }, 
+  {
+    "hotelId": "9011675", 
+    "hotelName": "全季南通万达广场酒店", 
+    "hotelAddressShort": "南通市崇川区钟秀西路88号珑府"
+  }, 
+  {
+    "hotelId": "9006980", 
+    "hotelName": "桔子南通濠河风景区酒店", 
+    "hotelAddressShort": "崇川区孩儿巷北路23号"
+  }, 
+  {
+    "hotelId": "9001520", 
+    "hotelName": "星程海门解放中路酒店", 
+    "hotelAddressShort": "解放中路289号（利群时代超市海门解放中路店向东100米）"
+  }, 
+  {
+    "hotelId": "9008214", 
+    "hotelName": "全季海安汽车站酒店", 
+    "hotelAddressShort": "海安市城东镇通榆中路78号"
+  }, 
+  {
+    "hotelId": "2260005", 
+    "hotelName": "汉庭南通北大街万象城酒店", 
+    "hotelAddressShort": "港闸区江海大道488号鸿鸣金贸大厦"
+  }, 
+  {
+    "hotelId": "9009387", 
+    "hotelName": "海友海安汽车站酒店", 
+    "hotelAddressShort": "海安镇通榆中路36号"
+  }, 
+  {
+    "hotelId": "9003925", 
+    "hotelName": "星程如东时代广场酒店", 
+    "hotelAddressShort": "如东县掘港镇海花路186号"
+  }, 
+  {
+    "hotelId": "9016556", 
+    "hotelName": "汉庭通州湾政务中心酒店", 
+    "hotelAddressShort": "通州区珠海路与珠江路交汇处消防大队东隔壁"
+  }, 
+  {
+    "hotelId": "9008897", 
+    "hotelName": "全季南通汽车东站酒店", 
+    "hotelAddressShort": "青年中路196号1幢"
+  }, 
+  {
+    "hotelId": "8000404", 
+    "hotelName": "全季南通中央商务区酒店", 
+    "hotelAddressShort": "江苏省南通市崇川区工农南路118号"
+  }, 
+  {
+    "hotelId": "9007888", 
+    "hotelName": "怡莱南通通州湾酒店", 
+    "hotelAddressShort": "湾示范区金海路2号(社会管理服务中心)后面"
+  }, 
+  {
+    "hotelId": "9010350", 
+    "hotelName": "宜必思尚品海安火车站酒店", 
+    "hotelAddressShort": "长江东路11-1号"
+  }, 
+  {
+    "hotelId": "9003099", 
+    "hotelName": "全季南通城港路酒店", 
+    "hotelAddressShort": "南通市崇川区幸余路与新华路交汇处港邻荟B区B125号"
+  }, 
+  {
+    "hotelId": "2263002", 
+    "hotelName": "桔子水晶南通星湖101广场酒店", 
+    "hotelAddressShort": "经济技术开发区星湖101广场星湖大道路1101号"
+  }, 
+  {
+    "hotelId": "2265001", 
+    "hotelName": "汉庭如皋安定广场酒店", 
+    "hotelAddressShort": "秀水路4号"
+  }, 
+  {
+    "hotelId": "2263011", 
+    "hotelName": "星程南通通州区政府酒店(原鑫河湾店)", 
+    "hotelAddressShort": "朝霞路467号"
+  }, 
+  {
+    "hotelId": "9008777", 
+    "hotelName": "你好启东汽车站酒店", 
+    "hotelAddressShort": "启东市和平北路1226号"
+  }, 
+  {
+    "hotelId": "9007077", 
+    "hotelName": "海友南通濠河风景区酒店", 
+    "hotelAddressShort": "南通市崇川区濠南路28号华达广场5幢"
+  }, 
+  {
+    "hotelId": "9003672", 
+    "hotelName": "汉庭优佳南通开发区竹行酒店", 
+    "hotelAddressShort": "开发区竹行镇竹行街道星竹花园5号楼（大德福超市旁）"
+  }, 
+  {
+    "hotelId": "9014048", 
+    "hotelName": "桔子南通火车站万象城酒店", 
+    "hotelAddressShort": "江海大道458号"
+  }, 
+  {
+    "hotelId": "2260102", 
+    "hotelName": "宜必思尚品南通开发区世茂广场酒店", 
+    "hotelAddressShort": "经济技术开发区新东路101号（世茂广场南侧星湖101街区东）"
+  }, 
+  {
+    "hotelId": "2265002", 
+    "hotelName": "汉庭如皋吾悦广场酒店", 
+    "hotelAddressShort": "惠政路988号"
+  }, 
+  {
+    "hotelId": "9006704", 
+    "hotelName": "怡莱南通通州奥邦广场酒店", 
+    "hotelAddressShort": "江苏省南通市通州区新金东路112号"
+  }, 
+  {
+    "hotelId": "9005429", 
+    "hotelName": "星程如东洋口港开发区酒店", 
+    "hotelAddressShort": "长沙镇中天广场B1#楼118号（洋口大道与长沙路交叉口中国邮政储蓄银行南50米）"
+  }, 
+  {
+    "hotelId": "9010967", 
+    "hotelName": "怡莱南通火车站万象城酒店", 
+    "hotelAddressShort": "崇川区永怡路860号东大好亿莱大厦"
+  }, 
+  {
+    "hotelId": "9002765", 
+    "hotelName": "桔子南通中央商务区酒店", 
+    "hotelAddressShort": "江苏省南通市工农南路100号星光耀广场2号楼1层12-107"
+  }, 
+  {
+    "hotelId": "2265003", 
+    "hotelName": "全季如皋水绘园酒店", 
+    "hotelAddressShort": "如皋市大司马路220号"
+  }, 
+  {
+    "hotelId": "2260111", 
+    "hotelName": "星程南通星湖101酒店", 
+    "hotelAddressShort": "新开南路118号(中船机械南隔壁）"
+  }, 
+  {
+    "hotelId": "9009543", 
+    "hotelName": "怡莱南通大学酒店", 
+    "hotelAddressShort": "江苏省南通市崇川区中南世纪城9幢"
+  }, 
+  {
+    "hotelId": "C1K3", 
+    "hotelName": "南通开发区诺富特酒店", 
+    "hotelAddressShort": "龙腾路 88 号 经济技术开发区"
+  }, 
+  {
+    "hotelId": "9007837", 
+    "hotelName": "怡莱如东小洋口风景区酒店", 
+    "hotelAddressShort": "江苏省南通市如东县洋口镇洋口大道金海岸广场1幢"
+  }
+]
