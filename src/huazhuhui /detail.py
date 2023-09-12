@@ -58,7 +58,7 @@ for item in hotelList['content']['roomPriceList']['roomList']:
         # orgPrice = item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']
         orgPrice = int(math.ceil(amount/len(item['ratePlanCodeList'][0]['dailyPrice'])))
         price = int(math.ceil(orgPrice+10 if orgPrice <
-                    330 else orgPrice*1.04))
+                    330 else orgPrice*1.038))
         # zc = ' 双早+'+ int(math.ceil(float(price)*0.29)) if booked else '双早'
         # print(str(zc))
         list.append(item['typeRoomName']+' ' +
