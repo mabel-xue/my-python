@@ -11,7 +11,6 @@ alreadyBook = {
     '北京': {'0923'},
     '天津': {'1014'},
     '杭州': {'0915', '0916', '1004'},
-    '西安': {'0909', '0910'},
     '连云港': {'0927'},
     '济南': {'0926', '1005'},
     '乌鲁木齐': {'0919'},
@@ -32,12 +31,12 @@ alreadyBook = {
 
 # 全季诸暨国际珠宝城酒店 8915743
 
-month = '1010'
-date = '0206'
+month = '0909'
+date = '1417'
 params = {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '9004142',
+    'hotelId': '9015925',
 }
 
 hotelList = get_data(request_url, params, constant.headers)
@@ -59,7 +58,7 @@ for item in hotelList['content']['roomPriceList']['roomList']:
         # orgPrice = item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']
         orgPrice = int(math.ceil(amount/len(item['ratePlanCodeList'][0]['dailyPrice'])))
         price = int(math.ceil(orgPrice+10 if orgPrice <
-                    290 else orgPrice*1.033))
+                    330 else orgPrice*1.04))
         # zc = ' 双早+'+ int(math.ceil(float(price)*0.29)) if booked else '双早'
         # print(str(zc))
         list.append(item['typeRoomName']+' ' +
