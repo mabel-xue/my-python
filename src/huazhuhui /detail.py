@@ -9,25 +9,21 @@ request_url = 'https://hweb-hotel.huazhu.com/hotels/hotel/detail'
 
 alreadyBook = {
     '北京': {'0923'},
-    '天津': {'0907', '1014'},
-    '杭州': {'0908', '0909', '0915', '0916', '1004'},
+    '天津': {'1014'},
+    '杭州': {'0915', '0916', '1004'},
     '西安': {'0909', '0910'},
     '连云港': {'0927'},
     '济南': {'0926', '1005'},
-    '烟台': {'0907', '0908'},
-    '大连': {'0906'},
-    '贵阳': {'0907', '0908', '0909'},
     '乌鲁木齐': {'0919'},
     '长沙': {'0916'},
-    '威海': {'0910', '0911', '0912', '0924', '0925', '0926', '0927'},
-    '秦皇岛': {'0907'},
-    '南京': {'1006', '1007'},
+    '威海': {'0912', '0924', '0925', '0926', '0927'},
+    '南京': {'0913', '1006', '1007'},
     '桂林': {'0912'},
     '香格里拉': {'1017', '1018'},
+    '珠江': {'0920', '0921', '0926', '0927', '0928'},
+    '深圳': {'0913'},
 }
-# 伊宁 8
-# 诸暨 8-14
-# 潍坊 9
+# 诸暨 12-14
 # 汕头 13
 # 延边 15 16
 # 桐乡 16
@@ -36,12 +32,12 @@ alreadyBook = {
 
 # 全季诸暨国际珠宝城酒店 8915743
 
-month = '0909'
-date = '1517'
+month = '1010'
+date = '0206'
 params = {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '9009682', 
+    'hotelId': '9004142',
 }
 
 hotelList = get_data(request_url, params, constant.headers)
@@ -50,7 +46,7 @@ list = []
 booked = False
 str_city = str(hotelList['content']['cityName'].encode('utf-8'))
 for day in calculate_date_range(month, date):
-    if str_city in alreadyBook and day in alreadyBook.get(str_city): 
+    if str_city in alreadyBook and day in alreadyBook.get(str_city):
         booked = True
         break
 print(json.dumps(hotelList['content']['hotelName']+' ' +
