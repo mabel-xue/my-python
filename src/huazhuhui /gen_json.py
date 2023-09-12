@@ -53,7 +53,7 @@ HotelStyle = {
 param = {
     'checkInDate': '2023-09-13',
     'checkOutDate': '2023-09-14',
-    'cityName': '连云港',
+    'cityName': '汉中',
     # 'hotelStyle': '2',
     # 'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0
