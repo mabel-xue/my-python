@@ -1,0 +1,452 @@
+[
+  {
+    "hotelId": "9014817", 
+    "hotelName": "合肥施柏阁大观酒店", 
+    "hotelAddressShort": "中国安徽省合肥市包河区衡山路1号  邮编: 230001"
+  }, 
+  {
+    "hotelId": "9013093", 
+    "hotelName": "合肥经开区明珠广场漫心酒店", 
+    "hotelAddressShort": "经开区明珠广场以北欧州风情街F区08号（正大广场旁）"
+  }, 
+  {
+    "hotelId": "2300016", 
+    "hotelName": "汉庭合肥淮河路步行街酒店", 
+    "hotelAddressShort": "庐阳区淮河路242 号天辰大厦4楼(宿州路与淮河路交叉口向西20米、步行街西入口)"
+  }, 
+  {
+    "hotelId": "9014527", 
+    "hotelName": "全季合肥会展中心包河大道酒店", 
+    "hotelAddressShort": "包河区包河大道与扬子江交汇处东南角全季会展中心包河大道酒店1楼大堂以及9-13楼酒店区域"
+  }, 
+  {
+    "hotelId": "9016576", 
+    "hotelName": "桔子合肥南站中央公园酒店", 
+    "hotelAddressShort": "安徽省合肥市包河区花园大道986号"
+  }, 
+  {
+    "hotelId": "9001331", 
+    "hotelName": "合肥泓瑞步行街美居酒店", 
+    "hotelAddressShort": "庐阳区淮河路步行街与北含山路交口润泰城5-23层"
+  }, 
+  {
+    "hotelId": "9015975", 
+    "hotelName": "全季合肥龙湖龙誉中心酒店", 
+    "hotelAddressShort": " 肥东县新安江路与大众路交叉口东南角龙湖·龙誉城17#"
+  }, 
+  {
+    "hotelId": "2300511", 
+    "hotelName": "汉庭合肥中科大火车南站酒店", 
+    "hotelAddressShort": "包河区徽州大道1068号"
+  }, 
+  {
+    "hotelId": "9010057", 
+    "hotelName": "汉庭合肥逍遥津酒店", 
+    "hotelAddressShort": "合肥市庐阳区阜南路32号(逍遥津公园西门向西150米）"
+  }, 
+  {
+    "hotelId": "2300112", 
+    "hotelName": "汉庭合肥大东门地铁站酒店", 
+    "hotelAddressShort": "合肥市瑶海区长江东路与滁州路交叉口（地铁1、2号线大东门站4号出站口向东直行约200米）"
+  }, 
+  {
+    "hotelId": "9016382", 
+    "hotelName": "汉庭合肥滨湖CBD金融中心酒店", 
+    "hotelAddressShort": "包河区云谷路与云南路交口竹园C区北商业楼1-6层   距离滨湖竹园地铁站400米、公共卫生中心对面"
+  }, 
+  {
+    "hotelId": "8000551", 
+    "hotelName": "宜必思合肥淮河路步行街酒店", 
+    "hotelAddressShort": "庐阳区宿州路154号(宿州路与淮河路交叉口向北50米、詹记对面)"
+  }, 
+  {
+    "hotelId": "9012767", 
+    "hotelName": "海友庐江汽车站酒店", 
+    "hotelAddressShort": "庐江县庐城镇黄山南路15号15室"
+  }, 
+  {
+    "hotelId": "2300318", 
+    "hotelName": "桔子合肥三孝口地铁站酒店", 
+    "hotelAddressShort": "庐江路111号-新世纪大厦（地铁2、5号线三孝口站4号出来，向地铁口反方向出发，延着金寨路直行200米左转进入红星路200米后右转直走200米到底左转即可到达）"
+  }, 
+  {
+    "hotelId": "9020673", 
+    "hotelName": "汉庭合肥火车南站葛大店南地铁站酒店", 
+    "hotelAddressShort": "安徽省合肥市包河区龙川路仁和佳园S6#101-1室"
+  }, 
+  {
+    "hotelId": "9012740", 
+    "hotelName": "全季合肥火车南站南广场酒店", 
+    "hotelAddressShort": "包河区昆仑山路与石河子路交叉口 合肥南站南广场斜对面 53度广场7F"
+  }, 
+  {
+    "hotelId": "2300092", 
+    "hotelName": "全季合肥宁国路美食街酒店", 
+    "hotelAddressShort": "包河区宁国南路与九华山路交口大宁缤购广场11栋4楼"
+  }, 
+  {
+    "hotelId": "9016203", 
+    "hotelName": "星程合肥龙湖龙誉中心酒店", 
+    "hotelAddressShort": "撮镇镇新安江路与大众路交口东南角合肥龙城嘉苑1#2#楼"
+  }, 
+  {
+    "hotelId": "2300001", 
+    "hotelName": "汉庭合肥金寨路安医附院酒店", 
+    "hotelAddressShort": "包河区金寨路128号乐城超市后侧巷内（高架对面）"
+  }, 
+  {
+    "hotelId": "9010587", 
+    "hotelName": "汉庭合肥火车南站花园大道地铁站酒店", 
+    "hotelAddressShort": "包河区花园大道与山西路北50米"
+  }, 
+  {
+    "hotelId": "9013276", 
+    "hotelName": "桔子合肥滨湖酒店", 
+    "hotelAddressShort": "云谷路与西藏路交口"
+  }, 
+  {
+    "hotelId": "2300317", 
+    "hotelName": "全季合肥安徽医科大学酒店", 
+    "hotelAddressShort": "安徽省合肥市蜀山区梅山路19号（紧临安医一附院北门）"
+  }, 
+  {
+    "hotelId": "9016421", 
+    "hotelName": "汉庭合肥滨湖酒店", 
+    "hotelAddressShort": "滨湖新区福州路3588号（距离滨湖会展中心约1.5公里）"
+  }, 
+  {
+    "hotelId": "9004449", 
+    "hotelName": "全季合肥明珠广场酒店", 
+    "hotelAddressShort": "蜀山区莲花路599号（中国化学工程第三建设有限公司旁）"
+  }, 
+  {
+    "hotelId": "9016793", 
+    "hotelName": "桔子合肥政务区万象城酒店", 
+    "hotelAddressShort": "龙川路与祁红路交叉口恒大水晶国际广场S3栋1-6层"
+  }, 
+  {
+    "hotelId": "9013172", 
+    "hotelName": "全季合肥火车南站包河工业园酒店（原华夏国际茶博城店）", 
+    "hotelAddressShort": "包河区北京路107号南翔商务中心4幢商102"
+  }, 
+  {
+    "hotelId": "2300711", 
+    "hotelName": "全季合肥1912酒吧街酒店", 
+    "hotelAddressShort": "蜀山区黄山路与怀宁路路口金大地1912-8号楼"
+  }, 
+  {
+    "hotelId": "2316001", 
+    "hotelName": "汉庭合肥肥东新区酒店", 
+    "hotelAddressShort": "肥东县桥头集路和古河路交界处古河路向西50米"
+  }, 
+  {
+    "hotelId": "9016385", 
+    "hotelName": "汉庭巢湖龟山路中凯酒店", 
+    "hotelAddressShort": "龟山路与银屏路交叉口（南凤巢大酒店隔壁）"
+  }, 
+  {
+    "hotelId": "9003482", 
+    "hotelName": "桔子合肥南站酒店", 
+    "hotelAddressShort": "合肥市包河区宿松路与祁门路交口绿地中心F座"
+  }, 
+  {
+    "hotelId": "9018225", 
+    "hotelName": "海友合肥淮河路四牌楼地铁站酒店", 
+    "hotelAddressShort": "合肥市庐阳区徽州大道87号（国家电网对面）"
+  }, 
+  {
+    "hotelId": "2300117", 
+    "hotelName": "全季合肥长江东路酒店", 
+    "hotelAddressShort": "瑶海区长江东路345号（地铁2号线漕冲站2号出口往西300米）"
+  }, 
+  {
+    "hotelId": "2300413", 
+    "hotelName": "全季合肥亳州路酒店", 
+    "hotelAddressShort": "庐阳区肥西路1208号（金龙国际对面）"
+  }, 
+  {
+    "hotelId": "9021100", 
+    "hotelName": "你好合肥港澳广场酒店", 
+    "hotelAddressShort": "翡翠路以西、芙蓉路以北瑞格花园超市一层部分，三层部分，四层全部"
+  }, 
+  {
+    "hotelId": "9012465", 
+    "hotelName": "全季合肥四里河清溪路酒店", 
+    "hotelAddressShort": "蜀山区清溪路12号(位于中汽集团东边）"
+  }, 
+  {
+    "hotelId": "8000498", 
+    "hotelName": "全季合肥长江西路奥园城市天地酒店", 
+    "hotelAddressShort": "蜀山区长江西路与蜀峰路交叉口奥园城市天地S11幢（地铁2号线蜀山西站D号出口右前方）"
+  }, 
+  {
+    "hotelId": "2300513", 
+    "hotelName": "汉庭合肥宝业东城广场酒店（原春天城市广场店）", 
+    "hotelAddressShort": "合肥市瑶海区东二环与乐水路交叉口208号（魔域广场旁）"
+  }, 
+  {
+    "hotelId": "2300116", 
+    "hotelName": "全季合肥裕溪路酒店", 
+    "hotelAddressShort": "瑶海区合裕路1579（裕溪路与塘桥西路交口南1幢）"
+  }, 
+  {
+    "hotelId": "2306012", 
+    "hotelName": "汉庭合肥经开区明珠广场酒店(质量整改)", 
+    "hotelAddressShort": "安徽省合肥市蜀山区莲花路949号"
+  }, 
+  {
+    "hotelId": "2300319", 
+    "hotelName": "汉庭优佳合肥清溪路安农大酒店", 
+    "hotelAddressShort": "蜀山区清溪路333号（清溪路与西一环交叉口向东30米、大润发超市停车场入口处）"
+  }, 
+  {
+    "hotelId": "9001134", 
+    "hotelName": "汉庭优佳合肥肥东经开区酒店", 
+    "hotelAddressShort": "肥东县经开区合店路19号"
+  }, 
+  {
+    "hotelId": "2300881", 
+    "hotelName": "全季合肥安农大地铁站酒店", 
+    "hotelAddressShort": "蜀山区长江西路与长丰路交口环球金融广场C2座（地铁2号线安农大站E出口向北100米左转）"
+  }, 
+  {
+    "hotelId": "2316002", 
+    "hotelName": "全季合肥肥东包公大道酒店", 
+    "hotelAddressShort": "肥东县包公大道与团结大道交口西南角"
+  }, 
+  {
+    "hotelId": "2300311", 
+    "hotelName": "汉庭合肥国购广场酒店", 
+    "hotelAddressShort": "蜀山区长江西路200号置地投资广场东侧怡秀山庄入口处（地铁2号线三里庵站下1号出口出站）"
+  }, 
+  {
+    "hotelId": "2300003", 
+    "hotelName": "汉庭合肥火车南站望湖酒店", 
+    "hotelAddressShort": "包河区望湖东路与望湖中路交口"
+  }, 
+  {
+    "hotelId": "2300121", 
+    "hotelName": "汉庭合肥火车站酒店", 
+    "hotelAddressShort": "瑶海区长淮街道站西路1号宝文国际大厦"
+  }, 
+  {
+    "hotelId": "9015479", 
+    "hotelName": "你好合肥滨湖会展中心酒店", 
+    "hotelAddressShort": "包河区福州路3340号（与峨眉山路交叉口奂源大厦）"
+  }, 
+  {
+    "hotelId": "9001368", 
+    "hotelName": "汉庭合肥火车南站包河区政府酒店", 
+    "hotelAddressShort": "包河区宁夏路与乌鲁木齐路交口往东100米(中佳集团1号楼）"
+  }, 
+  {
+    "hotelId": "9001387", 
+    "hotelName": "汉庭合肥大钟楼酒店", 
+    "hotelAddressShort": "安徽省合肥市包河区徽州大道225号银河大厦（徽州大道与环城南路交叉口向西50米）"
+  }, 
+  {
+    "hotelId": "2300123", 
+    "hotelName": "全季合肥新蚌埠路酒店", 
+    "hotelAddressShort": "瑶海区新蚌埠路38号大众时代之光小区6A楼"
+  }, 
+  {
+    "hotelId": "9011449", 
+    "hotelName": "汉庭合肥肥西翡翠路大学城酒店", 
+    "hotelAddressShort": "肥西县天海路与翡翠路交叉口丰辉国际广场C栋商务办公楼2-8层"
+  }, 
+  {
+    "hotelId": "9007137", 
+    "hotelName": "汉庭合肥高新区1912酒吧街酒店", 
+    "hotelAddressShort": "黄山路567号和谐花园小区北门（停车场）"
+  }, 
+  {
+    "hotelId": "9000883", 
+    "hotelName": "全季合肥四牌楼地铁站酒店（原四牌楼店）", 
+    "hotelAddressShort": "庐阳区长江中路与阜阳路交口招商大厦"
+  }, 
+  {
+    "hotelId": "9012078", 
+    "hotelName": "汉庭合肥奥园城市广场酒店", 
+    "hotelAddressShort": "蜀山区蜀峰路奥园城市天地B座6楼（地铁2号线蜀山西站4号口出站）"
+  }, 
+  {
+    "hotelId": "2300225", 
+    "hotelName": "全季合肥桐城路酒店", 
+    "hotelAddressShort": "包河区桐城南路与黄山路交口北侧50米"
+  }, 
+  {
+    "hotelId": "2316991", 
+    "hotelName": "汉庭巢湖东方新世界酒店", 
+    "hotelAddressShort": "巢湖市健康东路与东塘路交叉口"
+  }, 
+  {
+    "hotelId": "9000659", 
+    "hotelName": "汉庭优佳合肥芜湖路万达广场酒店", 
+    "hotelAddressShort": "合肥市包河区芜湖路49号（包河万达广场向西120米）"
+  }, 
+  {
+    "hotelId": "2300414", 
+    "hotelName": "全季合肥蒙城路酒店", 
+    "hotelAddressShort": "庐阳区蒙城北路166号（国文大厦内）"
+  }, 
+  {
+    "hotelId": "2300019", 
+    "hotelName": "全季合肥滨湖银泰城酒店", 
+    "hotelAddressShort": "包河区云谷路1943号(地铁1/5号线云谷路站D出口向西50米）"
+  }, 
+  {
+    "hotelId": "9013716", 
+    "hotelName": "你好合肥北城站酒店（原阜阳北路科创北城店）", 
+    "hotelAddressShort": "双墩镇阜阳北路省立医院北区对面科创北城2号楼101"
+  }, 
+  {
+    "hotelId": "8916684", 
+    "hotelName": "汉庭合肥火车站元一时代广场酒店", 
+    "hotelAddressShort": "安徽省合肥市瑶海区北一环与夏园路交叉口向东70米海龙大厦A座"
+  }, 
+  {
+    "hotelId": "9016525", 
+    "hotelName": "汉庭合肥天鹅湖万达广场酒店", 
+    "hotelAddressShort": "高新区西二环和望江路交口和一花园小区综合楼B"
+  }, 
+  {
+    "hotelId": "2306011", 
+    "hotelName": "全季合肥经开区大学城酒店", 
+    "hotelAddressShort": "肥西县金寨南路69号华商广场B栋"
+  }, 
+  {
+    "hotelId": "9015319", 
+    "hotelName": "汉庭合肥北城万达广场酒店", 
+    "hotelAddressShort": "阜阳北路与魏武路交叉口光明北部湾16#17#（壹品茂家具旁）"
+  }, 
+  {
+    "hotelId": "9022032", 
+    "hotelName": "汉庭合肥京商商贸城酒店", 
+    "hotelAddressShort": "淮海大道1188号经商商贸城D2-1-11幢商111；办501-524；601-624；701-724"
+  }, 
+  {
+    "hotelId": "9009379", 
+    "hotelName": "星程合肥政务壹号酒店", 
+    "hotelAddressShort": "荷叶地街道茗香路1688号融创政务壹号20栋A座（合肥省立医院南区马路对面）"
+  }, 
+  {
+    "hotelId": "9002146", 
+    "hotelName": "汉庭优佳合肥滨湖万达城地铁站酒店", 
+    "hotelAddressShort": "滨湖新区庐州大道999号宝文中心B座16层"
+  }, 
+  {
+    "hotelId": "9009315", 
+    "hotelName": "怡莱合肥三孝口地铁站酒店", 
+    "hotelAddressShort": "庐阳区长江中路315号（地铁2号线三孝口站4出口往东200米）"
+  }, 
+  {
+    "hotelId": "9872", 
+    "hotelName": "合肥融创诺富特酒店", 
+    "hotelAddressShort": "安徽省合肥市 包河区合肥融创文旅城 万年埠路300号"
+  }, 
+  {
+    "hotelId": "A5G6", 
+    "hotelName": "合肥融创美居酒店", 
+    "hotelAddressShort": "万年埠路356号 合肥融创文旅城 包河区"
+  }, 
+  {
+    "hotelId": "9014816", 
+    "hotelName": "合肥融创永乐半山酒店", 
+    "hotelAddressShort": "中国安徽省合肥市包河区南宁东路301号 邮编: 230000"
+  }, 
+  {
+    "hotelId": "9008562", 
+    "hotelName": "全季合肥高新区银泰城酒店", 
+    "hotelAddressShort": "高新区望江西路5155号汇景城市中心旁 （地铁4号线科大先研院2号出口向东179米）"
+  }, 
+  {
+    "hotelId": "9010130", 
+    "hotelName": "汉庭巢湖火车东站酒店", 
+    "hotelAddressShort": "半汤开发区金巢大道与紫薇路交叉口紫金华府"
+  }, 
+  {
+    "hotelId": "2300006", 
+    "hotelName": "桔子合肥淮河路步行街大东门地铁站酒店", 
+    "hotelAddressShort": "合肥市包河区巢湖路283号"
+  }, 
+  {
+    "hotelId": "2300018", 
+    "hotelName": "全季合肥淮河路步行街酒店(质量整改)", 
+    "hotelAddressShort": "庐阳区淮河路1号（地铁1,2号线大东门站8号出口）"
+  }, 
+  {
+    "hotelId": "9001196", 
+    "hotelName": "汉庭优佳合肥火车南站北广场酒店", 
+    "hotelAddressShort": "合肥市包河区龙川路与仙人石路交口（北广场进出站口东侧）））"
+  }, 
+  {
+    "hotelId": "2300712", 
+    "hotelName": "全季合肥中科大酒店", 
+    "hotelAddressShort": "蜀山区黄山路451号（紧邻炮兵学院）距离国防科技大学3号线3号出口922米"
+  }, 
+  {
+    "hotelId": "9014422", 
+    "hotelName": "汉庭庐江周瑜大道酒店", 
+    "hotelAddressShort": "庐江县周瑜大道303号（农业银行旁边）"
+  }, 
+  {
+    "hotelId": "9012446", 
+    "hotelName": "汉庭合肥火车南站南广场酒店", 
+    "hotelAddressShort": "包河区繁华大道与昆仑山路交叉口53°广场星之联名车七楼（南广场出站即到）"
+  }, 
+  {
+    "hotelId": "1000856", 
+    "hotelName": "全季合肥滨湖时代广场酒店", 
+    "hotelAddressShort": "包河区西藏路与武汉路交叉口众悦广场一楼"
+  }, 
+  {
+    "hotelId": "2300022", 
+    "hotelName": "全季合肥火车南站酒店", 
+    "hotelAddressShort": "包河区马鞍山路与南二环交口加侨广场Ｃ座"
+  }, 
+  {
+    "hotelId": "2300313", 
+    "hotelName": "汉庭合肥市政府酒店", 
+    "hotelAddressShort": "蜀山区潜山路与休宁路交叉口（地铁3号线市政务中心A号口右行100米）"
+  }, 
+  {
+    "hotelId": "8916485", 
+    "hotelName": "汉庭合肥滨湖会展中心酒店", 
+    "hotelAddressShort": "宿松路与紫云路交叉口向北200米(梵高公寓旁)"
+  }, 
+  {
+    "hotelId": "9000569", 
+    "hotelName": "全季合肥火车南站宿松路酒店（原汽车客运南站酒店）", 
+    "hotelAddressShort": "包河区西递路66号（国贸天悦B3整栋）"
+  }, 
+  {
+    "hotelId": "9014334", 
+    "hotelName": "全季合肥西七里塘地铁站酒店", 
+    "hotelAddressShort": "蜀山区长江西路563号"
+  }, 
+  {
+    "hotelId": "9000860", 
+    "hotelName": "汉庭合肥长江西路大蜀山地铁站酒店（原蜀景生活广场酒店）", 
+    "hotelAddressShort": "蜀山区井岗路与山湖路交叉口西南角蜀新苑5号楼"
+  }, 
+  {
+    "hotelId": "2300024", 
+    "hotelName": "全季合肥金潜广场酒店", 
+    "hotelAddressShort": "蜀山区金寨路与潜山路交叉口金寨路4680号"
+  }, 
+  {
+    "hotelId": "9009883", 
+    "hotelName": "汉庭合肥高新区产业园酒店", 
+    "hotelAddressShort": "创新大道与皖水路东南角圣联时代广场A2栋"
+  }, 
+  {
+    "hotelId": "9000529", 
+    "hotelName": "全季合肥火车南站北广场酒店", 
+    "hotelAddressShort": "包河区龙川路567号鼎汇商务广场S1楼"
+  }, 
+  {
+    "hotelId": "2300017", 
+    "hotelName": "全季合肥滨湖酒店", 
+    "hotelAddressShort": "包河区峨眉山路88号，峨眉山路与福州路交口"
+  }
+]

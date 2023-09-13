@@ -1,0 +1,57 @@
+[
+  {
+    "hotelId": "9006045", 
+    "hotelName": "桔子水晶大理洱海公园酒店", 
+    "hotelAddressShort": "富海路15号"
+  }, 
+  {
+    "hotelId": "6710004", 
+    "hotelName": "全季大理火车站酒店", 
+    "hotelAddressShort": "下关经济技术开发区巍山路355号"
+  }, 
+  {
+    "hotelId": "6710991", 
+    "hotelName": "全季大理洱海泰安路酒店", 
+    "hotelAddressShort": "下关镇泰安南路16号"
+  }, 
+  {
+    "hotelId": "9003939", 
+    "hotelName": "大理古城酒店漫心府", 
+    "hotelAddressShort": "大理市大理镇214国道三月街坊"
+  }, 
+  {
+    "hotelId": "8627", 
+    "hotelName": "大理俊发铂尔曼大酒店", 
+    "hotelAddressShort": "洱河南路61 1 下关镇"
+  }, 
+  {
+    "hotelId": "9010819", 
+    "hotelName": "汉庭大理洱海公园火车站酒店", 
+    "hotelAddressShort": "经济开发区五台路10号"
+  }, 
+  {
+    "hotelId": "9017996", 
+    "hotelName": "汉庭大理泰业国际广场酒店", 
+    "hotelAddressShort": "下关建设东路15号 距大理站直线3km"
+  }, 
+  {
+    "hotelId": "9021714", 
+    "hotelName": "海友大理古城洋人街酒店", 
+    "hotelAddressShort": "大理古城护国路31号"
+  }, 
+  {
+    "hotelId": "6710034", 
+    "hotelName": "汉庭大理古城南门酒店", 
+    "hotelAddressShort": "大理古城玉秀路74号"
+  }, 
+  {
+    "hotelId": "6710003", 
+    "hotelName": "汉庭大理洱海兴盛路酒店", 
+    "hotelAddressShort": "大理下关兴盛桥北大关邑村244号"
+  }, 
+  {
+    "hotelId": "9009338", 
+    "hotelName": "星程大理洱海嘉士伯大道酒店", 
+    "hotelAddressShort": "大理下关嘉士伯大道42号"
+  }
+]
