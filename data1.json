@@ -1,62 +1,602 @@
 [
   {
-    "hotelId": "9014595", 
-    "hotelName": "全季汉中国贸酒店", 
-    "hotelAddressShort": "中心广场西侧国贸中心主楼"
+    "hotelId": "0300328", 
+    "hotelName": "太原综改示范区美居酒店", 
+    "hotelAddressShort": "唐明路1号"
   }, 
   {
-    "hotelId": "9013408", 
-    "hotelName": "汉庭汉中城固县张骞路酒店", 
-    "hotelAddressShort": "陕西省汉中市城固县康复路与张骞路交汇处西南角"
+    "hotelId": "9016956", 
+    "hotelName": "汉庭太原芮城国际省人民医院酒店", 
+    "hotelAddressShort": "和平北路芮城国际小区2号楼"
   }, 
   {
-    "hotelId": "7230994", 
-    "hotelName": "全季汉中中心广场酒店", 
-    "hotelAddressShort": "兴汉路14号"
+    "hotelId": "9005146", 
+    "hotelName": "太原迎泽西大街漫心酒店", 
+    "hotelAddressShort": "山西省太原市万柏林区迎泽西大街酒店78号"
   }, 
   {
-    "hotelId": "9014683", 
-    "hotelName": "桔子汉中中心广场国贸酒店", 
-    "hotelAddressShort": "汉中市汉台区中心广场西侧国贸中心主楼"
+    "hotelId": "0300244", 
+    "hotelName": "海友太原漪汾街酒店", 
+    "hotelAddressShort": "山西省太原市万柏林区漪汾街86号"
   }, 
   {
-    "hotelId": "9010778", 
-    "hotelName": "汉庭汉中中心广场酒店", 
-    "hotelAddressShort": "汉中市汉台区兴汉路1000号（兴汉路与天台路十字，西北角）"
+    "hotelId": "0300069", 
+    "hotelName": "太原南站晋阳街美居酒店", 
+    "hotelAddressShort": "晋阳街68号"
   }, 
   {
-    "hotelId": "9001050", 
-    "hotelName": "汉庭优佳汉中火车站南广场酒店", 
-    "hotelAddressShort": "陕西省汉中市汉台区站前路"
+    "hotelId": "0300274", 
+    "hotelName": "汉庭优佳太原和平北路酒店", 
+    "hotelAddressShort": "太原市万柏林区和平北路105号"
   }, 
   {
-    "hotelId": "7230992", 
-    "hotelName": "全季汉中北街口酒店", 
-    "hotelAddressShort": "石灰巷20号"
+    "hotelId": "0300068", 
+    "hotelName": "太原综改示范区漫心酒店", 
+    "hotelAddressShort": "唐槐路79号（康寿街与唐槐路交叉口西南角）"
   }, 
   {
-    "hotelId": "9003661", 
-    "hotelName": "汉庭优佳汉中洋县朱鹮广场酒店", 
-    "hotelAddressShort": "陕西省汉中市洋县朱鹮广场C幢"
+    "hotelId": "0300243", 
+    "hotelName": "星程太原下元酒店", 
+    "hotelAddressShort": "西矿街120号（西矿街与前进路的交叉路口西南100米）"
   }, 
   {
-    "hotelId": "9010776", 
-    "hotelName": "汉庭汉中勉县解放北路酒店", 
-    "hotelAddressShort": "金牛大道与解放北路交叉口，往北200米，勉县教育体育局对面"
+    "hotelId": "9000193", 
+    "hotelName": "太原长风街漫心酒店", 
+    "hotelAddressShort": "山西省太原市小店区长风街113号千禧大厦北门12层"
   }, 
   {
-    "hotelId": "7230003", 
-    "hotelName": "汉庭汉中天汉大道火车站酒店", 
-    "hotelAddressShort": "陕西省汉中市汉台区天汉大道与前进西路十字，往西200米"
+    "hotelId": "0300127", 
+    "hotelName": "太原亲贤街漫心酒店", 
+    "hotelAddressShort": "山西省太原市并州南路236号"
   }, 
   {
-    "hotelId": "7230991", 
-    "hotelName": "汉庭汉中北街口酒店", 
-    "hotelAddressShort": "汉中市石灰巷20号"
+    "hotelId": "0300211", 
+    "hotelName": "太原长风街美居酒店", 
+    "hotelAddressShort": "晋祠路2段88号"
   }, 
   {
-    "hotelId": "9015895", 
-    "hotelName": "你好汉中火车站中心广场酒店", 
-    "hotelAddressShort": "人民路中段68号宝麒大厦"
+    "hotelId": "0300008", 
+    "hotelName": "桔子水晶太原南站晋阳街酒店", 
+    "hotelAddressShort": "荣军北街99号"
+  }, 
+  {
+    "hotelId": "0300032", 
+    "hotelName": "汉庭太原解放路万达广场酒店", 
+    "hotelAddressShort": "山西省太原市杏花岭区解放路336号"
+  }, 
+  {
+    "hotelId": "9010045", 
+    "hotelName": "汉庭太原黎氏阁奥特莱斯酒店", 
+    "hotelAddressShort": "尖草坪区三给街2号文兴路与三给街交叉路口东南角"
+  }, 
+  {
+    "hotelId": "9012145", 
+    "hotelName": "全季太原清徐文源路酒店", 
+    "hotelAddressShort": "文苑路西段建设街"
+  }, 
+  {
+    "hotelId": "9002287", 
+    "hotelName": "星程太原公元时代城酒店", 
+    "hotelAddressShort": "移村南街3号 (下元公元时代城与下元公交总站对面100米）"
+  }, 
+  {
+    "hotelId": "0300022", 
+    "hotelName": "汉庭太原开化寺街地铁站酒店（原柳巷食品街店）", 
+    "hotelAddressShort": "太原市迎泽区开化寺街81号"
+  }, 
+  {
+    "hotelId": "9019132", 
+    "hotelName": "汉庭太原东中环五龙口街酒店", 
+    "hotelAddressShort": "五龙口街123号"
+  }, 
+  {
+    "hotelId": "9005496", 
+    "hotelName": "汉庭太原东中环山大三院酒店", 
+    "hotelAddressShort": "太原市杏花岭区新街南二巷7号"
+  }, 
+  {
+    "hotelId": "0300271", 
+    "hotelName": "汉庭太原下元酒店", 
+    "hotelAddressShort": "太原市万柏林区和平北路23号"
+  }, 
+  {
+    "hotelId": "0300012", 
+    "hotelName": "汉庭太原五一路山大二院酒店", 
+    "hotelAddressShort": "太原市杏花岭区五一路145号精营南横街巷口"
+  }, 
+  {
+    "hotelId": "9006309", 
+    "hotelName": "星程太原南内环青龙酒店", 
+    "hotelAddressShort": "南内环街302号（南内环街与寇庄西路口东50米）"
+  }, 
+  {
+    "hotelId": "9010932", 
+    "hotelName": "海友太原并州南路大营盘酒店", 
+    "hotelAddressShort": "山西省太原市小店区体育北街12号"
+  }, 
+  {
+    "hotelId": "8916048", 
+    "hotelName": "桔子太原长风街酒店", 
+    "hotelAddressShort": "长风街145号1幢（万厦苑1号楼）"
+  }, 
+  {
+    "hotelId": "0300129", 
+    "hotelName": "宜必思太原亲贤街茂业店", 
+    "hotelAddressShort": "太原市体育西路50号"
+  }, 
+  {
+    "hotelId": "0300531", 
+    "hotelName": "汉庭优佳太原汽车客运西站酒店", 
+    "hotelAddressShort": "万柏林区迎泽西大街南寒圣都8号楼1单元"
+  }, 
+  {
+    "hotelId": "0300082", 
+    "hotelName": "汉庭太原大同路太钢西门酒店", 
+    "hotelAddressShort": "山西省太原市尖草坪区大同路青年城5号楼"
+  }, 
+  {
+    "hotelId": "0300027", 
+    "hotelName": "全季太原市政府酒店", 
+    "hotelAddressShort": "西羊市街48号"
+  }, 
+  {
+    "hotelId": "0300123", 
+    "hotelName": "全季太原建设南路酒店", 
+    "hotelAddressShort": "亲贤北街9号"
+  }, 
+  {
+    "hotelId": "9018345", 
+    "hotelName": "汉庭太原亲贤街茂业酒店", 
+    "hotelAddressShort": "太原市小店区亲贤北街94号1层部分，2-3层"
+  }, 
+  {
+    "hotelId": "9011591", 
+    "hotelName": "汉庭太原徐沟中学酒店", 
+    "hotelAddressShort": "山西省太原市清徐县徐沟镇文化东街58号，君泰·清华苑小区第5号商业（幢）1单元8号铺"
+  }, 
+  {
+    "hotelId": "0300024", 
+    "hotelName": "汉庭优佳太原国贸酒店", 
+    "hotelAddressShort": "太原市府西街10号"
+  }, 
+  {
+    "hotelId": "9019640", 
+    "hotelName": "你好太原亲贤街茂业酒店", 
+    "hotelAddressShort": "亲贤北街94号（你好酒店）"
+  }, 
+  {
+    "hotelId": "9000741", 
+    "hotelName": "太原亲贤街美居酒店", 
+    "hotelAddressShort": "亲贤北街22号"
+  }, 
+  {
+    "hotelId": "9017635", 
+    "hotelName": "汉庭太原晋源省儿童医院酒店", 
+    "hotelAddressShort": "山西省太原市晋源区晋源街办潜丘路20号阳光城翡丽湾2期26幢底商26A-1005"
+  }, 
+  {
+    "hotelId": "0300023", 
+    "hotelName": "汉庭太原胜利桥东店", 
+    "hotelAddressShort": "太原市杏花岭区金刚堰路101号"
+  }, 
+  {
+    "hotelId": "9013987", 
+    "hotelName": "汉庭太原文兴路滨河体育中心酒店", 
+    "hotelAddressShort": "文兴路86号明珠花园小区5栋"
+  }, 
+  {
+    "hotelId": "9006999", 
+    "hotelName": "海友太原建设北路太铁广场酒店", 
+    "hotelAddressShort": "山西省太原市杏花岭区建设北路170号"
+  }, 
+  {
+    "hotelId": "0300323", 
+    "hotelName": "汉庭太原晋阳街大医院酒店", 
+    "hotelAddressShort": "小店区龙城北街175号"
+  }, 
+  {
+    "hotelId": "0300245", 
+    "hotelName": "全季太原迎泽西大街酒店", 
+    "hotelAddressShort": "西矿街253号"
+  }, 
+  {
+    "hotelId": "9009718", 
+    "hotelName": "汉庭太原省儿童医院酒店", 
+    "hotelAddressShort": "坝陵南街12号"
+  }, 
+  {
+    "hotelId": "0300081", 
+    "hotelName": "海友太原太钢东门酒店", 
+    "hotelAddressShort": "太原尖草坪区恒山路66号"
+  }, 
+  {
+    "hotelId": "9011690", 
+    "hotelName": "海友太原动物园小商品城酒店", 
+    "hotelAddressShort": "钢中路柏桦苑北区1号楼"
+  }, 
+  {
+    "hotelId": "0300452", 
+    "hotelName": "汉庭太原建设南路服装城酒店", 
+    "hotelAddressShort": "山西省太原市迎泽区朝阳街8号"
+  }, 
+  {
+    "hotelId": "9013398", 
+    "hotelName": "汉庭太原南中环火车南站酒店", 
+    "hotelAddressShort": "南中环街中环壹号小区五号楼"
+  }, 
+  {
+    "hotelId": "0300003", 
+    "hotelName": "全季太原火车南站酒店", 
+    "hotelAddressShort": "南中环街与太榆路交叉路口瑞吉财商中心A座101室"
+  }, 
+  {
+    "hotelId": "9010261", 
+    "hotelName": "汉庭太原钢园路酒店", 
+    "hotelAddressShort": "山西省太原市尖草坪区阳曲镇龙湾大道商业1号"
+  }, 
+  {
+    "hotelId": "8000516", 
+    "hotelName": "汉庭优佳太原建设南路亲贤街酒店", 
+    "hotelAddressShort": "太原市小店区亲贤北街9号"
+  }, 
+  {
+    "hotelId": "0300061", 
+    "hotelName": "汉庭太原南内环街酒店", 
+    "hotelAddressShort": "太原市小店区平阳路17号"
+  }, 
+  {
+    "hotelId": "9000567", 
+    "hotelName": "汉庭太原千峰南路酒店", 
+    "hotelAddressShort": "太原市万柏林区千峰南路140号2-1004附近"
+  }, 
+  {
+    "hotelId": "0300124", 
+    "hotelName": "全季太原平阳路酒店", 
+    "hotelAddressShort": "平阳路14号"
+  }, 
+  {
+    "hotelId": "0300131", 
+    "hotelName": "海友太原东峰路汽车客运东站酒店", 
+    "hotelAddressShort": "山西省太原市迎泽区松庄路2号"
+  }, 
+  {
+    "hotelId": "9004521", 
+    "hotelName": "汉庭太原山西大学酒店", 
+    "hotelAddressShort": "太原市小店区学府街158号汉庭太原山西大学酒店"
+  }, 
+  {
+    "hotelId": "9011640", 
+    "hotelName": "海友太原新晋祠路省展览馆酒店", 
+    "hotelAddressShort": "山西省太原市万柏林区新晋祠路12号展览馆院内汇展宾馆主楼"
+  }, 
+  {
+    "hotelId": "0300261", 
+    "hotelName": "汉庭太原理工大学酒店", 
+    "hotelAddressShort": "太原市万柏林区新矿院路10号"
+  }, 
+  {
+    "hotelId": "0300242", 
+    "hotelName": "汉庭太原下元公元时代城酒店", 
+    "hotelAddressShort": "太原市万柏林区和平南路45号"
+  }, 
+  {
+    "hotelId": "0300321", 
+    "hotelName": "全季太原经济开发区酒店", 
+    "hotelAddressShort": "龙盛街2号"
+  }, 
+  {
+    "hotelId": "9008839", 
+    "hotelName": "汉庭太原兴华街酒店", 
+    "hotelAddressShort": "兴华街299号"
+  }, 
+  {
+    "hotelId": "0300001", 
+    "hotelName": "汉庭太原新建北路市政府酒店", 
+    "hotelAddressShort": "太原市新建路73号"
+  }, 
+  {
+    "hotelId": "9018521", 
+    "hotelName": "星程太原长风街万象城酒店", 
+    "hotelAddressShort": "山西省太原市万柏林区晋祠路88号（恋日温泉小区）"
+  }, 
+  {
+    "hotelId": "0300014", 
+    "hotelName": "汉庭太原大南门酒店", 
+    "hotelAddressShort": "太原市迎泽大街282号南宫广场西侧，大南门地铁站A口西侧440米。"
+  }, 
+  {
+    "hotelId": "0300017", 
+    "hotelName": "全季太原五一路酒店", 
+    "hotelAddressShort": "五一路197号"
+  }, 
+  {
+    "hotelId": "9002282", 
+    "hotelName": "海友太原北肖墙万达广场酒店", 
+    "hotelAddressShort": "山西省太原市杏花岭区北肖墙184号（北大街与北肖墙交叉往南200米）"
+  }, 
+  {
+    "hotelId": "0300125", 
+    "hotelName": "海友太原南内环地铁站酒店", 
+    "hotelAddressShort": "太原市小店区南内环地铁站D口东150米"
+  }, 
+  {
+    "hotelId": "9005920", 
+    "hotelName": "汉庭太原古交火山苑酒店", 
+    "hotelAddressShort": "山西省太原市古交市滨河北路火山苑小区西侧综合楼"
+  }, 
+  {
+    "hotelId": "0300066", 
+    "hotelName": "海友太原羊市街酒店", 
+    "hotelAddressShort": "山西省太原市迎泽区西羊市街48号"
+  }, 
+  {
+    "hotelId": "9005383", 
+    "hotelName": "怡莱太原解放南路山西医科大学酒店(升级中)", 
+    "hotelAddressShort": "双塔西街61号"
+  }, 
+  {
+    "hotelId": "0300272", 
+    "hotelName": "海友太原兴华街酒店", 
+    "hotelAddressShort": "山西省太原市尖草坪区兴华北巷14号"
+  }, 
+  {
+    "hotelId": "0300007", 
+    "hotelName": "汉庭优佳太原经济开发区酒店", 
+    "hotelAddressShort": "太原市小店区康宁街小店二组居民小区综合楼1单元8、9、10层"
+  }, 
+  {
+    "hotelId": "9018352", 
+    "hotelName": "宜必思尚品太原柳巷步行街酒店", 
+    "hotelAddressShort": "迎泽区柳巷南路118号工贸大厦7层"
+  }, 
+  {
+    "hotelId": "9007275", 
+    "hotelName": "星程太原长风街建设南路酒店", 
+    "hotelAddressShort": "长风街建设南路206号"
+  }, 
+  {
+    "hotelId": "0300016", 
+    "hotelName": "汉庭太原火车站酒店（质量整改）", 
+    "hotelAddressShort": "太原市迎泽区五龙口街16号"
+  }, 
+  {
+    "hotelId": "9010301", 
+    "hotelName": "星程太原柳巷钟楼街酒店", 
+    "hotelAddressShort": "都司街15号（都司街与水渠项交叉口都市广场北50米）"
+  }, 
+  {
+    "hotelId": "9009139", 
+    "hotelName": "星程太原清徐文源路酒店", 
+    "hotelAddressShort": "清源镇晋夏公路南段9号"
+  }, 
+  {
+    "hotelId": "9016563", 
+    "hotelName": "桔子太原府西街酒店", 
+    "hotelAddressShort": "太原市杏花岭区府西街18号(国贸大饭店对面)"
+  }, 
+  {
+    "hotelId": "0300019", 
+    "hotelName": "海友太原柳巷钟楼街酒店（质量整改）", 
+    "hotelAddressShort": "迎泽区桥头街82号"
+  }, 
+  {
+    "hotelId": "0300327", 
+    "hotelName": "宜必思太原山西大医院酒店", 
+    "hotelAddressShort": "山西省太原市小店区平阳南路98号"
+  }, 
+  {
+    "hotelId": "9011299", 
+    "hotelName": "汉庭太原南站东广场酒店", 
+    "hotelAddressShort": " 【太原南站东广场南出口100米】北营街道光明路27号21号楼"
+  }, 
+  {
+    "hotelId": "0300246", 
+    "hotelName": "星程太原红灯笼体育场酒店", 
+    "hotelAddressShort": "健康北街500号"
+  }, 
+  {
+    "hotelId": "9000904", 
+    "hotelName": "全季太原体育路酒店", 
+    "hotelAddressShort": "体育路403号"
+  }, 
+  {
+    "hotelId": "8000401", 
+    "hotelName": "全季太原山西大医院酒店", 
+    "hotelAddressShort": "龙城北街178号龙城壹号北门1号楼1001商铺"
+  }, 
+  {
+    "hotelId": "9018807", 
+    "hotelName": "桔子太原南内环街酒店", 
+    "hotelAddressShort": "山西省太原市迎泽区南内环街(大营盘西巷)"
+  }, 
+  {
+    "hotelId": "9001157", 
+    "hotelName": "全季太原千峰南路酒店", 
+    "hotelAddressShort": "千峰南路鑫美天地小区西南侧南1号商铺"
+  }, 
+  {
+    "hotelId": "9019118", 
+    "hotelName": "汉庭太原南中环体育路酒店", 
+    "hotelAddressShort": "太原市小店区南中环街23号1幢1层部分、2至5层"
+  }, 
+  {
+    "hotelId": "9004996", 
+    "hotelName": "星程太原长风街坞城路酒店", 
+    "hotelAddressShort": "长风街坞城路4号（坞城路和长风街十字路口东南角）"
+  }, 
+  {
+    "hotelId": "0300326", 
+    "hotelName": "汉庭太原康宁街地铁站酒店", 
+    "hotelAddressShort": "山西省太原市小店区人民北路23号"
+  }, 
+  {
+    "hotelId": "9005123", 
+    "hotelName": "汉庭太原长风街酒店", 
+    "hotelAddressShort": "长治路111号世贸中心C座"
+  }, 
+  {
+    "hotelId": "0300064", 
+    "hotelName": "全季太原高新区酒店", 
+    "hotelAddressShort": "长治路418号(中辐院西门)"
+  }, 
+  {
+    "hotelId": "9002881", 
+    "hotelName": "宜必思太原电子西街地铁站酒店", 
+    "hotelAddressShort": "太原市小店区人民北路269号"
+  }, 
+  {
+    "hotelId": "9000013", 
+    "hotelName": "全季太原长风街酒店", 
+    "hotelAddressShort": "寇庄西路117号"
+  }, 
+  {
+    "hotelId": "0300122", 
+    "hotelName": "汉庭太原高新区酒店", 
+    "hotelAddressShort": "长治路188号"
+  }, 
+  {
+    "hotelId": "9014997", 
+    "hotelName": "你好太原长风街酒店", 
+    "hotelAddressShort": "太原市长治路88号"
+  }, 
+  {
+    "hotelId": "9010625", 
+    "hotelName": "全季太原南内环街酒店", 
+    "hotelAddressShort": "南内环 街33号1栋"
+  }, 
+  {
+    "hotelId": "9006994", 
+    "hotelName": "海友太原高新区长风街地铁站酒店", 
+    "hotelAddressShort": "长治路176号"
+  }, 
+  {
+    "hotelId": "9001517", 
+    "hotelName": "汉庭太原南站酒店", 
+    "hotelAddressShort": "太原小店区北营晋阳街28号"
+  }, 
+  {
+    "hotelId": "9004997", 
+    "hotelName": "星程太原经济开发区酒店", 
+    "hotelAddressShort": "富康街万豪明珠7号楼(真武西路与富康街交叉口西100米)"
+  }, 
+  {
+    "hotelId": "0300311", 
+    "hotelName": "全季太原晋阳街酒店", 
+    "hotelAddressShort": "晋阳街159号"
+  }, 
+  {
+    "hotelId": "9012470", 
+    "hotelName": "你好太原晋阳街地铁站酒店", 
+    "hotelAddressShort": "晋阳街159号"
+  }, 
+  {
+    "hotelId": "9000950", 
+    "hotelName": "宜必思太原火车南站酒店", 
+    "hotelAddressShort": "山西省太原市小店区许坦东街20号"
+  }, 
+  {
+    "hotelId": "0300312", 
+    "hotelName": "星程太原南站酒店", 
+    "hotelAddressShort": "许坦东街15号（太榆路与许坦东街交叉口往东920米，锦东国际B座）"
+  }, 
+  {
+    "hotelId": "8000401", 
+    "hotelName": "全季太原山西大医院酒店", 
+    "hotelAddressShort": "龙城北街178号龙城壹号北门1号楼1001商铺"
+  }, 
+  {
+    "hotelId": "9018807", 
+    "hotelName": "桔子太原南内环街酒店", 
+    "hotelAddressShort": "山西省太原市迎泽区南内环街(大营盘西巷)"
+  }, 
+  {
+    "hotelId": "9001157", 
+    "hotelName": "全季太原千峰南路酒店", 
+    "hotelAddressShort": "千峰南路鑫美天地小区西南侧南1号商铺"
+  }, 
+  {
+    "hotelId": "9019118", 
+    "hotelName": "汉庭太原南中环体育路酒店", 
+    "hotelAddressShort": "太原市小店区南中环街23号1幢1层部分、2至5层"
+  }, 
+  {
+    "hotelId": "9004996", 
+    "hotelName": "星程太原长风街坞城路酒店", 
+    "hotelAddressShort": "长风街坞城路4号（坞城路和长风街十字路口东南角）"
+  }, 
+  {
+    "hotelId": "0300326", 
+    "hotelName": "汉庭太原康宁街地铁站酒店", 
+    "hotelAddressShort": "山西省太原市小店区人民北路23号"
+  }, 
+  {
+    "hotelId": "9005123", 
+    "hotelName": "汉庭太原长风街酒店", 
+    "hotelAddressShort": "长治路111号世贸中心C座"
+  }, 
+  {
+    "hotelId": "0300064", 
+    "hotelName": "全季太原高新区酒店", 
+    "hotelAddressShort": "长治路418号(中辐院西门)"
+  }, 
+  {
+    "hotelId": "9002881", 
+    "hotelName": "宜必思太原电子西街地铁站酒店", 
+    "hotelAddressShort": "太原市小店区人民北路269号"
+  }, 
+  {
+    "hotelId": "9000013", 
+    "hotelName": "全季太原长风街酒店", 
+    "hotelAddressShort": "寇庄西路117号"
+  }, 
+  {
+    "hotelId": "0300122", 
+    "hotelName": "汉庭太原高新区酒店", 
+    "hotelAddressShort": "长治路188号"
+  }, 
+  {
+    "hotelId": "9014997", 
+    "hotelName": "你好太原长风街酒店", 
+    "hotelAddressShort": "太原市长治路88号"
+  }, 
+  {
+    "hotelId": "9010625", 
+    "hotelName": "全季太原南内环街酒店", 
+    "hotelAddressShort": "南内环 街33号1栋"
+  }, 
+  {
+    "hotelId": "9006994", 
+    "hotelName": "海友太原高新区长风街地铁站酒店", 
+    "hotelAddressShort": "长治路176号"
+  }, 
+  {
+    "hotelId": "9001517", 
+    "hotelName": "汉庭太原南站酒店", 
+    "hotelAddressShort": "太原小店区北营晋阳街28号"
+  }, 
+  {
+    "hotelId": "9004997", 
+    "hotelName": "星程太原经济开发区酒店", 
+    "hotelAddressShort": "富康街万豪明珠7号楼(真武西路与富康街交叉口西100米)"
+  }, 
+  {
+    "hotelId": "0300311", 
+    "hotelName": "全季太原晋阳街酒店", 
+    "hotelAddressShort": "晋阳街159号"
+  }, 
+  {
+    "hotelId": "9012470", 
+    "hotelName": "你好太原晋阳街地铁站酒店", 
+    "hotelAddressShort": "晋阳街159号"
+  }, 
+  {
+    "hotelId": "9000950", 
+    "hotelName": "宜必思太原火车南站酒店", 
+    "hotelAddressShort": "山西省太原市小店区许坦东街20号"
+  }, 
+  {
+    "hotelId": "0300312", 
+    "hotelName": "星程太原南站酒店", 
+    "hotelAddressShort": "许坦东街15号（太榆路与许坦东街交叉口往东920米，锦东国际B座）"
   }
 ]

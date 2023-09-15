@@ -51,9 +51,9 @@ HotelStyle = {
 }
 
 param = {
-    'checkInDate': '2023-09-13',
-    'checkOutDate': '2023-09-14',
-    'cityName': '汉中',
+    'checkInDate': '2023-09-23',
+    'checkOutDate': '2023-09-24',
+    'cityName': '太原',
     # 'hotelStyle': '2',
     # 'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0
