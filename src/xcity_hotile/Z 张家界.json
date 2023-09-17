@@ -1,0 +1,22 @@
+[
+  {
+    "hotelId": "4270005", 
+    "hotelName": "全季张家界天门山酒店", 
+    "hotelAddressShort": "湖南省张家界市永定区迎宾路"
+  }, 
+  {
+    "hotelId": "4272001", 
+    "hotelName": "汉庭张家界慈利博联天街酒店", 
+    "hotelAddressShort": "慈利县新城区博联天街1号楼"
+  }, 
+  {
+    "hotelId": "4270004", 
+    "hotelName": "汉庭张家界古庸路酒店", 
+    "hotelAddressShort": "永定区古庸路413号"
+  }, 
+  {
+    "hotelId": "4270993", 
+    "hotelName": "汉庭张家界天门山景区酒店", 
+    "hotelAddressShort": "永定区子午路400号"
+  }
+]

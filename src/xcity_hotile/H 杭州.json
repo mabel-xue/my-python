@@ -1,458 +1,18 @@
 [
   {
-    "hotelId": "9000640", 
-    "hotelName": "桔子水晶杭州西湖湖滨银泰酒店", 
-    "hotelAddressShort": "解放路142号"
+    "hotelId": "9002022", 
+    "hotelName": "杭州紫金港美爵酒店", 
+    "hotelAddressShort": "拱墅区申花路99号运河财富中心6号楼"
   }, 
   {
-    "hotelId": "9009080", 
-    "hotelName": "全季建德新安江江畔酒店", 
-    "hotelAddressShort": "新安路283号（约1公里可到达江清月近人表演基地月亮岛）"
+    "hotelId": "8000185", 
+    "hotelName": "杭州西湖湖滨美居酒店", 
+    "hotelAddressShort": "中河北路3号"
   }, 
   {
-    "hotelId": "9020305", 
-    "hotelName": "全季杭州浙大紫金港亚运公园酒店", 
-    "hotelAddressShort": "申花路415号"
-  }, 
-  {
-    "hotelId": "9023368", 
-    "hotelName": "汉庭杭州阿里巴巴西溪园区酒店", 
-    "hotelAddressShort": "西湖区金色水岸商务楼1号楼"
-  }, 
-  {
-    "hotelId": "9005227", 
-    "hotelName": "全季杭州桐庐酒店", 
-    "hotelAddressShort": "迎春南路180号"
-  }, 
-  {
-    "hotelId": "8000218", 
-    "hotelName": "桔子水晶杭州西湖酒店", 
-    "hotelAddressShort": "清波街道122号"
-  }, 
-  {
-    "hotelId": "9009826", 
-    "hotelName": "汉庭杭州富阳银湖九龙大道酒店", 
-    "hotelAddressShort": "九龙大道197-1号"
-  }, 
-  {
-    "hotelId": "9001228", 
-    "hotelName": "全季杭州运河万达广场酒店", 
-    "hotelAddressShort": "祥园路217号"
-  }, 
-  {
-    "hotelId": "3100072", 
-    "hotelName": "汉庭杭州西湖保俶路酒店", 
-    "hotelAddressShort": "保俶路宝石二路2号"
-  }, 
-  {
-    "hotelId": "3100036", 
-    "hotelName": "汉庭杭州浙大紫金港酒店", 
-    "hotelAddressShort": "紫荆花北路188号"
-  }, 
-  {
-    "hotelId": "9000218", 
-    "hotelName": "全季杭州西湖延安路酒店", 
-    "hotelAddressShort": "浙江省杭州市上城区延安路298-7号7层"
-  }, 
-  {
-    "hotelId": "8000432", 
-    "hotelName": "桔子杭州西湖酒店(质量整改)", 
-    "hotelAddressShort": "湖滨街道菩提寺路5号"
-  }, 
-  {
-    "hotelId": "9015104", 
-    "hotelName": "汉庭杭州桐庐富春江酒店", 
-    "hotelAddressShort": "天目路428号"
-  }, 
-  {
-    "hotelId": "9008049", 
-    "hotelName": "桔子水晶杭州滨江宝龙城酒店", 
-    "hotelAddressShort": "浙江省杭州市滨江区国慷街509号4幢"
-  }, 
-  {
-    "hotelId": "9019943", 
-    "hotelName": "全季杭州大江东义蓬酒店", 
-    "hotelAddressShort": "青六中路598号距义蓬站D口721米"
-  }, 
-  {
-    "hotelId": "9008401", 
-    "hotelName": "汉庭杭州西湖湖滨解放路酒店", 
-    "hotelAddressShort": "丰家兜1号（近省公安厅和浙二医院，浙一医院）"
-  }, 
-  {
-    "hotelId": "9003514", 
-    "hotelName": "桔子水晶杭州运河万达广场酒店", 
-    "hotelAddressShort": "储运路990号首望中心3栋"
-  }, 
-  {
-    "hotelId": "9011410", 
-    "hotelName": "全季杭州教工路酒店", 
-    "hotelAddressShort": "西湖区教工路250号（距离2号线下宁桥地铁站A出口900米）"
-  }, 
-  {
-    "hotelId": "3117001", 
-    "hotelName": "汉庭千岛湖景区酒店（原千岛湖中心码头店）", 
-    "hotelAddressShort": "梦姑路392号(酒店穿梭巴士旅游码头站下）"
-  }, 
-  {
-    "hotelId": "3100064", 
-    "hotelName": "汉庭杭州武林路中心酒店", 
-    "hotelAddressShort": "武林路357号"
-  }, 
-  {
-    "hotelId": "3100033", 
-    "hotelName": "汉庭杭州武林广场东店", 
-    "hotelAddressShort": "中山北路522号（地铁1号3号线武林广场站E出口步行500米）"
-  }, 
-  {
-    "hotelId": "9009522", 
-    "hotelName": "汉庭千岛湖旅游码头中心酒店", 
-    "hotelAddressShort": "新安大街8号（距离酒店穿梭巴士夜游码头站150米）"
-  }, 
-  {
-    "hotelId": "9012636", 
-    "hotelName": "汉庭杭州湘湖时代大道酒店", 
-    "hotelAddressShort": "时代大道3919号（湘湖人家小区西面）"
-  }, 
-  {
-    "hotelId": "9015105", 
-    "hotelName": "汉庭杭州桐庐东站江南镇酒店", 
-    "hotelAddressShort": "江南路818号"
-  }, 
-  {
-    "hotelId": "9010150", 
-    "hotelName": "桔子水晶杭州萧山建设三路酒店", 
-    "hotelAddressShort": "市心北路199号"
-  }, 
-  {
-    "hotelId": "3100139", 
-    "hotelName": "桔子杭州火车西站浙一医院酒店", 
-    "hotelAddressShort": "文一西路1326号利尔达科技园5号楼"
-  }, 
-  {
-    "hotelId": "9020164", 
-    "hotelName": "汉庭杭州九堡地铁站酒店", 
-    "hotelAddressShort": "杭海路1183号（九堡地铁站C出口）"
-  }, 
-  {
-    "hotelId": "8916681", 
-    "hotelName": "汉庭杭州富阳野生动物园酒店", 
-    "hotelAddressShort": "富闲路15号3幢1楼(距离中国智谷园区667米、野生动物园1.4公里)"
-  }, 
-  {
-    "hotelId": "3112071", 
-    "hotelName": "汉庭杭州萧山机场酒店", 
-    "hotelAddressShort": "红山大道55号"
-  }, 
-  {
-    "hotelId": "8000238", 
-    "hotelName": "桔子水晶杭州火车东站酒店", 
-    "hotelAddressShort": "天城路10号"
-  }, 
-  {
-    "hotelId": "9006331", 
-    "hotelName": "汉庭杭州滨江星光大道酒店", 
-    "hotelAddressShort": "滨盛路1857号(地铁6号线江汉路站B出口向北550米红绿灯口右转30米)"
-  }, 
-  {
-    "hotelId": "8000137", 
-    "hotelName": "全季杭州武林门地铁站酒店", 
-    "hotelAddressShort": "武林路480号"
-  }, 
-  {
-    "hotelId": "9008046", 
-    "hotelName": "全季杭州宋城酒店", 
-    "hotelAddressShort": "珊瑚沙路49号（之江长久中心4号楼）"
-  }, 
-  {
-    "hotelId": "9002063", 
-    "hotelName": "全季杭州西湖湖滨二轻大厦酒店", 
-    "hotelAddressShort": "延安路398-408号（双号）二轻大厦B座（地铁1号2号线凤起路站A出口50米孩儿巷内）"
-  }, 
-  {
-    "hotelId": "9008072", 
-    "hotelName": "汉庭杭州四季青服装市场酒店", 
-    "hotelAddressShort": "浙江省杭州市上城区清江路122号"
-  }, 
-  {
-    "hotelId": "9013063", 
-    "hotelName": "汉庭杭州三坝地铁站酒店", 
-    "hotelAddressShort": "同人精华大厦3号楼9-11层"
-  }, 
-  {
-    "hotelId": "3100517", 
-    "hotelName": "桔子水晶杭州滨江星光大道酒店", 
-    "hotelAddressShort": "江晖路1961号"
-  }, 
-  {
-    "hotelId": "9016530", 
-    "hotelName": "汉庭杭州文一路酒店", 
-    "hotelAddressShort": "文一路1号"
-  }, 
-  {
-    "hotelId": "8000221", 
-    "hotelName": "桔子水晶杭州钱江新城近江酒店", 
-    "hotelAddressShort": "钱江路555号日信国际大厦"
-  }, 
-  {
-    "hotelId": "3100167", 
-    "hotelName": "全季杭州九堡客运中心酒店", 
-    "hotelAddressShort": "九沙大道399号"
-  }, 
-  {
-    "hotelId": "9000580", 
-    "hotelName": "桔子杭州西溪酒店", 
-    "hotelAddressShort": "文二西路738号"
-  }, 
-  {
-    "hotelId": "3112005", 
-    "hotelName": "汉庭杭州火车南站酒店", 
-    "hotelAddressShort": "商城中路125号（萧山区）"
-  }, 
-  {
-    "hotelId": "3100078", 
-    "hotelName": "桔子杭州西湖武林门地铁站酒店", 
-    "hotelAddressShort": "体育场路407号"
-  }, 
-  {
-    "hotelId": "9001497", 
-    "hotelName": "汉庭优佳杭州公望街地铁站酒店（原富阳银泰店）", 
-    "hotelAddressShort": "公望街471号-6（地铁6号线公望街站D出口向北直行300米）"
-  }, 
-  {
-    "hotelId": "9004162", 
-    "hotelName": "全季杭州转塘云栖小镇酒店", 
-    "hotelAddressShort": "云展路10号（科海路地铁站B口步行500米）"
-  }, 
-  {
-    "hotelId": "8000264", 
-    "hotelName": "桔子水晶杭州武林广场银泰酒店", 
-    "hotelAddressShort": "杭州市拱墅区体育场路267号"
-  }, 
-  {
-    "hotelId": "3111123", 
-    "hotelName": "桔子杭州未来科技城杭师大酒店", 
-    "hotelAddressShort": "余杭塘路1299号"
-  }, 
-  {
-    "hotelId": "3100601", 
-    "hotelName": "汉庭杭州西湖仁和路酒店", 
-    "hotelAddressShort": "仁和路22号（地铁1号线龙翔桥站D出口向南300米）"
-  }, 
-  {
-    "hotelId": "9009688", 
-    "hotelName": "全季杭州阿里巴巴西溪园区酒店", 
-    "hotelAddressShort": "文一西路和聚橙路交叉口（亲橙里对面,距离阿里巴巴西溪园区150m）"
-  }, 
-  {
-    "hotelId": "8000151", 
-    "hotelName": "全季杭州西湖龙翔桥地铁站酒店", 
-    "hotelAddressShort": "平海路26号（近龙翔桥地铁站D2出口）"
-  }, 
-  {
-    "hotelId": "9014132", 
-    "hotelName": "汉庭杭州西湖河坊街酒店", 
-    "hotelAddressShort": "解放路54号（近浙二医院、浙一医院和杭二中）"
-  }, 
-  {
-    "hotelId": "3100061", 
-    "hotelName": "汉庭杭州武林广场酒店", 
-    "hotelAddressShort": "体育场路436号"
-  }, 
-  {
-    "hotelId": "9005357", 
-    "hotelName": "汉庭临安中心酒店（原临安万华广场酒店）", 
-    "hotelAddressShort": "石镜街888号（石镜街与横潭路交叉口）"
-  }, 
-  {
-    "hotelId": "9002111", 
-    "hotelName": "桔子水晶杭州紫金港文一西路酒店", 
-    "hotelAddressShort": "文一西路59号"
-  }, 
-  {
-    "hotelId": "9014647", 
-    "hotelName": "全季杭州转塘星光荟酒店", 
-    "hotelAddressShort": "美院北街杭荟城2号楼（中国美院象山校区北门口）"
-  }, 
-  {
-    "hotelId": "8916233", 
-    "hotelName": "汉庭杭州钱江新城景昙路酒店", 
-    "hotelAddressShort": "景昙路170号"
-  }, 
-  {
-    "hotelId": "8000058", 
-    "hotelName": "全季杭州西溪酒店", 
-    "hotelAddressShort": "文二西路710号"
-  }, 
-  {
-    "hotelId": "3111211", 
-    "hotelName": "汉庭杭州中泰商贸城酒店", 
-    "hotelAddressShort": "中泰路405号-1"
-  }, 
-  {
-    "hotelId": "9021632", 
-    "hotelName": "全季杭州西湖鼓楼酒店", 
-    "hotelAddressShort": "上仓桥路11号1-7层部分"
-  }, 
-  {
-    "hotelId": "3112011", 
-    "hotelName": "汉庭杭州萧山人民广场地铁站酒店", 
-    "hotelAddressShort": "市心中路572号(地铁2号线、5号线人民广场地铁站C6出口直行200米)"
-  }, 
-  {
-    "hotelId": "9001570", 
-    "hotelName": "全季杭州西湖湖滨步行街酒店", 
-    "hotelAddressShort": "杭州市上城区延安路303号（地铁1号线龙翔桥B出口向北400米）"
-  }, 
-  {
-    "hotelId": "3100094", 
-    "hotelName": "全季杭州西湖南宋御街酒店", 
-    "hotelAddressShort": "建国中路7号"
-  }, 
-  {
-    "hotelId": "3100084", 
-    "hotelName": "桔子杭州西湖虎跑路酒店", 
-    "hotelAddressShort": "虎跑路47号"
-  }, 
-  {
-    "hotelId": "3100067", 
-    "hotelName": "汉庭杭州朝晖路运河酒店", 
-    "hotelAddressShort": "朝晖路28号（地铁1号线打铁关A出口沿绍兴路直行500米）"
-  }, 
-  {
-    "hotelId": "9014434", 
-    "hotelName": "汉庭杭州桐庐富春江一桥酒店", 
-    "hotelAddressShort": "瑶琳路1141号"
-  }, 
-  {
-    "hotelId": "9010890", 
-    "hotelName": "汉庭杭州富阳新登中心酒店", 
-    "hotelAddressShort": "金城路666号松溪家园1号"
-  }, 
-  {
-    "hotelId": "8000403", 
-    "hotelName": "全季杭州西溪海港城酒店", 
-    "hotelAddressShort": "荆长路658-1号（距离同花顺、八方城100米）"
-  }, 
-  {
-    "hotelId": "3100024", 
-    "hotelName": "全季杭州西湖南山路酒店", 
-    "hotelAddressShort": "杭州市上城区沿南山路210号"
-  }, 
-  {
-    "hotelId": "8915998", 
-    "hotelName": "全季杭州滨江东信大道酒店", 
-    "hotelAddressShort": "东信大道688号（地铁4/6号线中医药大学站B出口向北50米） "
-  }, 
-  {
-    "hotelId": "9014251", 
-    "hotelName": "汉庭杭州滨江省儿童医院酒店", 
-    "hotelAddressShort": "滨江区国慷街509号4幢101室"
-  }, 
-  {
-    "hotelId": "3100523", 
-    "hotelName": "桔子水晶杭州滨江奥体中心酒店", 
-    "hotelAddressShort": "江陵路2028号"
-  }, 
-  {
-    "hotelId": "3115001", 
-    "hotelName": "汉庭杭州西湖龙井路酒店", 
-    "hotelAddressShort": "龙井路39号"
-  }, 
-  {
-    "hotelId": "3100225", 
-    "hotelName": "全季杭州半山路酒店", 
-    "hotelAddressShort": "半山路87号（半山森林公园对面）"
-  }, 
-  {
-    "hotelId": "9001376", 
-    "hotelName": "汉庭杭州未来科技城万达广场酒店", 
-    "hotelAddressShort": "凤新路360号"
-  }, 
-  {
-    "hotelId": "3100054", 
-    "hotelName": "全季杭州潮王路酒店", 
-    "hotelAddressShort": "潮王路169号"
-  }, 
-  {
-    "hotelId": "9001801", 
-    "hotelName": "全季杭州萧山萧绍路酒店", 
-    "hotelAddressShort": "萧绍路608号（萧绍路通惠中路交叉口）"
-  }, 
-  {
-    "hotelId": "9009763", 
-    "hotelName": "汉庭杭州良渚新城酒店", 
-    "hotelAddressShort": "良渚街道博园路7号1栋"
-  }, 
-  {
-    "hotelId": "3100017", 
-    "hotelName": "全季杭州西湖解放路酒店", 
-    "hotelAddressShort": "中河中路166号（近解放路,浙江省公安厅、地铁站龙翔桥D出口）"
-  }, 
-  {
-    "hotelId": "8000108", 
-    "hotelName": "全季杭州西溪银泰酒店", 
-    "hotelAddressShort": "紫霞街176号（距蒋村地铁口D口600米）"
-  }, 
-  {
-    "hotelId": "9003737", 
-    "hotelName": "汉庭杭州禹航路地铁站酒店", 
-    "hotelAddressShort": "禹航路58号"
-  }, 
-  {
-    "hotelId": "9000365", 
-    "hotelName": "汉庭优佳杭州转塘中国美院酒店", 
-    "hotelAddressShort": "转塘江口大厦218号"
-  }, 
-  {
-    "hotelId": "3112411", 
-    "hotelName": "汉庭优佳杭州萧山国际机场酒店", 
-    "hotelAddressShort": "孙家弄村191号"
-  }, 
-  {
-    "hotelId": "3114002", 
-    "hotelName": "汉庭杭州富阳客运站酒店", 
-    "hotelAddressShort": "孙权路8号"
-  }, 
-  {
-    "hotelId": "3116001", 
-    "hotelName": "汉庭建德新安江江畔店", 
-    "hotelAddressShort": "新安江街道保健路6号"
-  }, 
-  {
-    "hotelId": "3100056", 
-    "hotelName": "汉庭杭州武林门湖墅南路酒店", 
-    "hotelAddressShort": "湖墅南路397号"
-  }, 
-  {
-    "hotelId": "8916454", 
-    "hotelName": "汉庭优佳杭州半山酒店", 
-    "hotelAddressShort": "石桥路535号（近省肿瘤医院）"
-  }, 
-  {
-    "hotelId": "9000882", 
-    "hotelName": "全季杭州转塘美院酒店", 
-    "hotelAddressShort": "美院南路99号"
-  }, 
-  {
-    "hotelId": "9003530", 
-    "hotelName": "汉庭优佳杭州桐庐酒店", 
-    "hotelAddressShort": "徐家埠路199号"
-  }, 
-  {
-    "hotelId": "3100165", 
-    "hotelName": "全季杭州四季青凯旋路酒店", 
-    "hotelAddressShort": "凯旋路1号"
-  }, 
-  {
-    "hotelId": "3100193", 
-    "hotelName": "桔子杭州九堡客运中心酒店", 
-    "hotelAddressShort": "九环路7号"
-  }, 
-  {
-    "hotelId": "9006890", 
-    "hotelName": "汉庭杭州三墩西田城酒店", 
-    "hotelAddressShort": "朱家路158号"
+    "hotelId": "9001878", 
+    "hotelName": "杭州紫金港美居酒店", 
+    "hotelAddressShort": "申花路99号"
   }, 
   {
     "hotelId": "8914382", 
@@ -460,209 +20,214 @@
     "hotelAddressShort": "塘苗路29号"
   }, 
   {
-    "hotelId": "9009962", 
-    "hotelName": "汉庭杭州西湖文化广场地铁站酒店（原朝晖一店）", 
-    "hotelAddressShort": "上塘路86号（地铁1号／3号／19号线西湖文化广场地铁站E出口200m）"
+    "hotelId": "9013373", 
+    "hotelName": "建德严州古城花间府·胡亨茂", 
+    "hotelAddressShort": "浙江省杭州市建德市梅城镇正大街25号（严州古城花间府.胡亨茂）"
   }, 
   {
-    "hotelId": "3100124", 
-    "hotelName": "汉庭杭州文新地铁站酒店(原古墩路店)", 
-    "hotelAddressShort": "古墩路541号（文新地铁站B出口直行80米）"
+    "hotelId": "8000218", 
+    "hotelName": "桔子水晶杭州西湖酒店", 
+    "hotelAddressShort": "清波街道122号"
   }, 
   {
-    "hotelId": "3100204", 
-    "hotelName": "汉庭杭州四季青凯旋路酒店", 
-    "hotelAddressShort": "凯旋路201号（地铁2号线庆菱路站B出口步行约500米）"
+    "hotelId": "3100208", 
+    "hotelName": "杭州四季青庆春广场漫心酒店", 
+    "hotelAddressShort": "江干区双菱路116号"
   }, 
   {
-    "hotelId": "9001203", 
-    "hotelName": "全季杭州西湖文化广场酒店", 
-    "hotelAddressShort": "建国北路736号"
+    "hotelId": "3111071", 
+    "hotelName": "星程杭州仁河大道酒店", 
+    "hotelAddressShort": "仁河大道15号"
   }, 
   {
-    "hotelId": "3112007", 
-    "hotelName": "全季杭州萧山机场南阳酒店", 
-    "hotelAddressShort": "南虹路607号"
+    "hotelId": "9000640", 
+    "hotelName": "桔子水晶杭州西湖湖滨银泰酒店", 
+    "hotelAddressShort": "解放路142号"
   }, 
   {
-    "hotelId": "8000364", 
-    "hotelName": "全季杭州钱江新城钱潮路酒店", 
-    "hotelAddressShort": "钱潮路636号(瑞凯水湘大厦)"
+    "hotelId": "9015487", 
+    "hotelName": "海友杭州临江创慧园酒店", 
+    "hotelAddressShort": "钱塘区长风路与佳苑路交叉口三迪雅颂美筑售楼部北100米"
   }, 
   {
-    "hotelId": "3100068", 
-    "hotelName": "汉庭优佳杭州西湖酒店", 
-    "hotelAddressShort": "拱墅区延安路396号"
+    "hotelId": "8000268", 
+    "hotelName": "宜必思杭州西湖庆春路酒店", 
+    "hotelAddressShort": "庆春路85号"
   }, 
   {
-    "hotelId": "9014151", 
-    "hotelName": "全季杭州临平经开区北沙东路酒店", 
-    "hotelAddressShort": "北沙东路48号"
+    "hotelId": "9005343", 
+    "hotelName": "杭州庆春广场美居酒店", 
+    "hotelAddressShort": "新塘路58号美居酒店"
   }, 
   {
-    "hotelId": "8000415", 
-    "hotelName": "全季杭州西湖音乐喷泉酒店（质量整改）", 
-    "hotelAddressShort": "杭州市上城区浣纱路347-2号"
+    "hotelId": "8000486", 
+    "hotelName": "杭州西溪花间堂", 
+    "hotelAddressShort": "杭州余杭区天目山路五常大道寿堤11号（西溪湿地龙舌嘴入口）"
   }, 
   {
-    "hotelId": "9002100", 
-    "hotelName": "汉庭杭州桐庐中心广场酒店", 
-    "hotelAddressShort": "白云源路900号"
+    "hotelId": "9009826", 
+    "hotelName": "汉庭杭州富阳银湖九龙大道酒店", 
+    "hotelAddressShort": "九龙大道197-1号"
   }, 
   {
-    "hotelId": "9013140", 
-    "hotelName": "汉庭杭州滨康路地铁站酒店", 
-    "hotelAddressShort": "滨康路55号2幢(地铁1号线，5号线滨康路站G口向西100米）"
+    "hotelId": "9010984", 
+    "hotelName": "你好杭州富阳硅谷小镇野生动物园酒店", 
+    "hotelAddressShort": "九龙大道193-1号A座（距离中国智谷园区1.3公里、野生动物园1公里）"
   }, 
   {
-    "hotelId": "9012147", 
-    "hotelName": "全季杭州未来科技城菜鸟总部酒店", 
-    "hotelAddressShort": "余杭街道新里程中心5号楼-1幢"
+    "hotelId": "3100115", 
+    "hotelName": "杭州西溪紫金港漫心酒店", 
+    "hotelAddressShort": "浙江省杭州市拱墅区丰潭路508号天行国际中心6号楼五楼、六楼"
   }, 
   {
-    "hotelId": "8000367", 
-    "hotelName": "全季杭州未来科技城绿汀路酒店", 
-    "hotelAddressShort": "联创街588号"
+    "hotelId": "9001228", 
+    "hotelName": "全季杭州运河万达广场酒店", 
+    "hotelAddressShort": "祥园路217号"
   }, 
   {
-    "hotelId": "9010361", 
-    "hotelName": "桔子杭州金沙湖银泰百货酒店", 
-    "hotelAddressShort": "下沙南路429号"
+    "hotelId": "9020305", 
+    "hotelName": "全季杭州浙大紫金港亚运公园酒店", 
+    "hotelAddressShort": "申花路415号"
   }, 
   {
-    "hotelId": "3112009", 
-    "hotelName": "桔子杭州萧山机场酒店", 
-    "hotelAddressShort": "河庄南路1679号"
+    "hotelId": "8916681", 
+    "hotelName": "汉庭杭州富阳野生动物园酒店", 
+    "hotelAddressShort": "富闲路15号3幢1楼"
   }, 
   {
-    "hotelId": "9001163", 
-    "hotelName": "汉庭优佳杭州九堡客运中心酒店", 
-    "hotelAddressShort": "九昌路18号格畈大厦B座"
+    "hotelId": "3100036", 
+    "hotelName": "汉庭杭州浙大紫金港酒店", 
+    "hotelAddressShort": "紫荆花北路188号"
   }, 
   {
-    "hotelId": "8916479", 
-    "hotelName": "全季杭州大江东宝龙广场酒店", 
-    "hotelAddressShort": "义蓬街道龙润城52幢"
+    "hotelId": "8000119", 
+    "hotelName": "宜必思杭州文三路地铁站酒店", 
+    "hotelAddressShort": "黄姑山路68号（近浙江教育考试中心、近黄龙体育中心）"
   }, 
   {
-    "hotelId": "9011160", 
-    "hotelName": "汉庭杭州四季青钱江新城酒店", 
-    "hotelAddressShort": "采荷路21号"
+    "hotelId": "3117001", 
+    "hotelName": "汉庭千岛湖景区酒店（原千岛湖中心码头店）", 
+    "hotelAddressShort": "梦姑路392号(酒店穿梭巴士旅游码头站下）"
   }, 
   {
-    "hotelId": "8000380", 
-    "hotelName": "桔子水晶杭州转塘宋城酒店", 
-    "hotelAddressShort": "西湖区科海路200号"
+    "hotelId": "9007244", 
+    "hotelName": "怡莱杭州下沙学正街酒店", 
+    "hotelAddressShort": "下沙学正街567号金沙居B座(近云水地铁站，浙江工商大学，杭州第四中学)"
   }, 
   {
-    "hotelId": "9016272", 
-    "hotelName": "全季杭州临安青山湖酒店", 
-    "hotelAddressShort": "青山湖科技城大园路西侧、恒伟科技园北侧、创业街南侧、规划道路东侧"
+    "hotelId": "3117004", 
+    "hotelName": "杭州千岛湖诺富特酒店(升级中)", 
+    "hotelAddressShort": "浙江省淳安县梦姑路93号"
   }, 
   {
-    "hotelId": "9016425", 
-    "hotelName": "全季杭州三坝紫金港酒店", 
-    "hotelAddressShort": "萍水西街80号优盘时代中心1号楼（距浙大紫金港校区800m）"
+    "hotelId": "3100304", 
+    "hotelName": "宜必思尚品杭州三墩西湖科技园酒店", 
+    "hotelAddressShort": "杭州市振华路200号瑞鼎大厦A座"
   }, 
   {
-    "hotelId": "8000468", 
-    "hotelName": "汉庭优佳杭州西湖中山北路酒店（原武林银泰店）", 
-    "hotelAddressShort": "中山北路333号（地铁2号线中河北路站B出口步行400米）"
+    "hotelId": "9009080", 
+    "hotelName": "全季建德新安江江畔酒店", 
+    "hotelAddressShort": "新安路283号（约1公里可到达江清月近人表演基地月亮岛）"
   }, 
   {
-    "hotelId": "8000329", 
-    "hotelName": "桔子杭州西湖河坊街酒店", 
-    "hotelAddressShort": "城头巷128号"
+    "hotelId": "9015105", 
+    "hotelName": "汉庭杭州桐庐东站江南镇酒店", 
+    "hotelAddressShort": "江南路818号"
   }, 
   {
-    "hotelId": "3116021", 
-    "hotelName": "汉庭杭州东湖北路酒店", 
-    "hotelAddressShort": "宏达路3号"
+    "hotelId": "3100072", 
+    "hotelName": "汉庭杭州西湖保俶路酒店", 
+    "hotelAddressShort": "保俶路宝石二路2号"
   }, 
   {
-    "hotelId": "9011954", 
-    "hotelName": "全季杭州富阳桂花西路地铁站酒店", 
-    "hotelAddressShort": "金桥南路69号"
+    "hotelId": "9002111", 
+    "hotelName": "桔子水晶杭州紫金港文一西路酒店", 
+    "hotelAddressShort": "文一西路59号"
   }, 
   {
-    "hotelId": "3100083", 
-    "hotelName": "全季杭州钱江新城复兴路酒店", 
-    "hotelAddressShort": "复兴路103号"
+    "hotelId": "9019943", 
+    "hotelName": "全季杭州大江东义蓬酒店", 
+    "hotelAddressShort": "青六中路598号距义蓬站D口721米"
   }, 
   {
-    "hotelId": "3100052", 
-    "hotelName": "汉庭优佳杭州武林门湖墅南路酒店", 
-    "hotelAddressShort": "湖墅南路395-399号"
+    "hotelId": "8000279", 
+    "hotelName": "杭州西湖湖滨银泰CitiGO欢阁酒店", 
+    "hotelAddressShort": "拱墅区中河北路3号"
   }, 
   {
-    "hotelId": "3111993", 
-    "hotelName": "全季杭州临平新城酒店", 
-    "hotelAddressShort": "三曹街145号"
+    "hotelId": "8000432", 
+    "hotelName": "桔子杭州西湖酒店(质量整改)", 
+    "hotelAddressShort": "湖滨街道菩提寺路5号"
   }, 
   {
-    "hotelId": "3112021", 
-    "hotelName": "全季杭州萧山人民广场酒店", 
-    "hotelAddressShort": "金城路402号（5号线金鸡路站D出口50米）"
+    "hotelId": "3100033", 
+    "hotelName": "汉庭杭州武林广场东店", 
+    "hotelAddressShort": "中山北路522号（地铁1号3号线武林广场站E出口步行500米）"
   }, 
   {
-    "hotelId": "8000425", 
-    "hotelName": "全季杭州火车南站酒店", 
-    "hotelAddressShort": "商城北路98号"
+    "hotelId": "9015104", 
+    "hotelName": "汉庭杭州桐庐富春江酒店", 
+    "hotelAddressShort": "天目路428号"
   }, 
   {
-    "hotelId": "8000407", 
-    "hotelName": "汉庭杭州丁兰广场酒店", 
-    "hotelAddressShort": "丁兰路700号"
+    "hotelId": "9011410", 
+    "hotelName": "全季杭州教工路酒店", 
+    "hotelAddressShort": "西湖区教工路250号（距离2号线下宁桥地铁站A出口900米）"
   }, 
   {
-    "hotelId": "9008170", 
-    "hotelName": "汉庭杭州聚才路地铁站酒店", 
-    "hotelAddressShort": "滨康路315号（聚才路地铁站5号线C站口）"
+    "hotelId": "3111212", 
+    "hotelName": "杭州西溪未来科技城美居酒店", 
+    "hotelAddressShort": "浙江省杭州市余杭区仓前街道景兴路666号"
   }, 
   {
-    "hotelId": "9006705", 
-    "hotelName": "桔子杭州滨江星光大道步行街酒店", 
-    "hotelAddressShort": "丹枫路1075号"
+    "hotelId": "9023460", 
+    "hotelName": "杭州东站诺富特酒店", 
+    "hotelAddressShort": "向江来时代中心1幢1层部分、14-18层"
   }, 
   {
-    "hotelId": "3100037", 
-    "hotelName": "全季杭州西湖凤起路酒店", 
-    "hotelAddressShort": "凤起路380号（明视康眼科后面）"
+    "hotelId": "9008049", 
+    "hotelName": "桔子水晶杭州滨江宝龙城酒店", 
+    "hotelAddressShort": "浙江省杭州市滨江区国慷街509号4幢"
   }, 
   {
-    "hotelId": "3100053", 
-    "hotelName": "全季杭州武林广场文晖大厦酒店", 
-    "hotelAddressShort": "湖墅南路118号"
+    "hotelId": "9012636", 
+    "hotelName": "汉庭杭州湘湖时代大道酒店", 
+    "hotelAddressShort": "时代大道3919号（湘湖人家小区西面）"
   }, 
   {
-    "hotelId": "9015921", 
-    "hotelName": "桔子杭州未来科技城阿里巴巴酒店", 
-    "hotelAddressShort": "荆长路768号(距离同花顺、八方城500米）"
+    "hotelId": "9000218", 
+    "hotelName": "全季杭州西湖延安路酒店", 
+    "hotelAddressShort": "浙江省杭州市上城区延安路298-7号7层"
   }, 
   {
-    "hotelId": "9020441", 
-    "hotelName": "桔子杭州大悦城酒店", 
-    "hotelAddressShort": "莫干山路701号1层部分，2-6层"
+    "hotelId": "9008046", 
+    "hotelName": "全季杭州宋城酒店", 
+    "hotelAddressShort": "珊瑚沙路49号（之江长久中心4号楼）"
   }, 
   {
-    "hotelId": "3111122", 
-    "hotelName": "汉庭杭州万达酒店", 
-    "hotelAddressShort": "金昌路2176号(城北美食街内)"
+    "hotelId": "3112071", 
+    "hotelName": "汉庭杭州萧山机场酒店", 
+    "hotelAddressShort": "红山大道55号"
   }, 
   {
-    "hotelId": "9008106", 
-    "hotelName": "全季杭州临安人民广场酒店", 
-    "hotelAddressShort": "锦城街道钱王街898号"
+    "hotelId": "3100078", 
+    "hotelName": "桔子杭州西湖武林门地铁站酒店", 
+    "hotelAddressShort": "体育场路407号"
   }, 
   {
-    "hotelId": "3100166", 
-    "hotelName": "全季杭州钱江新城酒店", 
-    "hotelAddressShort": "解放东路29号(市民中心地铁站N1出口处)"
+    "hotelId": "9008072", 
+    "hotelName": "汉庭杭州四季青服装市场酒店", 
+    "hotelAddressShort": "浙江省杭州市上城区清江路122号"
   }, 
   {
-    "hotelId": "3117002", 
-    "hotelName": "全季千岛湖景区酒店（质量整改）", 
-    "hotelAddressShort": "南景路435号"
+    "hotelId": "9001109", 
+    "hotelName": "海友杭州西溪联胜路地铁站酒店", 
+    "hotelAddressShort": "联胜路9号（联胜路地铁站E口100米）"
+  }, 
+  {
+    "hotelId": "9019521", 
+    "hotelName": "海友杭州禹航路大润发酒店", 
+    "hotelAddressShort": "禹航路1074号（金顺-锦绣时代小区中间）"
   }, 
   {
     "hotelId": "9017745", 
@@ -670,54 +235,239 @@
     "hotelAddressShort": "文三路168号"
   }, 
   {
-    "hotelId": "3113991", 
-    "hotelName": "汉庭临安酒店", 
-    "hotelAddressShort": "石镜街98号"
+    "hotelId": "9009522", 
+    "hotelName": "汉庭千岛湖旅游码头中心酒店", 
+    "hotelAddressShort": "新安大街8号（距离酒店穿梭巴士夜游码头站150米）"
   }, 
   {
-    "hotelId": "9017060", 
-    "hotelName": "全季杭州运河拱宸桥酒店", 
-    "hotelAddressShort": "拱墅区祥符街道花园岗街6号"
+    "hotelId": "3115001", 
+    "hotelName": "汉庭杭州西湖龙井路酒店", 
+    "hotelAddressShort": "龙井路39号"
   }, 
   {
-    "hotelId": "9000638", 
-    "hotelName": "全季杭州万安桥地铁站酒店", 
-    "hotelAddressShort": "大学路116号"
+    "hotelId": "9006331", 
+    "hotelName": "汉庭杭州滨江星光大道酒店", 
+    "hotelAddressShort": "滨盛路1857号(地铁6号线江汉路站B出口向北550米红绿灯口右转30米)"
   }, 
   {
-    "hotelId": "9002702", 
-    "hotelName": "全季杭州浙大城市学院酒店", 
-    "hotelAddressShort": "台州路265号"
+    "hotelId": "9020200", 
+    "hotelName": "海友杭州浙大紫金港酒店", 
+    "hotelAddressShort": "紫荆花北路188号2幢2-106、2-201、2-301室"
   }, 
   {
-    "hotelId": "9014427", 
-    "hotelName": "桔子杭州萧山银隆百货酒店", 
-    "hotelAddressShort": "市心中路318号（地铁2号线杭发厂站C2口向北150米）"
+    "hotelId": "3100064", 
+    "hotelName": "汉庭杭州西湖武林路中心酒店", 
+    "hotelAddressShort": "武林路357号"
   }, 
   {
-    "hotelId": "8000046", 
-    "hotelName": "全季杭州萧山国际机场酒店", 
-    "hotelAddressShort": "新港村832号"
+    "hotelId": "8000339", 
+    "hotelName": "海友杭州滨江江南大道宝龙城酒店", 
+    "hotelAddressShort": "诚业路322号"
   }, 
   {
-    "hotelId": "9013474", 
-    "hotelName": "全季杭州火车东站机场路酒店", 
-    "hotelAddressShort": "梅家曲街46号。"
+    "hotelId": "3100601", 
+    "hotelName": "汉庭杭州西湖仁和路酒店", 
+    "hotelAddressShort": "仁和路22号（地铁1号线龙翔桥站D出口向南300米）"
   }, 
   {
-    "hotelId": "3100142", 
-    "hotelName": "汉庭杭州西湖文化广场酒店", 
-    "hotelAddressShort": "朝晖路198号（地铁1号线3号线西湖文化广场站C口）"
+    "hotelId": "9001376", 
+    "hotelName": "汉庭杭州未来科技城万达广场酒店", 
+    "hotelAddressShort": "凤新路360号"
   }, 
   {
-    "hotelId": "9000342", 
-    "hotelName": "汉庭优佳杭州西湖断桥酒店", 
-    "hotelAddressShort": "保俶路43号"
+    "hotelId": "9005227", 
+    "hotelName": "全季杭州桐庐酒店", 
+    "hotelAddressShort": "迎春南路180号"
   }, 
   {
-    "hotelId": "3111221", 
-    "hotelName": "汉庭杭州西溪五常大道酒店", 
-    "hotelAddressShort": "五常街道联胜路10号（地铁3号线联胜路站E口）"
+    "hotelId": "9004162", 
+    "hotelName": "全季杭州转塘云栖小镇酒店", 
+    "hotelAddressShort": "云展路10号（科海路地铁站B口步行500米）"
+  }, 
+  {
+    "hotelId": "9017116", 
+    "hotelName": "海友杭州千岛湖银泰城酒店", 
+    "hotelAddressShort": "新安大街124-1号"
+  }, 
+  {
+    "hotelId": "8000238", 
+    "hotelName": "桔子水晶杭州火车东站酒店", 
+    "hotelAddressShort": "天城路10号"
+  }, 
+  {
+    "hotelId": "9001497", 
+    "hotelName": "汉庭优佳杭州公望街地铁站酒店（原富阳银泰店）", 
+    "hotelAddressShort": "公望街471号-6（地铁6号线公望街站D出口向北直行300米）"
+  }, 
+  {
+    "hotelId": "9008401", 
+    "hotelName": "汉庭杭州西湖湖滨解放路酒店", 
+    "hotelAddressShort": "丰家兜1号（近省公安厅和浙二医院，浙一医院）"
+  }, 
+  {
+    "hotelId": "3100167", 
+    "hotelName": "全季杭州九堡客运中心酒店", 
+    "hotelAddressShort": "九沙大道399号东城广场4单元"
+  }, 
+  {
+    "hotelId": "9011235", 
+    "hotelName": "海友杭州富阳野生动物园酒店", 
+    "hotelAddressShort": "九龙大道197-1号"
+  }, 
+  {
+    "hotelId": "3100055", 
+    "hotelName": "宜必思尚品杭州潮王路酒店", 
+    "hotelAddressShort": "潮王路177号"
+  }, 
+  {
+    "hotelId": "8000264", 
+    "hotelName": "桔子水晶杭州武林广场银泰酒店", 
+    "hotelAddressShort": "杭州市拱墅区体育场路267号"
+  }, 
+  {
+    "hotelId": "3100084", 
+    "hotelName": "桔子杭州西湖虎跑路酒店", 
+    "hotelAddressShort": "杭州市西湖区虎跑路47号"
+  }, 
+  {
+    "hotelId": "9003737", 
+    "hotelName": "汉庭杭州禹航路地铁站酒店", 
+    "hotelAddressShort": "禹航路58号"
+  }, 
+  {
+    "hotelId": "9000580", 
+    "hotelName": "桔子杭州西溪酒店", 
+    "hotelAddressShort": "文二西路738号"
+  }, 
+  {
+    "hotelId": "9000623", 
+    "hotelName": "星程杭州下沙金沙湖酒店(质量整改)", 
+    "hotelAddressShort": "天城东路159号"
+  }, 
+  {
+    "hotelId": "8000380", 
+    "hotelName": "桔子水晶杭州转塘宋城酒店", 
+    "hotelAddressShort": "西湖区科海路200号"
+  }, 
+  {
+    "hotelId": "3100139", 
+    "hotelName": "桔子杭州火车西站浙一医院酒店", 
+    "hotelAddressShort": "文一西路1326号利尔达科技园5号楼"
+  }, 
+  {
+    "hotelId": "3112006", 
+    "hotelName": "全季杭州萧山机场大道酒店", 
+    "hotelAddressShort": "红山大道55号"
+  }, 
+  {
+    "hotelId": "9023643", 
+    "hotelName": "汉庭杭州未来科技城火车西站酒店", 
+    "hotelAddressShort": "仓前街道余杭塘路2953号1幢"
+  }, 
+  {
+    "hotelId": "9003514", 
+    "hotelName": "桔子水晶杭州运河万达广场酒店", 
+    "hotelAddressShort": "储运路990号首望中心3栋"
+  }, 
+  {
+    "hotelId": "9002063", 
+    "hotelName": "全季杭州西湖湖滨二轻大厦酒店", 
+    "hotelAddressShort": "延安路398-408号（双号）二轻大厦B座（地铁1号2号线凤起路站A出口50米孩儿巷内）"
+  }, 
+  {
+    "hotelId": "3116001", 
+    "hotelName": "汉庭建德新安江江畔店", 
+    "hotelAddressShort": "新安江街道保健路6号"
+  }, 
+  {
+    "hotelId": "8000430", 
+    "hotelName": "杭州黄龙漫心酒店", 
+    "hotelAddressShort": "黄姑山路9号天科大厦"
+  }, 
+  {
+    "hotelId": "9015949", 
+    "hotelName": "海友杭州西湖科技园西园二路酒店", 
+    "hotelAddressShort": "西园二路九号3幢（联动创意园内）"
+  }, 
+  {
+    "hotelId": "8000151", 
+    "hotelName": "全季杭州西湖龙翔桥地铁站酒店", 
+    "hotelAddressShort": "平海路26号（近龙翔桥地铁站D2出口）"
+  }, 
+  {
+    "hotelId": "9006890", 
+    "hotelName": "汉庭杭州三墩西田城酒店", 
+    "hotelAddressShort": "朱家路158号"
+  }, 
+  {
+    "hotelId": "8000058", 
+    "hotelName": "全季杭州西溪酒店", 
+    "hotelAddressShort": "文二西路710号"
+  }, 
+  {
+    "hotelId": "9023368", 
+    "hotelName": "汉庭杭州阿里巴巴西溪园区酒店", 
+    "hotelAddressShort": "西湖区金色水岸商务楼1号楼"
+  }, 
+  {
+    "hotelId": "9011160", 
+    "hotelName": "汉庭杭州四季青钱江新城酒店", 
+    "hotelAddressShort": "采荷路21号"
+  }, 
+  {
+    "hotelId": "3100224", 
+    "hotelName": "海友杭州沈半路半山公园酒店", 
+    "hotelAddressShort": "沈半路562号(近杭州市第一人民医院）"
+  }, 
+  {
+    "hotelId": "9001092", 
+    "hotelName": "星程杭州义蓬购物中心酒店", 
+    "hotelAddressShort": "青兴路189号（地铁7号线义蓬地铁站D口出向南471米）"
+  }, 
+  {
+    "hotelId": "9005357", 
+    "hotelName": "汉庭临安中心酒店（原临安万华广场酒店）", 
+    "hotelAddressShort": "石镜街888号（石镜街与横潭路交叉口）"
+  }, 
+  {
+    "hotelId": "9010890", 
+    "hotelName": "汉庭杭州富阳新登中心酒店", 
+    "hotelAddressShort": "金城路666号松溪家园1号"
+  }, 
+  {
+    "hotelId": "9001069", 
+    "hotelName": "星程千岛湖景区酒店", 
+    "hotelAddressShort": "阳光路1号(阳光路与新安北路交叉口）"
+  }, 
+  {
+    "hotelId": "3100017", 
+    "hotelName": "全季杭州西湖解放路酒店", 
+    "hotelAddressShort": "中河中路166号（近解放路,浙江省公安厅、地铁站龙翔桥D出口）"
+  }, 
+  {
+    "hotelId": "9010150", 
+    "hotelName": "桔子水晶杭州萧山建设三路酒店", 
+    "hotelAddressShort": "市心北路199号"
+  }, 
+  {
+    "hotelId": "3100061", 
+    "hotelName": "汉庭杭州武林广场酒店", 
+    "hotelAddressShort": "体育场路436号"
+  }, 
+  {
+    "hotelId": "9014132", 
+    "hotelName": "汉庭杭州西湖河坊街酒店", 
+    "hotelAddressShort": "解放路54号（近浙二医院、浙一医院和杭二中）"
+  }, 
+  {
+    "hotelId": "8000108", 
+    "hotelName": "全季杭州西溪银泰酒店", 
+    "hotelAddressShort": "紫霞街176号（距蒋村地铁口D口600米）"
+  }, 
+  {
+    "hotelId": "9020164", 
+    "hotelName": "汉庭杭州九堡地铁站酒店", 
+    "hotelAddressShort": "杭海路1183号（九堡地铁站C出口）"
   }, 
   {
     "hotelId": "9016027", 
@@ -725,114 +475,59 @@
     "hotelAddressShort": "花园岗街121号\n距大运河（5号线）1公里"
   }, 
   {
-    "hotelId": "9010115", 
-    "hotelName": "全季杭州滨江宝龙城酒店", 
-    "hotelAddressShort": "江南大道3688号通策广场1幢（地铁6号线诚业路C出口向南500米）"
+    "hotelId": "8000403", 
+    "hotelName": "全季杭州西溪海港城酒店", 
+    "hotelAddressShort": "荆长路658-1号（距离同花顺、八方城100米）"
   }, 
   {
-    "hotelId": "9013040", 
-    "hotelName": "全季杭州河庄地铁站酒店", 
-    "hotelAddressShort": "河庄路1061号地铁8号线河庄路B出口"
+    "hotelId": "3100193", 
+    "hotelName": "桔子杭州九堡客运中心酒店", 
+    "hotelAddressShort": "九环路7号"
   }, 
   {
-    "hotelId": "9001550", 
-    "hotelName": "汉庭优佳杭州西湖文化广场地铁站酒店", 
-    "hotelAddressShort": "上塘路50号(地铁1/3/19号线E出口)"
+    "hotelId": "8916233", 
+    "hotelName": "汉庭杭州钱江新城景昙路酒店", 
+    "hotelAddressShort": "景昙路170号"
   }, 
   {
-    "hotelId": "3100063", 
-    "hotelName": "全季杭州西湖酒店", 
-    "hotelAddressShort": "杭州市拱墅区武林路76号"
+    "hotelId": "3112005", 
+    "hotelName": "汉庭杭州火车南站酒店", 
+    "hotelAddressShort": "商城中路125号（萧山区）"
   }, 
   {
-    "hotelId": "8000220", 
-    "hotelName": "桔子杭州文一西路酒店", 
-    "hotelAddressShort": "文一西路50号5幢（益乐路古荡派出所隔壁）"
+    "hotelId": "3111211", 
+    "hotelName": "汉庭杭州中泰商贸城酒店", 
+    "hotelAddressShort": "中泰路405号-1"
   }, 
   {
-    "hotelId": "9012889", 
-    "hotelName": "桔子杭州武林广场莫干山路酒店", 
-    "hotelAddressShort": "莫干山路252号"
+    "hotelId": "3100083", 
+    "hotelName": "全季杭州钱江新城复兴路酒店", 
+    "hotelAddressShort": "杭州市上城区复兴路103、105号"
   }, 
   {
-    "hotelId": "3112006", 
-    "hotelName": "全季杭州萧山机场大道酒店（质量整改）", 
-    "hotelAddressShort": "红山大道55号"
+    "hotelId": "3112009", 
+    "hotelName": "桔子杭州萧山机场酒店", 
+    "hotelAddressShort": "河庄南路1679号"
   }, 
   {
-    "hotelId": "9000096", 
-    "hotelName": "全季杭州三墩西湖科技园酒店", 
-    "hotelAddressShort": "振中路202号13幢104室"
+    "hotelId": "3100204", 
+    "hotelName": "汉庭杭州四季青凯旋路酒店", 
+    "hotelAddressShort": "凯旋路201号（地铁2号线庆菱路站B出口步行约500米）"
   }, 
   {
-    "hotelId": "9015839", 
-    "hotelName": "全季杭州萧山通惠北路酒店", 
-    "hotelAddressShort": "通惠北路16号（回音必大厦）"
+    "hotelId": "9009688", 
+    "hotelName": "全季杭州阿里巴巴西溪园区酒店", 
+    "hotelAddressShort": "文一西路和聚橙路交叉口（亲橙里对面,距离阿里巴巴西溪园区150m）"
   }, 
   {
-    "hotelId": "9000433", 
-    "hotelName": "汉庭杭州文三路地铁站酒店（原黄龙万科中心店)", 
-    "hotelAddressShort": "文三路453号(中茵大厦A座近教育考试院)"
+    "hotelId": "8000137", 
+    "hotelName": "全季杭州武林门地铁站酒店", 
+    "hotelAddressShort": "武林路480号"
   }, 
   {
-    "hotelId": "3100038", 
-    "hotelName": "汉庭杭州武林门地铁站西店", 
-    "hotelAddressShort": "体育场路508号（地铁2号线、3号线武林门站F出口胜利新村一弄150米）"
-  }, 
-  {
-    "hotelId": "3117991", 
-    "hotelName": "汉庭千岛湖银泰广场酒店", 
-    "hotelAddressShort": "淳安县千岛湖镇新安东路121号"
-  }, 
-  {
-    "hotelId": "9001166", 
-    "hotelName": "汉庭杭州西湖大道城站酒店", 
-    "hotelAddressShort": "城头巷93号（近市三医院和浙二眼科医院）"
-  }, 
-  {
-    "hotelId": "3114001", 
-    "hotelName": "全季杭州野生动物园酒店", 
-    "hotelAddressShort": "富闲路9号"
-  }, 
-  {
-    "hotelId": "8916582", 
-    "hotelName": "全季杭州钱江世纪城利华路酒店", 
-    "hotelAddressShort": "利华路599号2幢"
-  }, 
-  {
-    "hotelId": "3100207", 
-    "hotelName": "全季杭州钱江新城新塘路酒店", 
-    "hotelAddressShort": "杭州上城区新塘路126号景芳地铁站D1出口向东100米"
-  }, 
-  {
-    "hotelId": "8000257", 
-    "hotelName": "全季杭州西湖武林银泰酒店", 
-    "hotelAddressShort": "屏风街3号"
-  }, 
-  {
-    "hotelId": "8000416", 
-    "hotelName": "桔子水晶杭州未来科技城酒店", 
-    "hotelAddressShort": "五常街道三维智汇中心绿城未来PARK1幢"
-  }, 
-  {
-    "hotelId": "9001831", 
-    "hotelName": "汉庭杭州浙江工业大学酒店", 
-    "hotelAddressShort": "上塘路259号（新青年广场内）"
-  }, 
-  {
-    "hotelId": "9000647", 
-    "hotelName": "汉庭杭州滨康路酒店（质量整改）", 
-    "hotelAddressShort": "滨康路341号"
-  }, 
-  {
-    "hotelId": "3112152", 
-    "hotelName": "全季杭州钱江世纪城酒店", 
-    "hotelAddressShort": "鸿宁路1819号"
-  }, 
-  {
-    "hotelId": "3100251", 
-    "hotelName": "全季杭州西湖断桥酒店", 
-    "hotelAddressShort": "保俶路76号"
+    "hotelId": "3112011", 
+    "hotelName": "汉庭杭州萧山人民广场地铁站酒店", 
+    "hotelAddressShort": "市心中路572号(地铁2号线、5号线人民广场地铁站C6出口直行200米)"
   }, 
   {
     "hotelId": "9003653", 
@@ -840,104 +535,339 @@
     "hotelAddressShort": "兴中路515号远顺星公馆一楼"
   }, 
   {
-    "hotelId": "3100511", 
-    "hotelName": "全季杭州星光大道酒店", 
-    "hotelAddressShort": "江南大道155-159号（地铁6号线江汉路A出口向东500米)"
+    "hotelId": "9016425", 
+    "hotelName": "全季杭州三坝紫金港酒店", 
+    "hotelAddressShort": "萍水西街80号优盘时代中心1号楼（距浙大紫金港校区800m）"
   }, 
   {
-    "hotelId": "9001084", 
-    "hotelName": "全季杭州西溪天目山路酒店（质量整改）", 
-    "hotelAddressShort": "天目山路383号"
+    "hotelId": "9001163", 
+    "hotelName": "汉庭优佳杭州九堡客运中心酒店", 
+    "hotelAddressShort": "九昌路18号格畈大厦B座"
   }, 
   {
-    "hotelId": "9001774", 
-    "hotelName": "全季杭州火车东站西广场酒店", 
-    "hotelAddressShort": "天城路98号（地铁1号线闸弄口站D出口向东500米）"
+    "hotelId": "8000415", 
+    "hotelName": "全季杭州西湖音乐喷泉酒店（质量整改）", 
+    "hotelAddressShort": "杭州市上城区浣纱路347-2号"
   }, 
   {
-    "hotelId": "3111003", 
-    "hotelName": "全季杭州西溪印象城酒店", 
-    "hotelAddressShort": "五常大道153号"
+    "hotelId": "9001570", 
+    "hotelName": "全季杭州西湖湖滨步行街酒店", 
+    "hotelAddressShort": "杭州市上城区延安路303号（地铁1号线龙翔桥B出口向北400米）"
   }, 
   {
-    "hotelId": "9000862", 
-    "hotelName": "汉庭优佳杭州萧山建设一路地铁站酒店", 
-    "hotelAddressShort": "市心北路22号（地铁2号线建设一路站D出口向北20米）"
+    "hotelId": "9013063", 
+    "hotelName": "汉庭杭州三坝地铁站酒店", 
+    "hotelAddressShort": "古墩路616号同人精华大厦3号楼9-11层"
   }, 
   {
-    "hotelId": "9020849", 
-    "hotelName": "汉庭杭州西湖庆春路酒店", 
-    "hotelAddressShort": "长庆街25-1号青春坊小区西区15号楼"
+    "hotelId": "3111123", 
+    "hotelName": "桔子杭州未来科技城杭师大酒店", 
+    "hotelAddressShort": "余杭塘路1299号"
   }, 
   {
-    "hotelId": "3100182", 
-    "hotelName": "全季杭州下沙经济开发区酒店(质量整改店)", 
-    "hotelAddressShort": "4号大街209号（4号大街与9号大街交界口）"
+    "hotelId": "3112411", 
+    "hotelName": "汉庭优佳杭州萧山国际机场酒店", 
+    "hotelAddressShort": "孙家弄村191号"
   }, 
   {
-    "hotelId": "3100003", 
-    "hotelName": "汉庭杭州火车东站酒店", 
-    "hotelAddressShort": "上城区天城路87号"
+    "hotelId": "3100165", 
+    "hotelName": "全季杭州四季青凯旋路酒店", 
+    "hotelAddressShort": "凯旋路1号"
   }, 
   {
-    "hotelId": "3100522", 
-    "hotelName": "全季杭州滨江江南大道酒店", 
-    "hotelAddressShort": "杭州市滨江区江南大道1090号"
+    "hotelId": "8000578", 
+    "hotelName": "杭州东站美居酒店", 
+    "hotelAddressShort": "环站南路59号"
   }, 
   {
-    "hotelId": "3100532", 
-    "hotelName": "汉庭杭州钱塘江大桥酒店", 
-    "hotelAddressShort": "南环路4407号"
+    "hotelId": "9016272", 
+    "hotelName": "全季杭州临安青山湖酒店", 
+    "hotelAddressShort": "青山湖科技城大园路西侧、恒伟科技园北侧、创业街南侧、规划道路东侧"
   }, 
   {
-    "hotelId": "9015909", 
-    "hotelName": "桔子杭州萧山滨康路地铁站酒店", 
-    "hotelAddressShort": "金惠路1696号"
+    "hotelId": "9012147", 
+    "hotelName": "全季杭州未来科技城菜鸟总部酒店", 
+    "hotelAddressShort": "余杭街道新里程中心5号楼-1幢"
   }, 
   {
-    "hotelId": "8000118", 
-    "hotelName": "全季杭州西湖湖滨酒店（质量整改）", 
-    "hotelAddressShort": "开元路66号"
+    "hotelId": "9003721", 
+    "hotelName": "星程杭州武林广场酒店", 
+    "hotelAddressShort": "马塍路6-1号（地铁沈塘桥地铁站3号线、19号线F1出口往西直行左转进马塍路往南671米）"
   }, 
   {
-    "hotelId": "9009689", 
-    "hotelName": "全季杭州中大银泰酒店", 
-    "hotelAddressShort": "沈半路201号"
+    "hotelId": "9000096", 
+    "hotelName": "全季杭州三墩西湖科技园酒店", 
+    "hotelAddressShort": "振中路202号13幢104室"
   }, 
   {
-    "hotelId": "9011878", 
-    "hotelName": "桔子杭州G20国际博览中心酒店", 
-    "hotelAddressShort": "文明路336号江宁大厦C座"
+    "hotelId": "3112007", 
+    "hotelName": "全季杭州萧山机场南阳酒店", 
+    "hotelAddressShort": "南虹路607号"
   }, 
   {
-    "hotelId": "3100535", 
-    "hotelName": "桔子杭州滨江大学城酒店", 
-    "hotelAddressShort": "东冠路555号"
+    "hotelId": "9022426", 
+    "hotelName": "宜必思尚品杭州富阳桂花西路地铁站酒店", 
+    "hotelAddressShort": "金桥南路29号"
   }, 
   {
-    "hotelId": "3100112", 
-    "hotelName": "汉庭杭州大悦城酒店", 
-    "hotelAddressShort": "莫干山路691号"
+    "hotelId": "3100054", 
+    "hotelName": "全季杭州潮王路酒店", 
+    "hotelAddressShort": "潮王路169号"
   }, 
   {
-    "hotelId": "9001380", 
-    "hotelName": "全季杭州钱江新城市民中心酒店", 
-    "hotelAddressShort": "市民街184号A.城星路100号.城星国际中心2幢三层至十一层"
+    "hotelId": "9013140", 
+    "hotelName": "汉庭杭州滨康路地铁站酒店", 
+    "hotelAddressShort": "滨康路55号2幢(地铁1号线，5号线滨康路站G口向西100米）"
   }, 
   {
-    "hotelId": "3100209", 
-    "hotelName": "全季杭州火车东站秋涛北路酒店（升级中）", 
-    "hotelAddressShort": "浙江省杭州市江干区秋涛北路451号"
+    "hotelId": "9009962", 
+    "hotelName": "汉庭杭州西湖文化广场地铁站酒店（原朝晖一店）", 
+    "hotelAddressShort": "上塘路86号（地铁1号／3号／19号线西湖文化广场地铁站E出口200m）"
   }, 
   {
-    "hotelId": "3100302", 
-    "hotelName": "汉庭杭州西溪酒店", 
-    "hotelAddressShort": "古墩路5号"
+    "hotelId": "9000365", 
+    "hotelName": "汉庭优佳杭州转塘中国美院酒店", 
+    "hotelAddressShort": "转塘江口大厦218号"
   }, 
   {
-    "hotelId": "9004183", 
-    "hotelName": "汉庭杭州浙大城市学院酒店", 
-    "hotelAddressShort": "永庆路11号"
+    "hotelId": "3100124", 
+    "hotelName": "汉庭杭州文新地铁站酒店(原古墩路店)", 
+    "hotelAddressShort": "古墩路541号（文新地铁站B出口直行80米）"
+  }, 
+  {
+    "hotelId": "3113991", 
+    "hotelName": "汉庭临安酒店", 
+    "hotelAddressShort": "石镜街98号"
+  }, 
+  {
+    "hotelId": "9011781", 
+    "hotelName": "海友杭州西湖湖滨银泰步行街酒店", 
+    "hotelAddressShort": "解放路209号"
+  }, 
+  {
+    "hotelId": "9008106", 
+    "hotelName": "全季杭州临安人民广场酒店", 
+    "hotelAddressShort": "锦城街道钱王街898号"
+  }, 
+  {
+    "hotelId": "9014151", 
+    "hotelName": "全季杭州临平经开区北沙东路酒店", 
+    "hotelAddressShort": "北沙东路48号"
+  }, 
+  {
+    "hotelId": "3100068", 
+    "hotelName": "汉庭优佳杭州西湖酒店", 
+    "hotelAddressShort": "拱墅区延安路396号"
+  }, 
+  {
+    "hotelId": "3117002", 
+    "hotelName": "全季千岛湖景区酒店（质量整改）", 
+    "hotelAddressShort": "南景路435号"
+  }, 
+  {
+    "hotelId": "8000407", 
+    "hotelName": "汉庭杭州丁兰广场酒店", 
+    "hotelAddressShort": "丁兰路700号汉庭酒店4楼"
+  }, 
+  {
+    "hotelId": "3100225", 
+    "hotelName": "全季杭州半山路酒店", 
+    "hotelAddressShort": "半山路87号（半山森林公园对面）"
+  }, 
+  {
+    "hotelId": "9001108", 
+    "hotelName": "海友杭州四季青邵逸夫医院酒店", 
+    "hotelAddressShort": "秋涛北路35号（庆春广场地铁站C出口向西460米）"
+  }, 
+  {
+    "hotelId": "8915998", 
+    "hotelName": "全季杭州滨江东信大道酒店", 
+    "hotelAddressShort": "东信大道688号（地铁4/6号线中医药大学站B出口向北50米） "
+  }, 
+  {
+    "hotelId": "9014434", 
+    "hotelName": "汉庭杭州桐庐富春江一桥酒店", 
+    "hotelAddressShort": "瑶琳路1141号"
+  }, 
+  {
+    "hotelId": "3111004", 
+    "hotelName": "杭州临平美居酒店", 
+    "hotelAddressShort": "浙江省杭州市临平区东湖北路155号美居酒店"
+  }, 
+  {
+    "hotelId": "9012563", 
+    "hotelName": "怡莱杭州萧山衙前文化路酒店", 
+    "hotelAddressShort": "文化路45-5号"
+  }, 
+  {
+    "hotelId": "9019274", 
+    "hotelName": "全季杭州滨江省儿童医院酒店", 
+    "hotelAddressShort": "杭州市滨江区儿康路239号"
+  }, 
+  {
+    "hotelId": "9001801", 
+    "hotelName": "全季杭州萧山萧绍路酒店", 
+    "hotelAddressShort": "萧绍路608号（萧绍路通惠中路交叉口）"
+  }, 
+  {
+    "hotelId": "8000364", 
+    "hotelName": "全季杭州钱江新城钱潮路酒店", 
+    "hotelAddressShort": "钱潮路636号(瑞凯水湘大厦)"
+  }, 
+  {
+    "hotelId": "3100169", 
+    "hotelName": "杭州钱江新城美居酒店", 
+    "hotelAddressShort": "解放东路37号财富金融中心2幢52层"
+  }, 
+  {
+    "hotelId": "3100094", 
+    "hotelName": "全季杭州西湖南宋御街酒店", 
+    "hotelAddressShort": "建国中路7号"
+  }, 
+  {
+    "hotelId": "8000221", 
+    "hotelName": "桔子水晶杭州钱江新城近江酒店", 
+    "hotelAddressShort": "钱江路555号日信国际大厦"
+  }, 
+  {
+    "hotelId": "9011560", 
+    "hotelName": "你好杭州临平丝绸大厦酒店", 
+    "hotelAddressShort": "临平大道618号（9号线地铁站五洲路D出口850米）"
+  }, 
+  {
+    "hotelId": "9000612", 
+    "hotelName": "杭州钱江新城禧玥酒店", 
+    "hotelAddressShort": "城星路100号迪凯城星国际B幢"
+  }, 
+  {
+    "hotelId": "8916479", 
+    "hotelName": "全季杭州大江东宝龙广场酒店", 
+    "hotelAddressShort": "义蓬街道龙润城52幢"
+  }, 
+  {
+    "hotelId": "3112021", 
+    "hotelName": "全季杭州萧山人民广场酒店", 
+    "hotelAddressShort": "金城路402号（5号线金鸡路站D出口50米）"
+  }, 
+  {
+    "hotelId": "9001203", 
+    "hotelName": "全季杭州西湖文化广场酒店", 
+    "hotelAddressShort": "建国北路736号"
+  }, 
+  {
+    "hotelId": "9015820", 
+    "hotelName": "你好杭州滨江省儿童医院酒店（原滨江宝龙城酒店）", 
+    "hotelAddressShort": "诚业路350号（距滨江省儿童医院700米）"
+  }, 
+  {
+    "hotelId": "8916454", 
+    "hotelName": "汉庭优佳杭州半山酒店", 
+    "hotelAddressShort": "石桥路535号（近省肿瘤医院）"
+  }, 
+  {
+    "hotelId": "3111221", 
+    "hotelName": "汉庭杭州西溪五常大道酒店", 
+    "hotelAddressShort": "五常街道联胜路10号（地铁3号线联胜路站E口）"
+  }, 
+  {
+    "hotelId": "9009763", 
+    "hotelName": "汉庭杭州良渚新城酒店", 
+    "hotelAddressShort": "良渚街道博园路7号1栋"
+  }, 
+  {
+    "hotelId": "3100145", 
+    "hotelName": "怡莱杭州武林门湖墅南路酒店", 
+    "hotelAddressShort": "德胜路353号（远大花园18幢2单元）"
+  }, 
+  {
+    "hotelId": "3111122", 
+    "hotelName": "汉庭杭州万达酒店", 
+    "hotelAddressShort": "金昌路2176号(城北美食街内)"
+  }, 
+  {
+    "hotelId": "9016530", 
+    "hotelName": "汉庭杭州文一路酒店", 
+    "hotelAddressShort": "文一路1号"
+  }, 
+  {
+    "hotelId": "9000342", 
+    "hotelName": "汉庭优佳杭州西湖断桥酒店", 
+    "hotelAddressShort": "保俶路43号"
+  }, 
+  {
+    "hotelId": "3100063", 
+    "hotelName": "全季杭州西湖酒店", 
+    "hotelAddressShort": "杭州市拱墅区武林路76号"
+  }, 
+  {
+    "hotelId": "9003530", 
+    "hotelName": "汉庭优佳杭州桐庐酒店", 
+    "hotelAddressShort": "徐家埠路199号"
+  }, 
+  {
+    "hotelId": "9006705", 
+    "hotelName": "桔子杭州滨江星光大道步行街酒店", 
+    "hotelAddressShort": "丹枫路1075号"
+  }, 
+  {
+    "hotelId": "3100067", 
+    "hotelName": "汉庭杭州朝晖路运河酒店", 
+    "hotelAddressShort": "朝晖路28号（地铁1号线打铁关A出口沿绍兴路直行500米）"
+  }, 
+  {
+    "hotelId": "8000367", 
+    "hotelName": "全季杭州未来科技城绿汀路酒店", 
+    "hotelAddressShort": "联创街588号"
+  }, 
+  {
+    "hotelId": "3100523", 
+    "hotelName": "桔子水晶杭州滨江奥体中心酒店", 
+    "hotelAddressShort": "江陵路2028号"
+  }, 
+  {
+    "hotelId": "9015921", 
+    "hotelName": "桔子杭州未来科技城阿里巴巴酒店", 
+    "hotelAddressShort": "荆长路768号(距离同花顺、八方城500米）"
+  }, 
+  {
+    "hotelId": "3100142", 
+    "hotelName": "汉庭杭州西湖文化广场酒店", 
+    "hotelAddressShort": "朝晖路198号（地铁1号线3号线西湖文化广场站C口）"
+  }, 
+  {
+    "hotelId": "3114002", 
+    "hotelName": "汉庭杭州富阳客运站酒店", 
+    "hotelAddressShort": "孙权路8号"
+  }, 
+  {
+    "hotelId": "3111993", 
+    "hotelName": "全季杭州临平新城酒店", 
+    "hotelAddressShort": "三曹街145号"
+  }, 
+  {
+    "hotelId": "9008835", 
+    "hotelName": "海友杭州三墩西湖科技园酒店", 
+    "hotelAddressShort": "振华路242号（西港新界园区南门，西港发展中心旁）"
+  }, 
+  {
+    "hotelId": "9012875", 
+    "hotelName": "你好杭州萧山国际机场酒店", 
+    "hotelAddressShort": "坎红路梅仙段西侧20号（距地铁7号线坎山站B口1.5km）免费接机"
+  }, 
+  {
+    "hotelId": "9013040", 
+    "hotelName": "全季杭州河庄地铁站酒店", 
+    "hotelAddressShort": "河庄路1061号地铁8号线河庄路B出口"
+  }, 
+  {
+    "hotelId": "9014391", 
+    "hotelName": "海友桐庐中心广场酒店", 
+    "hotelAddressShort": "白云源路1592-2号 海友酒店"
+  }, 
+  {
+    "hotelId": "3100517", 
+    "hotelName": "桔子水晶杭州滨江星光大道酒店", 
+    "hotelAddressShort": "江晖路1961号隆和国际大厦11层"
   }, 
   {
     "hotelId": "9008642", 
@@ -945,44 +875,409 @@
     "hotelAddressShort": "湖州街29号"
   }, 
   {
-    "hotelId": "9000464", 
-    "hotelName": "全季杭州西湖河坊街酒店", 
-    "hotelAddressShort": "西湖大道37号"
+    "hotelId": "3116021", 
+    "hotelName": "汉庭杭州东湖北路酒店", 
+    "hotelAddressShort": "宏达路3号"
   }, 
   {
-    "hotelId": "9000648", 
-    "hotelName": "桔子水晶杭州钱江新城酒店", 
-    "hotelAddressShort": "城星路100号迪凯城星国际B幢"
+    "hotelId": "9008170", 
+    "hotelName": "汉庭杭州聚才路地铁站酒店", 
+    "hotelAddressShort": "滨康路315号（聚才路地铁站5号线C站口）"
   }, 
   {
-    "hotelId": "3100122", 
-    "hotelName": "汉庭优佳杭州文一路翠柏路地铁站酒店（原文一翠苑酒店）", 
-    "hotelAddressShort": "文一路272号(宋江村)"
+    "hotelId": "3100516", 
+    "hotelName": "星程杭州滨江伟业路地铁站酒店", 
+    "hotelAddressShort": "南环路3760号保亿创艺大厦1楼"
   }, 
   {
-    "hotelId": "3100515", 
-    "hotelName": "桔子杭州滨江江南大道酒店", 
-    "hotelAddressShort": "长河路1318号（地铁5/6号线长河站B出口向东50米）"
+    "hotelId": "3100056", 
+    "hotelName": "汉庭杭州武林门湖墅南路酒店", 
+    "hotelAddressShort": "湖墅南路397号"
   }, 
   {
-    "hotelId": "3100241", 
-    "hotelName": "汉庭杭州转塘美院象山地铁站酒店", 
-    "hotelAddressShort": "转塘美院南路89号(地铁6号线美院象山站C出口向西220米）"
+    "hotelId": "3100038", 
+    "hotelName": "汉庭杭州武林门地铁站西店", 
+    "hotelAddressShort": "体育场路508号（地铁2号线、3号线武林门站F出口胜利新村一弄150米）"
   }, 
   {
-    "hotelId": "8000590", 
-    "hotelName": "全季杭州西湖中山北路酒店", 
-    "hotelAddressShort": "浙江省杭州市拱墅区中山北路288号"
+    "hotelId": "9015120", 
+    "hotelName": "海友杭州下沙学正街酒店", 
+    "hotelAddressShort": "学正街386号(阳光创富中心9楼)"
   }, 
   {
-    "hotelId": "9010602", 
-    "hotelName": "桔子杭州西湖凤起路酒店", 
-    "hotelAddressShort": "凤起路108号"
+    "hotelId": "9004915", 
+    "hotelName": "星程杭州西溪欢乐城酒店", 
+    "hotelAddressShort": "五常大道421号西溪欢乐城2号楼"
   }, 
   {
-    "hotelId": "9004164", 
-    "hotelName": "全季杭州火车东站东广场酒店", 
-    "hotelAddressShort": "杭州市江干区东宁路604号"
+    "hotelId": "8000425", 
+    "hotelName": "全季杭州火车南站酒店", 
+    "hotelAddressShort": "商城北路98号"
+  }, 
+  {
+    "hotelId": "9006099", 
+    "hotelName": "星程杭州浙大紫金港酒店", 
+    "hotelAddressShort": "古墩路598号同人广场A座"
+  }, 
+  {
+    "hotelId": "9021632", 
+    "hotelName": "全季杭州西湖鼓楼酒店", 
+    "hotelAddressShort": "上仓桥路11号1-7层部分"
+  }, 
+  {
+    "hotelId": "9010115", 
+    "hotelName": "全季杭州滨江宝龙城酒店", 
+    "hotelAddressShort": "江南大道3688号通策广场1幢（地铁6号线诚业路C出口向南500米）"
+  }, 
+  {
+    "hotelId": "9000638", 
+    "hotelName": "全季杭州万安桥地铁站酒店", 
+    "hotelAddressShort": "大学路116号"
+  }, 
+  {
+    "hotelId": "9001084", 
+    "hotelName": "全季杭州西溪天目山路酒店（质量整改）", 
+    "hotelAddressShort": "天目山路383号"
+  }, 
+  {
+    "hotelId": "3100052", 
+    "hotelName": "汉庭优佳杭州武林门湖墅南路酒店", 
+    "hotelAddressShort": "湖墅南路395-399号"
+  }, 
+  {
+    "hotelId": "3100532", 
+    "hotelName": "汉庭杭州钱塘江大桥酒店", 
+    "hotelAddressShort": "南环路4407号"
+  }, 
+  {
+    "hotelId": "9014647", 
+    "hotelName": "全季杭州转塘星光荟酒店", 
+    "hotelAddressShort": "美院北街杭荟城2号楼（中国美院象山校区北门口）"
+  }, 
+  {
+    "hotelId": "9014251", 
+    "hotelName": "汉庭杭州滨江省儿童医院酒店", 
+    "hotelAddressShort": "滨江区国慷街509号4幢101室"
+  }, 
+  {
+    "hotelId": "9013253", 
+    "hotelName": "星程杭州富阳大润发商城酒店", 
+    "hotelAddressShort": "康月路209号(大润发B座）"
+  }, 
+  {
+    "hotelId": "9001550", 
+    "hotelName": "汉庭优佳杭州西湖文化广场地铁站酒店", 
+    "hotelAddressShort": "上塘路50号(地铁1/3/19号线E出口)"
+  }, 
+  {
+    "hotelId": "9013266", 
+    "hotelName": "海友杭州五常大道西溪欢乐城酒店", 
+    "hotelAddressShort": "五常大道 622号华丰商业中心3楼"
+  }, 
+  {
+    "hotelId": "9002100", 
+    "hotelName": "汉庭杭州桐庐中心广场酒店", 
+    "hotelAddressShort": "白云源路900号"
+  }, 
+  {
+    "hotelId": "9012793", 
+    "hotelName": "你好杭州下沙大学城云水地铁站酒店", 
+    "hotelAddressShort": "学正街575号金沙居B幢(云水地铁站A出口向北500米）"
+  }, 
+  {
+    "hotelId": "9015839", 
+    "hotelName": "全季杭州萧山通惠北路酒店", 
+    "hotelAddressShort": "通惠北路16号（回音必大厦）"
+  }, 
+  {
+    "hotelId": "9002702", 
+    "hotelName": "全季杭州浙大城市学院酒店", 
+    "hotelAddressShort": "台州路265号"
+  }, 
+  {
+    "hotelId": "8000220", 
+    "hotelName": "桔子杭州文一西路酒店", 
+    "hotelAddressShort": "文一西路50号5幢（益乐路古荡派出所隔壁）"
+  }, 
+  {
+    "hotelId": "9010361", 
+    "hotelName": "桔子杭州金沙湖银泰百货酒店", 
+    "hotelAddressShort": "下沙南路429号"
+  }, 
+  {
+    "hotelId": "3100024", 
+    "hotelName": "全季杭州西湖南山路酒店", 
+    "hotelAddressShort": "杭州市上城区沿南山路210号"
+  }, 
+  {
+    "hotelId": "9014886", 
+    "hotelName": "杭州花间邸·鲨鱼SHARQUE", 
+    "hotelAddressShort": "曙光路49号"
+  }, 
+  {
+    "hotelId": "8000329", 
+    "hotelName": "桔子杭州西湖河坊街酒店", 
+    "hotelAddressShort": "城头巷128号"
+  }, 
+  {
+    "hotelId": "9020441", 
+    "hotelName": "桔子杭州大悦城酒店", 
+    "hotelAddressShort": "莫干山路701号1层部分，2-6层"
+  }, 
+  {
+    "hotelId": "9011954", 
+    "hotelName": "全季杭州富阳桂花西路地铁站酒店", 
+    "hotelAddressShort": "金桥南路69号"
+  }, 
+  {
+    "hotelId": "9002275", 
+    "hotelName": "星程杭州钱江世纪城酒店", 
+    "hotelAddressShort": "利华路677号"
+  }, 
+  {
+    "hotelId": "3114001", 
+    "hotelName": "全季杭州野生动物园酒店", 
+    "hotelAddressShort": "富闲路9号"
+  }, 
+  {
+    "hotelId": "9017637", 
+    "hotelName": "杭州悦东湖美仑国际酒店", 
+    "hotelAddressShort": "邱山大街759号"
+  }, 
+  {
+    "hotelId": "3100166", 
+    "hotelName": "全季杭州钱江新城酒店", 
+    "hotelAddressShort": "解放东路29号(市民中心地铁站N1出口处)"
+  }, 
+  {
+    "hotelId": "8000046", 
+    "hotelName": "全季杭州萧山国际机场酒店", 
+    "hotelAddressShort": "新港村832号"
+  }, 
+  {
+    "hotelId": "9001831", 
+    "hotelName": "汉庭杭州浙江工业大学酒店", 
+    "hotelAddressShort": "上塘路259号（新青年广场内）"
+  }, 
+  {
+    "hotelId": "3100251", 
+    "hotelName": "全季杭州西湖断桥酒店", 
+    "hotelAddressShort": "保俶路76号"
+  }, 
+  {
+    "hotelId": "9017060", 
+    "hotelName": "全季杭州运河拱宸桥酒店", 
+    "hotelAddressShort": "拱墅区祥符街道花园岗街6号"
+  }, 
+  {
+    "hotelId": "9000862", 
+    "hotelName": "汉庭优佳杭州萧山建设一路地铁站酒店", 
+    "hotelAddressShort": "市心北路22号建设一路1056号（地铁2号线建设一路站D出口向北20米）"
+  }, 
+  {
+    "hotelId": "8916582", 
+    "hotelName": "全季杭州钱江世纪城利华路酒店", 
+    "hotelAddressShort": "利华路599号2幢"
+  }, 
+  {
+    "hotelId": "9000882", 
+    "hotelName": "全季杭州转塘美院酒店", 
+    "hotelAddressShort": "美院南路99号（中国美院象山校区南门口）"
+  }, 
+  {
+    "hotelId": "8000416", 
+    "hotelName": "桔子水晶杭州未来科技城酒店", 
+    "hotelAddressShort": "五常街道三维智汇中心绿城未来PARK1幢"
+  }, 
+  {
+    "hotelId": "3117991", 
+    "hotelName": "汉庭千岛湖银泰广场酒店", 
+    "hotelAddressShort": "淳安县千岛湖镇新安东路121号"
+  }, 
+  {
+    "hotelId": "9001261", 
+    "hotelName": "星程杭州临安万华广场酒店", 
+    "hotelAddressShort": "钱王大街1253号(钱王街与玲珑街交叉口）"
+  }, 
+  {
+    "hotelId": "3112152", 
+    "hotelName": "全季杭州钱江世纪城酒店", 
+    "hotelAddressShort": "鸿宁路1819号"
+  }, 
+  {
+    "hotelId": "8000468", 
+    "hotelName": "汉庭优佳杭州西湖中山北路酒店（原武林银泰店）", 
+    "hotelAddressShort": "中山北路333号（地铁2号线中河北路站B出口步行400米）"
+  }, 
+  {
+    "hotelId": "8000257", 
+    "hotelName": "全季杭州西湖武林银泰酒店", 
+    "hotelAddressShort": "屏风街3号"
+  }, 
+  {
+    "hotelId": "9013474", 
+    "hotelName": "全季杭州火车东站机场路酒店", 
+    "hotelAddressShort": "梅家曲街46号。"
+  }, 
+  {
+    "hotelId": "3100053", 
+    "hotelName": "全季杭州武林广场文晖大厦酒店", 
+    "hotelAddressShort": "湖墅南路118号"
+  }, 
+  {
+    "hotelId": "3100046", 
+    "hotelName": "怡莱杭州武林广场酒店", 
+    "hotelAddressShort": "长庆街道体育场路216号（田家桥2号）"
+  }, 
+  {
+    "hotelId": "3100112", 
+    "hotelName": "汉庭杭州大悦城酒店", 
+    "hotelAddressShort": "莫干山路691号"
+  }, 
+  {
+    "hotelId": "9000647", 
+    "hotelName": "汉庭杭州滨康路酒店（质量整改）", 
+    "hotelAddressShort": "滨康路341号"
+  }, 
+  {
+    "hotelId": "3100511", 
+    "hotelName": "全季杭州星光大道酒店", 
+    "hotelAddressShort": "江南大道155-159号（地铁6号线江汉路A出口向东500米)"
+  }, 
+  {
+    "hotelId": "3100029", 
+    "hotelName": "海友杭州西湖河坊街酒店", 
+    "hotelAddressShort": "杭州市江城路256-18号"
+  }, 
+  {
+    "hotelId": "9014427", 
+    "hotelName": "桔子杭州萧山银隆百货酒店", 
+    "hotelAddressShort": "市心中路318号（地铁2号线杭发厂站C2口向北150米）"
+  }, 
+  {
+    "hotelId": "3100037", 
+    "hotelName": "全季杭州西湖凤起路酒店", 
+    "hotelAddressShort": "凤起路380号（明视康眼科后面）"
+  }, 
+  {
+    "hotelId": "3100302", 
+    "hotelName": "汉庭杭州西溪酒店", 
+    "hotelAddressShort": "古墩路5号"
+  }, 
+  {
+    "hotelId": "3100207", 
+    "hotelName": "全季杭州钱江新城新塘路酒店", 
+    "hotelAddressShort": "杭州上城区新塘路126号景芳地铁站D2出口向东500米"
+  }, 
+  {
+    "hotelId": "3100182", 
+    "hotelName": "全季杭州下沙经济开发区酒店(质量整改店)", 
+    "hotelAddressShort": "4号大街209号（4号大街与9号大街交界口）"
+  }, 
+  {
+    "hotelId": "9012889", 
+    "hotelName": "桔子杭州武林广场莫干山路酒店", 
+    "hotelAddressShort": "莫干山路252号（地铁2号线沈塘桥站B出口向北1.2km）"
+  }, 
+  {
+    "hotelId": "9001380", 
+    "hotelName": "全季杭州钱江新城市民中心酒店", 
+    "hotelAddressShort": "市民街184号A.城星路100号.城星国际中心2幢三层至十一层"
+  }, 
+  {
+    "hotelId": "9003814", 
+    "hotelName": "宜必思尚品杭州火车东站钱江新城店(原宜必思尚品杭州火车东站秋涛北路酒店)", 
+    "hotelAddressShort": "秋涛北路176号交运大厦"
+  }, 
+  {
+    "hotelId": "3100003", 
+    "hotelName": "汉庭杭州火车东站酒店", 
+    "hotelAddressShort": "上城区天城路87号"
+  }, 
+  {
+    "hotelId": "8000437", 
+    "hotelName": "宜必思杭州未来科技城海创园酒店", 
+    "hotelAddressShort": "向往街1008号2号楼"
+  }, 
+  {
+    "hotelId": "3111003", 
+    "hotelName": "全季杭州西溪印象城酒店", 
+    "hotelAddressShort": "五常大道153号"
+  }, 
+  {
+    "hotelId": "3100535", 
+    "hotelName": "桔子杭州滨江大学城酒店", 
+    "hotelAddressShort": "东冠路555号"
+  }, 
+  {
+    "hotelId": "8000109", 
+    "hotelName": "全季杭州大厦酒店", 
+    "hotelAddressShort": "环城北路280号"
+  }, 
+  {
+    "hotelId": "3100079", 
+    "hotelName": "杭州武林门地铁站漫心酒店（质量整改）", 
+    "hotelAddressShort": "莫干山路9号"
+  }, 
+  {
+    "hotelId": "9015909", 
+    "hotelName": "桔子杭州萧山滨康路地铁站酒店", 
+    "hotelAddressShort": "金惠路1696号"
+  }, 
+  {
+    "hotelId": "9000433", 
+    "hotelName": "汉庭杭州文三路地铁站酒店（原黄龙万科中心店)", 
+    "hotelAddressShort": "文三路453号(中茵大厦A座近教育考试院)"
+  }, 
+  {
+    "hotelId": "3100513", 
+    "hotelName": "怡莱精品杭州江南大道钱塘江大桥酒店", 
+    "hotelAddressShort": "江南大道4278号（地铁4号线联庄站D出口向东南300米）"
+  }, 
+  {
+    "hotelId": "9009390", 
+    "hotelName": "海友杭州西湖科技园紫萱路酒店", 
+    "hotelAddressShort": "紫萱路279号（距汇禾美食街50m）"
+  }, 
+  {
+    "hotelId": "9006713", 
+    "hotelName": "你好杭州乔司地铁站酒店", 
+    "hotelAddressShort": "南街113号（地铁9号线乔司站A1出口）"
+  }, 
+  {
+    "hotelId": "9009689", 
+    "hotelName": "全季杭州中大银泰酒店", 
+    "hotelAddressShort": "沈半路201号"
+  }, 
+  {
+    "hotelId": "9007990", 
+    "hotelName": "怡莱杭州西湖黄龙体育中心酒店", 
+    "hotelAddressShort": "天目山路160号国际花园底层8号（正门通道往里走10米）"
+  }, 
+  {
+    "hotelId": "8000118", 
+    "hotelName": "全季杭州西湖湖滨酒店（质量整改）", 
+    "hotelAddressShort": "开元路66号"
+  }, 
+  {
+    "hotelId": "9011878", 
+    "hotelName": "桔子杭州G20国际博览中心酒店", 
+    "hotelAddressShort": "文明路336号江宁大厦C座"
+  }, 
+  {
+    "hotelId": "9010550", 
+    "hotelName": "怡莱杭州滨江龙湖天街江南大道酒店", 
+    "hotelAddressShort": "月明路1096号（地铁6号线江汉路A出口往南346米）"
+  }, 
+  {
+    "hotelId": "3100205", 
+    "hotelName": "全季杭州四季青秋涛路酒店", 
+    "hotelAddressShort": "秋涛北路30号"
+  }, 
+  {
+    "hotelId": "9000418", 
+    "hotelName": "星程杭州三墩龙湖天街酒店", 
+    "hotelAddressShort": "三墩路426号（距离三墩龙湖紫荆天街600米）"
   }, 
   {
     "hotelId": "8000025", 
@@ -990,19 +1285,24 @@
     "hotelAddressShort": "滨文路773号2幢"
   }, 
   {
-    "hotelId": "9000249", 
-    "hotelName": "全季杭州滨江江陵路地铁站酒店", 
-    "hotelAddressShort": "江南大道88号中化蓝天大厦B座   （距离江陵路地铁站200米 ，1号线/6号线B口出）"
-  }, 
-  {
     "hotelId": "8000372", 
     "hotelName": "桔子杭州黄龙体育中心酒店", 
     "hotelAddressShort": "黄姑山路23号"
   }, 
   {
-    "hotelId": "3100183", 
-    "hotelName": "汉庭杭州下沙学正街酒店", 
-    "hotelAddressShort": "学正街388号(阳光创富中心)"
+    "hotelId": "9005251", 
+    "hotelName": "怡莱杭州钱塘新区新湾酒店", 
+    "hotelAddressShort": "塘新线与新湾路交叉口东南方向100米(水乐汇浴场旁）"
+  }, 
+  {
+    "hotelId": "9012765", 
+    "hotelName": "海友杭州西湖文化广场酒店", 
+    "hotelAddressShort": "上塘路182号"
+  }, 
+  {
+    "hotelId": "9018193", 
+    "hotelName": "海友杭州文一西路财经大学酒店", 
+    "hotelAddressShort": "文一西路147号"
   }, 
   {
     "hotelId": "9008660", 
@@ -1015,19 +1315,34 @@
     "hotelAddressShort": "庆春路37-39号（近浙一医院）"
   }, 
   {
-    "hotelId": "8000618", 
-    "hotelName": "汉庭优佳杭州西湖银泰酒店", 
-    "hotelAddressShort": "定安路2号(近南宋御街、河坊街，定安路地铁C出口）"
+    "hotelId": "9000648", 
+    "hotelName": "桔子水晶杭州钱江新城酒店", 
+    "hotelAddressShort": "城星路100号迪凯城星国际B幢"
   }, 
   {
-    "hotelId": "3100205", 
-    "hotelName": "全季杭州四季青秋涛路酒店", 
-    "hotelAddressShort": "秋涛北路30号"
+    "hotelId": "3100183", 
+    "hotelName": "汉庭杭州下沙学正街酒店", 
+    "hotelAddressShort": "学正街388号(阳光创富中心)"
   }, 
   {
-    "hotelId": "9002821", 
-    "hotelName": "汉庭杭州火车东站机场路酒店", 
-    "hotelAddressShort": "杭州市上城区机场路108号枸桔弄地铁口B出口向西500米"
+    "hotelId": "9001774", 
+    "hotelName": "全季杭州火车东站西广场酒店", 
+    "hotelAddressShort": "天城路98号（地铁1号线闸弄口站D出口向东500米）"
+  }, 
+  {
+    "hotelId": "9001166", 
+    "hotelName": "汉庭杭州西湖大道城站酒店", 
+    "hotelAddressShort": "城头巷93号（近市三医院和浙二眼科医院）"
+  }, 
+  {
+    "hotelId": "9020849", 
+    "hotelName": "汉庭杭州西湖庆春路酒店", 
+    "hotelAddressShort": "长庆街25-1号青春坊小区西区15号楼"
+  }, 
+  {
+    "hotelId": "9000464", 
+    "hotelName": "全季杭州西湖河坊街酒店", 
+    "hotelAddressShort": "西湖大道37号"
   }, 
   {
     "hotelId": "3100065", 
@@ -1035,14 +1350,9 @@
     "hotelAddressShort": "体育场路385号"
   }, 
   {
-    "hotelId": "8000109", 
-    "hotelName": "全季杭州大厦酒店", 
-    "hotelAddressShort": "环城北路280号"
-  }, 
-  {
-    "hotelId": "3100181", 
-    "hotelName": "汉庭杭州下沙大学城酒店（原下沙酒店）", 
-    "hotelAddressShort": "学林街1255号"
+    "hotelId": "9004339", 
+    "hotelName": "海友杭州玉皇山八卦田酒店", 
+    "hotelAddressShort": "南复路38号和大资福庙前交叉口，在陶瓷品市场十号厅楼下"
   }, 
   {
     "hotelId": "3100301", 
@@ -1050,14 +1360,84 @@
     "hotelAddressShort": "振华路200号瑞鼎大厦"
   }, 
   {
+    "hotelId": "9012432", 
+    "hotelName": "星程杭州火车南站酒店", 
+    "hotelAddressShort": "商惠街52号"
+  }, 
+  {
+    "hotelId": "3111008", 
+    "hotelName": "怡莱精品杭州西溪印象城酒店", 
+    "hotelAddressShort": "荆长路26号"
+  }, 
+  {
+    "hotelId": "3100515", 
+    "hotelName": "桔子杭州滨江江南大道酒店", 
+    "hotelAddressShort": "长河路1318号（地铁5/6号线长河站B出口向东50米）"
+  }, 
+  {
+    "hotelId": "3100522", 
+    "hotelName": "全季杭州滨江江南大道酒店", 
+    "hotelAddressShort": "杭州市滨江区江南大道1090号"
+  }, 
+  {
+    "hotelId": "9000292", 
+    "hotelName": "星程杭州运河万达广场酒店", 
+    "hotelAddressShort": "湖州街599号天邑大厦2幢"
+  }, 
+  {
+    "hotelId": "8000590", 
+    "hotelName": "全季杭州西湖中山北路酒店", 
+    "hotelAddressShort": "浙江省杭州市拱墅区中山北路288号"
+  }, 
+  {
+    "hotelId": "9006895", 
+    "hotelName": "怡莱杭州萧山振宁路地铁站酒店", 
+    "hotelAddressShort": "市心北路825号(2号线振宁路地铁站B出口)"
+  }, 
+  {
+    "hotelId": "8000176", 
+    "hotelName": "怡莱精品杭州钱江新城酒店", 
+    "hotelAddressShort": "杭海路238号森禾广场B座东南门（9号线地铁新业路B口509米）"
+  }, 
+  {
+    "hotelId": "9004183", 
+    "hotelName": "汉庭杭州浙大城市学院酒店", 
+    "hotelAddressShort": "永庆路11号"
+  }, 
+  {
+    "hotelId": "9010602", 
+    "hotelName": "桔子杭州西湖凤起路酒店", 
+    "hotelAddressShort": "凤起路108号"
+  }, 
+  {
+    "hotelId": "3100122", 
+    "hotelName": "汉庭优佳杭州文一路翠柏路地铁站酒店（原文一翠苑酒店）", 
+    "hotelAddressShort": "文一路272号(宋江村)"
+  }, 
+  {
     "hotelId": "9000848", 
     "hotelName": "汉庭优佳杭州黄龙体育中心酒店", 
     "hotelAddressShort": "海关路5号（近浙江教育考试院）"
   }, 
   {
-    "hotelId": "3100128", 
-    "hotelName": "全季杭州黄龙文三路酒店", 
-    "hotelAddressShort": "文三路121号（地铁2号线、19号线沈塘桥站E出口向西500米）"
+    "hotelId": "3100209", 
+    "hotelName": "全季杭州火车东站秋涛北路酒店（升级中）", 
+    "hotelAddressShort": "浙江省杭州市江干区秋涛北路451号"
+  }, 
+  {
+    "hotelId": "9004164", 
+    "hotelName": "全季杭州火车东站东广场酒店", 
+    "hotelAddressShort": "杭州上城区东宁路604号"
+  }, 
+  {
+    "hotelId": "9017137", 
+    "hotelName": "你好杭州邵逸夫庆春广场酒店", 
+    "hotelAddressShort": "秋涛北路70-72号东方家私城附楼（庆春广场地铁站B1口出来向西200米）"
+  }, 
+  {
+    "hotelId": "9000249", 
+    "hotelName": "全季杭州滨江江陵路地铁站酒店", 
+    "hotelAddressShort": "江南大道88号中化蓝天大厦B座   （距离江陵路地铁站200米 ，1号线/6号线B口出）"
   }, 
   {
     "hotelId": "3112008", 
@@ -1065,24 +1445,39 @@
     "hotelAddressShort": "万达中路169号（近时代大道）"
   }, 
   {
-    "hotelId": "3100131", 
-    "hotelName": "全季杭州黄龙酒店", 
-    "hotelAddressShort": "浙大路41号"
+    "hotelId": "3112014", 
+    "hotelName": "怡莱精品杭州萧山银隆百货市心中路酒店", 
+    "hotelAddressShort": "市心中路258号（近银隆广场杭发厂C1口左50米）"
   }, 
   {
-    "hotelId": "3100007", 
-    "hotelName": "全季杭州火车东站酒店", 
-    "hotelAddressShort": "天城路8-1号"
+    "hotelId": "8000338", 
+    "hotelName": "海友杭州滨江龙湖天街江南大道酒店", 
+    "hotelAddressShort": "月明路1051号（月明路与江晖路交叉口）"
   }, 
   {
-    "hotelId": "3116991", 
-    "hotelName": "汉庭建德新安江新店", 
-    "hotelAddressShort": "新安路88号"
+    "hotelId": "9002821", 
+    "hotelName": "汉庭杭州火车东站机场路酒店", 
+    "hotelAddressShort": "杭州市上城区机场路108号枸桔弄地铁口B出口向西500米"
   }, 
   {
-    "hotelId": "3112002", 
-    "hotelName": "汉庭杭州高沙路地铁站酒店(原下沙商贸城店)", 
-    "hotelAddressShort": "天城东路84号"
+    "hotelId": "3100181", 
+    "hotelName": "汉庭杭州下沙大学城酒店（原下沙酒店）", 
+    "hotelAddressShort": "学林街1255号"
+  }, 
+  {
+    "hotelId": "3100241", 
+    "hotelName": "汉庭杭州转塘美院象山地铁站酒店", 
+    "hotelAddressShort": "转塘美院南路89号(地铁6号线美院象山站C出口向西220米）"
+  }, 
+  {
+    "hotelId": "8000618", 
+    "hotelName": "汉庭优佳杭州西湖银泰酒店", 
+    "hotelAddressShort": "定安路2号(近南宋御街、河坊街，定安路地铁C出口）"
+  }, 
+  {
+    "hotelId": "9007988", 
+    "hotelName": "怡莱杭州西湖虎跑路雷锋塔景区酒店", 
+    "hotelAddressShort": "杭州市虎跑路四眼井224-2号"
   }, 
   {
     "hotelId": "3100521", 
@@ -1090,13 +1485,173 @@
     "hotelAddressShort": "信诚路555号科达投资大厦B座"
   }, 
   {
-    "hotelId": "8000219", 
-    "hotelName": "桔子杭州黄龙万科广场酒店", 
-    "hotelAddressShort": "万塘路301号"
+    "hotelId": "9002632", 
+    "hotelName": "汉庭优佳杭州江汉路地铁站酒店（原龙湖天街店）", 
+    "hotelAddressShort": "江南大道380号（威陵大厦地铁6号线江汉路站B站口）"
+  }, 
+  {
+    "hotelId": "9009638", 
+    "hotelName": "怡莱杭州未来科技城智能小镇酒店", 
+    "hotelAddressShort": "文一西路1812号申鼎大厦"
+  }, 
+  {
+    "hotelId": "3100092", 
+    "hotelName": "海友杭州西湖大道酒店", 
+    "hotelAddressShort": "清泰街486号民生路口"
+  }, 
+  {
+    "hotelId": "3116991", 
+    "hotelName": "汉庭建德新安江新店", 
+    "hotelAddressShort": "新安路88号"
+  }, 
+  {
+    "hotelId": "9009987", 
+    "hotelName": "怡莱杭州丁桥龙湖天街酒店", 
+    "hotelAddressShort": "丁桥路310号"
+  }, 
+  {
+    "hotelId": "3100007", 
+    "hotelName": "全季杭州火车东站酒店", 
+    "hotelAddressShort": "天城路8-1号"
+  }, 
+  {
+    "hotelId": "3100128", 
+    "hotelName": "全季杭州黄龙文三路酒店", 
+    "hotelAddressShort": "文三路121号（地铁2号线、19号线沈塘桥站E出口向西500米）"
   }, 
   {
     "hotelId": "8000239", 
     "hotelName": "全季杭州文一路翠苑酒店", 
     "hotelAddressShort": "文一路294号"
+  }, 
+  {
+    "hotelId": "3112002", 
+    "hotelName": "汉庭杭州高沙路地铁站酒店(原下沙商贸城店)", 
+    "hotelAddressShort": "天城东路84号"
+  }, 
+  {
+    "hotelId": "8915385", 
+    "hotelName": "汉庭杭州江南大道酒店（质量整改）", 
+    "hotelAddressShort": "环兴路336号"
+  }, 
+  {
+    "hotelId": "3100131", 
+    "hotelName": "全季杭州黄龙酒店", 
+    "hotelAddressShort": "浙大路41号"
+  }, 
+  {
+    "hotelId": "9004936", 
+    "hotelName": "怡莱杭州高沙路地铁站酒店（升级中）", 
+    "hotelAddressShort": "学林街1255号"
+  }, 
+  {
+    "hotelId": "9005633", 
+    "hotelName": "怡莱杭州西溪丰岭路酒店", 
+    "hotelAddressShort": "丰岭路与宋家湾路交叉口南100米盛丰铭座附近"
+  }, 
+  {
+    "hotelId": "9001162", 
+    "hotelName": "汉庭优佳杭州临平银泰城地铁站酒店", 
+    "hotelAddressShort": "人民大道532号"
+  }, 
+  {
+    "hotelId": "8000219", 
+    "hotelName": "桔子杭州黄龙万科广场酒店", 
+    "hotelAddressShort": "万塘路301号"
+  }, 
+  {
+    "hotelId": "8000316", 
+    "hotelName": "杭州西溪CitiGO欢阁酒店(未来科技城海创园)", 
+    "hotelAddressShort": "杭州市余杭区良睦路999号乐佳国际大厦3号楼"
+  }, 
+  {
+    "hotelId": "8000287", 
+    "hotelName": "海友杭州西湖庆春路酒店", 
+    "hotelAddressShort": "刀茅巷53号"
+  }, 
+  {
+    "hotelId": "9004025", 
+    "hotelName": "怡莱精品杭州石桥路康宁街酒店", 
+    "hotelAddressShort": "石桥路康宁街5号（电竞数娱小镇）"
+  }, 
+  {
+    "hotelId": "9008066", 
+    "hotelName": "你好杭州潮王路沈塘桥地铁站酒店", 
+    "hotelAddressShort": "湖墅南路260号(与潮王路交汇财贸大厦东南侧)"
+  }, 
+  {
+    "hotelId": "3112013", 
+    "hotelName": "汉庭杭州火车南站西广场酒店", 
+    "hotelAddressShort": "站前路17号"
+  }, 
+  {
+    "hotelId": "3100091", 
+    "hotelName": "汉庭杭州火车城站酒店(原汉庭杭州城站酒店)(质量整改)", 
+    "hotelAddressShort": "江城路863号（城站地铁站1号线A1出口直走400米）"
+  }, 
+  {
+    "hotelId": "B733", 
+    "hotelName": "杭州英冠索菲特酒店", 
+    "hotelAddressShort": "明星路485号 萧山区"
+  }, 
+  {
+    "hotelId": "8000021", 
+    "hotelName": "汉庭杭州西湖湖滨银泰酒店", 
+    "hotelAddressShort": "浣纱路102号"
+  }, 
+  {
+    "hotelId": "9010928", 
+    "hotelName": "你好杭州滨江龙湖天街江汉路地铁站酒店", 
+    "hotelAddressShort": "江南大道480号（滨海大厦地铁6号线江汉路站B站口）"
+  }, 
+  {
+    "hotelId": "9004235", 
+    "hotelName": "汉庭杭州西溪印象城酒店（原西溪湿地店）", 
+    "hotelAddressShort": "古灵慈路69号"
+  }, 
+  {
+    "hotelId": "3100039", 
+    "hotelName": "海友杭州西湖体育场路酒店（质量整改）", 
+    "hotelAddressShort": "杭州市西湖区体育场路588号桃花弄2-1号"
+  }, 
+  {
+    "hotelId": "3100041", 
+    "hotelName": "海友杭州东站艮山西路酒店", 
+    "hotelAddressShort": "艮山西路286号"
+  }, 
+  {
+    "hotelId": "9005987", 
+    "hotelName": "怡莱杭州西湖河坊街酒店", 
+    "hotelAddressShort": "江城路480号 （地铁5号线江城路H口出沿江城路直行约4分钟）"
+  }, 
+  {
+    "hotelId": "C0100052", 
+    "hotelName": "城家高级公寓杭州西湖庆春路店", 
+    "hotelAddressShort": "杭州市上城区庆春路87号A号楼8F-11F（距地铁5号线万安桥站C号口约500米；2号线建国北路站D号口约1.1公里）"
+  }, 
+  {
+    "hotelId": "C0100053", 
+    "hotelName": "城家公寓杭州转塘美院象山地铁站店", 
+    "hotelAddressShort": "杭州市西湖区转塘街道杜家浦路1号"
+  }, 
+  {
+    "hotelId": "9020961", 
+    "hotelName": "汉庭临安於潜酒店", 
+    "hotelAddressShort": "於潜镇潜阳路169号第1层、第3-8层"
+  }, 
+  {
+    "hotelId": "3100231", 
+    "hotelName": "海友杭州西溪印象城酒店", 
+    "hotelAddressShort": "杭州市余杭区荆长路17-2号"
+  }, 
+  {
+    "hotelId": "9008301", 
+    "hotelName": "怡莱杭州岸山威坪客运中心酒店", 
+    "hotelAddressShort": "威坪镇始新路53号"
+  }, 
+  {
+    "hotelId": "C0100051", 
+    "hotelName": "城家高级公寓杭州九堡九和路地铁站店", 
+    "hotelAddressShort": "杭州市上城区红普路788号绿谷5号楼"
   }
 ]

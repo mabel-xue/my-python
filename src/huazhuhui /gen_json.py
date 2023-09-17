@@ -53,7 +53,7 @@ HotelStyle = {
 param = {
     'checkInDate': '2023-09-23',
     'checkOutDate': '2023-09-24',
-    'cityName': '太原',
+    'cityName': '杭州',
     # 'hotelStyle': '2',
     # 'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0

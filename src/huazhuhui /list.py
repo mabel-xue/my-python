@@ -47,8 +47,8 @@ date = '1617'
 hotelList = get_data(request_url, {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[:2]+'-'+date[:2],
-    'cityName': '莆田',
-    'hotelStyle': HotelStyle['qj'],
+    'cityName': '泉州',
+    'hotelStyle': HotelStyle['ht'],
     # 'sortBy':0
     'pageSize': 20,
     'pageIndex': 1,
