@@ -8,7 +8,7 @@ import math
 request_url = 'https://hweb-hotel.huazhu.com/hotels/hotel/detail'
 
 alreadyBook = {
-    '北京': {'0918', '0923'},
+    '北京': {'0918', '0919', '0920', '0921', '0922', '0923'},
     '长沙': {'1001', '1002'},
     '天津': {'1014'},
     '杭州': {'0928', '1004'},
@@ -30,12 +30,12 @@ alreadyBook = {
 
 # 全季诸暨国际珠宝城酒店 8915743
 
-month = '0909'
-date = '2325'
+month = '1010'
+date = '0102'
 params = {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '8000370',
+    'hotelId': '9001645',
 }
 
 hotelList = get_data(request_url, params, constant.headers)
