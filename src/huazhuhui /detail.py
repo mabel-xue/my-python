@@ -8,12 +8,12 @@ import math
 request_url = 'https://hweb-hotel.huazhu.com/hotels/hotel/detail'
 
 alreadyBook = {
-    '北京': {'0917', '0918', '0923'},
+    '北京': {'0918', '0923'},
     '长沙': {'1001', '1002'},
-    '天津': {'0917', '1014'},
+    '天津': {'1014'},
     '杭州': {'1004'},
     '连云港': {'0927'},
-    '济南': {'0916', '0926', '1005'},
+    '济南': {'0926', '1005'},
     '乌鲁木齐': {'0919'},
     '威海': {'0924', '0925', '0926', '0927'},
     '南京': { '0918', '0919','0920','0921', '1006', '1007'},
@@ -30,21 +30,12 @@ alreadyBook = {
 
 # 全季诸暨国际珠宝城酒店 8915743
 
-<<<<<<< HEAD
 month = '0909'
-date = '1822'
+date = '2325'
 params = {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '8000456',
-=======
-month = '0910'
-date = '3002'
-params = {
-    'checkInDate': '2023-'+month[:2]+'-'+date[:2],
-    'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '3100209',
->>>>>>> 52bedd7... update
+    'hotelId': '8000370',
 }
 
 hotelList = get_data(request_url, params, constant.headers)
@@ -66,7 +57,7 @@ for item in hotelList['content']['roomPriceList']['roomList']:
         # orgPrice = item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']
         orgPrice = int(math.ceil(amount/len(item['ratePlanCodeList'][0]['dailyPrice'])))
         price = int(math.ceil(orgPrice+10 if orgPrice <
-                    330 else orgPrice*1.038))
+                    330 else orgPrice*1.035))
         # zc = ' 双早+'+ int(math.ceil(float(price)*0.29)) if booked else '双早'
         # print(str(zc))
         list.append(item['typeRoomName']+' ' +
