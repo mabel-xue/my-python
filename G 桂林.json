@@ -1,0 +1,82 @@
+[
+  {
+    "hotelId": "9014920", 
+    "hotelName": "桂林雁山宋品酒店", 
+    "hotelAddressShort": "广西壮族自治区桂林市雁山区大雁路398号"
+  }, 
+  {
+    "hotelId": "9014921", 
+    "hotelName": "桂林融创施柏阁酒店", 
+    "hotelAddressShort": "中国广西壮族自治区桂林市雁山区大雁路398号"
+  }, 
+  {
+    "hotelId": "9014491", 
+    "hotelName": "全季桂林两江国际机场酒店", 
+    "hotelAddressShort": "两江镇机场二号路"
+  }, 
+  {
+    "hotelId": "5410045", 
+    "hotelName": "桂林高新美居酒店", 
+    "hotelAddressShort": "中国广西桂林市七星区环城南一路9号"
+  }, 
+  {
+    "hotelId": "9005404", 
+    "hotelName": "全季桂林象鼻山景区解放桥酒店", 
+    "hotelAddressShort": "栖霞路48号"
+  }, 
+  {
+    "hotelId": "9019859", 
+    "hotelName": "汉庭桂林平乐南城百货酒店", 
+    "hotelAddressShort": "桂林平乐新安街114号"
+  }, 
+  {
+    "hotelId": "9006295", 
+    "hotelName": "全季桂林两江四湖景区酒店", 
+    "hotelAddressShort": "广西省桂林市叠彩区中山中路71号"
+  }, 
+  {
+    "hotelId": "5410016", 
+    "hotelName": "汉庭优佳桂林正阳步行街酒店", 
+    "hotelAddressShort": "广西桂林市秀峰区正阳路步行街2号"
+  }, 
+  {
+    "hotelId": "9011202", 
+    "hotelName": "汉庭桂林市政府酒店", 
+    "hotelAddressShort": "临桂区新城吾悦广场8幢"
+  }, 
+  {
+    "hotelId": "9015982", 
+    "hotelName": "全季桂林恭城文庙酒店", 
+    "hotelAddressShort": "恭城镇燕新路金茶江大酒店"
+  }, 
+  {
+    "hotelId": "5410026", 
+    "hotelName": "宜必思桂林火车站酒店", 
+    "hotelAddressShort": "广西壮族自治区桂林市象山区南新路102号"
+  }, 
+  {
+    "hotelId": "5410044", 
+    "hotelName": "汉庭桂林两江四湖酒店（原七星公园店）", 
+    "hotelAddressShort": "七星区穿山路1号"
+  }, 
+  {
+    "hotelId": "5410021", 
+    "hotelName": "汉庭桂林象山公园酒店", 
+    "hotelAddressShort": "象山区可成里2号"
+  }, 
+  {
+    "hotelId": "5419993", 
+    "hotelName": "汉庭桂林阳朔西街新店（原千古情店）", 
+    "hotelAddressShort": "桂林市阳朔县荆凤路196号"
+  }, 
+  {
+    "hotelId": "5410121", 
+    "hotelName": "汉庭桂林火车北站酒店", 
+    "hotelAddressShort": "桂林市叠彩区北辰路29号"
+  }, 
+  {
+    "hotelId": "5410024", 
+    "hotelName": "汉庭桂林火车站酒店（原万象城店）", 
+    "hotelAddressShort": "桂林市红岭路65号"
+  }
+]
