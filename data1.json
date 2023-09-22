@@ -1,0 +1,37 @@
+[
+  {
+    "hotelId": "9007895", 
+    "hotelName": "宜必思尚品汕头南澳海景酒店", 
+    "hotelAddressShort": "青澳湾旅游度假村半岛逸景花园二期二栋三层宜必思尚品酒店"
+  }, 
+  {
+    "hotelId": "9002476", 
+    "hotelName": "桔子汕头金砂东路酒店", 
+    "hotelAddressShort": "金砂东路186号（金砂东路与黄山路交汇处）"
+  }, 
+  {
+    "hotelId": "9011858", 
+    "hotelName": "全季汕头高铁站酒店", 
+    "hotelAddressShort": "广东省汕头市龙湖区长江路187号福田里4栋"
+  }, 
+  {
+    "hotelId": "9009614", 
+    "hotelName": "桔子汕头万象城酒店", 
+    "hotelAddressShort": "中山中路148号"
+  }, 
+  {
+    "hotelId": "9010165", 
+    "hotelName": "汕头高铁站美居酒店", 
+    "hotelAddressShort": "长江路106号佰悦春天花园10幢"
+  }, 
+  {
+    "hotelId": "9019839", 
+    "hotelName": "汉庭汕头潮阳中华路酒店", 
+    "hotelAddressShort": "文光街道兴归府前庄8栋1层部份、4-7层全部"
+  }, 
+  {
+    "hotelId": "5150413", 
+    "hotelName": "汉庭汕头红领巾路酒店", 
+    "hotelAddressShort": "汕头市金平区红领巾路19号"
+  }
+]
