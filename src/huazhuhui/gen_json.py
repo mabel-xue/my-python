@@ -51,9 +51,9 @@ HotelStyle = {
 }
 
 param = {
-    'checkInDate': '2023-09-23',
-    'checkOutDate': '2023-09-24',
-    'cityName': '汕头',
+    'checkInDate': '2023-10-24',
+    'checkOutDate': '2023-10-25',
+    'cityName': '临沂',
     # 'hotelStyle': '2',
     # 'hotelStyle': '2,4,14,16,18',
     # 'sortBy':0

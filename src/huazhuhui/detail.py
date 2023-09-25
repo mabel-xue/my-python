@@ -8,36 +8,36 @@ import math
 request_url = 'https://hweb-hotel.huazhu.com/hotels/hotel/detail'
 
 alreadyBook = {
-    '北京': {'0922', '0923'},
-    '长沙': {'1001', '1002'},
-    '天津': {'1004', '1005', '1014'},
-    '杭州': {'0928', '1004'},
-    '连云港': {'0927'},
-    '济南': {'0926', '1005'},
-    '威海': {'0924', '0925', '0926', '0927'},
-    '南京': { '1006', '1007'},
-    '洛阳': {'0929', '0930'},
+    '北京': {'0923'},
+    '青岛': {'0923'},
     '广州': { '0926', '0927'},
-    '香格里拉': {'1017', '1018'},
     '珠江': {'0926', '0927', '0928'},
-    '上海': {'1001', '1002', '1004', '1014'},
-    '青岛': {'0922','0923'},
+    '济南': {'0926', '1005'},
+    '连云港': {'0927'},
+    '杭州': {'0928', '1004'},
+    '上海': {'0928','1001', '1002', '1004', '1013', '1014'},
+    '洛阳': {'0929', '0930'},
+    '长沙': {'1001', '1002'},
+    '南京': { '1006', '1007'},
+    '天津': {'1014'},
+    '香格里拉': {'1017', '1018'},
 }
-# 丽水 22 23
+# 丽水 23
+# 昆明 24 7
 # 阜新 30-5
 # 兰州 2
+# 赤峰 2 3 4
 # 常州 6
-# 昆明 7
 
 # 全季诸暨国际珠宝城酒店 8915743
 
 
-month = '0909'
-date = '2829'
+month = '1010'
+date = '0406'
 params = {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '8000348',
+    'hotelId': '9017108',
 }
 
 hotelList = get_data(request_url, params, constant.headers)
@@ -54,16 +54,17 @@ print(json.dumps(hotelList['content']['hotelName']+' ' +
 for item in hotelList['content']['roomPriceList']['roomList']:
     if item['isRoomOpenResv'] == True:
         amount = 0
-        for price_item in item['ratePlanCodeList'][0]['dailyPrice']:
-            amount = price_item['prices'][0]['amount'] + amount
-        # orgPrice = item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']
-        orgPrice = int(math.ceil(amount/len(item['ratePlanCodeList'][0]['dailyPrice'])))
-        price = int(math.ceil(orgPrice+10 if orgPrice <
-                    330 else orgPrice*1.038))
-        # zc = ' 双早+'+ int(math.ceil(float(price)*0.29)) if booked else '双早'
-        # print(str(zc))
-        list.append(item['typeRoomName']+' ' +
-                    str(price) + ' '+ item['hasWindow'])
+        if str(item['ratePlanCodeList'][0]['mealPlanSummary'].encode('utf-8')) == '2份早餐':
+            for price_item in item['ratePlanCodeList'][0]['dailyPrice']:
+                amount = price_item['prices'][0]['amount'] + amount
+            # orgPrice = item['ratePlanCodeList'][0]['dailyPrice'][0]['prices'][0]['amount']
+            orgPrice = int(math.ceil(amount/len(item['ratePlanCodeList'][0]['dailyPrice'])))
+            price = int(math.ceil(orgPrice+10 if orgPrice <
+                        330 else orgPrice*1.038))
+            list.append(item['typeRoomName']+' ' +
+                        str(price) + ' '+ item['hasWindow'])
+        else:
+            print('token 过期')
 
 for item in list:
     print(item)
