@@ -18,15 +18,17 @@ alreadyBook = {
     '长沙': {'1017'}
 }
 
+# 深圳 10
+
 # 全季诸暨国际珠宝城酒店 8915743
 
 
 month = '1010'
-date = '1617'
+date = '1011'
 params = {
     'checkInDate': '2023-'+month[:2]+'-'+date[:2],
     'checkOutDate': '2023-'+month[-2:]+'-'+date[-2:],
-    'hotelId': '6744003',
+    'hotelId': '8915511',
 }
 
 hotelList = get_data(request_url, params, constant.headers)
