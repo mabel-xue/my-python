@@ -19,7 +19,8 @@ def get_future_workday(days):
     return today.strftime("%y-%m-%d")
 
 
-url = "https://www.ninwin.cn/index.php?m=cb&show_cb_only=Y&show_listed_only=Y"
+# url = "https://www.ninwin.cn/index.php?m=cb&show_cb_only=Y&show_listed_only=Y" # 宁稳
+url = "http://localhost:3000/data/cbnew/adjust_list" # 集思录
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
