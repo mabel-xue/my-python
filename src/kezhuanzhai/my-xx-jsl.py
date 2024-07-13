@@ -25,12 +25,13 @@ def get_future_workday(days):
 
 
 # url = "https://www.ninwin.cn/index.php?m=cb&show_cb_only=Y&show_listed_only=Y" # 宁稳
-url = "http://localhost:3000/data/cbnew/adjust_list" # 集思录
+# url = "http://localhost:3000/data/cbnew/adjust_list" # 集思录
+url = "https://app.jisilu.cn/data/cbnew/adjust_list/" # 集思录
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 
-codes = [
+codes1 = [
     "113542",
     "110063",
     "127041",
@@ -45,36 +46,46 @@ codes = [
     "127022",
 ]
 
+codes2=[
+   "113024",
+    "127015",
+    "127016",
+    "128136",
+    "113616",
+]
+
 df = pd.DataFrame(
     columns=["转债名", "price", "下修信息", "下修时间点", "下修是否不可低于净资产", "pb"]
 )
 
 response = requests.get(url, headers=headers)
 result = response.json()['rows']
-filtered_rows = list(filter(lambda row: row["id"] in codes, result))
+filtered_rows_list = [list(filter(lambda row: row["id"] in codes1, result)),list(filter(lambda row: row["id"] in codes2, result))]
+# filtered_rows = list(filter(lambda row: row["id"] in codes, result))
 
-for d in filtered_rows:
-    item=d["cell"]
-    name=item['bond_nm']
-    adjust_remain_days=item['adjust_remain_days']
-    adj_tips=item['adj_tips']
-    pb=item['pb']
-    price=item['price']
-    is_asset_limit="Y" if adj_tips.startswith("S") else "N" if adj_tips=="R" else "-"
-    xiaxiu=''
-    future_workday=''
-    if ((adjust_remain_days>-2) & (adj_tips=="S S")):
-       xiaxiu='刚下修'
-    elif(adjust_remain_days==0):
-      xiaxiu='审议中'
-    elif(adj_tips==''):
-       xiaxiu='-'
-    else:
-      xiaxiu=f'已满足{15-adjust_remain_days}天'
-      future_workday = get_future_workday(adjust_remain_days)
-       
-    df.loc[len(df)] = [name, price, xiaxiu, future_workday, is_asset_limit, pb]
+for filtered_rows in filtered_rows_list:
+  for d in filtered_rows:
+      item=d["cell"]
+      name=item['bond_nm']
+      adjust_remain_days=item['adjust_remain_days']
+      adj_tips=item['adj_tips']
+      pb=item['pb']
+      price=item['price']
+      is_asset_limit="Y" if adj_tips.startswith("S") else "N" if adj_tips=="R" else "-"
+      xiaxiu=''
+      future_workday=''
+      if ((adjust_remain_days==-1) & (adj_tips=="S S")):
+        xiaxiu='刚下修'
+      elif(adjust_remain_days==-1):
+        xiaxiu='未满足'
+      elif(adjust_remain_days==0):
+        xiaxiu='审议中'
+      else:
+        xiaxiu=f'已满足{15-adjust_remain_days}天'
+        future_workday = get_future_workday(adjust_remain_days)
+        
+      df.loc[len(df)] = [name, price, xiaxiu, future_workday, is_asset_limit, pb]
 
-# print(json.dumps(result, indent=4, ensure_ascii=False))
-print(tabulate(df.sort_values(by="下修信息")))
-output_excel(df)
+  # print(json.dumps(result, indent=4, ensure_ascii=False))
+  print(tabulate(df.sort_values(by="下修信息")))
+  output_excel(df)
