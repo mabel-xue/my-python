@@ -1,3 +1,4 @@
+import math
 from bs4 import BeautifulSoup
 import requests
 import json
@@ -12,7 +13,7 @@ import akshare as ak
 
 def output_excel(df):
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = f"my_xx_{timestamp}.xlsx"
+    output_file = f"已下修_research_{timestamp}.xlsx"
     df.to_excel(output_file, index=False)
 
 
@@ -26,98 +27,81 @@ def get_future_workday(days):
     return today.strftime("%y-%m-%d")
 
 
-bond_zh_cov_df = ak.bond_cb_jsl(
-    cookie="kbz_newcookie=1; kbzw__Session=3kb0dab06es946vbbj6aemevd5; Hm_lvt_164fe01b1433a19b507595a43bf58262=1719233983,1719324706; HMACCOUNT=26BD2E5A129E88F1; kbzw__user_login=7Obd08_P1ebax9aX5MPYxuPv6N2Cq47k2ujc8NvpxtS-oqum3sLUla3frsuxn6rIppaqr6erlqLH2q-rzrLS28ingrKk6OHFzr6fqqagrKCrl5ecpLjH1r6bkqurpZ-rnaiTq4KypMi5v82Mwejv0uXY2JGrj6eXm8XC08ri7eTc4aeXq-TV3OOTxcLTgcPMlcGZnafBp5bWrpyYouDR4N7Mztu34NallqquoauXkIm_wcm2xZiXzt_M3Je63cTb0J2ZuNHr2-THpZKpraGoj6CPpJnIyt_N6cullqquoauX; Hm_lpvt_164fe01b1433a19b507595a43bf58262=1720795179"
-)
-if len(bond_zh_cov_df) < 40:
-    raise Exception("请更新集思录cookie！")
+# 计算两个日期之间的间隔天数
+def get_days(date1_str, date2_str):
+    date1 = datetime.datetime.strptime(date1_str, "%Y-%m-%d")
+    date2 = datetime.datetime.strptime(date2_str, "%Y-%m-%d")
+    days_diff = (date1 - date2).days
+    return days_diff
 
-url = "https://www.jisilu.cn/webapi/cb/delisted/"  # 集思录
+
+def convert_to_ymd(days):
+    d = days
+    years = math.floor(d / 365)
+    remaining_days = d % 365
+    months = math.floor(remaining_days / 30)
+    days_remaining = remaining_days % 30
+
+    return str(years) + "年" + str(months) + "月" + str(days_remaining) + "日"
+
+
+df = pd.DataFrame()
+
+# bond_zh_cov_df = ak.bond_zh_cov()
+
+url = "https://app.jisilu.cn/data/cbnew/delisted/"  # 集思录
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
-
-df = pd.DataFrame(
-    columns=[
-        "代码",
-        "转债名",
-        "转债价格",
-        "下修信息",
-        "下修满足时间点",
-        "下修是否不可低于净资产",
-        "下修剩余天",
-        # "pb",
-    ]
-)
-
 response = requests.get(url, headers=headers)
-result = response.json()["data"]
+result = response.json()["rows"]
+print("total results:", len(result))
 
-for d in result:
+# try:
+for i, d in enumerate(result):
     item = d["cell"]
-    id = item["bond_id"]
-    name = item["bond_nm"]
-    adjust_remain_days = item["adjust_remain_days"]
-    adj_tips = item["adj_tips"]
-    # pb = item["pb"]
-    price = item["price"]
-    is_asset_limit = (
-        "Y" if adj_tips.startswith("S") else "N" if adj_tips == "R" else "-"
-    )
-    xiaxiu = ""
-    future_workday = ""
-    if (adjust_remain_days == -1) & (adj_tips == "S S"):
-        xiaxiu = "刚下修"
-    elif adjust_remain_days == -1:
-        xiaxiu = "未满足"
-    elif adjust_remain_days == 0:
-        xiaxiu = "审议中"
-    else:
-        xiaxiu = f"已满足{15-adjust_remain_days}天"
-        future_workday = get_future_workday(adjust_remain_days)
+    bond_id = item["bond_id"]
+    first_dt = item["first_dt"]
+    item_df = ak.bond_cb_adj_logs_jsl(symbol=bond_id)
+    if len(item_df) > 0:
+        print(i, item_df)
+        # 添加属性
+        item_df["上市时间"] = first_dt
+        item_df["间隔时长"] = item_df.apply(
+            lambda row: (
+                row["股东大会日"]
+                - datetime.datetime.strptime(first_dt, "%Y-%m-%d").date()
+            ).days,
+            axis=1,
+        )
+        # item_df["间隔时长_年月日"] = item_df[ite÷m_df[convert_to_ymd(item_df["间隔时长"])
 
-    df.loc[len(df)] = [
-        id,
-        name,
-        price,
-        xiaxiu,
-        future_workday,
-        is_asset_limit,
-        adjust_remain_days,
-    ]
+        if i == 0:
+            df = item_df.head(0).copy()
+        last_row = item_df.iloc[-1]
 
-df = df[df["下修满足时间点"] != ""]
-print(len(df))
-df = pd.merge(df, bond_zh_cov_df, on="代码", how="inner").drop_duplicates()
+        df = pd.concat([df, last_row.to_frame().T], ignore_index=True)
 
-print(len(df))
-# 进一步过滤
-df = df[
-    (df["到期时间"] > df["下修满足时间点"])
-    & (df["转债价格"] < 130)
-    & (df["下修剩余天"] < 11)
-]
-print(len(df))
-# print(tabulate(df.sort_values(by="到期时间")))
-# output_excel(df.sort_values(by="到期时间"))
+# except Exception as e:
+#     print("Error: ", e)
 
-selected_columns = [
-    "代码",
-    "转债名",
-    "转债价格",
-    "下修信息",
-    "下修满足时间点",
-    "下修是否不可低于净资产",
-    "正股代码",
-    "正股名称",
-    "正股PB",
-    "到期时间",
-    "剩余年限",
-    "剩余规模",
-]
+# selected_columns = [
+#     "代码",
+#     "转债名",
+#     "转债价格",
+#     "下修信息",
+#     "下修满足时间点",
+#     "下修是否不可低于净资产",
+#     "正股代码",
+#     "正股名称",
+#     "正股PB",
+#     "到期时间",
+#     "剩余年限",
+#     "剩余规模",
+# ]
 
-df = df.loc[:, selected_columns]
+# df = df.loc[:, selected_columns]
 
-# print(json.dumps(result, indent=4, ensure_ascii=False))
-print(tabulate(df.sort_values(by="到期时间")))
-output_excel(df.sort_values(by="到期时间"))
+df = df.sort_values(by="间隔时长")
+print(tabulate(df))
+output_excel(df)
