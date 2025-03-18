@@ -36,9 +36,9 @@ def check_group_and_comment():
             target = titleDiv.find("a")
             title = target.text
             link = target.get("href")
-            if "群招" in title and "拥抱8" in title:
+            if "群招" in title and "适合拥抱的" in title:
                 print("找到帖子：", title)
-                image_path = "/Users/mabelxue/Downloads/my-python/src/gm.jpeg"
+                image_path = "/Users/mabelxue/Downloads/my-python/src/gm.jpg"
                 with open(image_path, "rb") as img:
                     # print(image_path)
                     comment_data = {
@@ -63,10 +63,10 @@ def check_group_and_comment():
 
 
 # 设置定时任务
-schedule.every(1).minutes.do(check_group_and_comment)  # 每10分钟执行一次
+# schedule.every(1).minutes.do(check_group_and_comment)  # 每10分钟执行一次
 
-while True:
-    schedule.run_pending()
-    time.sleep(1)
+# while True:
+#     schedule.run_pending()
+#     time.sleep(1)
 
-# check_group_and_comment()
+check_group_and_comment()
