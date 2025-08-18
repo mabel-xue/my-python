@@ -3,3 +3,4 @@ files/*
 *.xlsx
 .idea
 *.pyc
+*.png
