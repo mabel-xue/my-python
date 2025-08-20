@@ -358,24 +358,20 @@ class ConvertibleBondMonitor:
         message += f"📊 发现 {len(bonds)} 只价格低于114的可转债：\n\n"
 
         # 按价格排序
-        sorted_bonds = sorted(bonds, key=lambda x: x.get("价格", 0))
+        sorted_bonds = sorted(bonds, key=lambda x: x.get("溢价率", 0))
 
         for i, bond in enumerate(sorted_bonds, 1):
             message += f"{i}. {bond['代码']} {bond['转债名']}\n"
+            message += (
+                f"   正股代码: {bond['正股代码']} | 正股简称: {bond['正股简称']}%\n"
+            )
             message += f"   价格: {bond['价格']:.2f} | 溢价率: {bond['溢价率']}%\n"
             message += f"   转股价: {bond['转股价']} | 正股价: {bond['正股价']}\n"
             message += (
-                f"   转股价值: {bond['转股价值']} | 申购上限: {bond['申购上限']}万元\n"
-            )
-            message += (
-                f"   发行规模: {bond['发行规模']}亿元 | 中签率: {bond['中签率']}%\n"
-            )
-            message += (
-                f"   申购日期: {bond['申购日期']} | 上市时间: {bond['上市时间']}\n"
+                f"   发行规模: {bond['发行规模']}亿元 | 上市时间: {bond['上市时间']}\n"
             )
             message += f"   信用评级: {bond['信用评级']}\n\n"
 
-        message += "💡 投资有风险，入市需谨慎！"
         return message
 
     def check_and_notify(self) -> None:
