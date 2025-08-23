@@ -15,6 +15,7 @@ from typing import List, Dict, Any
 import os
 from dotenv import load_dotenv
 import akshare as ak
+from bs4 import BeautifulSoup
 
 # 加载环境变量
 load_dotenv()
@@ -246,6 +247,11 @@ class ConvertibleBondMonitor:
                                 if "正股代码" in available_columns
                                 else ""
                             ),
+                            "正股简称": (
+                                str(row.get("正股简称", "")).strip()
+                                if "正股简称" in available_columns
+                                else ""
+                            ),
                             "转股价值": (
                                 str(row.get("转股价值", "")).strip()
                                 if "转股价值" in available_columns
@@ -288,6 +294,118 @@ class ConvertibleBondMonitor:
                 logger.error("可能是列数不匹配导致的错误，请检查数据源")
             return []
 
+    def parse_convertible_bond_detail(
+        self, html_content: str, bond_code: str
+    ) -> Dict[str, Any]:
+        """
+        解析可转债详情页HTML源代码，提取行业、地域、到期日、转债流通市值占比、相关公告信息
+
+        Args:
+            html_content: 从 https://www.jisilu.cn/data/convert_bond_detail/{bond_code} 获取的HTML源代码
+            bond_code: 可转债代码
+
+        Returns:
+            包含行业、地域、到期日、转债流通市值占比、相关公告列表的字典
+        """
+        try:
+            soup = BeautifulSoup(html_content, "html.parser")
+            result = {
+                "bond_code": bond_code,
+                "industry": "",
+                "region": "",
+                "maturity_date": "",
+                "convert_amt_ratio": "",
+                "announcements": [],
+            }
+
+            # 解析行业信息
+            stock_indu_div = soup.find("div", class_="stock_indu")
+            if stock_indu_div:
+                industry_link = stock_indu_div.find("a", target="_cblist")
+                if industry_link:
+                    result["industry"] = industry_link.get_text(strip=True)
+
+            # 解析地域信息
+            province_td = soup.find("td", id="province")
+            if province_td:
+                result["region"] = province_td.get_text(strip=True)
+
+            # 解析到期日
+            maturity_td = soup.find("td", id="maturity_dt")
+            if maturity_td:
+                result["maturity_date"] = maturity_td.get_text(strip=True)
+
+            # 解析转债流通市值占比
+            convert_amt_ratio_td = soup.find("td", id="convert_amt_ratio")
+            if convert_amt_ratio_td:
+                result["convert_amt_ratio"] = convert_amt_ratio_td.get_text(strip=True)
+
+            # 解析相关公告列表
+            annos_div = soup.find("div", id="tbl_annos")
+            if annos_div:
+                grid_rows = annos_div.find_all("div", class_="grid-row")
+                for row in grid_rows:
+                    grid_col_9 = row.find("div", class_="grid-col-9")
+                    grid_col_3 = row.find("div", class_="grid-col-3")
+
+                    if grid_col_9 and grid_col_3:
+                        announcement_link = grid_col_9.find("a")
+                        if announcement_link:
+                            announcement = {
+                                "title": announcement_link.get_text(strip=True),
+                                "url": announcement_link.get("href", ""),
+                                "date": grid_col_3.get_text(strip=True),
+                            }
+                            result["announcements"].append(announcement)
+
+            logger.info(
+                f"成功解析可转债 {bond_code} 详情页: 行业={result['industry']}, 地域={result['region']}, 到期日={result['maturity_date']}, 流通市值占比={result['convert_amt_ratio']}, 公告数量={len(result['announcements'])}"
+            )
+            return result
+
+        except Exception as e:
+            logger.error(f"解析可转债 {bond_code} 详情页HTML异常: {e}")
+            return {
+                "bond_code": bond_code,
+                "industry": "",
+                "region": "",
+                "maturity_date": "",
+                "convert_amt_ratio": "",
+                "announcements": [],
+            }
+
+    def get_convertible_bond_detail(self, bond_code: str) -> Dict[str, Any]:
+        """
+        获取可转债详情信息
+
+        Args:
+            bond_code: 可转债代码，如 '110092'
+
+        Returns:
+            包含行业、地域、相关公告列表的字典
+        """
+        try:
+            url = f"https://www.jisilu.cn/data/convert_bond_detail/{bond_code}"
+            logger.info(f"正在获取可转债 {bond_code} 详情页: {url}")
+
+            response = requests.get(url, headers=self.headers, timeout=10)
+            response.raise_for_status()
+
+            # 解析HTML内容
+            result = self.parse_convertible_bond_detail(response.text, bond_code)
+            return result
+
+        except Exception as e:
+            logger.error(f"获取可转债 {bond_code} 详情信息异常: {e}")
+            return {
+                "bond_code": bond_code,
+                "industry": "",
+                "region": "",
+                "maturity_date": "",
+                "convert_amt_ratio": "",
+                "announcements": [],
+            }
+
     def filter_low_price_bonds(
         self, bonds_data: List[Dict[str, Any]], max_price: float = 114.0
     ) -> List[Dict[str, Any]]:
@@ -305,7 +423,6 @@ class ConvertibleBondMonitor:
                 credit_rating = cell.get("信用评级")
                 premium_rt = cell.get("premium_rt")
                 listing_time = cell.get("上市时间")
-                # print(listing_time, premium_rt)
 
                 # 新增过滤条件：
                 # 1. 债现价低于最大价格
@@ -331,10 +448,11 @@ class ConvertibleBondMonitor:
                             "溢价率": cell.get("premium_rt", ""),
                             "转股价": cell.get("convert_price", ""),
                             "正股价": stock_price,
+                            "正股代码": cell.get("正股代码", ""),
+                            "正股简称": cell.get("正股简称", ""),  # 新增正股简称
                             "申购日期": cell.get("申购日期", ""),
                             "申购代码": cell.get("申购代码", ""),
                             "申购上限": cell.get("申购上限", ""),
-                            "正股代码": cell.get("正股代码", ""),
                             "转股价值": cell.get("转股价值", ""),
                             "发行规模": cell.get("发行规模", ""),
                             "中签率": cell.get("中签率", ""),
@@ -358,19 +476,62 @@ class ConvertibleBondMonitor:
         message += f"📊 发现 {len(bonds)} 只价格低于114的可转债：\n\n"
 
         # 按价格排序
-        sorted_bonds = sorted(bonds, key=lambda x: x.get("溢价率", 0))
+        sorted_bonds = sorted(bonds, key=lambda x: x.get("溢价率", 0), reverse=True)
 
         for i, bond in enumerate(sorted_bonds, 1):
-            message += f"{i}. {bond['代码']} {bond['转债名']}\n"
-            message += (
-                f"   正股代码: {bond['正股代码']} | 正股简称: {bond['正股简称']}%\n"
-            )
-            message += f"   价格: {bond['价格']:.2f} | 溢价率: {bond['溢价率']}%\n"
-            message += f"   转股价: {bond['转股价']} | 正股价: {bond['正股价']}\n"
-            message += (
-                f"   发行规模: {bond['发行规模']}亿元 | 上市时间: {bond['上市时间']}\n"
-            )
-            message += f"   信用评级: {bond['信用评级']}\n\n"
+            bond_code = bond.get("代码", "")
+
+            message += f"{i}. {bond_code} {bond.get('转债名', '')}\n"
+            message += f"   正股代码: {bond.get('正股代码', '')} | 正股简称: {bond.get('正股简称', '')}\n"
+            message += f"   价格: {bond.get('价格', 0):.2f} | 溢价率: {bond.get('溢价率', '')}%\n"
+            message += f"   转股价: {bond.get('转股价', '')} | 正股价: {bond.get('正股价', '')}\n"
+            message += f"   发行规模: {bond.get('发行规模', '')}亿元 | 信用评级: {bond.get('信用评级', '')}\n"
+
+            # 获取可转债详情信息（行业、地域、公告）
+            if bond_code:
+                try:
+                    detail_info = self.get_convertible_bond_detail(bond_code)
+                    if detail_info:
+                        # 添加行业和地域信息
+                        industry = detail_info.get("industry", "")
+                        region = detail_info.get("region", "")
+                        maturity_date = detail_info.get("maturity_date", "")
+                        convert_amt_ratio = detail_info.get("convert_amt_ratio", "")
+
+                        if industry or region:
+                            message += f"   行业: {industry} | 地域: {region}\n"
+
+                        if maturity_date or convert_amt_ratio:
+                            message += f"   到期日: {maturity_date} | 转债流通市值占比: {convert_amt_ratio}\n"
+
+                        # 筛选包含"评级"字样的公告
+                        announcements = detail_info.get("announcements", [])
+                        rating_announcements = [
+                            ann
+                            for ann in announcements
+                            if "评级" in ann.get("title", "")
+                        ]
+
+                        if rating_announcements:
+                            message += f"   评级相关公告:\n"
+                            # 只显示最新的2个评级公告
+                            for ann in rating_announcements[:2]:
+                                title = ann.get("title", "")
+                                date = ann.get("date", "")
+                                url = ann.get("url", "")
+                                # 截断过长的标题
+                                if len(title) > 60:
+                                    title = title[:60] + "..."
+                                # 如果有URL，创建可点击链接，否则只显示标题
+                                if url:
+                                    message += f"     • [{title}]({url}) ({date})\n"
+                                else:
+                                    message += f"     • {title} ({date})\n"
+
+                except Exception as e:
+                    logger.warning(f"获取可转债 {bond_code} 详情信息失败: {e}")
+
+            message += "\n"
 
         return message
 
@@ -403,6 +564,9 @@ class ConvertibleBondMonitor:
 
         except Exception as e:
             logger.error(f"检查通知过程异常: {e}")
+            import traceback
+
+            traceback.print_exc()
 
 
 def main():

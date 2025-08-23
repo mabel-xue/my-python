@@ -8,7 +8,9 @@ pd.set_option("display.max_colwidth", None)
 
 bond_zh_cov_df = ak.bond_zh_cov()
 # 后10行
-print(bond_zh_cov_df.tail(10).to_string(index=False))
+# print(bond_zh_cov_df.tail(10).to_string(index=False))
+# 查询正股代码为600000的正股
+print(bond_zh_cov_df[bond_zh_cov_df["正股代码"] == "000401"])
 
 
 # bond_cb_jsl_df = ak.bond_cb_jsl(
