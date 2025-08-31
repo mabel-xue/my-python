@@ -6,11 +6,18 @@
 
 import os
 import sys
+import yaml
 from dotenv import load_dotenv
 from feishu_notifier import ConvertibleBondMonitor
 
 # 加载环境变量
 load_dotenv()
+
+
+def load_config(config_path="config.yaml"):
+    """从配置文件加载配置"""
+    with open(config_path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
 
 
 def test_query_bonds():
@@ -20,20 +27,9 @@ def test_query_bonds():
     try:
         monitor = ConvertibleBondMonitor()
 
-        # 测试用例：查询几个知名的可转债
-        test_bond_names = [
-            "希望转债",
-            "科华转债",
-            "恒逸转债",
-            "立讯转债",
-            "长汽转债",
-            "国泰转债",
-            "首华转债",
-            "兴业转债",
-            "绿动转债",
-            "海优转债",
-            "天23转债",
-        ]
+        # 从配置文件读取测试用例
+        config = load_config()
+        test_bond_names = config.get("test_bond_names", [])
 
         print(f"正在查询可转债: {', '.join(test_bond_names)}")
 
@@ -75,20 +71,9 @@ def test_query_and_notify():
     try:
         monitor = ConvertibleBondMonitor()
 
-        # 测试用例：查询几个可转债并发送通知
-        test_bond_names = [
-            "希望转债",
-            "科华转债",
-            "恒逸转债",
-            "立讯转债",
-            "长汽转债",
-            "国泰转债",
-            "首华转债",
-            "兴业转债",
-            "绿动转债",
-            "海优转债",
-            "天23转债",
-        ]
+        # 从配置文件读取测试用例
+        config = load_config()
+        test_bond_names = config.get("test_bond_names", [])
 
         print(f"正在查询并发送通知: {', '.join(test_bond_names)}")
 

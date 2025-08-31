@@ -16,6 +16,7 @@ import os
 from dotenv import load_dotenv
 import akshare as ak
 from bs4 import BeautifulSoup
+from query_bonds import load_config
 
 # 加载环境变量
 load_dotenv()
@@ -467,6 +468,10 @@ class ConvertibleBondMonitor:
         # 定义有效的信用评级
         valid_credit_ratings = ["AAA", "AA+", "AA", "AA-", "A+", "A"]
 
+        # 从配置文件读取需要排除的可转债名称
+        config = load_config()
+        test_bond_names = config.get("test_bond_names", [])
+
         for bond in bonds_data:
             try:
                 cell = bond.get("cell", {})
@@ -475,6 +480,7 @@ class ConvertibleBondMonitor:
                 credit_rating = cell.get("信用评级")
                 premium_rt = cell.get("premium_rt")
                 listing_time = cell.get("上市时间")
+                bond_name = cell.get("bond_nm", "")
 
                 # 新增过滤条件：
                 # 1. 债现价低于最大价格
@@ -482,6 +488,7 @@ class ConvertibleBondMonitor:
                 # 3. 正股价大于1元
                 # 4. 转股溢价率不等于NaN
                 # 5. 上市时间不等于NaT
+                # 6. 可转债名称不在测试名单中
                 if (
                     price
                     and price != 100.0
@@ -489,13 +496,14 @@ class ConvertibleBondMonitor:
                     and price < max_price
                     and credit_rating in valid_credit_ratings
                     and stock_price
-                    and float(stock_price) > 1
+                    and float(stock_price) > 3
                     and listing_time != "NaT"
+                    and bond_name not in test_bond_names  # 新增过滤条件
                 ):
                     low_price_bonds.append(
                         {
                             "代码": cell.get("bond_id", ""),
-                            "转债名": cell.get("bond_nm", ""),
+                            "转债名": bond_name,
                             "价格": price,
                             "溢价率": cell.get("premium_rt", ""),
                             "转股价": cell.get("convert_price", ""),
@@ -552,10 +560,11 @@ class ConvertibleBondMonitor:
 
             # 文本消息部分
             if is_watching:
-                text_message += f"{i}. **{bond_code} {bond_name}** (监控中)\n"
+                text_message += f"{i}. **{bond_code}** (监控中)\n"
             else:
-                text_message += f"{i}. {bond_code} {bond_name}\n"
+                text_message += f"{i}. {bond_code}\n"
 
+            text_message += f"   [{bond_name}](https://www.jisilu.cn/data/convert_bond_detail/{bond_code})\n"
             text_message += f"   正股代码: {bond.get('正股代码', '')} | 正股简称: {bond.get('正股简称', '')}\n"
             text_message += f"   价格: {bond.get('价格', 0):.2f} | 溢价率: {bond.get('溢价率', '')}%\n"
             text_message += f"   转股价: {bond.get('转股价', '')} | 正股价: {bond.get('正股价', '')}\n"
@@ -566,7 +575,7 @@ class ConvertibleBondMonitor:
 
             # 基本信息
             bond_detail_text.append(
-                f"**{bond_code} {bond_name}** {'🚨 (监控中)' if is_watching else ''}"
+                f"**{bond_code}** [{bond_name}](https://www.jisilu.cn/data/convert_bond_detail/{bond_code}) {'🚨 (监控中)' if is_watching else ''}"
             )
             bond_detail_text.append(
                 f"正股代码: {bond.get('正股代码', '')} | 正股简称: {bond.get('正股简称', '')}"
@@ -603,7 +612,7 @@ class ConvertibleBondMonitor:
                         rating_announcements = [
                             ann
                             for ann in announcements
-                            if "评级" in ann.get("title", "")
+                            if "评级调整" in ann.get("title", "")
                         ]
 
                         if rating_announcements:
@@ -641,43 +650,48 @@ class ConvertibleBondMonitor:
     def query_bonds_by_names(self, bond_names: List[str]) -> List[Dict[str, Any]]:
         """
         根据可转债名称数组查询可转债信息
-        
+
         Args:
             bond_names: 可转债名称列表
-            
+
         Returns:
             包含代码/行业/现价/转债流通市值占比/正股PB/到期时间信息的列表，按到期时间升序排列
         """
         try:
             logger.info(f"开始查询可转债: {', '.join(bond_names)}")
-            
+
             # 获取所有可转债数据
             all_bonds_data = self.get_convertible_bonds_data()
             if not all_bonds_data:
                 logger.warning("未获取到可转债数据")
                 return []
-            
+
             # 根据名称筛选可转债
             matched_bonds = []
             for bond in all_bonds_data:
                 try:
                     cell = bond.get("cell", {})
                     bond_nm = cell.get("bond_nm", "").strip()
-                    
+
                     # 检查是否匹配输入的名称
                     for target_name in bond_names:
-                        if target_name.strip() in bond_nm or bond_nm in target_name.strip():
+                        if (
+                            target_name.strip() in bond_nm
+                            or bond_nm in target_name.strip()
+                        ):
                             bond_code = cell.get("bond_id", "").strip()
-                            
+
                             # 获取详细信息
                             detail_info = self.get_convertible_bond_detail(bond_code)
-                            
+
                             bond_info = {
                                 "代码": bond_code,
                                 "转债名": bond_nm,
                                 "行业": detail_info.get("industry", ""),
                                 "现价": cell.get("price", 0),
-                                "转债流通市值占比": detail_info.get("convert_amt_ratio", ""),
+                                "转债流通市值占比": detail_info.get(
+                                    "convert_amt_ratio", ""
+                                ),
                                 "正股PB": detail_info.get("stock_pb", ""),
                                 "到期时间": detail_info.get("maturity_date", ""),
                                 "正股代码": cell.get("正股代码", ""),
@@ -687,15 +701,15 @@ class ConvertibleBondMonitor:
                                 "溢价率": cell.get("premium_rt", ""),
                                 "信用评级": cell.get("信用评级", ""),
                             }
-                            
+
                             matched_bonds.append(bond_info)
                             logger.info(f"找到匹配的可转债: {bond_nm} ({bond_code})")
                             break
-                            
+
                 except Exception as e:
                     logger.warning(f"处理可转债数据异常: {e}")
                     continue
-            
+
             # 按到期时间升序排列
             def parse_maturity_date(date_str):
                 """解析到期日期字符串为datetime对象，用于排序"""
@@ -711,17 +725,19 @@ class ConvertibleBondMonitor:
                     return datetime.max
                 except:
                     return datetime.max
-            
+
             matched_bonds.sort(key=lambda x: parse_maturity_date(x.get("到期时间", "")))
-            
+
             logger.info(f"成功查询到 {len(matched_bonds)} 只匹配的可转债")
             return matched_bonds
-            
+
         except Exception as e:
             logger.error(f"查询可转债异常: {e}")
             return []
 
-    def format_bonds_query_message(self, bonds: List[Dict[str, Any]]) -> Tuple[str, dict]:
+    def format_bonds_query_message(
+        self, bonds: List[Dict[str, Any]]
+    ) -> Tuple[str, dict]:
         """格式化查询结果消息内容，返回文本消息和卡片消息"""
         if not bonds:
             return "未找到匹配的可转债信息", None
@@ -749,7 +765,9 @@ class ConvertibleBondMonitor:
 
             # 文本消息部分
             text_message += f"{i}. {bond_code} {bond_name}\n"
-            text_message += f"   行业: {bond.get('行业', '')} | 现价: {bond.get('现价', 0):.2f}\n"
+            text_message += (
+                f"   行业: {bond.get('行业', '')} | 现价: {bond.get('现价', 0):.2f}\n"
+            )
             text_message += f"   转债流通市值占比: {bond.get('转债流通市值占比', '')} | 正股PB: {bond.get('正股PB', '')}\n"
             text_message += f"   到期时间: {bond.get('到期时间', '')} | 信用评级: {bond.get('信用评级', '')}\n"
             text_message += f"   正股: {bond.get('正股代码', '')} {bond.get('正股简称', '')} ({bond.get('正股价', '')})\n"
@@ -757,14 +775,24 @@ class ConvertibleBondMonitor:
 
             # 卡片消息部分
             bond_detail_text = []
-            
+
             # 基本信息
             bond_detail_text.append(f"**{bond_code} {bond_name}**")
-            bond_detail_text.append(f"行业: {bond.get('行业', '')} | 现价: **{bond.get('现价', 0):.2f}**")
-            bond_detail_text.append(f"转债流通市值占比: {bond.get('转债流通市值占比', '')} | 正股PB: {bond.get('正股PB', '')}")
-            bond_detail_text.append(f"到期时间: **{bond.get('到期时间', '')}** | 信用评级: {bond.get('信用评级', '')}")
-            bond_detail_text.append(f"正股: {bond.get('正股代码', '')} {bond.get('正股简称', '')} ({bond.get('正股价', '')})")
-            bond_detail_text.append(f"转股价: {bond.get('转股价', '')} | 溢价率: {bond.get('溢价率', '')}%")
+            bond_detail_text.append(
+                f"行业: {bond.get('行业', '')} | 现价: **{bond.get('现价', 0):.2f}**"
+            )
+            bond_detail_text.append(
+                f"转债流通市值占比: {bond.get('转债流通市值占比', '')} | 正股PB: {bond.get('正股PB', '')}"
+            )
+            bond_detail_text.append(
+                f"到期时间: **{bond.get('到期时间', '')}** | 信用评级: {bond.get('信用评级', '')}"
+            )
+            bond_detail_text.append(
+                f"正股: {bond.get('正股代码', '')} {bond.get('正股简称', '')} ({bond.get('正股价', '')})"
+            )
+            bond_detail_text.append(
+                f"转股价: {bond.get('转股价', '')} | 溢价率: {bond.get('溢价率', '')}%"
+            )
 
             # 创建卡片的文本模块
             card_content["elements"].append(
@@ -803,6 +831,7 @@ class ConvertibleBondMonitor:
         except Exception as e:
             logger.error(f"查询并通知过程异常: {e}")
             import traceback
+
             traceback.print_exc()
 
     def check_and_notify(self) -> None:
